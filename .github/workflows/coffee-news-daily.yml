@@ -7,22 +7,31 @@ on:
   workflow_dispatch: {}
 
 jobs:
-  send-newsletter:
+  newsletter:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 20
+    permissions:
+      contents: read
     steps:
       - uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
+      - name: Cargar prompt en variable de entorno
+        run: |
+          {
+            echo 'NEWSLETTER_PROMPT<<COFFEEEOF'
+            cat scripts/coffee_news_prompt.md
+            echo 'COFFEEEOF'
+          } >> "$GITHUB_ENV"
+
+      - name: Generar contenido del boletín
+        uses: anthropics/claude-code-action@v1
         with:
-          python-version: "3.12"
-          cache: pip
-          cache-dependency-path: scripts/requirements.txt
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          prompt: ${{ env.NEWSLETTER_PROMPT }}
+          claude_args: --model claude-opus-4-7 --allowedTools "WebSearch,WebFetch,Write,Read"
 
-      - run: pip install -r scripts/requirements.txt
-
-      - run: python scripts/coffee_news_daily.py
+      - name: Enviar email
+        run: python3 scripts/send_email.py ./email.json
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
