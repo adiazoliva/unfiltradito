@@ -2,8 +2,10 @@ name: Boletín diario de café de especialidad
 
 on:
   schedule:
-    # 8:03 AM Argentina (UTC-3, sin DST) = 11:03 UTC
-    - cron: "3 11 * * *"
+    # 4:03 AM Argentina (UTC-3, sin DST) = 7:03 UTC
+    # Adelantado para compensar la demora típica de GH Actions (~30-90 min).
+    # Con la demora, el mail debería llegar entre las 4:30 y las 6 AM Argentina.
+    - cron: "3 7 * * *"
   workflow_dispatch: {}
 
 jobs:
