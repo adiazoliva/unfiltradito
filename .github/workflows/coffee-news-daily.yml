@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 20
     permissions:
-      contents: read
+      contents: write
       id-token: write
     steps:
       - uses: actions/checkout@v4
@@ -31,10 +31,23 @@ jobs:
         with:
           claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           prompt: ${{ env.NEWSLETTER_PROMPT }}
-          claude_args: --model claude-opus-4-7 --allowedTools "WebSearch,WebFetch,Write,Read"
+          claude_args: --model claude-opus-4-7 --allowedTools "WebSearch,WebFetch,Write,Read,Edit"
 
       - name: Enviar email
         run: python3 scripts/send_email.py ./email.json
         env:
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+
+      - name: Guardar historial de noticias cubiertas
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add history/covered.md
+          if git diff --cached --quiet; then
+            echo "Historial sin cambios, nada que commitear."
+          else
+            git commit -m "Actualizar historial de noticias cubiertas [skip ci]"
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi
