@@ -11,3 +11,12 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-06-13 | Cup of Excellence: calendario 2026 sin Colombia | https://dailycoffeenews.com/2025/12/31/cup-of-excellence-coming-to-11-countries-in-2026/
 - 2026-06-13 | Futuros del arábica rebotan a USD 3,55/libra | https://tradingeconomics.com/commodity/coffee/news/535241
 - 2026-06-13 | Venezuela anuncia V Encuentro Internacional de Cafés de Especialidad | https://www.eluniversal.com/venezuela/221440/v-encuentro-internacional-de-cafes-de-especialidad-venezolano-se-realizara-en-junio-de-2026
+- 2026-06-14 | Negro suma sucursal en Hollywood: café, vinilos y libros | https://www.ambito.com/lifestyle/la-cafeteria-argentina-elegida-las-mejores-del-mundo-abre-un-nuevo-espacio-donde-conviven-cafe-libros-y-musica-n6288377
+- 2026-06-14 | Puebla recibe a 2.000 productores en la CONCAFÉ 2026 | https://puebla.gob.mx/index.php/noticias/item/23986-concafe-2026-impulsa-riqueza-bienestar-y-transformacion-cafetera-en-puebla
+- 2026-06-14 | Coffee Barometer 2026: la sustentabilidad no se construye con café barato | https://www.solidaridadnetwork.org/news/sustainability-cannot-be-built-on-permanently-cheap-coffee-reveals-2026-coffee-barometer/
+- 2026-06-14 | Etiopía proyecta cosecha mayor y avanza en trazabilidad EUDR | https://dailycoffeenews.com/2026/06/12/ethiopia-coffee-report-production-up-government-promoting-modernization/
+- 2026-06-14 | Starbucks evalúa vender hasta US$ 2.500 millones de su negocio en Japón | https://www.worldcoffeeportal.com/news/starbucks-is-reportedly-exploring-a-2-5bn-stake-sale-of-its-successful-japanese-business-global-ambitions-could-explain-why/
+- 2026-06-14 | Brasil rumbo a cosecha récord 2026/27 | https://dailycoffeenews.com/2026/06/04/brazil-coffee-report-record-crop-and-exports-expected-for-2026-27/
+- 2026-06-14 | São Paulo Coffee Festival 26-28 de junio | https://www.saopaulocoffeefestival.com.br/
+- 2026-06-14 | USBC arranca el 17 de junio en Denver | https://sprudge.com/the-2026-us-barista-championship-is-heading-to-denver-760036.html
+- 2026-06-14 | Hario suma colores al V60 NEO | https://perfectdailygrind.com/2026/06/coffee-news-recap-12-june-2026/
