@@ -20,3 +20,13 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-06-14 | São Paulo Coffee Festival 26-28 de junio | https://www.saopaulocoffeefestival.com.br/
 - 2026-06-14 | USBC arranca el 17 de junio en Denver | https://sprudge.com/the-2026-us-barista-championship-is-heading-to-denver-760036.html
 - 2026-06-14 | Hario suma colores al V60 NEO | https://perfectdailygrind.com/2026/06/coffee-news-recap-12-june-2026/
+- 2026-06-15 | Costa Rica corona su Cup of Excellence: 30 ganadores y una Java arrasadora | https://www.gcrmag.com/costa-rica-cup-of-excellence-2026-sees-30-winners
+- 2026-06-15 | Bad Bunny gira con cafetería propia: Café Comunión arma backstage | https://dailycoffeenews.com/2026/06/12/weekly-coffee-news-paying-farmers-more-bad-bunnys-tour-coffee/
+- 2026-06-15 | En EE.UU., el café de especialidad le sigue ganando al tradicional | https://dailycoffeenews.com/2026/06/02/specialty-coffee-holds-lead-over-traditional-coffee-in-the-u-s/
+- 2026-06-15 | Cuenta regresiva para Bruselas: tres mundiales en una semana | https://europe.worldofcoffee.org/brussels-world-coffee-championships
+- 2026-06-15 | Global Coffee Awards: MENA hoy, África mañana y Asia el 17 | https://perfectdailygrind.com/2026/03/global-coffee-awards-world-championship-winners-2026-schedule/
+- 2026-06-15 | Driftaway y Kafiex se llevan los Roaster of the Year 2026 de Roast Magazine | https://store.driftaway.coffee/blogs/news/were-roaster-of-the-year-2026
+- 2026-06-15 | Cómo el e-commerce cambió la forma de comprar café | https://perfectdailygrind.com/2026/06/ecommerce-transform-buying-coffee/
+- 2026-06-15 | ¿Onyx puede ser la primera cafetería en ganar un James Beard? | https://sprudge.com/is-2026-the-year-a-coffee-shop-finally-wins-a-james-beard-award-650256.html
+</content>
+</invoke>
