@@ -28,5 +28,14 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-06-15 | Driftaway y Kafiex se llevan los Roaster of the Year 2026 de Roast Magazine | https://store.driftaway.coffee/blogs/news/were-roaster-of-the-year-2026
 - 2026-06-15 | Cómo el e-commerce cambió la forma de comprar café | https://perfectdailygrind.com/2026/06/ecommerce-transform-buying-coffee/
 - 2026-06-15 | ¿Onyx puede ser la primera cafetería en ganar un James Beard? | https://sprudge.com/is-2026-the-year-a-coffee-shop-finally-wins-a-james-beard-award-650256.html
+- 2026-06-16 | Nicaragua: la próxima cosecha caería 4,7% por El Niño y fertilizantes caros | https://dailycoffeenews.com/2026/06/15/nicaragua-coffee-report-weather-and-costs-hurting-production/
+- 2026-06-16 | Colombia cierra un semestre flojo pero el USDA ve repunte | https://www.lapatria.com/economia/produccion-de-cafe-del-primer-semestre-de-este-2026-bordeara-los-62-millones-de-sacos
+- 2026-06-16 | En Estocolmo, una cafetería la maneja una inteligencia artificial | https://sprudge.com/theyre-testing-out-ai-middle-management-at-coffee-shops-984309.html
+- 2026-06-16 | Roasting Plant pisa el acelerador internacional: Singapur, Londres y EE.UU. | https://www.prnewswire.com/news-releases/roasting-plant-coffee-reveals-global-acceleration-strategy-302799565.html
+- 2026-06-16 | Riesgo climático: TechnoServe y UNIDO mapean dónde se complica el café | https://www.comunicaffe.com/climate-risk-coffee-production-technoserve-unido-report
+- 2026-06-16 | JAB Holding completa la salida de Keurig Dr Pepper | https://www.worldcoffeeportal.com/news/jab-holding-exits-keurig-dr-pepper-as-coffee-focus-fades/
+- 2026-06-16 | Cosori lanza Juni, su primera pour-over automática | https://dailycoffeenews.com/2026/05/21/cosori-shakes-up-automated-home-pourovers-with-the-juni-brewer/
+- 2026-06-16 | Vietnam consolida su rol como segundo productor mundial | https://www.comunicaffe.com/usda-gain-report-forecasts-vietnams-production-at-30-8-million-bags-up-6-on-year/
+- 2026-06-16 | El Salvador Cup of Excellence 2026: ganó un Bernardina con 91,95 | https://www.gcrmag.com/el-salvador-cup-of-excellence-2026-winners-revealed
 </content>
 </invoke>
