@@ -37,5 +37,12 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-06-16 | Cosori lanza Juni, su primera pour-over automática | https://dailycoffeenews.com/2026/05/21/cosori-shakes-up-automated-home-pourovers-with-the-juni-brewer/
 - 2026-06-16 | Vietnam consolida su rol como segundo productor mundial | https://www.comunicaffe.com/usda-gain-report-forecasts-vietnams-production-at-30-8-million-bags-up-6-on-year/
 - 2026-06-16 | El Salvador Cup of Excellence 2026: ganó un Bernardina con 91,95 | https://www.gcrmag.com/el-salvador-cup-of-excellence-2026-winners-revealed
+- 2026-06-17 | La UE pide salario digno y los grandes del café no llegan | https://sprudge.com/eu-law-requires-paying-coffee-farmers-a-living-wage-and-the-largest-companies-arent-prepared-1086272.html
+- 2026-06-17 | Lluvias en Brasil frenan la cosecha y el arábica saltó 5,44% | https://www.barchart.com/story/news/2500349/coffee-prices-surge-as-rain-delays-brazil-harvest
+- 2026-06-17 | Bialetti y Carhartt sacan una Moka edición laburante | https://sprudge.com/a-slick-new-stovetop-coffeemaker-from-carhartt-and-gemini-express-1077433.html
+- 2026-06-17 | Bolivia arma su feria de especialidad: Argentina dice presente | https://www.eldia.com.bo/2026-05-29/economia/la-feria-specialty-coffee-expo-bolivia-2026-se-realizara-del-2-al-5-de-julio-en-fexpocruz.html
+- 2026-06-17 | Kenia lanza el Coffee Hub para atraer compradores a Nairobi | https://www.logupdateafrica.com/amp/trade/kncci-backs-kenya-coffee-hub-launch-as-coffee-exports-rise-1359457
+- 2026-06-17 | Blueprint Coffee lanza Timespan, un tostado oscuro de especialidad | https://sprudge.com/blueprint-coffee-releases-timespan-a-dark-roast-specialty-coffee-1085820.html
+- 2026-06-17 | Coffee Fest NY: el robot barista XBOT y la apuesta por la IA | https://www.visiontimes.com/2026/06/16/coffee-fest-new-york-2026-brings-together-specialty-coffee-innovation-and-industry-networking.html
 </content>
 </invoke>
