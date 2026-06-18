@@ -44,5 +44,12 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-06-17 | Kenia lanza el Coffee Hub para atraer compradores a Nairobi | https://www.logupdateafrica.com/amp/trade/kncci-backs-kenya-coffee-hub-launch-as-coffee-exports-rise-1359457
 - 2026-06-17 | Blueprint Coffee lanza Timespan, un tostado oscuro de especialidad | https://sprudge.com/blueprint-coffee-releases-timespan-a-dark-roast-specialty-coffee-1085820.html
 - 2026-06-17 | Coffee Fest NY: el robot barista XBOT y la apuesta por la IA | https://www.visiontimes.com/2026/06/16/coffee-fest-new-york-2026-brings-together-specialty-coffee-innovation-and-industry-networking.html
+- 2026-06-18 | Guatemala corona su Cup of Excellence: Las Macadamias arriba con un Geisha | https://www.gcrmag.com/record-participation-in-cup-of-excellence-guatemala
+- 2026-06-18 | Pacquiao se mete al café: US$ 3,5 millones para un hub en Cebú | https://tribune.net.ph/2026/06/08/pacquiao-pours-p200m-into-mp-coffee
+- 2026-06-18 | Sprouts y Buddy Brew abren su primer local dentro del supermercado | https://thatssotampa.com/buddy-brew-coffee-sprouts-cafes/
+- 2026-06-18 | Un fondo de US$ 1,5 millones para acelerar la genética del café | https://www.comunicaffe.com/wcr-announces-new-1-5-million-initiative-to-modernize-breeding-tools-for-global-coffee-resilience
+- 2026-06-18 | Global Coffee Awards Asia se mudó a Charleston | https://perfectdailygrind.com/2026/03/global-coffee-awards-world-championship-winners-2026-schedule/
+- 2026-06-18 | Premios Somos 2026: 15 cafeterías de especialidad nominadas en Perú | https://elcomercio.pe/somos/gastronomia/premios-somos-2026-estas-son-las-15-cafeterias-de-especialidad-nominadas-noticia/
+- 2026-06-18 | Coffee Equipment Pros abre showroom físico en Texas | https://dailycoffeenews.com/2026/06/15/cepros-coffee-equipment-pros-physical-showroom/
 </content>
 </invoke>
