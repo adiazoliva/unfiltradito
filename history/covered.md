@@ -51,5 +51,11 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-06-18 | Global Coffee Awards Asia se mudó a Charleston | https://perfectdailygrind.com/2026/03/global-coffee-awards-world-championship-winners-2026-schedule/
 - 2026-06-18 | Premios Somos 2026: 15 cafeterías de especialidad nominadas en Perú | https://elcomercio.pe/somos/gastronomia/premios-somos-2026-estas-son-las-15-cafeterias-de-especialidad-nominadas-noticia/
 - 2026-06-18 | Coffee Equipment Pros abre showroom físico en Texas | https://dailycoffeenews.com/2026/06/15/cepros-coffee-equipment-pros-physical-showroom/
-</content>
-</invoke>
+- 2026-06-19 | Perú frena su crecimiento: cosecha 2026/27 casi sin cambios | https://dailycoffeenews.com/2026/06/17/peru-coffee-report-production-steady-despite-structural-challenges/
+- 2026-06-19 | Cartagena: 2,4 toneladas de cocaína viajaban en pellets de café | https://dailycoffeenews.com/2026/06/17/colombian-police-seize-2-4-metric-tons-of-cocaine-in-coffee-pellets/
+- 2026-06-19 | Fairtrade lanza Plot Insights: geolocalización gratis para cumplir el EUDR | https://dailycoffeenews.com/2026/06/16/fairtrade-launches-free-eudr-geolocation-tool-for-coffee-cooperatives/
+- 2026-06-19 | Bonfire Coffee duplica su tostaduría en Glenwood Springs | https://dailycoffeenews.com/2026/06/17/colorados-bonfire-coffee-is-stoked-with-big-new-roastery/
+- 2026-06-19 | Best of Congo: 34 microlotes pasan hoy por jurado en Londres | https://www.comunicaffe.com/best-of-congo-cooperatives-2026-london-congolese-coffee-competition
+- 2026-06-19 | Coffee prices caught between record harvests and Hormuz disruption | https://www.foodingredientsfirst.com/news/coffee-prices-surplus-hormuz-disruption.html
+- 2026-06-19 | World Coffee Research releases 2025 annual report | https://worldcoffeeresearch.org/news/world-coffee-research-releases-2025-annual-report
+- 2026-06-19 | How Cooperatives Are Transforming Coffee Production in Kenya | https://www.baristamagazine.com/how-cooperatives-are-transforming-coffee-production-in-kenya/
