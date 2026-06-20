@@ -59,3 +59,12 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-06-19 | Coffee prices caught between record harvests and Hormuz disruption | https://www.foodingredientsfirst.com/news/coffee-prices-surplus-hormuz-disruption.html
 - 2026-06-19 | World Coffee Research releases 2025 annual report | https://worldcoffeeresearch.org/news/world-coffee-research-releases-2025-annual-report
 - 2026-06-19 | How Cooperatives Are Transforming Coffee Production in Kenya | https://www.baristamagazine.com/how-cooperatives-are-transforming-coffee-production-in-kenya/
+- 2026-06-20 | Stumptown se queda sin presidenta dos meses después de la compra de KDP | https://www.gcrmag.com/stumptown-president-departs-months-after-acquisition
+- 2026-06-20 | Liberia firma un pacto de US$ 60 millones para revivir su café | https://www.foodbusinessmea.com/jr-farms-signs-us60m-coffee-partnership-with-liberia-to-revive-sector/
+- 2026-06-20 | Option-O presenta el Lagom GDS, el molino con dos cabezales | https://dailycoffeenews.com/2026/06/18/option-o-launches-the-two-headed-lagom-gds-grinder/
+- 2026-06-20 | Brasil exportó 3,1 millones de sacas en mayo, primer mes en suba del año | https://www.cecafe.com.br/publicacoes/noticias/exportacao-cafe-brasil-cresce-maio-2026-20260611/
+- 2026-06-20 | Dolly Parton sale al ruedo con su propio café | https://www.salon.com/2026/06/15/dolly-parton-launches-new-coffee-line/
+- 2026-06-20 | Honduras Cup of Excellence 2026: subasta el 16 de julio | https://allianceforcoffeeexcellence.org/honduras-2026/
+- 2026-06-20 | USBC Denver: Round One, Día 2 | https://sprudge.com/the-2026-us-barista-championship-round-one-day-two-1094233.html
+- 2026-06-20 | USDA proyecta 71,9 millones de sacas en Brasil 2026/27 | https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Coffee+Annual_Brasilia_Brazil_BR2026-0025.pdf
+- 2026-06-20 | World of Coffee Brussels arranca el 25 | https://europe.worldofcoffee.org/brussels-world-coffee-championships
