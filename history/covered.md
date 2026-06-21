@@ -68,3 +68,10 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-06-20 | USBC Denver: Round One, Día 2 | https://sprudge.com/the-2026-us-barista-championship-round-one-day-two-1094233.html
 - 2026-06-20 | USDA proyecta 71,9 millones de sacas en Brasil 2026/27 | https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Coffee+Annual_Brasilia_Brazil_BR2026-0025.pdf
 - 2026-06-20 | World of Coffee Brussels arranca el 25 | https://europe.worldofcoffee.org/brussels-world-coffee-championships
+- 2026-06-21 | Mar del Plata levanta su propia feria de especialidad | https://puntonoticias.com/coffee-cup-2026-mar-del-plata-se-convierte-en-capital-del-cafe-de-especialidad/
+- 2026-06-21 | USBC Denver: hoy se define el barista que va a Panamá | https://sprudge.com/the-2026-us-barista-championship-semi-finals-1094564.html
+- 2026-06-21 | The Last Bean se lleva tres oros en Monde Selection 2026 | https://perfectdailygrind.com/2026/06/coffee-news-recap-19-june-2026/
+- 2026-06-21 | Un estudio dice que el riego por goteo baja casi 60% la huella del café | https://www.sustainability-times.com/reports/new-study-finds-drip-irrigation-can-cut-coffees-carbon-footprint-by-nearly-60/
+- 2026-06-21 | Ancoats Coffee Co. cumple diez años en Manchester | https://ilovemanchester.com/ancoats-coffee-co-and-the-rise-of-speciality-coffee-in-manchester
+- 2026-06-21 | Blue Tokai (India) suma a Pranav Dahiya como CBO | https://www.businessoffood.in/blue-tokai-coffee-roasters-strengthens-leadership-team-with-pranav-dahiya-as-chief-business-officer/
+- 2026-06-21 | Hario lanza nuevos colores del V60 NEO en Bruselas | https://www.comunicaffe.com/hario-introduces-two-new-colorways-for-v60-dripper-neo-launching-globally-on-june-25-and-debuting-at-world-of-coffee-brussels-2026/
