@@ -75,3 +75,11 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-06-21 | Ancoats Coffee Co. cumple diez años en Manchester | https://ilovemanchester.com/ancoats-coffee-co-and-the-rise-of-speciality-coffee-in-manchester
 - 2026-06-21 | Blue Tokai (India) suma a Pranav Dahiya como CBO | https://www.businessoffood.in/blue-tokai-coffee-roasters-strengthens-leadership-team-with-pranav-dahiya-as-chief-business-officer/
 - 2026-06-21 | Hario lanza nuevos colores del V60 NEO en Bruselas | https://www.comunicaffe.com/hario-introduces-two-new-colorways-for-v60-dripper-neo-launching-globally-on-june-25-and-debuting-at-world-of-coffee-brussels-2026/
+- 2026-06-22 | USBC 2026: Denver ya tiene su podio, con Onyx cerca otra vez | https://sprudge.com/here-are-the-winners-of-the-2026-us-barista-championship-1098421.html
+- 2026-06-22 | Starbucks reabrió su local de la Plaza de Armas de Cusco | https://historias.starbucks.com/en-es/press/2026/starbucks-celebrates-perus-coffee-legacy-with-the-reopening-of-cusco-coffeehouse/
+- 2026-06-22 | Honduras camina hacia los 6 millones de sacas en 2026/27 | https://dailycoffeenews.com/2026/05/19/honduras-coffee-report-production-rising-to-highest-level-in-years/
+- 2026-06-22 | Uganda será el país protagonista en World of Coffee Brussels | https://www.comunicaffe.com/world-of-coffee-brussels-2026-championships-awards-specialty-coffee/
+- 2026-06-22 | Lipidómica y sabor del café: paper sobre cómo cambian los lípidos del grano | https://www.mdpi.com/2304-8158/15/12/2196
+- 2026-06-22 | Cup of Excellence México: subasta agendada para el 28 de julio | https://allianceforcoffeeexcellence.org/cup-of-excellence/
+- 2026-06-22 | Coffee LATAM 2026 confirma fecha en Brasil para el 28 y 29 de julio | https://informaconnect.com/coffee-latam/
+- 2026-06-22 | World Coffee Portal: resumen semanal del 8 al 14 de junio | https://www.worldcoffeeportal.com/news/the-week-in-coffee-8-14-june-2026/
