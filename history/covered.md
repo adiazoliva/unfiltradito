@@ -83,3 +83,12 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-06-22 | Cup of Excellence México: subasta agendada para el 28 de julio | https://allianceforcoffeeexcellence.org/cup-of-excellence/
 - 2026-06-22 | Coffee LATAM 2026 confirma fecha en Brasil para el 28 y 29 de julio | https://informaconnect.com/coffee-latam/
 - 2026-06-22 | World Coffee Portal: resumen semanal del 8 al 14 de junio | https://www.worldcoffeeportal.com/news/the-week-in-coffee-8-14-june-2026/
+- 2026-06-23 | Yunnan: un hongo nativo eleva al café común a rango de especialidad | https://dailycoffeenews.com/2026/06/22/chinese-study-finds-native-fungus-may-lift-conventional-coffee-into-specialty-range/
+- 2026-06-23 | Uganda apunta al valor agregado: menos verde, más tostado y soluble | https://dailycoffeenews.com/2026/06/22/uganda-coffee-report-production-steady-but-government-signals-strategy-shift/
+- 2026-06-23 | Gail's mira más allá del Reino Unido: la cadena suma director internacional | https://www.worldcoffeeportal.com/news/gails-to-explore-international-opportunities-following-key-senior-hire/
+- 2026-06-23 | El arábica afloja en Nueva York: el clima brasileño se está acomodando | https://www.comunicaffe.com/coffee-futures-fall-in-the-first-trading-session-of-the-week-markets-continue-to-monitor-el-nino
+- 2026-06-23 | Cartel Roasting cruza de Arizona a Los Ángeles | https://dailycoffeenews.com/2026/06/22/arizonas-cartel-roasting-co-expands-into-los-angeles/
+- 2026-06-23 | WCR conecta científicos ugandeses con Cenicafé | https://www.comunicaffe.com/wcr-connects-ugandan-scientists-with-cenicafe-to-strengthen-coffee-seed-systems
+- 2026-06-23 | Sprudge abre la temporada 2026 de Build-Outs of Coffee | https://sprudge.com/open-submissions-continue-for-the-2026-build-outs-of-coffee-1008673.html
+- 2026-06-23 | Scotsman Ice patrocina el Coffee in Good Spirits en Bruselas | https://www.comunicaffe.com/scotsman-ice-sponsor-world-coffee-in-good-spirits-championship-world-of-coffee-brussels-2026
+- 2026-06-23 | Tata Starbucks retoma el plan de crecimiento en India | https://www.worldcoffeeportal.com/news/the-week-in-coffee-15-21-june-2026/
