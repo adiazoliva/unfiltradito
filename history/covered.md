@@ -92,3 +92,11 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-06-23 | Sprudge abre la temporada 2026 de Build-Outs of Coffee | https://sprudge.com/open-submissions-continue-for-the-2026-build-outs-of-coffee-1008673.html
 - 2026-06-23 | Scotsman Ice patrocina el Coffee in Good Spirits en Bruselas | https://www.comunicaffe.com/scotsman-ice-sponsor-world-coffee-in-good-spirits-championship-world-of-coffee-brussels-2026
 - 2026-06-23 | Tata Starbucks retoma el plan de crecimiento en India | https://www.worldcoffeeportal.com/news/the-week-in-coffee-15-21-june-2026/
+- 2026-06-24 | El arábica pega la vuelta: salta 4,3% por lluvias renovadas en Brasil | https://www.barchart.com/story/news/2610777/arabica-coffee-prices-surge-as-brazil-rains-disrupt-the-coffee-harvest
+- 2026-06-24 | LAF Neo debuta en Bruselas: máquina compacta con dilución de agua programable | https://new.sca.coffee/entries/cupcino-laf-neo
+- 2026-06-24 | Blue Tokai cierra una Serie D extendida por US$ 19 millones | https://www.worldcoffeeportal.com/news/blue-tokai-raises-new-investment-to-advance-global-growth-ambitions/
+- 2026-06-24 | Café Martínez sale a invertir US$ 7 millones por 31 cafeterías en la región | https://www.cronista.com/negocios/la-nueva-pelea-del-cafe-mas-locales-alianzas-con-estaciones-de-servicio-y-el-efecto-messi/
+- 2026-06-24 | La SCA confirma a Storm Tempesta como máquina oficial del WBC 2026-27 | https://wcc.coffee/latest-news/announcing-the-2026-2027-world-barista-championship-qualified-sponsors
+- 2026-06-24 | ExpoCafé Chile estrena el espacio Coffee Kitchen | https://www.expocafechile.cl/expocafe-chile-2026-debuta-con-coffee-kitchen-el-espacio-donde-el-cafe-sale-de-la-taza-y-conquista-la-cocina-de-autor/
+- 2026-06-24 | Dalla Corte celebra sus 25 años como sponsor del USBC | https://coffeetalk.com/daily-dose/announcements/05-2026/110052/
+- 2026-06-24 | Comunicaffe recopila la previa de World of Coffee Brussels | https://www.comunicaffe.com/world-of-coffee-kicks-off-tomorrow-in-brussels-rain-in-brazil-triggers-a-fresh-rally-in-arabica-prices
