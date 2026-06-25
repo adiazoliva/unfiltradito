@@ -100,3 +100,10 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-06-24 | ExpoCafé Chile estrena el espacio Coffee Kitchen | https://www.expocafechile.cl/expocafe-chile-2026-debuta-con-coffee-kitchen-el-espacio-donde-el-cafe-sale-de-la-taza-y-conquista-la-cocina-de-autor/
 - 2026-06-24 | Dalla Corte celebra sus 25 años como sponsor del USBC | https://coffeetalk.com/daily-dose/announcements/05-2026/110052/
 - 2026-06-24 | Comunicaffe recopila la previa de World of Coffee Brussels | https://www.comunicaffe.com/world-of-coffee-kicks-off-tomorrow-in-brussels-rain-in-brazil-triggers-a-fresh-rally-in-arabica-prices
+- 2026-06-25 | Cup of Excellence Nicaragua: Geisha arrasa en Dipilto | https://www.gcrmag.com/cup-of-excellence-nicaragua-2026-winners-announced
+- 2026-06-25 | Jill Hoff vuelve a ser campeona de Canadá y apunta al Mundial en Panamá | https://sprudge.com/jill-hoff-of-monogram-coffee-is-the-2026-canada-barista-champion-1098917.html
+- 2026-06-25 | Mr. Espresso debuta en co-ferment: Sumatra con jazmín y levadura | https://sprudge.com/mr-espresso-debuts-limited-edition-sumatra-jasmine-co-ferment-1098909.html
+- 2026-06-25 | Body Count saca un café de especialidad llamado Body Bag | https://sprudge.com/body-counts-now-in-the-coffee-house-1098952.html
+- 2026-06-25 | Arranca World of Coffee Brussels | https://europe.worldofcoffee.org/
+- 2026-06-25 | Build-Outs: Bird Dog Coffee en Laguna Hills | https://sprudge.com/build-outs-of-coffee-bird-dog-coffee-in-laguna-hills-ca-1046155.html
+- 2026-06-25 | El arábica vuelve a subir el 25 por las lluvias en Brasil | https://tradingeconomics.com/commodity/coffee
