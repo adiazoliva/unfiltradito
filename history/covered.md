@@ -107,3 +107,12 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-06-25 | Arranca World of Coffee Brussels | https://europe.worldofcoffee.org/
 - 2026-06-25 | Build-Outs: Bird Dog Coffee en Laguna Hills | https://sprudge.com/build-outs-of-coffee-bird-dog-coffee-in-laguna-hills-ca-1046155.html
 - 2026-06-25 | El arábica vuelve a subir el 25 por las lluvias en Brasil | https://tradingeconomics.com/commodity/coffee
+- 2026-06-26 | Chiapas: arman una coalición para 500 cafetaleras | https://dailycoffeenews.com/2026/06/25/women-powered-coffee-coalition-launches-with-focus-on-chiapas-mexico/
+- 2026-06-26 | Uganda estrena marca país en Brussels: "It's in Our Nature" | https://chimpreports.com/uganda-launches-first-national-coffee-brand-in-brussels/
+- 2026-06-26 | Cerrado Mineiro juega su carta regenerativa en Bruselas | https://www.comunicaffe.com/cerrado-mineiro-world-of-coffee-brussels-2026-regenerative-coffee/
+- 2026-06-26 | El café europeo mueve 84.400 millones de euros | https://www.comunicaffe.com/coffee-economy-europe-1-5-million-jobs-84-4-billion-eu27
+- 2026-06-26 | Acaia Horizon: modular la presión después de la extracción | https://dailycoffeenews.com/2026/05/04/the-acaia-horizon-explores-the-range-of-a-brewed-coffee/
+- 2026-06-26 | Vietnam Coffee Report: producción al alza por tercer año seguido | https://dailycoffeenews.com/2026/06/24/vietnam-coffee-report-production-rising-for-third-straight-year/
+- 2026-06-26 | Tropicalia y Caferatto, en el ranking The World's 100 Best Coffee Shops 2026 | https://www.portafolio.co/tendencias/sociales/dos-cafeterias-colombianas-entre-las-mejores-100-del-mundo-para-2026-donde-quedan-y-que-ofrecen-488717.html
+- 2026-06-26 | São Paulo Coffee Festival arrancó hoy con la línea "Florada" de 3 Corações | https://tramp.com.br/lifestyle/gastronomia/sao-paulo-coffee-festival-2026-reune-mais-de-110-marcas-e-traz-lancamento-da-linha-florada-da-3-coracoes/
+- 2026-06-26 | Tim Hortons acelera su expansión por Maryland, D.C., Filadelfia y San Antonio | https://www.qsrmagazine.com/story/tim-hortons-u-s-ready-to-unlock-the-future-after-breakthrough-year/
