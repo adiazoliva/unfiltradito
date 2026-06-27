@@ -116,3 +116,12 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-06-26 | Tropicalia y Caferatto, en el ranking The World's 100 Best Coffee Shops 2026 | https://www.portafolio.co/tendencias/sociales/dos-cafeterias-colombianas-entre-las-mejores-100-del-mundo-para-2026-donde-quedan-y-que-ofrecen-488717.html
 - 2026-06-26 | São Paulo Coffee Festival arrancó hoy con la línea "Florada" de 3 Corações | https://tramp.com.br/lifestyle/gastronomia/sao-paulo-coffee-festival-2026-reune-mais-de-110-marcas-e-traz-lancamento-da-linha-florada-da-3-coracoes/
 - 2026-06-26 | Tim Hortons acelera su expansión por Maryland, D.C., Filadelfia y San Antonio | https://www.qsrmagazine.com/story/tim-hortons-u-s-ready-to-unlock-the-future-after-breakthrough-year/
+- 2026-06-27 | Heineken le pisa el café a KDP: se lleva a Rafael Oliveira como CEO | https://www.comunicaffe.com/heineken-names-rafael-oliveira-head-of-kdps-coffee-operating-unit-as-chief-executive-officer/
+- 2026-06-27 | Coca-Cola llama a los bomberos por Costa Coffee | https://www.worldcoffeeportal.com/news/coca-cola-reportedly-exploring-corporate-restructure-of-costa-coffee-business/
+- 2026-06-27 | El 10 le pone café al Mundial: Juan Valdez se alía con James Rodríguez | https://www.gcrmag.com/juan-valdez-partners-with-colombian-world-cup-hero/
+- 2026-06-27 | Hawái suma a Kauai y Lana'i a la lista de islas con broca | https://dab.hawaii.gov/blog/main/expansion-of-coffee-berry-borer-infested-area-to-include-the-islands-of-lana%CA%BBi-and-kaua%CA%BBi/
+- 2026-06-27 | En Alemania, Coffee Fellows vuelve a manos de la familia fundadora | https://www.worldcoffeeportal.com/news/germanys-coffee-fellows-back-under-founding-family-control/
+- 2026-06-27 | Cerrado Mineiro lleva su café regenerativo a Brussels | https://www.comunicaffe.com/cerrado-mineiro-regenerative-coffee-world-of-coffee-brussels-2026
+- 2026-06-27 | La Colombe / Chobani: Zona Renacimiento para expansión de US$ 567 millones en Michigan | https://www.michiganbusiness.org/press-releases/2026/03/chobani-expansion-of-la-colombe-in-norton-shores/
+- 2026-06-27 | Rabobank sube el superávit de arábica 2026/27 a 9,5 millones de sacas | https://www.comunicaffe.com/rabobank-and-hedgepoint-forecast-record-production-and-a-rebalancing-of-the-market-in-2026-27/
+- 2026-06-27 | Vixxo lanza reparación de equipamiento de café con IA en Dallas, Phoenix y Denver | https://perfectdailygrind.com/2026/06/coffee-news-recap-26-june-2026/
