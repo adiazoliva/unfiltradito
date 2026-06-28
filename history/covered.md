@@ -3,14 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-06-13 | Rosario despide hoy su Semana del Café de Especialidad | https://www.lacapital.com.ar/la-ciudad/llega-una-nueva-edicion-la-semana-del-cafe-especialidad-rosario-n10263103.html
-- 2026-06-13 | Corrientes prueba siete variedades arábicas y apunta a cosechar en 2027 | https://www.ellitoral.com.ar/sociedad/2026-6-9-10-54-0-corrientes-avanza-en-la-produccion-de-cafe-de-especialidad-con-siete-variedades-arabicas
-- 2026-06-13 | Espresso sin agua caliente: el invento ultrasónico de la UNSW | https://dailycoffeenews.com/2026/06/10/researchers-say-ultrasonic-brewing-can-match-espresso-reduce-energy/
-- 2026-06-13 | La SCA lanza el "Master of Specialty Coffee" | https://dailycoffeenews.com/2026/06/09/sca-launches-master-of-specialty-coffee-program/
-- 2026-06-13 | Good Food Awards 2026: 13 tostadurías premiadas | https://dailycoffeenews.com/2026/06/03/13-coffee-roasters-win-2026-good-food-awards/
-- 2026-06-13 | Cup of Excellence: calendario 2026 sin Colombia | https://dailycoffeenews.com/2025/12/31/cup-of-excellence-coming-to-11-countries-in-2026/
-- 2026-06-13 | Futuros del arábica rebotan a USD 3,55/libra | https://tradingeconomics.com/commodity/coffee/news/535241
-- 2026-06-13 | Venezuela anuncia V Encuentro Internacional de Cafés de Especialidad | https://www.eluniversal.com/venezuela/221440/v-encuentro-internacional-de-cafes-de-especialidad-venezolano-se-realizara-en-junio-de-2026
 - 2026-06-14 | Negro suma sucursal en Hollywood: café, vinilos y libros | https://www.ambito.com/lifestyle/la-cafeteria-argentina-elegida-las-mejores-del-mundo-abre-un-nuevo-espacio-donde-conviven-cafe-libros-y-musica-n6288377
 - 2026-06-14 | Puebla recibe a 2.000 productores en la CONCAFÉ 2026 | https://puebla.gob.mx/index.php/noticias/item/23986-concafe-2026-impulsa-riqueza-bienestar-y-transformacion-cafetera-en-puebla
 - 2026-06-14 | Coffee Barometer 2026: la sustentabilidad no se construye con café barato | https://www.solidaridadnetwork.org/news/sustainability-cannot-be-built-on-permanently-cheap-coffee-reveals-2026-coffee-barometer/
@@ -125,3 +117,12 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-06-27 | La Colombe / Chobani: Zona Renacimiento para expansión de US$ 567 millones en Michigan | https://www.michiganbusiness.org/press-releases/2026/03/chobani-expansion-of-la-colombe-in-norton-shores/
 - 2026-06-27 | Rabobank sube el superávit de arábica 2026/27 a 9,5 millones de sacas | https://www.comunicaffe.com/rabobank-and-hedgepoint-forecast-record-production-and-a-rebalancing-of-the-market-in-2026-27/
 - 2026-06-27 | Vixxo lanza reparación de equipamiento de café con IA en Dallas, Phoenix y Denver | https://perfectdailygrind.com/2026/06/coffee-news-recap-26-june-2026/
+- 2026-06-28 | Best of Panama arranca su 30ª edición con pruebas de ADN | https://www.infobae.com/panama/2026/06/27/panama-inicia-la-carrera-para-elegir-los-cafes-mas-exclusivos-del-mundo/
+- 2026-06-28 | World of Coffee Brussels define a sus finalistas mundiales | https://wcc.coffee/latest-news/world-latte-art-championship-the-world-coffee-in-good-spirits-championship-and-cezveibrik-championship-head-to-lisbon-in-2027-78y6b
+- 2026-06-28 | Kauai Coffee firma a 15 años y salva 140 puestos | https://dailycoffeenews.com/2026/06/26/kauai-coffee-inks-long-term-lease-after-months-of-uncertainty/
+- 2026-06-28 | La barista del Mundial: Becky Reeves le pone café a la USMNT | https://sprudge.com/the-real-resident-barista-at-the-world-cup-is-becky-reeves-1101622.html
+- 2026-06-28 | Trung Nguyên Legend mete la pala en Dak Lak | https://www.worldcoffeeportal.com/news/trung-nguyen-legend-increases-investment-in-vietnams-coffee-capital/
+- 2026-06-28 | Cooks Coffee confirma los primeros locales de Esquires en India y Emiratos | https://www.worldcoffeeportal.com/news/cooks-coffee-announces-first-locations-for-upcoming-esquires-international-launches/
+- 2026-06-28 | Unido abre su tercera cafetería panameña en Washington | https://www.comunicaffe.com/unido-brings-panamanian-coffee-and-culture-to-buzzard-point
+- 2026-06-28 | Cambia de dueño la cadena rusa One&Double | https://www.worldcoffeeportal.com/news/new-ownership-for-russian-coffee-chain-one-double/
+- 2026-06-28 | Cómo Filipinas mete ube y pandan en el café de especialidad | https://perfectdailygrind.com/2026/06/philippines-influencing-global-specialty-coffee-culture/
