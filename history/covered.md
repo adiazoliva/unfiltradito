@@ -3,15 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-06-14 | Negro suma sucursal en Hollywood: café, vinilos y libros | https://www.ambito.com/lifestyle/la-cafeteria-argentina-elegida-las-mejores-del-mundo-abre-un-nuevo-espacio-donde-conviven-cafe-libros-y-musica-n6288377
-- 2026-06-14 | Puebla recibe a 2.000 productores en la CONCAFÉ 2026 | https://puebla.gob.mx/index.php/noticias/item/23986-concafe-2026-impulsa-riqueza-bienestar-y-transformacion-cafetera-en-puebla
-- 2026-06-14 | Coffee Barometer 2026: la sustentabilidad no se construye con café barato | https://www.solidaridadnetwork.org/news/sustainability-cannot-be-built-on-permanently-cheap-coffee-reveals-2026-coffee-barometer/
-- 2026-06-14 | Etiopía proyecta cosecha mayor y avanza en trazabilidad EUDR | https://dailycoffeenews.com/2026/06/12/ethiopia-coffee-report-production-up-government-promoting-modernization/
-- 2026-06-14 | Starbucks evalúa vender hasta US$ 2.500 millones de su negocio en Japón | https://www.worldcoffeeportal.com/news/starbucks-is-reportedly-exploring-a-2-5bn-stake-sale-of-its-successful-japanese-business-global-ambitions-could-explain-why/
-- 2026-06-14 | Brasil rumbo a cosecha récord 2026/27 | https://dailycoffeenews.com/2026/06/04/brazil-coffee-report-record-crop-and-exports-expected-for-2026-27/
-- 2026-06-14 | São Paulo Coffee Festival 26-28 de junio | https://www.saopaulocoffeefestival.com.br/
-- 2026-06-14 | USBC arranca el 17 de junio en Denver | https://sprudge.com/the-2026-us-barista-championship-is-heading-to-denver-760036.html
-- 2026-06-14 | Hario suma colores al V60 NEO | https://perfectdailygrind.com/2026/06/coffee-news-recap-12-june-2026/
 - 2026-06-15 | Costa Rica corona su Cup of Excellence: 30 ganadores y una Java arrasadora | https://www.gcrmag.com/costa-rica-cup-of-excellence-2026-sees-30-winners
 - 2026-06-15 | Bad Bunny gira con cafetería propia: Café Comunión arma backstage | https://dailycoffeenews.com/2026/06/12/weekly-coffee-news-paying-farmers-more-bad-bunnys-tour-coffee/
 - 2026-06-15 | En EE.UU., el café de especialidad le sigue ganando al tradicional | https://dailycoffeenews.com/2026/06/02/specialty-coffee-holds-lead-over-traditional-coffee-in-the-u-s/
@@ -126,3 +117,9 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-06-28 | Unido abre su tercera cafetería panameña en Washington | https://www.comunicaffe.com/unido-brings-panamanian-coffee-and-culture-to-buzzard-point
 - 2026-06-28 | Cambia de dueño la cadena rusa One&Double | https://www.worldcoffeeportal.com/news/new-ownership-for-russian-coffee-chain-one-double/
 - 2026-06-28 | Cómo Filipinas mete ube y pandan en el café de especialidad | https://perfectdailygrind.com/2026/06/philippines-influencing-global-specialty-coffee-culture/
+- 2026-06-29 | Cafecito BA aterrizó en Barrancas de Belgrano | https://www.mibelgrano.com.ar/2026/06/26/cafecito-ba-en-barrancas/
+- 2026-06-29 | Bruselas coronó tres mundiales: China, Malasia y Bélgica arriba | https://www.comunicaffe.com/wcc-in-brussels-china-malaysia-and-belgium-on-top-of-the-world
+- 2026-06-29 | El arábica vuelve a aflojar: Brasil retoma la cosecha | https://www.barchart.com/story/news/3002914/coffee-prices-fall-on-forecasts-for-drier-weather-in-brazil
+- 2026-06-29 | Best of Panama: el Geisha Washed de La Esmeralda paga récord histórico | https://www.gcrmag.com/best-of-panama-auction-sees-world-record-price/
+- 2026-06-29 | Joe & The Juice desembarca en Irlanda con su primer local | https://perfectdailygrind.com/2026/06/coffee-news-recap-26-june-2026/
+- 2026-06-29 | Cierra el São Paulo Coffee Festival con 16.000 visitantes esperados | https://www.comunicaffe.com/sao-paulo-coffee-festival-2026-returns-with-coffee-culture-and-gastronomy/
