@@ -62,43 +62,40 @@ Lo que NO hacés:
 - No uses jerga tech ni anglicismos cuando hay equivalente claro en castellano.
 - No agregues opiniones sin marcarlas como tales.
 
-## Paso 4 — Escribir el archivo
+## Paso 4 — Escribir los archivos de salida
 
-Escribí el resultado a `./email.json` (en el directorio actual, usá la herramienta Write). El archivo tiene que ser un JSON válido con exactamente estos tres campos:
+Escribí TRES archivos por separado dentro de la carpeta `out/` (creala si no existe, usá la herramienta Write). NO uses JSON — cada archivo es texto plano, así no hay que escapar nada.
 
-```json
-{
-  "subject": "☕ Café de especialidad — Noticias del DD/MM",
-  "html": "<h1>...</h1>...",
-  "text": "# ...\n\n..."
-}
-```
+1. **`out/subject.txt`** — una sola línea con el asunto del email:
+   ```
+   ☕ Café de especialidad — Noticias del DD/MM
+   ```
 
-### Estructura del campo "html":
+2. **`out/body.html`** — el cuerpo del email en HTML, con esta estructura:
 
-```html
-<h1>Noticias de café de especialidad — [fecha en formato "jueves 15 de mayo de 2026"]</h1>
-<p><em>3 a 5 notas curadas y redactadas para Amigos de Simón. Pegá el bloque de cada nota directo al editor de WordPress.</em></p>
-<hr>
-<h2>1. [Título de la nota]</h2>
-<p><strong>[Copete]</strong></p>
-<p>[Párrafos del cuerpo]</p>
-<p><em>Fuente: <a href="[URL]">[Nombre del medio]</a></em></p>
-<hr>
-... (repetir para notas 2-5)
-<h3>Notas que quedaron afuera (por si te interesan)</h3>
-<ul>
-  <li><a href="[URL]">[Título original]</a> — [una línea de por qué la descartaste]</li>
-</ul>
-```
+   ```html
+   <h1>Noticias de café de especialidad — [fecha en formato "jueves 15 de mayo de 2026"]</h1>
+   <p><em>3 a 5 notas curadas y redactadas para Amigos de Simón. Pegá el bloque de cada nota directo al editor de WordPress.</em></p>
+   <hr>
+   <h2>1. [Título de la nota]</h2>
+   <p><strong>[Copete]</strong></p>
+   <p>[Párrafos del cuerpo]</p>
+   <p><em>Fuente: <a href="[URL]">[Nombre del medio]</a></em></p>
+   <hr>
+   ... (repetir para notas 2-5)
+   <h3>Notas que quedaron afuera (por si te interesan)</h3>
+   <ul>
+     <li><a href="[URL]">[Título original]</a> — [una línea de por qué la descartaste]</li>
+   </ul>
+   ```
 
-### Estructura del campo "text":
+3. **`out/body.md`** — el mismo contenido que el HTML pero en Markdown: `#`, `##`, `**negrita**`, `[texto](url)`, `---` como separador.
 
-El mismo contenido en Markdown: `#`, `##`, `**negrita**`, `[texto](url)`, `---` como separador.
+Como son archivos de texto plano, escribí el HTML y el Markdown tal cual, sin escapar comillas ni saltos de línea.
 
 ## Paso 4.5 — Actualizar el historial
 
-Después de escribir `./email.json`, actualizá `history/covered.md`:
+Después de escribir los tres archivos de `out/`, actualizá `history/covered.md`:
 
 1. Agregá una línea por cada noticia del boletín de hoy (las principales Y las que quedaron afuera), con este formato exacto:
    ```
@@ -110,7 +107,7 @@ Después de escribir `./email.json`, actualizá `history/covered.md`:
 ## Paso 5 — Sin trampas
 
 - Si en un día no hay 3 noticias que valgan la pena, mandá las que haya y aclaralo arriba ("Día tranquilo en el mundillo del café. Acá van X notas que valieron el clic.")
-- Si WebSearch no devuelve nada útil, igual escribí el JSON con un email corto explicando que hoy no encontraste material relevante.
-- El archivo `./email.json` tiene que estar siempre escrito al final, con los tres campos llenos. El step siguiente lo lee y manda el mail.
+- Si WebSearch no devuelve nada útil, igual escribí los tres archivos con un email corto explicando que hoy no encontraste material relevante.
+- Los tres archivos de `out/` tienen que estar siempre escritos al final. El step siguiente los lee y manda el mail.
 
-Una vez que escribiste `./email.json` y actualizaste `history/covered.md`, terminaste — no hace falta que mandes el mail vos, eso lo hace otro step.
+Una vez que escribiste los tres archivos de `out/` y actualizaste `history/covered.md`, terminaste — no hace falta que mandes el mail vos, eso lo hace otro step.

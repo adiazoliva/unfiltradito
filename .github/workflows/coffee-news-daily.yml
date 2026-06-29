@@ -34,7 +34,7 @@ jobs:
           claude_args: --model claude-opus-4-7 --allowedTools "WebSearch,WebFetch,Write,Read,Edit"
 
       - name: Enviar email
-        run: python3 scripts/send_email.py ./email.json
+        run: python3 scripts/send_email.py ./out
         env:
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
