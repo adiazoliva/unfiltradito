@@ -3,14 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-06-15 | Costa Rica corona su Cup of Excellence: 30 ganadores y una Java arrasadora | https://www.gcrmag.com/costa-rica-cup-of-excellence-2026-sees-30-winners
-- 2026-06-15 | Bad Bunny gira con cafetería propia: Café Comunión arma backstage | https://dailycoffeenews.com/2026/06/12/weekly-coffee-news-paying-farmers-more-bad-bunnys-tour-coffee/
-- 2026-06-15 | En EE.UU., el café de especialidad le sigue ganando al tradicional | https://dailycoffeenews.com/2026/06/02/specialty-coffee-holds-lead-over-traditional-coffee-in-the-u-s/
-- 2026-06-15 | Cuenta regresiva para Bruselas: tres mundiales en una semana | https://europe.worldofcoffee.org/brussels-world-coffee-championships
-- 2026-06-15 | Global Coffee Awards: MENA hoy, África mañana y Asia el 17 | https://perfectdailygrind.com/2026/03/global-coffee-awards-world-championship-winners-2026-schedule/
-- 2026-06-15 | Driftaway y Kafiex se llevan los Roaster of the Year 2026 de Roast Magazine | https://store.driftaway.coffee/blogs/news/were-roaster-of-the-year-2026
-- 2026-06-15 | Cómo el e-commerce cambió la forma de comprar café | https://perfectdailygrind.com/2026/06/ecommerce-transform-buying-coffee/
-- 2026-06-15 | ¿Onyx puede ser la primera cafetería en ganar un James Beard? | https://sprudge.com/is-2026-the-year-a-coffee-shop-finally-wins-a-james-beard-award-650256.html
 - 2026-06-16 | Nicaragua: la próxima cosecha caería 4,7% por El Niño y fertilizantes caros | https://dailycoffeenews.com/2026/06/15/nicaragua-coffee-report-weather-and-costs-hurting-production/
 - 2026-06-16 | Colombia cierra un semestre flojo pero el USDA ve repunte | https://www.lapatria.com/economia/produccion-de-cafe-del-primer-semestre-de-este-2026-bordeara-los-62-millones-de-sacos
 - 2026-06-16 | En Estocolmo, una cafetería la maneja una inteligencia artificial | https://sprudge.com/theyre-testing-out-ai-middle-management-at-coffee-shops-984309.html
@@ -123,3 +115,10 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-06-29 | Best of Panama: el Geisha Washed de La Esmeralda paga récord histórico | https://www.gcrmag.com/best-of-panama-auction-sees-world-record-price/
 - 2026-06-29 | Joe & The Juice desembarca en Irlanda con su primer local | https://perfectdailygrind.com/2026/06/coffee-news-recap-26-june-2026/
 - 2026-06-29 | Cierra el São Paulo Coffee Festival con 16.000 visitantes esperados | https://www.comunicaffe.com/sao-paulo-coffee-festival-2026-returns-with-coffee-culture-and-gastronomy/
+- 2026-06-30 | Cambia de manos The San Franciscan Roaster Company | https://dailycoffeenews.com/2026/06/29/the-san-franciscan-roaster-company-is-under-new-ownership/
+- 2026-06-30 | Klatch y Sprouts suman 11 cafés y pisan San Diego por primera vez | https://sprudge.com/sprouts-farmers-market-expands-partnership-with-klatch-coffee-bringing-in-store-cafes-to-san-diego-1127496.html
+- 2026-06-30 | Kyiv: la comunidad cafetera volvió a levantar persiana tras un ataque ruso | https://www.comunicaffe.com/kyiv-coffee-community-reopens-after-russian-attack/
+- 2026-06-30 | Beantropy desembarca hoy en París con una pregunta filosa | https://perfectdailygrind.com/events/beantropy-2026/
+- 2026-06-30 | Arabica futures rise again due to rain in Brazil, markets fear the arrival of "Godzilla El Niño" | https://www.comunicaffe.com/arabica-futures-rise-again-due-to-rain-in-brazil-markets-fear-the-arrival-of-godzilla-el-nino/
+- 2026-06-30 | Underwood Coffee Overjoyed to Open in Downtown Duluth | https://dailycoffeenews.com/2026/06/29/underwood-coffee-overjoyed-to-open-in-downtown-duluth/
+- 2026-06-30 | Cinnabon launches Seattle's Best Coffee Platform nationwide | https://www.comunicaffe.com/cinnabon-launches-seattles-best-coffee-platform-nationwide-to-drive-beverage-growth
