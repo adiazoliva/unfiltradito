@@ -3,15 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-06-16 | Nicaragua: la próxima cosecha caería 4,7% por El Niño y fertilizantes caros | https://dailycoffeenews.com/2026/06/15/nicaragua-coffee-report-weather-and-costs-hurting-production/
-- 2026-06-16 | Colombia cierra un semestre flojo pero el USDA ve repunte | https://www.lapatria.com/economia/produccion-de-cafe-del-primer-semestre-de-este-2026-bordeara-los-62-millones-de-sacos
-- 2026-06-16 | En Estocolmo, una cafetería la maneja una inteligencia artificial | https://sprudge.com/theyre-testing-out-ai-middle-management-at-coffee-shops-984309.html
-- 2026-06-16 | Roasting Plant pisa el acelerador internacional: Singapur, Londres y EE.UU. | https://www.prnewswire.com/news-releases/roasting-plant-coffee-reveals-global-acceleration-strategy-302799565.html
-- 2026-06-16 | Riesgo climático: TechnoServe y UNIDO mapean dónde se complica el café | https://www.comunicaffe.com/climate-risk-coffee-production-technoserve-unido-report
-- 2026-06-16 | JAB Holding completa la salida de Keurig Dr Pepper | https://www.worldcoffeeportal.com/news/jab-holding-exits-keurig-dr-pepper-as-coffee-focus-fades/
-- 2026-06-16 | Cosori lanza Juni, su primera pour-over automática | https://dailycoffeenews.com/2026/05/21/cosori-shakes-up-automated-home-pourovers-with-the-juni-brewer/
-- 2026-06-16 | Vietnam consolida su rol como segundo productor mundial | https://www.comunicaffe.com/usda-gain-report-forecasts-vietnams-production-at-30-8-million-bags-up-6-on-year/
-- 2026-06-16 | El Salvador Cup of Excellence 2026: ganó un Bernardina con 91,95 | https://www.gcrmag.com/el-salvador-cup-of-excellence-2026-winners-revealed
 - 2026-06-17 | La UE pide salario digno y los grandes del café no llegan | https://sprudge.com/eu-law-requires-paying-coffee-farmers-a-living-wage-and-the-largest-companies-arent-prepared-1086272.html
 - 2026-06-17 | Lluvias en Brasil frenan la cosecha y el arábica saltó 5,44% | https://www.barchart.com/story/news/2500349/coffee-prices-surge-as-rain-delays-brazil-harvest
 - 2026-06-17 | Bialetti y Carhartt sacan una Moka edición laburante | https://sprudge.com/a-slick-new-stovetop-coffeemaker-from-carhartt-and-gemini-express-1077433.html
@@ -122,3 +113,11 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-06-30 | Arabica futures rise again due to rain in Brazil, markets fear the arrival of "Godzilla El Niño" | https://www.comunicaffe.com/arabica-futures-rise-again-due-to-rain-in-brazil-markets-fear-the-arrival-of-godzilla-el-nino/
 - 2026-06-30 | Underwood Coffee Overjoyed to Open in Downtown Duluth | https://dailycoffeenews.com/2026/06/29/underwood-coffee-overjoyed-to-open-in-downtown-duluth/
 - 2026-06-30 | Cinnabon launches Seattle's Best Coffee Platform nationwide | https://www.comunicaffe.com/cinnabon-launches-seattles-best-coffee-platform-nationwide-to-drive-beverage-growth
+- 2026-07-01 | La FDA vuelve a mirar de cerca el descafeinado con cloruro de metileno | https://dailycoffeenews.com/2026/06/30/fda-weighs-next-steps-on-decaf-solvent-rules-following-new-comments/
+- 2026-07-01 | Un estudio en Nature Communications muestra cómo el café le habla al cerebro por el intestino | https://dailycoffeenews.com/2026/06/30/study-explores-coffees-gut-brain-effects-in-humans/
+- 2026-07-01 | Costa Rica define sus mejores cafés y calienta motores para la subasta del 9 de julio | https://www.gcrmag.com/costa-rica-cup-of-excellence-2026-sees-30-winners
+- 2026-07-01 | Coffee Crafters vuelve al formato chico con la Duo | https://dailycoffeenews.com/2026/06/30/coffee-crafters-returns-to-its-roots-with-new-2-pound-roaster-the-duo/
+- 2026-07-01 | Corea convierte la borra de café mojada en un carbón parecido al antracita en 90 segundos | https://sprudge.com/from-coffee-grounds-to-biochar-in-90-seconds-flat-1098986.html
+- 2026-07-01 | Hala Tree Coffee abre su flagship en Waikīkī el 1 de julio | https://sprudge.com/hala-tree-coffee-expands-with-new-waikiki-flagship-opening-july-2026-at-the-lilia-waikiki-1028531.html
+- 2026-07-01 | El arábica saltó 6,7% por las lluvias que siguen frenando la cosecha en Brasil | https://www.barchart.com/story/news/3036106/arabica-coffee-prices-jump-as-heavy-rains-delay-brazil-coffee-harvest
+- 2026-07-01 | Repaso mensual de World Coffee Portal: cambios de C-level en el café durante junio | https://www.worldcoffeeportal.com/news/coffee-industry-senior-appointments-june-2026/
