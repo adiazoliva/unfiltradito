@@ -3,13 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-06-18 | Guatemala corona su Cup of Excellence: Las Macadamias arriba con un Geisha | https://www.gcrmag.com/record-participation-in-cup-of-excellence-guatemala
-- 2026-06-18 | Pacquiao se mete al café: US$ 3,5 millones para un hub en Cebú | https://tribune.net.ph/2026/06/08/pacquiao-pours-p200m-into-mp-coffee
-- 2026-06-18 | Sprouts y Buddy Brew abren su primer local dentro del supermercado | https://thatssotampa.com/buddy-brew-coffee-sprouts-cafes/
-- 2026-06-18 | Un fondo de US$ 1,5 millones para acelerar la genética del café | https://www.comunicaffe.com/wcr-announces-new-1-5-million-initiative-to-modernize-breeding-tools-for-global-coffee-resilience
-- 2026-06-18 | Global Coffee Awards Asia se mudó a Charleston | https://perfectdailygrind.com/2026/03/global-coffee-awards-world-championship-winners-2026-schedule/
-- 2026-06-18 | Premios Somos 2026: 15 cafeterías de especialidad nominadas en Perú | https://elcomercio.pe/somos/gastronomia/premios-somos-2026-estas-son-las-15-cafeterias-de-especialidad-nominadas-noticia/
-- 2026-06-18 | Coffee Equipment Pros abre showroom físico en Texas | https://dailycoffeenews.com/2026/06/15/cepros-coffee-equipment-pros-physical-showroom/
 - 2026-06-19 | Perú frena su crecimiento: cosecha 2026/27 casi sin cambios | https://dailycoffeenews.com/2026/06/17/peru-coffee-report-production-steady-despite-structural-challenges/
 - 2026-06-19 | Cartagena: 2,4 toneladas de cocaína viajaban en pellets de café | https://dailycoffeenews.com/2026/06/17/colombian-police-seize-2-4-metric-tons-of-cocaine-in-coffee-pellets/
 - 2026-06-19 | Fairtrade lanza Plot Insights: geolocalización gratis para cumplir el EUDR | https://dailycoffeenews.com/2026/06/16/fairtrade-launches-free-eudr-geolocation-tool-for-coffee-cooperatives/
@@ -112,7 +105,7 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-07-01 | Coffee Crafters vuelve al formato chico con la Duo | https://dailycoffeenews.com/2026/06/30/coffee-crafters-returns-to-its-roots-with-new-2-pound-roaster-the-duo/
 - 2026-07-01 | Corea convierte la borra de café mojada en un carbón parecido al antracita en 90 segundos | https://sprudge.com/from-coffee-grounds-to-biochar-in-90-seconds-flat-1098986.html
 - 2026-07-01 | Hala Tree Coffee abre su flagship en Waikīkī el 1 de julio | https://sprudge.com/hala-tree-coffee-expands-with-new-waikiki-flagship-opening-july-2026-at-the-lilia-waikiki-1028531.html
-- 2026-07-01 | El arábica saltó 6,7% por las lluvias que siguen frenando la cosecha en Brasil | https://www.barchart.com/story/news/3036106/arabica-coffee-prices-jump-as-heavy-rains-delay-brazil-coffee-harvest
+- 2026-07-01 | El arábica saltó 6,7% por las lluvias que siguen frenando la cosecha en Brasil | https://www.barchart.com/story/news/3036106/arabica-coffee-prices-jump-as-brazil-coffee-harvest
 - 2026-07-01 | Repaso mensual de World Coffee Portal: cambios de C-level en el café durante junio | https://www.worldcoffeeportal.com/news/coffee-industry-senior-appointments-june-2026/
 - 2026-07-02 | El Salvador se coronó: Bernardina de La Esperanza puntea con 91,95 | https://www.gcrmag.com/el-salvador-cup-of-excellence-2026-winners-revealed
 - 2026-07-02 | Vietnam y la resaca del boom robusta: un informe pone números al costo | https://dailycoffeenews.com/2026/07/01/report-says-vietnams-robusta-boom-faces-a-reckoning/
@@ -122,3 +115,13 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-07-02 | Merit Coffee anuncia su desembarco en Houston con tres locales | https://www.prnewswire.com/news-releases/merit-coffee-announces-expansion-into-houston-with-three-new-cafe-locations-302798528.html
 - 2026-07-02 | Informe original "Vietnam's Robusta Reckoning" en Coffee Watch | https://coffeewatch.org/vietnams-robustas-reckoning/
 - 2026-07-02 | Reporte de Impacto 2025 de Starbucks (nota corporativa) | https://about.starbucks.com/press/2026/starbucks-2025-impact-report-progress-investments-and-results-across-coffee-opportunity-community-and-environment/
+- 2026-07-03 | Coffee Barometer 2026: los precios suben, la estructura no se mueve | https://dailycoffeenews.com/2026/07/02/inside-the-coffee-barometer-part-1-prices-swing-structures-dont/
+- 2026-07-03 | illy se lleva su ready-to-drink de EE.UU. a la fábrica de Westrock | https://www.comunicaffe.com/illycaffe-signs-a-multi-product-manufacturing-agreement-with-westrock-coffee-company-to-strengthen-its-strategic-presence-in-the-states
+- 2026-07-03 | Royal Coffee empieza a devolver los aranceles a sus tostadores | https://sprudge.com/royal-coffee-begins-issuing-ieepa-tariff-credits-as-cbp-returns-duties-to-importers-1138876.html
+- 2026-07-03 | Costa Coffee reset: Coca-Cola mueve fichas y trae peso pesado | https://www.worldcoffeeportal.com/news/costa-coffee-reset-underway-as-coca-cola-appoints-new-senior-leaders/
+- 2026-07-03 | 68% de los baristas dice haber sufrido burnout: encuesta 2026 | https://www.baristamagazine.com/mental-health-as-a-cafe-management-priority/
+- 2026-07-03 | How India's Nothing Before Coffee is winning over Gen Z with ₹300 'shrappes' | https://www.worldcoffeeportal.com/news/how-indias-nothing-before-coffee-is-winning-over-gen-z-with-300-shrappes/
+- 2026-07-03 | CAYE secures nearly RMB 400 million in Series B funding | https://www.comunicaffe.com/caye-series-b-funding-rmb-400-million-commercial-coffee-machines/
+- 2026-07-03 | Build-Outs Of Coffee: Hala Tree Coffee In Honolulu, HI | https://sprudge.com/build-outs-of-coffee-hala-tree-coffee-in-honolulu-hi-1026543.html
+- 2026-07-03 | China to host the most important meeting on coffee science | https://www.comunicaffe.com/experiment-aims-to-identify-if-coffee-flavour-can-be-affected-by-music/
+- 2026-07-03 | Is This The Coolest Custom La Marzocco Linea Ever? | https://sprudge.com/is-this-the-coolest-custom-la-marzocco-linea-ever-1138051.html
