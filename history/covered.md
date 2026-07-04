@@ -3,14 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-06-19 | Perú frena su crecimiento: cosecha 2026/27 casi sin cambios | https://dailycoffeenews.com/2026/06/17/peru-coffee-report-production-steady-despite-structural-challenges/
-- 2026-06-19 | Cartagena: 2,4 toneladas de cocaína viajaban en pellets de café | https://dailycoffeenews.com/2026/06/17/colombian-police-seize-2-4-metric-tons-of-cocaine-in-coffee-pellets/
-- 2026-06-19 | Fairtrade lanza Plot Insights: geolocalización gratis para cumplir el EUDR | https://dailycoffeenews.com/2026/06/16/fairtrade-launches-free-eudr-geolocation-tool-for-coffee-cooperatives/
-- 2026-06-19 | Bonfire Coffee duplica su tostaduría en Glenwood Springs | https://dailycoffeenews.com/2026/06/17/colorados-bonfire-coffee-is-stoked-with-big-new-roastery/
-- 2026-06-19 | Best of Congo: 34 microlotes pasan hoy por jurado en Londres | https://www.comunicaffe.com/best-of-congo-cooperatives-2026-london-congolese-coffee-competition
-- 2026-06-19 | Coffee prices caught between record harvests and Hormuz disruption | https://www.foodingredientsfirst.com/news/coffee-prices-surplus-hormuz-disruption.html
-- 2026-06-19 | World Coffee Research releases 2025 annual report | https://worldcoffeeresearch.org/news/world-coffee-research-releases-2025-annual-report
-- 2026-06-19 | How Cooperatives Are Transforming Coffee Production in Kenya | https://www.baristamagazine.com/how-cooperatives-are-transforming-coffee-production-in-kenya/
 - 2026-06-20 | Stumptown se queda sin presidenta dos meses después de la compra de KDP | https://www.gcrmag.com/stumptown-president-departs-months-after-acquisition
 - 2026-06-20 | Liberia firma un pacto de US$ 60 millones para revivir su café | https://www.foodbusinessmea.com/jr-farms-signs-us60m-coffee-partnership-with-liberia-to-revive-sector/
 - 2026-06-20 | Option-O presenta el Lagom GDS, el molino con dos cabezales | https://dailycoffeenews.com/2026/06/18/option-o-launches-the-two-headed-lagom-gds-grinder/
@@ -125,3 +117,11 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-07-03 | Build-Outs Of Coffee: Hala Tree Coffee In Honolulu, HI | https://sprudge.com/build-outs-of-coffee-hala-tree-coffee-in-honolulu-hi-1026543.html
 - 2026-07-03 | China to host the most important meeting on coffee science | https://www.comunicaffe.com/experiment-aims-to-identify-if-coffee-flavour-can-be-affected-by-music/
 - 2026-07-03 | Is This The Coolest Custom La Marzocco Linea Ever? | https://sprudge.com/is-this-the-coolest-custom-la-marzocco-linea-ever-1138051.html
+- 2026-07-04 | Etiopía se pone la vara alta: quiere duplicar rindes y facturar US$ 6.000 millones | https://www.foodbusinessmea.com/ethiopia-launches-national-coffee-strategy-to-double-production-increase-export-revenue/
+- 2026-07-04 | Sicilia se anima al café: la primera plantación italiana ya cosecha 30 kg | https://dailycoffeenews.com/2026/07/03/weekly-coffee-news-tariff-credits-growing-coffee-in-sicily/
+- 2026-07-04 | Baleares le baja el pulgar a las cápsulas de aluminio y plástico | https://www.comunicaffe.com/the-balearic-islands-in-spain-have-banned-aluminium-and-plastic-capsules-only-compostable-or-easily-recyclable-capsules-are-now-permitted-on-the-islands-whilst-paper-pods-remain-legal
+- 2026-07-04 | Cambio de guardia en la Hanns R. Neumann Stiftung, referente del café sostenible | https://dailycoffeenews.com/2026/07/01/nonprofit-hrns-enters-new-era-as-longtime-director-michael-opitz-steps-down/
+- 2026-07-04 | TheVenti desembarca en Filipinas: la cadena coreana de vasos gigantes cruza el mar | https://insideretail.asia/2026/07/02/south-korean-coffee-chain-theventi-enters-sea-with-philippine-debut/
+- 2026-07-04 | London's Coffee Studio Battles Hospitality Giant Mitchells & Butlers Over Trademark | https://streamlinefeed.co.ke/news/coffee-studio-battles-mitchells-butlers-trademark-eat-drink-work
+- 2026-07-04 | Se prevé que la cosecha de café de Brasil para 2026/27 aumente un 13,5% | https://revistacultivar-es.com/noticias/safra-de-cafe-2026-27-no-brasil-deve-avancar-13-5
+- 2026-07-04 | Empresas de cacao, café y aguacate impulsan negocios sostenibles en Guatemala | https://www.infobae.com/guatemala/2026/07/03/empresas-de-cacao-cafe-y-aguacate-impulsan-negocios-sostenibles-en-guatemala/
