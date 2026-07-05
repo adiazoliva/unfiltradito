@@ -3,15 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-06-20 | Stumptown se queda sin presidenta dos meses después de la compra de KDP | https://www.gcrmag.com/stumptown-president-departs-months-after-acquisition
-- 2026-06-20 | Liberia firma un pacto de US$ 60 millones para revivir su café | https://www.foodbusinessmea.com/jr-farms-signs-us60m-coffee-partnership-with-liberia-to-revive-sector/
-- 2026-06-20 | Option-O presenta el Lagom GDS, el molino con dos cabezales | https://dailycoffeenews.com/2026/06/18/option-o-launches-the-two-headed-lagom-gds-grinder/
-- 2026-06-20 | Brasil exportó 3,1 millones de sacas en mayo, primer mes en suba del año | https://www.cecafe.com.br/publicacoes/noticias/exportacao-cafe-brasil-cresce-maio-2026-20260611/
-- 2026-06-20 | Dolly Parton sale al ruedo con su propio café | https://www.salon.com/2026/06/15/dolly-parton-launches-new-coffee-line/
-- 2026-06-20 | Honduras Cup of Excellence 2026: subasta el 16 de julio | https://allianceforcoffeeexcellence.org/honduras-2026/
-- 2026-06-20 | USBC Denver: Round One, Día 2 | https://sprudge.com/the-2026-us-barista-championship-round-one-day-two-1094233.html
-- 2026-06-20 | USDA proyecta 71,9 millones de sacas en Brasil 2026/27 | https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Coffee+Annual_Brasilia_Brazil_BR2026-0025.pdf
-- 2026-06-20 | World of Coffee Brussels arranca el 25 | https://europe.worldofcoffee.org/brussels-world-coffee-championships
 - 2026-06-21 | Mar del Plata levanta su propia feria de especialidad | https://puntonoticias.com/coffee-cup-2026-mar-del-plata-se-convierte-en-capital-del-cafe-de-especialidad/
 - 2026-06-21 | USBC Denver: hoy se define el barista que va a Panamá | https://sprudge.com/the-2026-us-barista-championship-semi-finals-1094564.html
 - 2026-06-21 | The Last Bean se lleva tres oros en Monde Selection 2026 | https://perfectdailygrind.com/2026/06/coffee-news-recap-19-june-2026/
@@ -125,3 +116,11 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-07-04 | London's Coffee Studio Battles Hospitality Giant Mitchells & Butlers Over Trademark | https://streamlinefeed.co.ke/news/coffee-studio-battles-mitchells-butlers-trademark-eat-drink-work
 - 2026-07-04 | Se prevé que la cosecha de café de Brasil para 2026/27 aumente un 13,5% | https://revistacultivar-es.com/noticias/safra-de-cafe-2026-27-no-brasil-deve-avancar-13-5
 - 2026-07-04 | Empresas de cacao, café y aguacate impulsan negocios sostenibles en Guatemala | https://www.infobae.com/guatemala/2026/07/03/empresas-de-cacao-cafe-y-aguacate-impulsan-negocios-sostenibles-en-guatemala/
+- 2026-07-05 | Colombia respira: junio dio un salto del 43% en producción | https://www.infobae.com/america/agencias/2026/07/03/la-produccion-cafetera-de-colombia-crece-un-43-en-junio-aunque-persiste-baja-exportacion/
+- 2026-07-05 | El AeroPress mundial se muda a la Ciudad de México | https://worldaeropresschampionship.com/pages/mexico-2026
+- 2026-07-05 | Muvna Mammoth: el molino con burr intercambiable | https://dailycoffeenews.com/2026/07/02/muvna-takes-a-mammoth-step-into-modular-grinding/
+- 2026-07-05 | Si el vaso rasca, el café parece más ácido: estudio japonés sobre textura y percepción | https://en.sedaily.com/finance/2026/07/01/cup-sleeve-texture-alters-coffee-sourness-japanese-study
+- 2026-07-05 | Löfbergs invierte fuerte en una línea para grano entero | https://www.comunicaffe.com/lofbergs-new-packaging-line-whole-bean-coffee-karlstad
+- 2026-07-05 | Perfect Daily Grind: recap semanal del 3 de julio | https://perfectdailygrind.com/2026/07/coffee-news-recap-3-july-2026/
+- 2026-07-05 | World Coffee Portal sobre la inversión de Löfbergs en grano entero | https://www.worldcoffeeportal.com/news/lofbergs-announces-multi-million-sek-investment-in-wholebean-production/
+- 2026-07-05 | Coffee Talk sobre el estudio japonés de textura de vaso | https://coffeetalk.com/daily-dose/top-news/06-2026/110341/
