@@ -3,13 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-06-21 | Mar del Plata levanta su propia feria de especialidad | https://puntonoticias.com/coffee-cup-2026-mar-del-plata-se-convierte-en-capital-del-cafe-de-especialidad/
-- 2026-06-21 | USBC Denver: hoy se define el barista que va a Panamá | https://sprudge.com/the-2026-us-barista-championship-semi-finals-1094564.html
-- 2026-06-21 | The Last Bean se lleva tres oros en Monde Selection 2026 | https://perfectdailygrind.com/2026/06/coffee-news-recap-19-june-2026/
-- 2026-06-21 | Un estudio dice que el riego por goteo baja casi 60% la huella del café | https://www.sustainability-times.com/reports/new-study-finds-drip-irrigation-can-cut-coffees-carbon-footprint-by-nearly-60/
-- 2026-06-21 | Ancoats Coffee Co. cumple diez años en Manchester | https://ilovemanchester.com/ancoats-coffee-co-and-the-rise-of-speciality-coffee-in-manchester
-- 2026-06-21 | Blue Tokai (India) suma a Pranav Dahiya como CBO | https://www.businessoffood.in/blue-tokai-coffee-roasters-strengthens-leadership-team-with-pranav-dahiya-as-chief-business-officer/
-- 2026-06-21 | Hario lanza nuevos colores del V60 NEO en Bruselas | https://www.comunicaffe.com/hario-introduces-two-new-colorways-for-v60-dripper-neo-launching-globally-on-june-25-and-debuting-at-world-of-coffee-brussels-2026/
 - 2026-06-22 | USBC 2026: Denver ya tiene su podio, con Onyx cerca otra vez | https://sprudge.com/here-are-the-winners-of-the-2026-us-barista-championship-1098421.html
 - 2026-06-22 | Starbucks reabrió su local de la Plaza de Armas de Cusco | https://historias.starbucks.com/en-es/press/2026/starbucks-celebrates-perus-coffee-legacy-with-the-reopening-of-cusco-coffeehouse/
 - 2026-06-22 | Honduras camina hacia los 6 millones de sacas en 2026/27 | https://dailycoffeenews.com/2026/05/19/honduras-coffee-report-production-rising-to-highest-level-in-years/
@@ -124,3 +117,11 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-07-05 | Perfect Daily Grind: recap semanal del 3 de julio | https://perfectdailygrind.com/2026/07/coffee-news-recap-3-july-2026/
 - 2026-07-05 | World Coffee Portal sobre la inversión de Löfbergs en grano entero | https://www.worldcoffeeportal.com/news/lofbergs-announces-multi-million-sek-investment-in-wholebean-production/
 - 2026-07-05 | Coffee Talk sobre el estudio japonés de textura de vaso | https://coffeetalk.com/daily-dose/top-news/06-2026/110341/
+- 2026-07-06 | Los mercados emergentes empiezan a comerles la cancha a los históricos | https://perfectdailygrind.com/2026/07/barista-competitors-emerging-specialty-coffee-markets/
+- 2026-07-06 | Starbucks México cerró la 12ª edición de "Todos Sembramos Café" | https://historias.starbucks.com/en-es/press/2026/starbucks-mexico-launches-a-new-edition-of-todos-sembramos-cafe-to-help-strengthen-the-future-of-coffee-growing-communities/
+- 2026-07-06 | Guatemala: los caficultores le meten harina de malanga al ingreso familiar | https://www.comunicaffe.com/but-coffee-is-not-the-only-crop-guatemalan-farmers-are-turning-taro-flour-into-a-new-source-of-income
+- 2026-07-06 | Un tostador de Montreal se juega por un equipo italiano y baja 50% su huella | https://www.comunicaffe.com/escape-cafe-installs-low-emission-roaster-made-by-imf-reducing-natural-gas-use-per-kilogram
+- 2026-07-06 | Java Factory lanza "Flavor 52": 52 nuevos sabores de café en 52 semanas | https://www.prnewswire.com/news-releases/java-factory-announces-flavor-52-52-new-coffee-flavors-in-52-consecutive-weeks-302815330.html
+- 2026-07-06 | Sprudge: la selección semanal de cafés de los tostadores asociados | https://sprudge.com/life-is-like-a-curated-selection-of-coffees-you-never-know-what-youre-going-to-get-1141522.html
+- 2026-07-06 | Actualización trimestral Q3 del equipo de investigación de World Coffee Portal | https://www.worldcoffeeportal.com/news/your-q3-2026-update-from-the-world-coffee-portal-research-team/
+- 2026-07-06 | El arábica retrocede a US$ 3,04/lb tras el rally por lluvias en Brasil | https://tradingeconomics.com/commodity/coffee
