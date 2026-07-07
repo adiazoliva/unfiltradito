@@ -3,14 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-06-22 | USBC 2026: Denver ya tiene su podio, con Onyx cerca otra vez | https://sprudge.com/here-are-the-winners-of-the-2026-us-barista-championship-1098421.html
-- 2026-06-22 | Starbucks reabrió su local de la Plaza de Armas de Cusco | https://historias.starbucks.com/en-es/press/2026/starbucks-celebrates-perus-coffee-legacy-with-the-reopening-of-cusco-coffeehouse/
-- 2026-06-22 | Honduras camina hacia los 6 millones de sacas en 2026/27 | https://dailycoffeenews.com/2026/05/19/honduras-coffee-report-production-rising-to-highest-level-in-years/
-- 2026-06-22 | Uganda será el país protagonista en World of Coffee Brussels | https://www.comunicaffe.com/world-of-coffee-brussels-2026-championships-awards-specialty-coffee/
-- 2026-06-22 | Lipidómica y sabor del café: paper sobre cómo cambian los lípidos del grano | https://www.mdpi.com/2304-8158/15/12/2196
-- 2026-06-22 | Cup of Excellence México: subasta agendada para el 28 de julio | https://allianceforcoffeeexcellence.org/cup-of-excellence/
-- 2026-06-22 | Coffee LATAM 2026 confirma fecha en Brasil para el 28 y 29 de julio | https://informaconnect.com/coffee-latam/
-- 2026-06-22 | World Coffee Portal: resumen semanal del 8 al 14 de junio | https://www.worldcoffeeportal.com/news/the-week-in-coffee-8-14-june-2026/
 - 2026-06-23 | Yunnan: un hongo nativo eleva al café común a rango de especialidad | https://dailycoffeenews.com/2026/06/22/chinese-study-finds-native-fungus-may-lift-conventional-coffee-into-specialty-range/
 - 2026-06-23 | Uganda apunta al valor agregado: menos verde, más tostado y soluble | https://dailycoffeenews.com/2026/06/22/uganda-coffee-report-production-steady-but-government-signals-strategy-shift/
 - 2026-06-23 | Gail's mira más allá del Reino Unido: la cadena suma director internacional | https://www.worldcoffeeportal.com/news/gails-to-explore-international-opportunities-following-key-senior-hire/
@@ -125,3 +117,11 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-07-06 | Sprudge: la selección semanal de cafés de los tostadores asociados | https://sprudge.com/life-is-like-a-curated-selection-of-coffees-you-never-know-what-youre-going-to-get-1141522.html
 - 2026-07-06 | Actualización trimestral Q3 del equipo de investigación de World Coffee Portal | https://www.worldcoffeeportal.com/news/your-q3-2026-update-from-the-world-coffee-portal-research-team/
 - 2026-07-06 | El arábica retrocede a US$ 3,04/lb tras el rally por lluvias en Brasil | https://tradingeconomics.com/commodity/coffee
+- 2026-07-07 | Mar del Plata se pone la camiseta: Coffee Cup el 25 y 26 de julio | https://www.lacapitalmdp.com/mar-del-plata-sera-sede-de-la-coffee-cup-2026-la-expo-de-cafe-de-especialidad/
+- 2026-07-07 | Correntino y arábica: en Empedrado ya proyectan cosecha para 2027 | https://www.perfil.com/noticias/nea/cafe-correntino-avanza-un-ensayo-historico-en-empedrado-y-proyectan-la-primera-cosecha-para-2027.phtml
+- 2026-07-07 | África del Este vivió el techo del ciclo: ahora empieza a caer el precio | https://favaherb.com/2026/07/06/east-africa-coffee-record-exports-looming-price-correction/
+- 2026-07-07 | Dosificadores automáticos: la próxima batalla del molino | https://dailycoffeenews.com/2026/07/06/exploring-the-rise-and-measured-drops-of-single-dose-coffee-dispensers/
+- 2026-07-07 | Costa Rica Cup of Excellence: subasta el 9 de julio | https://www.gcrmag.com/costa-rica-cup-of-excellence-2026-sees-30-winners
+- 2026-07-07 | Cup of Excellence Honduras confirmó la subasta para el 16 de julio | https://allianceforcoffeeexcellence.org/honduras-2026/
+- 2026-07-07 | Kenia lanzó su Coffee Hub regional con respaldo de la Cámara de Comercio | https://www.logupdateafrica.com/amp/trade/kncci-backs-kenya-coffee-hub-launch-as-coffee-exports-rise-1359457
+- 2026-07-07 | World Coffee Portal repasa la semana del 29 de junio al 5 de julio | https://www.worldcoffeeportal.com/news/the-week-in-coffee-29-june-5-july-2026/
