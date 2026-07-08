@@ -3,15 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-06-23 | Yunnan: un hongo nativo eleva al café común a rango de especialidad | https://dailycoffeenews.com/2026/06/22/chinese-study-finds-native-fungus-may-lift-conventional-coffee-into-specialty-range/
-- 2026-06-23 | Uganda apunta al valor agregado: menos verde, más tostado y soluble | https://dailycoffeenews.com/2026/06/22/uganda-coffee-report-production-steady-but-government-signals-strategy-shift/
-- 2026-06-23 | Gail's mira más allá del Reino Unido: la cadena suma director internacional | https://www.worldcoffeeportal.com/news/gails-to-explore-international-opportunities-following-key-senior-hire/
-- 2026-06-23 | El arábica afloja en Nueva York: el clima brasileño se está acomodando | https://www.comunicaffe.com/coffee-futures-fall-in-the-first-trading-session-of-the-week-markets-continue-to-monitor-el-nino
-- 2026-06-23 | Cartel Roasting cruza de Arizona a Los Ángeles | https://dailycoffeenews.com/2026/06/22/arizonas-cartel-roasting-co-expands-into-los-angeles/
-- 2026-06-23 | WCR conecta científicos ugandeses con Cenicafé | https://www.comunicaffe.com/wcr-connects-ugandan-scientists-with-cenicafe-to-strengthen-coffee-seed-systems
-- 2026-06-23 | Sprudge abre la temporada 2026 de Build-Outs of Coffee | https://sprudge.com/open-submissions-continue-for-the-2026-build-outs-of-coffee-1008673.html
-- 2026-06-23 | Scotsman Ice patrocina el Coffee in Good Spirits en Bruselas | https://www.comunicaffe.com/scotsman-ice-sponsor-world-coffee-in-good-spirits-championship-world-of-coffee-brussels-2026
-- 2026-06-23 | Tata Starbucks retoma el plan de crecimiento en India | https://www.worldcoffeeportal.com/news/the-week-in-coffee-15-21-june-2026/
 - 2026-06-24 | El arábica pega la vuelta: salta 4,3% por lluvias renovadas en Brasil | https://www.barchart.com/story/news/2610777/arabica-coffee-prices-surge-as-brazil-rains-disrupt-the-coffee-harvest
 - 2026-06-24 | LAF Neo debuta en Bruselas: máquina compacta con dilución de agua programable | https://new.sca.coffee/entries/cupcino-laf-neo
 - 2026-06-24 | Blue Tokai cierra una Serie D extendida por US$ 19 millones | https://www.worldcoffeeportal.com/news/blue-tokai-raises-new-investment-to-advance-global-growth-ambitions/
@@ -125,3 +116,10 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-07-07 | Cup of Excellence Honduras confirmó la subasta para el 16 de julio | https://allianceforcoffeeexcellence.org/honduras-2026/
 - 2026-07-07 | Kenia lanzó su Coffee Hub regional con respaldo de la Cámara de Comercio | https://www.logupdateafrica.com/amp/trade/kncci-backs-kenya-coffee-hub-launch-as-coffee-exports-rise-1359457
 - 2026-07-07 | World Coffee Portal repasa la semana del 29 de junio al 5 de julio | https://www.worldcoffeeportal.com/news/the-week-in-coffee-29-june-5-july-2026/
+- 2026-07-08 | El arábica se puso meme: salto histórico del 16,2% en un solo día | https://www.comunicaffe.com/arabica-coffee-futures-post-unprecedented-gains-over-48-cents-16-2-in-a-single-trading-session-heres-whats-happening
+- 2026-07-08 | Un estudio de Varsovia le pone freno al culto de los 9 bares | https://sprudge.com/new-study-finds-that-your-espresso-shots-may-be-caving-to-pressure-1127780.html
+- 2026-07-08 | Venezuela pone 51 muestras en la mesa del 5º Encuentro Internacional | https://portuguesaaldia.com/muestras-clasificadas-ronda-nacional-eicev-2026/
+- 2026-07-08 | Lekko Coffee estrena tostaduría en Cleveland con bandera de sueldo digno | https://dailycoffeenews.com/2026/07/07/lekko-coffee-finds-room-to-grow-in-new-cleveland-roastery/
+- 2026-07-08 | Safra brasileña 2026/27 avanza al 52% con arábica en camino a un récord de 49,95 millones de sacas | https://www.cnnbrasil.com.br/agro/safra-de-cafe-do-brasil-2026-27-chega-a-52-aponta-safras-mercado/
+- 2026-07-08 | Emily Potter en la Sprudge Twenty 2026: la voz del café en Detroit | https://sprudge.com/emily-potter-the-sprudge-twenty-interview-1128140.html
+- 2026-07-08 | Franke Coffee Systems se llevó el Red Dot 2026 con su nueva A Line | https://www.comunicaffe.com/franke-new-a-line-red-dot-award-2026
