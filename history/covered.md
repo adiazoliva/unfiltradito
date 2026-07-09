@@ -3,14 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-06-24 | El arábica pega la vuelta: salta 4,3% por lluvias renovadas en Brasil | https://www.barchart.com/story/news/2610777/arabica-coffee-prices-surge-as-brazil-rains-disrupt-the-coffee-harvest
-- 2026-06-24 | LAF Neo debuta en Bruselas: máquina compacta con dilución de agua programable | https://new.sca.coffee/entries/cupcino-laf-neo
-- 2026-06-24 | Blue Tokai cierra una Serie D extendida por US$ 19 millones | https://www.worldcoffeeportal.com/news/blue-tokai-raises-new-investment-to-advance-global-growth-ambitions/
-- 2026-06-24 | Café Martínez sale a invertir US$ 7 millones por 31 cafeterías en la región | https://www.cronista.com/negocios/la-nueva-pelea-del-cafe-mas-locales-alianzas-con-estaciones-de-servicio-y-el-efecto-messi/
-- 2026-06-24 | La SCA confirma a Storm Tempesta como máquina oficial del WBC 2026-27 | https://wcc.coffee/latest-news/announcing-the-2026-2027-world-barista-championship-qualified-sponsors
-- 2026-06-24 | ExpoCafé Chile estrena el espacio Coffee Kitchen | https://www.expocafechile.cl/expocafe-chile-2026-debuta-con-coffee-kitchen-el-espacio-donde-el-cafe-sale-de-la-taza-y-conquista-la-cocina-de-autor/
-- 2026-06-24 | Dalla Corte celebra sus 25 años como sponsor del USBC | https://coffeetalk.com/daily-dose/announcements/05-2026/110052/
-- 2026-06-24 | Comunicaffe recopila la previa de World of Coffee Brussels | https://www.comunicaffe.com/world-of-coffee-kicks-off-tomorrow-in-brussels-rain-in-brazil-triggers-a-fresh-rally-in-arabica-prices
 - 2026-06-25 | Cup of Excellence Nicaragua: Geisha arrasa en Dipilto | https://www.gcrmag.com/cup-of-excellence-nicaragua-2026-winners-announced
 - 2026-06-25 | Jill Hoff vuelve a ser campeona de Canadá y apunta al Mundial en Panamá | https://sprudge.com/jill-hoff-of-monogram-coffee-is-the-2026-canada-barista-champion-1098917.html
 - 2026-06-25 | Mr. Espresso debuta en co-ferment: Sumatra con jazmín y levadura | https://sprudge.com/mr-espresso-debuts-limited-edition-sumatra-jasmine-co-ferment-1098909.html
@@ -123,3 +115,13 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-07-08 | Safra brasileña 2026/27 avanza al 52% con arábica en camino a un récord de 49,95 millones de sacas | https://www.cnnbrasil.com.br/agro/safra-de-cafe-do-brasil-2026-27-chega-a-52-aponta-safras-mercado/
 - 2026-07-08 | Emily Potter en la Sprudge Twenty 2026: la voz del café en Detroit | https://sprudge.com/emily-potter-the-sprudge-twenty-interview-1128140.html
 - 2026-07-08 | Franke Coffee Systems se llevó el Red Dot 2026 con su nueva A Line | https://www.comunicaffe.com/franke-new-a-line-red-dot-award-2026
+- 2026-07-09 | La industria del café en EE.UU. le pide a Trump que no le toque el café brasileño | https://www.worldcoffeeportal.com/news/us-coffee-industry-urges-trump-to-keep-brazilian-coffee-tariff-free-as-market-braces-for-further-price-shock/
+- 2026-07-09 | Lavazza avisa: los precios altos vinieron para quedarse dos años más | https://www.worldcoffeeportal.com/news/coffee-prices-to-stay-high-for-the-next-two-years-lavazza-warns/
+- 2026-07-09 | Sucafina se lleva a Rehm & Co. y refuerza el especialty en Alemania | https://www.worldcoffeeportal.com/news/sucafina-gets-a-firmer-footing-in-europe-with-latest-acquisition/
+- 2026-07-09 | Paik's Coffee se rebautiza "DABANG" y sale a comerse el mundo | https://www.worldcoffeeportal.com/news/paiks-coffee-drops-key-part-of-brand-identity-ahead-of-international-push/
+- 2026-07-09 | Después del boom del co-ferment: ¿para dónde va el procesamiento del café? | https://perfectdailygrind.com/2026/07/how-will-coffee-processing-change-from-co-fermentation/
+- 2026-07-09 | Backyard Beans desembarca en 188 supermercados GIANT | https://sprudge.com/backyard-beans-expands-retail-footprint-with-launch-in-the-giant-company-stores-across-four-states-1159672.html
+- 2026-07-09 | ¿Es hora de estandarizar el tamaño del flat white? | https://perfectdailygrind.com/2026/07/standardise-size-of-coffee-milk-drinks-flat-white/
+- 2026-07-09 | Global Coffee Awards coronan a los mejores tostadores de MENA | https://perfectdailygrind.com/2026/07/global-coffee-awards-best-roasters-mena/
+- 2026-07-09 | Galani Coffee (Etiopía) gana los Global Coffee Awards Africa | https://perfectdailygrind.com/2026/07/global-coffee-awards-best-roasters-africa/
+- 2026-07-09 | Actualización: Kauai Coffee cerró el contrato de arrendamiento | https://sprudge.com/update-the-kauai-coffee-company-has-secured-their-land-lease-1138488.html
