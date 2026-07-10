@@ -3,13 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-06-25 | Cup of Excellence Nicaragua: Geisha arrasa en Dipilto | https://www.gcrmag.com/cup-of-excellence-nicaragua-2026-winners-announced
-- 2026-06-25 | Jill Hoff vuelve a ser campeona de Canadá y apunta al Mundial en Panamá | https://sprudge.com/jill-hoff-of-monogram-coffee-is-the-2026-canada-barista-champion-1098917.html
-- 2026-06-25 | Mr. Espresso debuta en co-ferment: Sumatra con jazmín y levadura | https://sprudge.com/mr-espresso-debuts-limited-edition-sumatra-jasmine-co-ferment-1098909.html
-- 2026-06-25 | Body Count saca un café de especialidad llamado Body Bag | https://sprudge.com/body-counts-now-in-the-coffee-house-1098952.html
-- 2026-06-25 | Arranca World of Coffee Brussels | https://europe.worldofcoffee.org/
-- 2026-06-25 | Build-Outs: Bird Dog Coffee en Laguna Hills | https://sprudge.com/build-outs-of-coffee-bird-dog-coffee-in-laguna-hills-ca-1046155.html
-- 2026-06-25 | El arábica vuelve a subir el 25 por las lluvias en Brasil | https://tradingeconomics.com/commodity/coffee
 - 2026-06-26 | Chiapas: arman una coalición para 500 cafetaleras | https://dailycoffeenews.com/2026/06/25/women-powered-coffee-coalition-launches-with-focus-on-chiapas-mexico/
 - 2026-06-26 | Uganda estrena marca país en Brussels: "It's in Our Nature" | https://chimpreports.com/uganda-launches-first-national-coffee-brand-in-brussels/
 - 2026-06-26 | Cerrado Mineiro juega su carta regenerativa en Bruselas | https://www.comunicaffe.com/cerrado-mineiro-world-of-coffee-brussels-2026-regenerative-coffee/
@@ -125,3 +118,12 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-07-09 | Global Coffee Awards coronan a los mejores tostadores de MENA | https://perfectdailygrind.com/2026/07/global-coffee-awards-best-roasters-mena/
 - 2026-07-09 | Galani Coffee (Etiopía) gana los Global Coffee Awards Africa | https://perfectdailygrind.com/2026/07/global-coffee-awards-best-roasters-africa/
 - 2026-07-09 | Actualización: Kauai Coffee cerró el contrato de arrendamiento | https://sprudge.com/update-the-kauai-coffee-company-has-secured-their-land-lease-1138488.html
+- 2026-07-10 | Nestlé mete US$ 688 millones en Tailandia y arma su "smart factory" del Nescafé | https://www.worldcoffeeportal.com/news/nestle-expands-nescafe-production-with-major-southeast-asia-investment/
+- 2026-07-10 | Salta arma su primera Expo Café: este fin de semana, Origen abre la cancha | https://dossierweb.com.ar/expo-cafe-de-especialidad-origen-reunira-en-salta-a-productores-baristas-y-emprendedores-del-sector/
+- 2026-07-10 | Costa Rica remató su Cup of Excellence: Cordero Solano cerró con el Java al frente | https://www.gcrmag.com/costa-rica-cup-of-excellence-2026-sees-30-winners
+- 2026-07-10 | Arabica se dio vuelta: -8% después del salto histórico del lunes | https://finance.yahoo.com/markets/commodities/articles/coffee-prices-retreat-mondays-highs-155225434.html
+- 2026-07-10 | Bucarest, la capital cafetera que nadie vio venir (Slow Coffee Festival) | https://www.worldcoffeeportal.com/news/slow-coffee-festival-europes-hidden-gem/
+- 2026-07-10 | La Marzocco USA arrancó su Ice Cream Social con affogatos y Swiss Water | https://sprudge.com/la-marzocco-is-taking-affogatos-on-the-road-with-ice-cream-social-1098848.html
+- 2026-07-10 | Un modelo matemático para "dialear" espresso saltó a Daily Coffee News | https://dailycoffeenews.com/2026/07/08/mathematical-model-offers-insight-for-dialing-in-espresso/
+- 2026-07-10 | Sprudge Twenty: entrevista a Hafiz Mangalji | https://sprudge.com/hafiz-mangalji-the-sprudge-twenty-interview-1133997.html
+- 2026-07-10 | Lavazza avisa que los precios van a seguir arriba dos años | https://www.worldcoffeeportal.com/news/coffee-prices-to-stay-high-for-the-next-two-years-lavazza-warns/
