@@ -3,15 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-06-26 | Chiapas: arman una coalición para 500 cafetaleras | https://dailycoffeenews.com/2026/06/25/women-powered-coffee-coalition-launches-with-focus-on-chiapas-mexico/
-- 2026-06-26 | Uganda estrena marca país en Brussels: "It's in Our Nature" | https://chimpreports.com/uganda-launches-first-national-coffee-brand-in-brussels/
-- 2026-06-26 | Cerrado Mineiro juega su carta regenerativa en Bruselas | https://www.comunicaffe.com/cerrado-mineiro-world-of-coffee-brussels-2026-regenerative-coffee/
-- 2026-06-26 | El café europeo mueve 84.400 millones de euros | https://www.comunicaffe.com/coffee-economy-europe-1-5-million-jobs-84-4-billion-eu27
-- 2026-06-26 | Acaia Horizon: modular la presión después de la extracción | https://dailycoffeenews.com/2026/05/04/the-acaia-horizon-explores-the-range-of-a-brewed-coffee/
-- 2026-06-26 | Vietnam Coffee Report: producción al alza por tercer año seguido | https://dailycoffeenews.com/2026/06/24/vietnam-coffee-report-production-rising-for-third-straight-year/
-- 2026-06-26 | Tropicalia y Caferatto, en el ranking The World's 100 Best Coffee Shops 2026 | https://www.portafolio.co/tendencias/sociales/dos-cafeterias-colombianas-entre-las-mejores-100-del-mundo-para-2026-donde-quedan-y-que-ofrecen-488717.html
-- 2026-06-26 | São Paulo Coffee Festival arrancó hoy con la línea "Florada" de 3 Corações | https://tramp.com.br/lifestyle/gastronomia/sao-paulo-coffee-festival-2026-reune-mais-de-110-marcas-e-traz-lancamento-da-linha-florada-da-3-coracoes/
-- 2026-06-26 | Tim Hortons acelera su expansión por Maryland, D.C., Filadelfia y San Antonio | https://www.qsrmagazine.com/story/tim-hortons-u-s-ready-to-unlock-the-future-after-breakthrough-year/
 - 2026-06-27 | Heineken le pisa el café a KDP: se lleva a Rafael Oliveira como CEO | https://www.comunicaffe.com/heineken-names-rafael-oliveira-head-of-kdps-coffee-operating-unit-as-chief-executive-officer/
 - 2026-06-27 | Coca-Cola llama a los bomberos por Costa Coffee | https://www.worldcoffeeportal.com/news/coca-cola-reportedly-exploring-corporate-restructure-of-costa-coffee-business/
 - 2026-06-27 | El 10 le pone café al Mundial: Juan Valdez se alía con James Rodríguez | https://www.gcrmag.com/juan-valdez-partners-with-colombian-world-cup-hero/
@@ -127,3 +118,13 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-07-10 | Un modelo matemático para "dialear" espresso saltó a Daily Coffee News | https://dailycoffeenews.com/2026/07/08/mathematical-model-offers-insight-for-dialing-in-espresso/
 - 2026-07-10 | Sprudge Twenty: entrevista a Hafiz Mangalji | https://sprudge.com/hafiz-mangalji-the-sprudge-twenty-interview-1133997.html
 - 2026-07-10 | Lavazza avisa que los precios van a seguir arriba dos años | https://www.worldcoffeeportal.com/news/coffee-prices-to-stay-high-for-the-next-two-years-lavazza-warns/
+- 2026-07-11 | Bolivia ya tiene campeones: Corico y Velasco arman valija para 2027 | https://abi.bo/bolivia-ya-tiene-a-sus-campeones-nacionales-de-cafe-que-competiran-internacionalmente-en-2027/
+- 2026-07-11 | Uganda paga un récord: un Geisha se vendió a US$ 350,02 el kilo | https://dailycoffeenews.com/2026/07/10/weekly-coffee-news-the-hello-operator-tour-uganda-auction-milestone/
+- 2026-07-11 | El Salvador se sienta a catar en Busan y coquetea con Corea | https://lapagina.com.sv/general/promueven-cafe-salvadoreno-en-industria-cafetalera-en-corea/
+- 2026-07-11 | La industria del café en EE.UU. le pide a Trump que exente al instantáneo | https://perfectdailygrind.com/2026/07/coffee-news-recap-10-july-2026/
+- 2026-07-11 | Cimbali le gana la batalla a los truchos de Slayer en China | https://www.comunicaffe.com/cimbali-group-slayer-case-china-court-appeal
+- 2026-07-11 | Blue Bottle lanza un Geisha lavado cultivado en California (Frinj Coffee) | https://www.themanual.com/food-and-drink/blue-bottle-coffee/
+- 2026-07-11 | Blue Tokai apunta a triplicar sucursales en India y llegar a 800 | https://www.bloomberg.com/news/articles/2026-07-08/starbucks-india-rival-blue-tokai-aims-to-triple-store-count-in-four-years
+- 2026-07-11 | Wayne's Coffee Suecia se declara en quiebra por deudas de alquiler | https://swedenherald.com/article/swedish-coffee-chain-waynes-coffee-files-for-bankruptcy-over-rent-debts
+- 2026-07-11 | Uganda: exportaciones caen 22% en volumen y 38% en ingresos en mayo | https://portal.datagro.com/en/coffee/3/1163417/uganda-coffee-exports-fall-22-in-volume-and-38-in-revenue-in-may
+- 2026-07-11 | Erica Escalante arranca el "Hello Operator Tour" con talleres para baristas en 9 ciudades de EE.UU. | https://dailycoffeenews.com/2026/07/10/weekly-coffee-news-the-hello-operator-tour-uganda-auction-milestone/
