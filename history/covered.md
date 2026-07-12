@@ -3,15 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-06-27 | Heineken le pisa el café a KDP: se lleva a Rafael Oliveira como CEO | https://www.comunicaffe.com/heineken-names-rafael-oliveira-head-of-kdps-coffee-operating-unit-as-chief-executive-officer/
-- 2026-06-27 | Coca-Cola llama a los bomberos por Costa Coffee | https://www.worldcoffeeportal.com/news/coca-cola-reportedly-exploring-corporate-restructure-of-costa-coffee-business/
-- 2026-06-27 | El 10 le pone café al Mundial: Juan Valdez se alía con James Rodríguez | https://www.gcrmag.com/juan-valdez-partners-with-colombian-world-cup-hero/
-- 2026-06-27 | Hawái suma a Kauai y Lana'i a la lista de islas con broca | https://dab.hawaii.gov/blog/main/expansion-of-coffee-berry-borer-infested-area-to-include-the-islands-of-lana%CA%BBi-and-kaua%CA%BBi/
-- 2026-06-27 | En Alemania, Coffee Fellows vuelve a manos de la familia fundadora | https://www.worldcoffeeportal.com/news/germanys-coffee-fellows-back-under-founding-family-control/
-- 2026-06-27 | Cerrado Mineiro lleva su café regenerativo a Brussels | https://www.comunicaffe.com/cerrado-mineiro-regenerative-coffee-world-of-coffee-brussels-2026
-- 2026-06-27 | La Colombe / Chobani: Zona Renacimiento para expansión de US$ 567 millones en Michigan | https://www.michiganbusiness.org/press-releases/2026/03/chobani-expansion-of-la-colombe-in-norton-shores/
-- 2026-06-27 | Rabobank sube el superávit de arábica 2026/27 a 9,5 millones de sacas | https://www.comunicaffe.com/rabobank-and-hedgepoint-forecast-record-production-and-a-rebalancing-of-the-market-in-2026-27/
-- 2026-06-27 | Vixxo lanza reparación de equipamiento de café con IA en Dallas, Phoenix y Denver | https://perfectdailygrind.com/2026/06/coffee-news-recap-26-june-2026/
 - 2026-06-28 | Best of Panama arranca su 30ª edición con pruebas de ADN | https://www.infobae.com/panama/2026/06/27/panama-inicia-la-carrera-para-elegir-los-cafes-mas-exclusivos-del-mundo/
 - 2026-06-28 | World of Coffee Brussels define a sus finalistas mundiales | https://wcc.coffee/latest-news/world-latte-art-championship-the-world-coffee-in-good-spirits-championship-and-cezveibrik-championship-head-to-lisbon-in-2027-78y6b
 - 2026-06-28 | Kauai Coffee firma a 15 años y salva 140 puestos | https://dailycoffeenews.com/2026/06/26/kauai-coffee-inks-long-term-lease-after-months-of-uncertainty/
@@ -128,3 +119,12 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-07-11 | Wayne's Coffee Suecia se declara en quiebra por deudas de alquiler | https://swedenherald.com/article/swedish-coffee-chain-waynes-coffee-files-for-bankruptcy-over-rent-debts
 - 2026-07-11 | Uganda: exportaciones caen 22% en volumen y 38% en ingresos en mayo | https://portal.datagro.com/en/coffee/3/1163417/uganda-coffee-exports-fall-22-in-volume-and-38-in-revenue-in-may
 - 2026-07-11 | Erica Escalante arranca el "Hello Operator Tour" con talleres para baristas en 9 ciudades de EE.UU. | https://dailycoffeenews.com/2026/07/10/weekly-coffee-news-the-hello-operator-tour-uganda-auction-milestone/
+- 2026-07-12 | Salta se puso el delantal: arrancó Origen, la primera expo de café del norte | https://dossierweb.com.ar/expo-cafe-de-especialidad-origen-reunira-en-salta-a-productores-baristas-y-emprendedores-del-sector/
+- 2026-07-12 | Venezuela suspendió su encuentro de especialidad tras el sismo doble | https://eicev.cafe/
+- 2026-07-12 | Rosslyn Coffee llegó a 10 cafés en Londres y se plantó como el mejor de la ciudad | https://www.hospitalityandcateringnews.com/2026/07/a-true-londoner-rosslyn-opens-tenth-coffee-shop-beneath-bow-bells-on-cheapside/
+- 2026-07-12 | Starbucks activa los despidos en Seattle: 252 puestos corporativos afuera desde el 17 de julio | https://mynorthwest.com/local/starbucks-layoffs-seattle-employees/4239515
+- 2026-07-12 | Nowwa Coffee, la cadena de las 10.000 tiendas chinas, se planta en Malasia | https://www.worldcoffeeportal.com/news/chinas-nowwa-coffee-has-big-plans-for-malaysia-its-not-alone/
+- 2026-07-12 | Lavazza renueva con Wimbledon hasta 2030 | https://www.worldcoffeeportal.com/news/game-set-and-match-lavazza-renews-wimbledon-partnership/
+- 2026-07-12 | La versión con paywall de la nota de Rosslyn en World Coffee Portal | https://www.worldcoffeeportal.com/news/londons-rosslyn-hits-new-growth-milestone-and-shows-independents-can-still-go-it-alone-in-a-tough-market/
+- 2026-07-12 | Sprudge: selección semanal de granos de tostadores asociados | https://sprudge.com/the-dog-days-of-coffee-are-here-1161962.html
+- 2026-07-12 | El arábica volvió a subir por las lluvias en Brasil | https://finance.yahoo.com/markets/commodities/articles/coffee-prices-surge-brazil-harvest-160727971.html
