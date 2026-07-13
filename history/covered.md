@@ -3,15 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-06-28 | Best of Panama arranca su 30ª edición con pruebas de ADN | https://www.infobae.com/panama/2026/06/27/panama-inicia-la-carrera-para-elegir-los-cafes-mas-exclusivos-del-mundo/
-- 2026-06-28 | World of Coffee Brussels define a sus finalistas mundiales | https://wcc.coffee/latest-news/world-latte-art-championship-the-world-coffee-in-good-spirits-championship-and-cezveibrik-championship-head-to-lisbon-in-2027-78y6b
-- 2026-06-28 | Kauai Coffee firma a 15 años y salva 140 puestos | https://dailycoffeenews.com/2026/06/26/kauai-coffee-inks-long-term-lease-after-months-of-uncertainty/
-- 2026-06-28 | La barista del Mundial: Becky Reeves le pone café a la USMNT | https://sprudge.com/the-real-resident-barista-at-the-world-cup-is-becky-reeves-1101622.html
-- 2026-06-28 | Trung Nguyên Legend mete la pala en Dak Lak | https://www.worldcoffeeportal.com/news/trung-nguyen-legend-increases-investment-in-vietnams-coffee-capital/
-- 2026-06-28 | Cooks Coffee confirma los primeros locales de Esquires en India y Emiratos | https://www.worldcoffeeportal.com/news/cooks-coffee-announces-first-locations-for-upcoming-esquires-international-launches/
-- 2026-06-28 | Unido abre su tercera cafetería panameña en Washington | https://www.comunicaffe.com/unido-brings-panamanian-coffee-and-culture-to-buzzard-point
-- 2026-06-28 | Cambia de dueño la cadena rusa One&Double | https://www.worldcoffeeportal.com/news/new-ownership-for-russian-coffee-chain-one-double/
-- 2026-06-28 | Cómo Filipinas mete ube y pandan en el café de especialidad | https://perfectdailygrind.com/2026/06/philippines-influencing-global-specialty-coffee-culture/
 - 2026-06-29 | Cafecito BA aterrizó en Barrancas de Belgrano | https://www.mibelgrano.com.ar/2026/06/26/cafecito-ba-en-barrancas/
 - 2026-06-29 | Bruselas coronó tres mundiales: China, Malasia y Bélgica arriba | https://www.comunicaffe.com/wcc-in-brussels-china-malaysia-and-belgium-on-top-of-the-world
 - 2026-06-29 | El arábica vuelve a aflojar: Brasil retoma la cosecha | https://www.barchart.com/story/news/3002914/coffee-prices-fall-on-forecasts-for-drier-weather-in-brazil
@@ -128,3 +119,10 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-07-12 | La versión con paywall de la nota de Rosslyn en World Coffee Portal | https://www.worldcoffeeportal.com/news/londons-rosslyn-hits-new-growth-milestone-and-shows-independents-can-still-go-it-alone-in-a-tough-market/
 - 2026-07-12 | Sprudge: selección semanal de granos de tostadores asociados | https://sprudge.com/the-dog-days-of-coffee-are-here-1161962.html
 - 2026-07-12 | El arábica volvió a subir por las lluvias en Brasil | https://finance.yahoo.com/markets/commodities/articles/coffee-prices-surge-brazil-harvest-160727971.html
+- 2026-07-13 | Café y salud: la ciencia le sube el pulgar al hígado | https://sprudge.com/new-study-finds-drinking-coffee-protects-against-liver-disease-cancer-and-death-1138799.html
+- 2026-07-13 | El café de las mujeres del Cerrado se sube al barco a Shanghái | https://www.comunicaffe.com/chinese-company-partners-with-brazilian-cooperative-to-bring-women-produced-specialty-coffees-to-china
+- 2026-07-13 | Londres vuelve a ser sede del summit del café (con el cacao invitado) | https://dailycoffeenews.com/2026/07/09/world-coffee-innovation-summit-returning-to-london-in-october/
+- 2026-07-13 | Global Coffee Awards US & Canadá y Latinoamérica (10 y 12 de agosto en Houston) | https://perfectdailygrind.com/events/global-coffee-awards-us-canada-latin-america-2026/
+- 2026-07-13 | 25° Concurso Estadual Qualidade do Café de São Paulo abre inscripciones | https://www.tribunaribeirao.com.br/de-olho-no-mercado-de-cafes-especiais-sao-paulo-abre-inscricoes-para-25o-concurso-estadual-qualidade-do-cafe/
+- 2026-07-13 | Coalición Bean Voyage apunta a 500 productoras en Chiapas | https://dailycoffeenews.com/2026/06/25/women-powered-coffee-coalition-launches-with-focus-on-chiapas-mexico/
+- 2026-07-13 | Kenia proyecta subir 12% las exportaciones en 2026/27, según USDA | https://www.foodbusinessmea.com/kenya-coffee-exports-forecast-to-rise-12-in-2026-27-usda/
