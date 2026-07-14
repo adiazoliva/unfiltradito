@@ -3,19 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-06-29 | Cafecito BA aterrizó en Barrancas de Belgrano | https://www.mibelgrano.com.ar/2026/06/26/cafecito-ba-en-barrancas/
-- 2026-06-29 | Bruselas coronó tres mundiales: China, Malasia y Bélgica arriba | https://www.comunicaffe.com/wcc-in-brussels-china-malaysia-and-belgium-on-top-of-the-world
-- 2026-06-29 | El arábica vuelve a aflojar: Brasil retoma la cosecha | https://www.barchart.com/story/news/3002914/coffee-prices-fall-on-forecasts-for-drier-weather-in-brazil
-- 2026-06-29 | Best of Panama: el Geisha Washed de La Esmeralda paga récord histórico | https://www.gcrmag.com/best-of-panama-auction-sees-world-record-price/
-- 2026-06-29 | Joe & The Juice desembarca en Irlanda con su primer local | https://perfectdailygrind.com/2026/06/coffee-news-recap-26-june-2026/
-- 2026-06-29 | Cierra el São Paulo Coffee Festival con 16.000 visitantes esperados | https://www.comunicaffe.com/sao-paulo-coffee-festival-2026-returns-with-coffee-culture-and-gastronomy/
-- 2026-06-30 | Cambia de manos The San Franciscan Roaster Company | https://dailycoffeenews.com/2026/06/29/the-san-franciscan-roaster-company-is-under-new-ownership/
-- 2026-06-30 | Klatch y Sprouts suman 11 cafés y pisan San Diego por primera vez | https://sprudge.com/sprouts-farmers-market-expands-partnership-with-klatch-coffee-bringing-in-store-cafes-to-san-diego-1127496.html
-- 2026-06-30 | Kyiv: la comunidad cafetera volvió a levantar persiana tras un ataque ruso | https://www.comunicaffe.com/kyiv-coffee-community-reopens-after-russian-attack/
-- 2026-06-30 | Beantropy desembarca hoy en París con una pregunta filosa | https://perfectdailygrind.com/events/beantropy-2026/
-- 2026-06-30 | Arabica futures rise again due to rain in Brazil, markets fear the arrival of "Godzilla El Niño" | https://www.comunicaffe.com/arabica-futures-rise-again-due-to-rain-in-brazil-markets-fear-the-arrival-of-godzilla-el-nino/
-- 2026-06-30 | Underwood Coffee Overjoyed to Open in Downtown Duluth | https://dailycoffeenews.com/2026/06/29/underwood-coffee-overjoyed-to-open-in-downtown-duluth/
-- 2026-06-30 | Cinnabon launches Seattle's Best Coffee Platform nationwide | https://www.comunicaffe.com/cinnabon-launches-seattles-best-coffee-platform-nationwide-to-drive-beverage-growth
 - 2026-07-01 | La FDA vuelve a mirar de cerca el descafeinado con cloruro de metileno | https://dailycoffeenews.com/2026/06/30/fda-weighs-next-steps-on-decaf-solvent-rules-following-new-comments/
 - 2026-07-01 | Un estudio en Nature Communications muestra cómo el café le habla al cerebro por el intestino | https://dailycoffeenews.com/2026/06/30/study-explores-coffees-gut-brain-effects-in-humans/
 - 2026-07-01 | Costa Rica define sus mejores cafés y calienta motores para la subasta del 9 de julio | https://www.gcrmag.com/costa-rica-cup-of-excellence-2026-sees-30-winners
@@ -126,3 +113,11 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-07-13 | 25° Concurso Estadual Qualidade do Café de São Paulo abre inscripciones | https://www.tribunaribeirao.com.br/de-olho-no-mercado-de-cafes-especiais-sao-paulo-abre-inscricoes-para-25o-concurso-estadual-qualidade-do-cafe/
 - 2026-07-13 | Coalición Bean Voyage apunta a 500 productoras en Chiapas | https://dailycoffeenews.com/2026/06/25/women-powered-coffee-coalition-launches-with-focus-on-chiapas-mexico/
 - 2026-07-13 | Kenia proyecta subir 12% las exportaciones en 2026/27, según USDA | https://www.foodbusinessmea.com/kenya-coffee-exports-forecast-to-rise-12-in-2026-27-usda/
+- 2026-07-14 | Ibagué se pone la camiseta: cinco países en el Café Festival | https://tolimaonline.com/ibague-cafe-festival-2026-se-internacionaliza-y-reunira-a-productores-de-cinco-paises/
+- 2026-07-14 | Vancouver abre una cafetería japonesa sin notebooks (Hiyori Coffee) | https://dailycoffeenews.com/2026/07/13/in-vancouver-bc-hiyori-coffee-finds-its-moment-in-the-sun/
+- 2026-07-14 | Shelbru le pone termo al pour-over: nace el "June Brewer" | https://sprudge.com/the-pour-over-goes-vacuum-insulated-with-shelbrus-new-june-brewer-1178260.html
+- 2026-07-14 | El Niño está cerca, pero el café brasileño ya no es el mismo | https://wtvbam.com/2026/07/13/brazil-coffee-faces-el-nino-headwinds-but-crops-more-resilient/
+- 2026-07-14 | Compose Coffee y Rainbow Robotics arman café con robot barista | https://mbiz.heraldcorp.com/article/10789028
+- 2026-07-14 | Origen Fest en Armenia (Quindío), 19 y 20 de julio | https://perfectdailygrind.com/es/2026/07/10/noticias-de-cafe-global-coffee-awards-ganadores-africa-y-mena/
+- 2026-07-14 | Etiopía cerró el ejercicio con un récord de US$ 3.000 millones en exportaciones de café | https://kilimonews.co.ke/general-news/ethiopia-hits-record-usd-3-billion-in-coffee-export-earnings/
+- 2026-07-14 | Panorama global de robots baristas (Global Coffee Report) | https://www.gcrmag.com/rise-of-the-robot-barista/
