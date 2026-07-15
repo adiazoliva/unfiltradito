@@ -121,3 +121,11 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-07-14 | Origen Fest en Armenia (Quindío), 19 y 20 de julio | https://perfectdailygrind.com/es/2026/07/10/noticias-de-cafe-global-coffee-awards-ganadores-africa-y-mena/
 - 2026-07-14 | Etiopía cerró el ejercicio con un récord de US$ 3.000 millones en exportaciones de café | https://kilimonews.co.ke/general-news/ethiopia-hits-record-usd-3-billion-in-coffee-export-earnings/
 - 2026-07-14 | Panorama global de robots baristas (Global Coffee Report) | https://www.gcrmag.com/rise-of-the-robot-barista/
+- 2026-07-15 | Reformed levanta US$ 22 millones para llevar su café funcional a EE.UU. | https://dailycoffeenews.com/2026/07/14/functional-instant-coffee-seller-reformed-gets-22-million-round/
+- 2026-07-15 | El Coffee Barometer suma un término nuevo al vocabulario: "greenhushing" | https://dailycoffeenews.com/2026/07/14/inside-the-2026-coffee-barometer-part-2-what-companies-are-not-saying/
+- 2026-07-15 | Café con reserva previa: Field Study se muda al modelo "coffee omakase" | https://dailycoffeenews.com/2026/07/14/field-study-coffee-introduces-reservation-only-service-in-brooklyn/
+- 2026-07-15 | Guatemala se anima al robusta: Anacafé estrenó su primer festival | https://perfectdailygrind.com/2026/07/coffee-news-recap-10-july-2026/
+- 2026-07-15 | Merit Coffee abrió su primer local en Houston (West University) | https://houston.culturemap.com/news/restaurants-bars/merit-coffee-west-university-opening/
+- 2026-07-15 | Perú y Guatemala activan un tratado de libre comercio | https://www.riotimesonline.com/peru-guatemala-free-trade-agreement-tariffs-july-2026/
+- 2026-07-15 | Javvy lleva su café con proteína a Walmart en todo EE.UU. | https://www.comunicaffe.com/javvy-expands-to-walmart-nationwide-as-demand-surges-for-its-best-selling-protein-coffee
+- 2026-07-15 | ICO publica su informe mensual con rebote fuerte de precios en junio | https://www.comunicaffe.com/ico-report-sharp-rebound-in-prices-from-early-june-lows-exports-stable-in-the-first-8-months-of-2025-26
