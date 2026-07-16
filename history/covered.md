@@ -3,14 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-07-01 | La FDA vuelve a mirar de cerca el descafeinado con cloruro de metileno | https://dailycoffeenews.com/2026/06/30/fda-weighs-next-steps-on-decaf-solvent-rules-following-new-comments/
-- 2026-07-01 | Un estudio en Nature Communications muestra cómo el café le habla al cerebro por el intestino | https://dailycoffeenews.com/2026/06/30/study-explores-coffees-gut-brain-effects-in-humans/
-- 2026-07-01 | Costa Rica define sus mejores cafés y calienta motores para la subasta del 9 de julio | https://www.gcrmag.com/costa-rica-cup-of-excellence-2026-sees-30-winners
-- 2026-07-01 | Coffee Crafters vuelve al formato chico con la Duo | https://dailycoffeenews.com/2026/06/30/coffee-crafters-returns-to-its-roots-with-new-2-pound-roaster-the-duo/
-- 2026-07-01 | Corea convierte la borra de café mojada en un carbón parecido al antracita en 90 segundos | https://sprudge.com/from-coffee-grounds-to-biochar-in-90-seconds-flat-1098986.html
-- 2026-07-01 | Hala Tree Coffee abre su flagship en Waikīkī el 1 de julio | https://sprudge.com/hala-tree-coffee-expands-with-new-waikiki-flagship-opening-july-2026-at-the-lilia-waikiki-1028531.html
-- 2026-07-01 | El arábica saltó 6,7% por las lluvias que siguen frenando la cosecha en Brasil | https://www.barchart.com/story/news/3036106/arabica-coffee-prices-jump-as-brazil-coffee-harvest
-- 2026-07-01 | Repaso mensual de World Coffee Portal: cambios de C-level en el café durante junio | https://www.worldcoffeeportal.com/news/coffee-industry-senior-appointments-june-2026/
 - 2026-07-02 | El Salvador se coronó: Bernardina de La Esperanza puntea con 91,95 | https://www.gcrmag.com/el-salvador-cup-of-excellence-2026-winners-revealed
 - 2026-07-02 | Vietnam y la resaca del boom robusta: un informe pone números al costo | https://dailycoffeenews.com/2026/07/01/report-says-vietnams-robusta-boom-faces-a-reckoning/
 - 2026-07-02 | Starbucks recula con su meta climática 2030 | https://dailycoffeenews.com/2026/07/01/starbucks-is-actively-reassessing-a-key-climate-pledge-amid-other-sustainability-milestones/
@@ -129,3 +121,12 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-07-15 | Perú y Guatemala activan un tratado de libre comercio | https://www.riotimesonline.com/peru-guatemala-free-trade-agreement-tariffs-july-2026/
 - 2026-07-15 | Javvy lleva su café con proteína a Walmart en todo EE.UU. | https://www.comunicaffe.com/javvy-expands-to-walmart-nationwide-as-demand-surges-for-its-best-selling-protein-coffee
 - 2026-07-15 | ICO publica su informe mensual con rebote fuerte de precios en junio | https://www.comunicaffe.com/ico-report-sharp-rebound-in-prices-from-early-june-lows-exports-stable-in-the-first-8-months-of-2025-26
+- 2026-07-16 | Honduras se juega el 20° aniversario: hoy remata su top 30 (Cup of Excellence) | https://allianceforcoffeeexcellence.org/honduras-2026/
+- 2026-07-16 | Florida quiere ser el próximo origen: estudio de la Universidad de Florida en Crop Science | https://sprudge.com/americas-next-hotbed-for-coffee-production-is-florida-1180016.html
+- 2026-07-16 | La cáscara del café baja el colesterol: ensayo tailandés con extracto de pulpa | https://dailycoffeenews.com/2026/07/15/industry-backed-study-says-coffee-pulp-extract-may-lower-cholesterol/
+- 2026-07-16 | Veinte años de investigación en sostenibilidad del café: mucho ruido y borra que va al basural | https://dailycoffeenews.com/2026/07/15/review-coffee-sustainability-research-is-growing-but-fragmented/
+- 2026-07-16 | European Coffee & Hospitality Awards 2026 abren nominaciones | https://www.worldcoffeeportal.com/news/nominations-are-now-open-for-the-european-coffee-hospitality-awards-2026/
+- 2026-07-16 | Vixxo lanza plataforma de reparación de equipos para cafeterías en EE.UU. | https://dailycoffeenews.com/2026/07/15/vixxo-launches-cafe-solutions-platform-pairing-techs-with-cafe-operators/
+- 2026-07-16 | DeLonghi acelera lanzamientos globales con Brad Pitt como imagen | https://www.comunicaffe.com/delonghi-group-global-growth-strategy-record-product-launches
+- 2026-07-16 | Sodexo UK abre su Barista Collective | https://www.comunicaffe.com/sodexo-uk-unveils-its-barista-collective-putting-craft-and-careers-at-the-heart-of-its-training
+- 2026-07-16 | Arábica cerró en US$ 3,28 por libra el 15 de julio | https://tradingeconomics.com/commodity/coffee
