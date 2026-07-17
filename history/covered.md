@@ -3,14 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-07-02 | El Salvador se coronó: Bernardina de La Esperanza puntea con 91,95 | https://www.gcrmag.com/el-salvador-cup-of-excellence-2026-winners-revealed
-- 2026-07-02 | Vietnam y la resaca del boom robusta: un informe pone números al costo | https://dailycoffeenews.com/2026/07/01/report-says-vietnams-robusta-boom-faces-a-reckoning/
-- 2026-07-02 | Starbucks recula con su meta climática 2030 | https://dailycoffeenews.com/2026/07/01/starbucks-is-actively-reassessing-a-key-climate-pledge-amid-other-sustainability-milestones/
-- 2026-07-02 | Sprudge Twenty 2026: los nombres que empujan el café este año | https://sprudge.com/the-sprudge-twenty-class-of-2026-presented-by-pacific-barista-series-1012660.html
-- 2026-07-02 | Current State Coffee abre su primera cafetería en Shawnee, Kansas | https://dailycoffeenews.com/2026/07/01/current-state-coffees-first-cafe-is-presently-open-in-shawnee-kansas/
-- 2026-07-02 | Merit Coffee anuncia su desembarco en Houston con tres locales | https://www.prnewswire.com/news-releases/merit-coffee-announces-expansion-into-houston-with-three-new-cafe-locations-302798528.html
-- 2026-07-02 | Informe original "Vietnam's Robusta Reckoning" en Coffee Watch | https://coffeewatch.org/vietnams-robustas-reckoning/
-- 2026-07-02 | Reporte de Impacto 2025 de Starbucks (nota corporativa) | https://about.starbucks.com/press/2026/starbucks-2025-impact-report-progress-investments-and-results-across-coffee-opportunity-community-and-environment/
 - 2026-07-03 | Coffee Barometer 2026: los precios suben, la estructura no se mueve | https://dailycoffeenews.com/2026/07/02/inside-the-coffee-barometer-part-1-prices-swing-structures-dont/
 - 2026-07-03 | illy se lleva su ready-to-drink de EE.UU. a la fábrica de Westrock | https://www.comunicaffe.com/illycaffe-signs-a-multi-product-manufacturing-agreement-with-westrock-coffee-company-to-strengthen-its-strategic-presence-in-the-states
 - 2026-07-03 | Royal Coffee empieza a devolver los aranceles a sus tostadores | https://sprudge.com/royal-coffee-begins-issuing-ieepa-tariff-credits-as-cbp-returns-duties-to-importers-1138876.html
@@ -130,3 +122,12 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-07-16 | DeLonghi acelera lanzamientos globales con Brad Pitt como imagen | https://www.comunicaffe.com/delonghi-group-global-growth-strategy-record-product-launches
 - 2026-07-16 | Sodexo UK abre su Barista Collective | https://www.comunicaffe.com/sodexo-uk-unveils-its-barista-collective-putting-craft-and-careers-at-the-heart-of-its-training
 - 2026-07-16 | Arábica cerró en US$ 3,28 por libra el 15 de julio | https://tradingeconomics.com/commodity/coffee
+- 2026-07-17 | Bruselas mete al café instantáneo en la ley antideforestación | https://dailycoffeenews.com/2026/07/16/european-commission-adds-soluble-coffee-to-eudr-product-list/
+- 2026-07-17 | Colombia cerró el semestre en rojo: -10% en producción, -18% en exportaciones | https://www.semana.com/economia/empresas/articulo/produccion-de-cafe-cerro-el-primer-semestre-con-una-caida-del-10-pese-al-repunte-de-junio/202643/
+- 2026-07-17 | Robusta al alza: Vietnam mira el cielo con miedo a El Niño | https://e.vnexpress.net/news/news/environment/world-s-top-robusta-supplier-faces-its-strongest-el-ni-o-in-70-years-5086977.html
+- 2026-07-17 | Black Sheep, la cadena del robusta de especialidad, prepara desembarco europeo | https://www.worldcoffeeportal.com/news/uks-black-sheep-coffee-gearing-up-for-new-european-launch/
+- 2026-07-17 | Coffee LATAM 2026: Campinas se pone el saco de anfitrión los días 27 y 28 | https://informaconnect.com/coffee-latam/
+- 2026-07-17 | Della Coffee abre "Della Coffee + Wine" en Richmond, Texas | https://dailycoffeenews.com/2026/07/16/houstons-della-coffee-pours-another-one-in-richmond-texas/
+- 2026-07-17 | Productores del Pacífico cerraron US$ 2,3 millones en negocios en Melbourne | https://www.comunicaffe.com/pacific-coffee-strikes-2-3-million-in-deals-in-melbourne
+- 2026-07-17 | Highlights de World of Coffee Brussels — parte 2 | https://www.baristamagazine.com/highlights-from-world-of-coffee-brussels-2026-part-two/
+- 2026-07-17 | Arábica cerró en US$ 3,13 por libra el 16 de julio, cayendo 3,98% | https://tradingeconomics.com/commodity/coffee
