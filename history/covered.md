@@ -3,16 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-07-03 | Coffee Barometer 2026: los precios suben, la estructura no se mueve | https://dailycoffeenews.com/2026/07/02/inside-the-coffee-barometer-part-1-prices-swing-structures-dont/
-- 2026-07-03 | illy se lleva su ready-to-drink de EE.UU. a la fábrica de Westrock | https://www.comunicaffe.com/illycaffe-signs-a-multi-product-manufacturing-agreement-with-westrock-coffee-company-to-strengthen-its-strategic-presence-in-the-states
-- 2026-07-03 | Royal Coffee empieza a devolver los aranceles a sus tostadores | https://sprudge.com/royal-coffee-begins-issuing-ieepa-tariff-credits-as-cbp-returns-duties-to-importers-1138876.html
-- 2026-07-03 | Costa Coffee reset: Coca-Cola mueve fichas y trae peso pesado | https://www.worldcoffeeportal.com/news/costa-coffee-reset-underway-as-coca-cola-appoints-new-senior-leaders/
-- 2026-07-03 | 68% de los baristas dice haber sufrido burnout: encuesta 2026 | https://www.baristamagazine.com/mental-health-as-a-cafe-management-priority/
-- 2026-07-03 | How India's Nothing Before Coffee is winning over Gen Z with ₹300 'shrappes' | https://www.worldcoffeeportal.com/news/how-indias-nothing-before-coffee-is-winning-over-gen-z-with-300-shrappes/
-- 2026-07-03 | CAYE secures nearly RMB 400 million in Series B funding | https://www.comunicaffe.com/caye-series-b-funding-rmb-400-million-commercial-coffee-machines/
-- 2026-07-03 | Build-Outs Of Coffee: Hala Tree Coffee In Honolulu, HI | https://sprudge.com/build-outs-of-coffee-hala-tree-coffee-in-honolulu-hi-1026543.html
-- 2026-07-03 | China to host the most important meeting on coffee science | https://www.comunicaffe.com/experiment-aims-to-identify-if-coffee-flavour-can-be-affected-by-music/
-- 2026-07-03 | Is This The Coolest Custom La Marzocco Linea Ever? | https://sprudge.com/is-this-the-coolest-custom-la-marzocco-linea-ever-1138051.html
 - 2026-07-04 | Etiopía se pone la vara alta: quiere duplicar rindes y facturar US$ 6.000 millones | https://www.foodbusinessmea.com/ethiopia-launches-national-coffee-strategy-to-double-production-increase-export-revenue/
 - 2026-07-04 | Sicilia se anima al café: la primera plantación italiana ya cosecha 30 kg | https://dailycoffeenews.com/2026/07/03/weekly-coffee-news-tariff-credits-growing-coffee-in-sicily/
 - 2026-07-04 | Baleares le baja el pulgar a las cápsulas de aluminio y plástico | https://www.comunicaffe.com/the-balearic-islands-in-spain-have-banned-aluminium-and-plastic-capsules-only-compostable-or-easily-recyclable-capsules-are-now-permitted-on-the-islands-whilst-paper-pods-remain-legal
@@ -131,3 +121,13 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-07-17 | Productores del Pacífico cerraron US$ 2,3 millones en negocios en Melbourne | https://www.comunicaffe.com/pacific-coffee-strikes-2-3-million-in-deals-in-melbourne
 - 2026-07-17 | Highlights de World of Coffee Brussels — parte 2 | https://www.baristamagazine.com/highlights-from-world-of-coffee-brussels-2026-part-two/
 - 2026-07-17 | Arábica cerró en US$ 3,13 por libra el 16 de julio, cayendo 3,98% | https://tradingeconomics.com/commodity/coffee
+- 2026-07-18 | Coffee Wheel: Apóstoles ya tiene su primera cafetería de especialidad | https://misionesonline.net/2026/07/17/coffee-wheel-el-primer-cafe-de-especialidad-de-apostoles/
+- 2026-07-18 | Honduras rompió récord: Spirit Origin se llevó de nuevo el lote #1 | https://www.comunicaffe.com/spirit-origin-wins-top-lot-at-record-breaking-honduras-cup-of-excellence-for-second-straight-year
+- 2026-07-18 | Puerto Antioquia estrena ruta cafetera: Urabá exporta por primera vez | https://colombiaone.com/2026/07/17/colombia-makes-its-first-coffee-export-from-puerto-antioquia-in-uraba/
+- 2026-07-18 | Daria Bila es la nueva campeona barista del Reino Unido | https://perfectdailygrind.com/2026/07/coffee-news-recap-17-jul-2026/
+- 2026-07-18 | La FDA se mete con la cafeína: guía de etiquetado en carpeta 2026 | https://dailycoffeenews.com/2026/07/17/fda-eyes-caffeine-labeling-as-a-2026-priority/
+- 2026-07-18 | Brasil cerró la campaña 2025/26 con exportaciones en baja: 38,5 millones de sacas, -15,7% | https://www.comunicaffe.com/brazilian-coffee-exports-fell-sharply-in-crop-year-2025-26-to-38-5-million-bags-15-7-but-rebounded-strongly-in-june-16-9
+- 2026-07-18 | All Day Roasting (Taipei) se llevó los Global Coffee Awards Asia | https://perfectdailygrind.com/2026/07/global-coffee-awards-best-roasters-asia/
+- 2026-07-18 | CQI y la Asociación Brasileña de Cafés Especiales firmaron acuerdo educativo | https://www.gcrmag.com/cqis-education-to-become-more-accessible-to-brazilian-producers
+- 2026-07-18 | EE.UU. confirma la exención de aranceles para el café (incluido el instantáneo) | https://dailycoffeenews.com/2026/07/17/weekly-coffee-news-cqi-in-brazil-another-coffee-festival/
+- 2026-07-18 | La Cámara de Comercio de El Cairo dice que 80% del café en Egipto es adulterado | https://www.egyptindependent.com/egypts-coffee-crisis-up-to-80-of-market-flooded-with-fake-blends/
