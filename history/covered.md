@@ -3,14 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-07-04 | Etiopía se pone la vara alta: quiere duplicar rindes y facturar US$ 6.000 millones | https://www.foodbusinessmea.com/ethiopia-launches-national-coffee-strategy-to-double-production-increase-export-revenue/
-- 2026-07-04 | Sicilia se anima al café: la primera plantación italiana ya cosecha 30 kg | https://dailycoffeenews.com/2026/07/03/weekly-coffee-news-tariff-credits-growing-coffee-in-sicily/
-- 2026-07-04 | Baleares le baja el pulgar a las cápsulas de aluminio y plástico | https://www.comunicaffe.com/the-balearic-islands-in-spain-have-banned-aluminium-and-plastic-capsules-only-compostable-or-easily-recyclable-capsules-are-now-permitted-on-the-islands-whilst-paper-pods-remain-legal
-- 2026-07-04 | Cambio de guardia en la Hanns R. Neumann Stiftung, referente del café sostenible | https://dailycoffeenews.com/2026/07/01/nonprofit-hrns-enters-new-era-as-longtime-director-michael-opitz-steps-down/
-- 2026-07-04 | TheVenti desembarca en Filipinas: la cadena coreana de vasos gigantes cruza el mar | https://insideretail.asia/2026/07/02/south-korean-coffee-chain-theventi-enters-sea-with-philippine-debut/
-- 2026-07-04 | London's Coffee Studio Battles Hospitality Giant Mitchells & Butlers Over Trademark | https://streamlinefeed.co.ke/news/coffee-studio-battles-mitchells-butlers-trademark-eat-drink-work
-- 2026-07-04 | Se prevé que la cosecha de café de Brasil para 2026/27 aumente un 13,5% | https://revistacultivar-es.com/noticias/safra-de-cafe-2026-27-no-brasil-deve-avancar-13-5
-- 2026-07-04 | Empresas de cacao, café y aguacate impulsan negocios sostenibles en Guatemala | https://www.infobae.com/guatemala/2026/07/03/empresas-de-cacao-cafe-y-aguacate-impulsan-negocios-sostenibles-en-guatemala/
 - 2026-07-05 | Colombia respira: junio dio un salto del 43% en producción | https://www.infobae.com/america/agencias/2026/07/03/la-produccion-cafetera-de-colombia-crece-un-43-en-junio-aunque-persiste-baja-exportacion/
 - 2026-07-05 | El AeroPress mundial se muda a la Ciudad de México | https://worldaeropresschampionship.com/pages/mexico-2026
 - 2026-07-05 | Muvna Mammoth: el molino con burr intercambiable | https://dailycoffeenews.com/2026/07/02/muvna-takes-a-mammoth-step-into-modular-grinding/
@@ -131,3 +123,14 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-07-18 | CQI y la Asociación Brasileña de Cafés Especiales firmaron acuerdo educativo | https://www.gcrmag.com/cqis-education-to-become-more-accessible-to-brazilian-producers
 - 2026-07-18 | EE.UU. confirma la exención de aranceles para el café (incluido el instantáneo) | https://dailycoffeenews.com/2026/07/17/weekly-coffee-news-cqi-in-brazil-another-coffee-festival/
 - 2026-07-18 | La Cámara de Comercio de El Cairo dice que 80% del café en Egipto es adulterado | https://www.egyptindependent.com/egypts-coffee-crisis-up-to-80-of-market-flooded-with-fake-blends/
+- 2026-07-19 | Cafento se lleva McCabe's y se afianza en Irlanda | https://www.rte.ie/news/business/2026/0717/1583882-mccabes-cafento/
+- 2026-07-19 | Los importadores yanquis empiezan a devolver los aranceles cobrados de más | https://sprudge.com/some-green-coffee-importers-are-now-issuing-tariff-refunds-1181963.html
+- 2026-07-19 | Starbucks llega a Georgia de la mano de Alshaya | https://www.worldcoffeeportal.com/news/alshaya-group-expands-licensed-starbucks-business-with-georgia-launch/
+- 2026-07-19 | Verve estrena un descafeinado con caña colombiana (Long Play) | https://www.vervecoffee.com/products/long-play-decaf
+- 2026-07-19 | Blue Tokai desembarca en Dubai y apunta al Golfo (BurJuman Mall) | https://mid-east.info/indias-specialty-coffee-pioneer-blue-tokai-enters-the-gcc-market-with-first-uae-cafe-in-dubai/
+- 2026-07-19 | World Coffee Portal — Cafento adquiere McCabe's (paywall) | https://www.worldcoffeeportal.com/news/spains-cafento-snaps-up-second-irish-coffee-roaster/
+- 2026-07-19 | Every Half (Vietnam) levanta US$ 8 millones Serie A | https://www.rli.uk.com/every-half-brews-up-8m-series-a-for-expansion/
+- 2026-07-19 | Rwanda-Aston Villa: contrato de US$ 26M para café ruandés en la Premier League | https://africa.businessinsider.com/local/lifestyle/rwandan-coffee-heads-to-the-premier-league-through-aston-villas-dollar26-million-a/nzgphl4
+- 2026-07-19 | Kenia envía su primer contenedor de café verde a Italia por el puerto de Trieste | https://www.logupdateafrica.com/trade/kenya-ships-first-green-coffee-consignment-to-italy-eyes-eu-market-1359888
+- 2026-07-19 | Miko compra la noruega Kronen Kaffe (75%) | https://manda.be/articles/miko-is-expanding-internationally-through-a-buy-and-build-strategy/
+- 2026-07-19 | SCA anuncia los sponsors del World Barista Championship 2026-27 | https://wcc.coffee/latest-news/announcing-the-2026-2027-world-barista-championship-qualified-sponsors
