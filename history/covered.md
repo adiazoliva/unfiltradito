@@ -3,22 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-07-05 | Colombia respira: junio dio un salto del 43% en producción | https://www.infobae.com/america/agencias/2026/07/03/la-produccion-cafetera-de-colombia-crece-un-43-en-junio-aunque-persiste-baja-exportacion/
-- 2026-07-05 | El AeroPress mundial se muda a la Ciudad de México | https://worldaeropresschampionship.com/pages/mexico-2026
-- 2026-07-05 | Muvna Mammoth: el molino con burr intercambiable | https://dailycoffeenews.com/2026/07/02/muvna-takes-a-mammoth-step-into-modular-grinding/
-- 2026-07-05 | Si el vaso rasca, el café parece más ácido: estudio japonés sobre textura y percepción | https://en.sedaily.com/finance/2026/07/01/cup-sleeve-texture-alters-coffee-sourness-japanese-study
-- 2026-07-05 | Löfbergs invierte fuerte en una línea para grano entero | https://www.comunicaffe.com/lofbergs-new-packaging-line-whole-bean-coffee-karlstad
-- 2026-07-05 | Perfect Daily Grind: recap semanal del 3 de julio | https://perfectdailygrind.com/2026/07/coffee-news-recap-3-july-2026/
-- 2026-07-05 | World Coffee Portal sobre la inversión de Löfbergs en grano entero | https://www.worldcoffeeportal.com/news/lofbergs-announces-multi-million-sek-investment-in-wholebean-production/
-- 2026-07-05 | Coffee Talk sobre el estudio japonés de textura de vaso | https://coffeetalk.com/daily-dose/top-news/06-2026/110341/
-- 2026-07-06 | Los mercados emergentes empiezan a comerles la cancha a los históricos | https://perfectdailygrind.com/2026/07/barista-competitors-emerging-specialty-coffee-markets/
-- 2026-07-06 | Starbucks México cerró la 12ª edición de "Todos Sembramos Café" | https://historias.starbucks.com/en-es/press/2026/starbucks-mexico-launches-a-new-edition-of-todos-sembramos-cafe-to-help-strengthen-the-future-of-coffee-growing-communities/
-- 2026-07-06 | Guatemala: los caficultores le meten harina de malanga al ingreso familiar | https://www.comunicaffe.com/but-coffee-is-not-the-only-crop-guatemalan-farmers-are-turning-taro-flour-into-a-new-source-of-income
-- 2026-07-06 | Un tostador de Montreal se juega por un equipo italiano y baja 50% su huella | https://www.comunicaffe.com/escape-cafe-installs-low-emission-roaster-made-by-imf-reducing-natural-gas-use-per-kilogram
-- 2026-07-06 | Java Factory lanza "Flavor 52": 52 nuevos sabores de café en 52 semanas | https://www.prnewswire.com/news-releases/java-factory-announces-flavor-52-52-new-coffee-flavors-in-52-consecutive-weeks-302815330.html
-- 2026-07-06 | Sprudge: la selección semanal de cafés de los tostadores asociados | https://sprudge.com/life-is-like-a-curated-selection-of-coffees-you-never-know-what-youre-going-to-get-1141522.html
-- 2026-07-06 | Actualización trimestral Q3 del equipo de investigación de World Coffee Portal | https://www.worldcoffeeportal.com/news/your-q3-2026-update-from-the-world-coffee-portal-research-team/
-- 2026-07-06 | El arábica retrocede a US$ 3,04/lb tras el rally por lluvias en Brasil | https://tradingeconomics.com/commodity/coffee
 - 2026-07-07 | Mar del Plata se pone la camiseta: Coffee Cup el 25 y 26 de julio | https://www.lacapitalmdp.com/mar-del-plata-sera-sede-de-la-coffee-cup-2026-la-expo-de-cafe-de-especialidad/
 - 2026-07-07 | Correntino y arábica: en Empedrado ya proyectan cosecha para 2027 | https://www.perfil.com/noticias/nea/cafe-correntino-avanza-un-ensayo-historico-en-empedrado-y-proyectan-la-primera-cosecha-para-2027.phtml
 - 2026-07-07 | África del Este vivió el techo del ciclo: ahora empieza a caer el precio | https://favaherb.com/2026/07/06/east-africa-coffee-record-exports-looming-price-correction/
@@ -134,3 +118,11 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-07-19 | Kenia envía su primer contenedor de café verde a Italia por el puerto de Trieste | https://www.logupdateafrica.com/trade/kenya-ships-first-green-coffee-consignment-to-italy-eyes-eu-market-1359888
 - 2026-07-19 | Miko compra la noruega Kronen Kaffe (75%) | https://manda.be/articles/miko-is-expanding-internationally-through-a-buy-and-build-strategy/
 - 2026-07-19 | SCA anuncia los sponsors del World Barista Championship 2026-27 | https://wcc.coffee/latest-news/announcing-the-2026-2027-world-barista-championship-qualified-sponsors
+- 2026-07-20 | Espresso con ondas de sonido: la ciencia dice que se puede (UNSW ultrasonic espresso) | https://perfectdailygrind.com/2026/07/what-is-ultrasonic-espresso/
+- 2026-07-20 | "El especialty se pasó de rosca": el manifiesto de Ana Rubio en Rebeldes Coffee (Madrid) | https://www.que.es/2026/07/20/ana-rubio-esnobismo-cafe-especialidad/
+- 2026-07-20 | Perú arranca 2026 pisando fuerte: exportaciones de café +71,9% en el primer bimestre | https://elcomercio.pe/economia/peru/exportaciones-de-cafe-peruano-despegan-con-us1313-millones-en-el-primer-bimestre-del-2026-l-ultimas-noticia/
+- 2026-07-20 | El arábica se desinfla: -4,1% con Brasil mostrando mejor clima | https://tradingeconomics.com/commodity/coffee
+- 2026-07-20 | Café con vinilo: abrió Café Audire en Charlotte (listening lounge) | https://www.jswmediagroup.com/cafe-audire-a-coffee-shop-and-vinyl-listening-lounge-celebrates-grand-opening-on-july-18-in-noda/
+- 2026-07-20 | Illy apuesta a IA aplicada a agricultura regenerativa (Comunicaffe) | https://www.comunicaffe.com/coffee-futures-prices-down-sharply-after-cecafes-positive-data-on-brazilian-exports-in-june-illy-focuses-on-ai-applied-to-regenerative-agriculture
+- 2026-07-20 | Campaña cafetera de Uganda en Copenhague abrió puertas al mercado nórdico | https://nilepost.co.ug/news/355829/ugandas-coffee-campaign-in-denmark-opens-new-export-opportunities-for-local-producers
+- 2026-07-20 | Sprudge: selección semanal de cafés de tostadores asociados | https://sprudge.com/the-only-three-hour-odyssey-im-interested-in-is-my-morning-caffeine-high-1187195.html
