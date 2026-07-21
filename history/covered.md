@@ -126,3 +126,10 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-07-20 | Illy apuesta a IA aplicada a agricultura regenerativa (Comunicaffe) | https://www.comunicaffe.com/coffee-futures-prices-down-sharply-after-cecafes-positive-data-on-brazilian-exports-in-june-illy-focuses-on-ai-applied-to-regenerative-agriculture
 - 2026-07-20 | Campaña cafetera de Uganda en Copenhague abrió puertas al mercado nórdico | https://nilepost.co.ug/news/355829/ugandas-coffee-campaign-in-denmark-opens-new-export-opportunities-for-local-producers
 - 2026-07-20 | Sprudge: selección semanal de cafés de tostadores asociados | https://sprudge.com/the-only-three-hour-odyssey-im-interested-in-is-my-morning-caffeine-high-1187195.html
+- 2026-07-21 | Córdoba se toma un café: arranca Expo Cafeto con dos campeonatos | https://www.revistagente.com/lifestyle/gastronomia/expo-cafeto-degustacion-de-cafe-de-especialidad-pasteleria-y-shows-en-vivo-en-un-evento-imperdible/
+- 2026-07-21 | El café no era solo cafeína: le encontraron un botón antiedad (estudio Texas A&M sobre NR4A1) | https://www.sciencedaily.com/releases/2026/07/260719035927.htm
+- 2026-07-21 | En Pittsburgh abrió una cafetería que puso al productor en la pared (Dynamic Coffee - La Galeria) | https://dailycoffeenews.com/2026/07/20/dynamic-coffee-steadies-focus-on-producers-at-new-pittsburgh-shop/
+- 2026-07-21 | Guatemala calienta motores: se remata el Cup of Excellence el 23 de julio | https://allianceforcoffeeexcellence.org/guatemala-2026/
+- 2026-07-21 | Bar Basso (Milán) elegido "el mejor bar del mundo" 2026 | https://www.comunicaffe.com/bar-basso-milan-best-bar-2026/
+- 2026-07-21 | Etiopía empuja la ceremonia del café al Patrimonio Inmaterial de la UNESCO (Warka Coffee) | https://www.comunicaffe.com/ethiopia-unesco-intangible-heritage-coffee-ceremony-2026/
+- 2026-07-21 | Arábica cerró en US$ 3,19 por libra el 20 de julio, cayendo 0,47% | https://tradingeconomics.com/commodity/coffee
