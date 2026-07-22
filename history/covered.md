@@ -3,14 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-07-07 | Mar del Plata se pone la camiseta: Coffee Cup el 25 y 26 de julio | https://www.lacapitalmdp.com/mar-del-plata-sera-sede-de-la-coffee-cup-2026-la-expo-de-cafe-de-especialidad/
-- 2026-07-07 | Correntino y arábica: en Empedrado ya proyectan cosecha para 2027 | https://www.perfil.com/noticias/nea/cafe-correntino-avanza-un-ensayo-historico-en-empedrado-y-proyectan-la-primera-cosecha-para-2027.phtml
-- 2026-07-07 | África del Este vivió el techo del ciclo: ahora empieza a caer el precio | https://favaherb.com/2026/07/06/east-africa-coffee-record-exports-looming-price-correction/
-- 2026-07-07 | Dosificadores automáticos: la próxima batalla del molino | https://dailycoffeenews.com/2026/07/06/exploring-the-rise-and-measured-drops-of-single-dose-coffee-dispensers/
-- 2026-07-07 | Costa Rica Cup of Excellence: subasta el 9 de julio | https://www.gcrmag.com/costa-rica-cup-of-excellence-2026-sees-30-winners
-- 2026-07-07 | Cup of Excellence Honduras confirmó la subasta para el 16 de julio | https://allianceforcoffeeexcellence.org/honduras-2026/
-- 2026-07-07 | Kenia lanzó su Coffee Hub regional con respaldo de la Cámara de Comercio | https://www.logupdateafrica.com/amp/trade/kncci-backs-kenya-coffee-hub-launch-as-coffee-exports-rise-1359457
-- 2026-07-07 | World Coffee Portal repasa la semana del 29 de junio al 5 de julio | https://www.worldcoffeeportal.com/news/the-week-in-coffee-29-june-5-july-2026/
 - 2026-07-08 | El arábica se puso meme: salto histórico del 16,2% en un solo día | https://www.comunicaffe.com/arabica-coffee-futures-post-unprecedented-gains-over-48-cents-16-2-in-a-single-trading-session-heres-whats-happening
 - 2026-07-08 | Un estudio de Varsovia le pone freno al culto de los 9 bares | https://sprudge.com/new-study-finds-that-your-espresso-shots-may-be-caving-to-pressure-1127780.html
 - 2026-07-08 | Venezuela pone 51 muestras en la mesa del 5º Encuentro Internacional | https://portuguesaaldia.com/muestras-clasificadas-ronda-nacional-eicev-2026/
@@ -133,3 +125,14 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-07-21 | Bar Basso (Milán) elegido "el mejor bar del mundo" 2026 | https://www.comunicaffe.com/bar-basso-milan-best-bar-2026/
 - 2026-07-21 | Etiopía empuja la ceremonia del café al Patrimonio Inmaterial de la UNESCO (Warka Coffee) | https://www.comunicaffe.com/ethiopia-unesco-intangible-heritage-coffee-ceremony-2026/
 - 2026-07-21 | Arábica cerró en US$ 3,19 por libra el 20 de julio, cayendo 0,47% | https://tradingeconomics.com/commodity/coffee
+- 2026-07-22 | Sweet & Coffee sale de Ecuador: Chile es la primera parada | https://www.worldcoffeeportal.com/news/ecuadors-sweet-coffee-to-make-international-debut-in-2027/
+- 2026-07-22 | Sweet & Coffee abrirá su primera franquicia fuera de Ecuador en Chile | https://www.eluniverso.com/noticias/economia/sweet-coffee-primera-franquicia-fuera-de-ecuador-chile-nota/
+- 2026-07-22 | Arábica en mínimos de 19 meses: la súper cosecha brasileña pega fuerte | https://www.stonex.com/en-us/insights/brazil-harvest-pressures-coffee-market-as-arabica-futures-fall-to-19-month-lows/
+- 2026-07-22 | Massimo Zanetti (Segafredo) en la vidriera: media docena de fondos golpea la puerta | https://www.worldcoffeeportal.com/news/massimo-zanetti-beverage-group-valued-at-eur1-2bn-as-multiple-bidders-suggest-sale-imminent/
+- 2026-07-22 | Hyunah Coffee Club: un laboratorio de café con turno previo en Brooklyn | https://sprudge.com/at-brooklyns-hyunah-coffee-club-enthusiasts-get-off-the-internet-and-into-the-lab-1192849.html
+- 2026-07-22 | Vuelven los regionales al US Coffee Championships en 2027 | https://sprudge.com/regionals-return-for-the-2027-us-coffee-championships-season-1214719.html
+- 2026-07-22 | Rejoice! Pope Leo Loves Drinking Coffee (And He Likes It Strong) | https://sprudge.com/rejoice-pope-leo-loves-drinking-coffee-and-he-likes-it-strong-1186669.html
+- 2026-07-22 | Mammoth Coffee llegó a 1.000 tiendas en Corea del Sur | https://www.worldcoffeeportal.com/news/as-mammoth-coffee-reaches-1-000-stores-in-south-korea-its-preparing-for-a-bigger-battle-abroad/
+- 2026-07-22 | Build-Outs Of Coffee: Blue Sparrow Coffee In Denver, CO | https://sprudge.com/build-outs-of-coffee-blue-sparrow-coffee-in-denver-co-1101814.html
+- 2026-07-22 | The largest coffee chain in Cambodia faces an uncertain future | https://www.worldcoffeeportal.com/news/thailands-cafe-amazon-faces-uncertain-future-in-cambodia/
+- 2026-07-22 | Profitable Fore Coffee sticks to the script with disciplined lifestyle-brand growth | https://www.worldcoffeeportal.com/news/profitable-fore-coffee-sticks-to-the-script-with-disciplined-lifestyle-brand-growth/
