@@ -3,13 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-07-08 | El arábica se puso meme: salto histórico del 16,2% en un solo día | https://www.comunicaffe.com/arabica-coffee-futures-post-unprecedented-gains-over-48-cents-16-2-in-a-single-trading-session-heres-whats-happening
-- 2026-07-08 | Un estudio de Varsovia le pone freno al culto de los 9 bares | https://sprudge.com/new-study-finds-that-your-espresso-shots-may-be-caving-to-pressure-1127780.html
-- 2026-07-08 | Venezuela pone 51 muestras en la mesa del 5º Encuentro Internacional | https://portuguesaaldia.com/muestras-clasificadas-ronda-nacional-eicev-2026/
-- 2026-07-08 | Lekko Coffee estrena tostaduría en Cleveland con bandera de sueldo digno | https://dailycoffeenews.com/2026/07/07/lekko-coffee-finds-room-to-grow-in-new-cleveland-roastery/
-- 2026-07-08 | Safra brasileña 2026/27 avanza al 52% con arábica en camino a un récord de 49,95 millones de sacas | https://www.cnnbrasil.com.br/agro/safra-de-cafe-do-brasil-2026-27-chega-a-52-aponta-safras-mercado/
-- 2026-07-08 | Emily Potter en la Sprudge Twenty 2026: la voz del café en Detroit | https://sprudge.com/emily-potter-the-sprudge-twenty-interview-1128140.html
-- 2026-07-08 | Franke Coffee Systems se llevó el Red Dot 2026 con su nueva A Line | https://www.comunicaffe.com/franke-new-a-line-red-dot-award-2026
 - 2026-07-09 | La industria del café en EE.UU. le pide a Trump que no le toque el café brasileño | https://www.worldcoffeeportal.com/news/us-coffee-industry-urges-trump-to-keep-brazilian-coffee-tariff-free-as-market-braces-for-further-price-shock/
 - 2026-07-09 | Lavazza avisa: los precios altos vinieron para quedarse dos años más | https://www.worldcoffeeportal.com/news/coffee-prices-to-stay-high-for-the-next-two-years-lavazza-warns/
 - 2026-07-09 | Sucafina se lleva a Rehm & Co. y refuerza el especialty en Alemania | https://www.worldcoffeeportal.com/news/sucafina-gets-a-firmer-footing-in-europe-with-latest-acquisition/
@@ -136,3 +129,12 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-07-22 | Build-Outs Of Coffee: Blue Sparrow Coffee In Denver, CO | https://sprudge.com/build-outs-of-coffee-blue-sparrow-coffee-in-denver-co-1101814.html
 - 2026-07-22 | The largest coffee chain in Cambodia faces an uncertain future | https://www.worldcoffeeportal.com/news/thailands-cafe-amazon-faces-uncertain-future-in-cambodia/
 - 2026-07-22 | Profitable Fore Coffee sticks to the script with disciplined lifestyle-brand growth | https://www.worldcoffeeportal.com/news/profitable-fore-coffee-sticks-to-the-script-with-disciplined-lifestyle-brand-growth/
+- 2026-07-23 | Mar del Plata se prepara: llega la Coffee Cup con 60 marcas y tres campeonatos | https://puntonoticias.com/mar-del-plata-abre-las-puertas-a-la-mayor-expo-de-cafe-de-especialidad-del-pais/
+- 2026-07-23 | Santiago se pone de vuelta el delantal: séptima edición de ExpoCafé Chile | https://www.cnnchile.com/tendencias/expocafe-chile-2026-llega-a-espacio-riesco-con-mas-de-30-000-visitantes-esperados-seis-campeonatos-nacionales-y-100-000-degustaciones-gratuitas/
+- 2026-07-23 | Café Quindío se mete en la puerta: especialidad frío o caliente por Rappi Turbo | https://www.publimetro.co/gourmetro/2026/07/22/del-quindio-a-la-puerta-de-su-casa-el-cafe-de-especialidad-gana-terreno-en-colombia/
+- 2026-07-23 | Un tostador hogareño con IA sale a Kickstarter hoy: llega el Roma-X | https://www.comunicaffe.com/mago-maga-to-launch-roma-x-ai-home-coffee-roaster-on-kickstarter-july-23
+- 2026-07-23 | Cup of Excellence Guatemala 2026 — auction landing | https://allianceforcoffeeexcellence.org/guatemala-2026/
+- 2026-07-23 | Récord de participación en el Cup of Excellence Guatemala (GCR) | https://www.gcrmag.com/record-participation-in-cup-of-excellence-guatemala/
+- 2026-07-23 | Nestlé podría bajar precios del café (ESM Magazine) | https://www.esmmagazine.com/a-brands/nestle-could-lower-coffee-prices-as-bean-costs-fall-315640
+- 2026-07-23 | Vietnam y el El Niño más fuerte en 70 años (VnExpress) | https://e.vnexpress.net/news/news/environment/world-s-top-robusta-supplier-faces-its-strongest-el-ni-o-in-70-years-5086977.html
+- 2026-07-23 | SPRO Coffee Lab abre en San Francisco (Sprudge Build-Out) | https://sprudge.com/build-outs-of-coffee-spro-coffee-lab-in-san-francisco-cafeteria-1161900.html
