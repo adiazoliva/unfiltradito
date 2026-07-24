@@ -3,16 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-07-09 | La industria del café en EE.UU. le pide a Trump que no le toque el café brasileño | https://www.worldcoffeeportal.com/news/us-coffee-industry-urges-trump-to-keep-brazilian-coffee-tariff-free-as-market-braces-for-further-price-shock/
-- 2026-07-09 | Lavazza avisa: los precios altos vinieron para quedarse dos años más | https://www.worldcoffeeportal.com/news/coffee-prices-to-stay-high-for-the-next-two-years-lavazza-warns/
-- 2026-07-09 | Sucafina se lleva a Rehm & Co. y refuerza el especialty en Alemania | https://www.worldcoffeeportal.com/news/sucafina-gets-a-firmer-footing-in-europe-with-latest-acquisition/
-- 2026-07-09 | Paik's Coffee se rebautiza "DABANG" y sale a comerse el mundo | https://www.worldcoffeeportal.com/news/paiks-coffee-drops-key-part-of-brand-identity-ahead-of-international-push/
-- 2026-07-09 | Después del boom del co-ferment: ¿para dónde va el procesamiento del café? | https://perfectdailygrind.com/2026/07/how-will-coffee-processing-change-from-co-fermentation/
-- 2026-07-09 | Backyard Beans desembarca en 188 supermercados GIANT | https://sprudge.com/backyard-beans-expands-retail-footprint-with-launch-in-the-giant-company-stores-across-four-states-1159672.html
-- 2026-07-09 | ¿Es hora de estandarizar el tamaño del flat white? | https://perfectdailygrind.com/2026/07/standardise-size-of-coffee-milk-drinks-flat-white/
-- 2026-07-09 | Global Coffee Awards coronan a los mejores tostadores de MENA | https://perfectdailygrind.com/2026/07/global-coffee-awards-best-roasters-mena/
-- 2026-07-09 | Galani Coffee (Etiopía) gana los Global Coffee Awards Africa | https://perfectdailygrind.com/2026/07/global-coffee-awards-best-roasters-africa/
-- 2026-07-09 | Actualización: Kauai Coffee cerró el contrato de arrendamiento | https://sprudge.com/update-the-kauai-coffee-company-has-secured-their-land-lease-1138488.html
 - 2026-07-10 | Nestlé mete US$ 688 millones en Tailandia y arma su "smart factory" del Nescafé | https://www.worldcoffeeportal.com/news/nestle-expands-nescafe-production-with-major-southeast-asia-investment/
 - 2026-07-10 | Salta arma su primera Expo Café: este fin de semana, Origen abre la cancha | https://dossierweb.com.ar/expo-cafe-de-especialidad-origen-reunira-en-salta-a-productores-baristas-y-emprendedores-del-sector/
 - 2026-07-10 | Costa Rica remató su Cup of Excellence: Cordero Solano cerró con el Java al frente | https://www.gcrmag.com/costa-rica-cup-of-excellence-2026-sees-30-winners
@@ -138,3 +128,11 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-07-23 | Nestlé podría bajar precios del café (ESM Magazine) | https://www.esmmagazine.com/a-brands/nestle-could-lower-coffee-prices-as-bean-costs-fall-315640
 - 2026-07-23 | Vietnam y el El Niño más fuerte en 70 años (VnExpress) | https://e.vnexpress.net/news/news/environment/world-s-top-robusta-supplier-faces-its-strongest-el-ni-o-in-70-years-5086977.html
 - 2026-07-23 | SPRO Coffee Lab abre en San Francisco (Sprudge Build-Out) | https://sprudge.com/build-outs-of-coffee-spro-coffee-lab-in-san-francisco-cafeteria-1161900.html
+- 2026-07-24 | El Injerto rompe la banca en el Cup of Excellence Guatemala | https://allianceforcoffeeexcellence.org/guatemala-2026/
+- 2026-07-24 | Kafeterija se anima a cruzar la frontera: Serbia desembarca en Bulgaria | https://www.worldcoffeeportal.com/news/serbias-largest-coffee-chain-enters-bulgaria-with-cafe-chain-acquisition/
+- 2026-07-24 | Luckin le suma pantallas al mostrador y avanza en Nueva York | https://www.nrn.com/quick-service/luckin-coffee-adds-kiosks-to-its-new-york-city-locations
+- 2026-07-24 | Fore Coffee cerró junio con 377 locales: Indonesia se planta | https://finance.yahoo.com/news/fore-coffee-launches-concept-south-jakarta-120225195.html
+- 2026-07-24 | El robusta se hunde: Vietnam mira una cosecha de cuatro años | https://www.gcrmag.com/robusta-prices-dropping-as-vietnam-harvest-projections-rise/
+- 2026-07-24 | Costa Rica busca conquistar Corea del Sur con su café de especialidad | https://forbescentroamerica.com/2026/06/04/costa-rica-busca-conquistar-corea-del-sur-con-su-cafe-de-especialidad/
+- 2026-07-24 | Arábica cerca de mínimos de cuatro meses | https://tradingeconomics.com/commodity/coffee/news/511840
+- 2026-07-24 | Otra versión de la nota de los kioskos de Luckin en Yahoo | https://finance.yahoo.com/small-business/articles/luckin-coffee-adds-kiosks-york-182945564.html
