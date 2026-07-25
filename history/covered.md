@@ -3,15 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-07-10 | Nestlé mete US$ 688 millones en Tailandia y arma su "smart factory" del Nescafé | https://www.worldcoffeeportal.com/news/nestle-expands-nescafe-production-with-major-southeast-asia-investment/
-- 2026-07-10 | Salta arma su primera Expo Café: este fin de semana, Origen abre la cancha | https://dossierweb.com.ar/expo-cafe-de-especialidad-origen-reunira-en-salta-a-productores-baristas-y-emprendedores-del-sector/
-- 2026-07-10 | Costa Rica remató su Cup of Excellence: Cordero Solano cerró con el Java al frente | https://www.gcrmag.com/costa-rica-cup-of-excellence-2026-sees-30-winners
-- 2026-07-10 | Arabica se dio vuelta: -8% después del salto histórico del lunes | https://finance.yahoo.com/markets/commodities/articles/coffee-prices-retreat-mondays-highs-155225434.html
-- 2026-07-10 | Bucarest, la capital cafetera que nadie vio venir (Slow Coffee Festival) | https://www.worldcoffeeportal.com/news/slow-coffee-festival-europes-hidden-gem/
-- 2026-07-10 | La Marzocco USA arrancó su Ice Cream Social con affogatos y Swiss Water | https://sprudge.com/la-marzocco-is-taking-affogatos-on-the-road-with-ice-cream-social-1098848.html
-- 2026-07-10 | Un modelo matemático para "dialear" espresso saltó a Daily Coffee News | https://dailycoffeenews.com/2026/07/08/mathematical-model-offers-insight-for-dialing-in-espresso/
-- 2026-07-10 | Sprudge Twenty: entrevista a Hafiz Mangalji | https://sprudge.com/hafiz-mangalji-the-sprudge-twenty-interview-1133997.html
-- 2026-07-10 | Lavazza avisa que los precios van a seguir arriba dos años | https://www.worldcoffeeportal.com/news/coffee-prices-to-stay-high-for-the-next-two-years-lavazza-warns/
 - 2026-07-11 | Bolivia ya tiene campeones: Corico y Velasco arman valija para 2027 | https://abi.bo/bolivia-ya-tiene-a-sus-campeones-nacionales-de-cafe-que-competiran-internacionalmente-en-2027/
 - 2026-07-11 | Uganda paga un récord: un Geisha se vendió a US$ 350,02 el kilo | https://dailycoffeenews.com/2026/07/10/weekly-coffee-news-the-hello-operator-tour-uganda-auction-milestone/
 - 2026-07-11 | El Salvador se sienta a catar en Busan y coquetea con Corea | https://lapagina.com.sv/general/promueven-cafe-salvadoreno-en-industria-cafetalera-en-corea/
@@ -136,3 +127,12 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-07-24 | Costa Rica busca conquistar Corea del Sur con su café de especialidad | https://forbescentroamerica.com/2026/06/04/costa-rica-busca-conquistar-corea-del-sur-con-su-cafe-de-especialidad/
 - 2026-07-24 | Arábica cerca de mínimos de cuatro meses | https://tradingeconomics.com/commodity/coffee/news/511840
 - 2026-07-24 | Otra versión de la nota de los kioskos de Luckin en Yahoo | https://finance.yahoo.com/small-business/articles/luckin-coffee-adds-kiosks-york-182945564.html
+- 2026-07-25 | Regenerativa e ingreso digno: la ecuación que a veces cierra (y a veces no) | https://dailycoffeenews.com/2026/07/23/can-regenerative-coffee-farming-deliver-living-incomes-it-depends-analysis-shows/
+- 2026-07-25 | Brasil se retrasa y el arábica agarra envión el viernes | https://www.barchart.com/story/news/3369070/delays-to-brazils-harvest-push-coffee-prices-higher
+- 2026-07-25 | La IWCA suma tres capítulos y llega a 40 en todo el mundo (BeNeLux, Francia, Ghana) | https://www.womenincoffee.org/chapter-list
+- 2026-07-25 | Vietnam mete US$ 12,5 millones en un instituto de café con inteligencia artificial (Gia Lai) | https://www.gcrmag.com/12m-ai-coffee-research-facility-given-green-light
+- 2026-07-25 | Corea del Sur les cierra la canilla a los descartables: 22.000 locales adentro | https://www.worldcoffeeportal.com/news/south-koreas-largest-coffee-chains-join-fresh-government-action-to-cut-disposable-cup-waste/
+- 2026-07-25 | Weekly Coffee News (Daily Coffee News) — recopilación del 24/07 | https://dailycoffeenews.com/2026/07/24/weekly-coffee-news-new-iwca-chapters-plastic-in-retail-agreement/
+- 2026-07-25 | Estudio: paquetes chicos al mismo precio empujan la compra ética | https://dailycoffeenews.com/2026/07/24/this-is-how-you-get-coffee-shoppers-to-follow-through-on-ethical-purchasing/
+- 2026-07-25 | Luckin muestra su "Smart Extraction Ecosystem" en WAIC 2026 (Shanghái) | https://finance.biggo.com/news/590c37be-799e-4213-9294-886346b10d4e
+- 2026-07-25 | Fourgrounds, café + newsroom de Detroit en Plymouth, Michigan | https://www.newscaststudio.com/2026/07/23/wdvi-local-4-coffee-shop/
