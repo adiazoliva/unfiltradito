@@ -3,16 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-07-11 | Bolivia ya tiene campeones: Corico y Velasco arman valija para 2027 | https://abi.bo/bolivia-ya-tiene-a-sus-campeones-nacionales-de-cafe-que-competiran-internacionalmente-en-2027/
-- 2026-07-11 | Uganda paga un récord: un Geisha se vendió a US$ 350,02 el kilo | https://dailycoffeenews.com/2026/07/10/weekly-coffee-news-the-hello-operator-tour-uganda-auction-milestone/
-- 2026-07-11 | El Salvador se sienta a catar en Busan y coquetea con Corea | https://lapagina.com.sv/general/promueven-cafe-salvadoreno-en-industria-cafetalera-en-corea/
-- 2026-07-11 | La industria del café en EE.UU. le pide a Trump que exente al instantáneo | https://perfectdailygrind.com/2026/07/coffee-news-recap-10-july-2026/
-- 2026-07-11 | Cimbali le gana la batalla a los truchos de Slayer en China | https://www.comunicaffe.com/cimbali-group-slayer-case-china-court-appeal
-- 2026-07-11 | Blue Bottle lanza un Geisha lavado cultivado en California (Frinj Coffee) | https://www.themanual.com/food-and-drink/blue-bottle-coffee/
-- 2026-07-11 | Blue Tokai apunta a triplicar sucursales en India y llegar a 800 | https://www.bloomberg.com/news/articles/2026-07-08/starbucks-india-rival-blue-tokai-aims-to-triple-store-count-in-four-years
-- 2026-07-11 | Wayne's Coffee Suecia se declara en quiebra por deudas de alquiler | https://swedenherald.com/article/swedish-coffee-chain-waynes-coffee-files-for-bankruptcy-over-rent-debts
-- 2026-07-11 | Uganda: exportaciones caen 22% en volumen y 38% en ingresos en mayo | https://portal.datagro.com/en/coffee/3/1163417/uganda-coffee-exports-fall-22-in-volume-and-38-in-revenue-in-may
-- 2026-07-11 | Erica Escalante arranca el "Hello Operator Tour" con talleres para baristas en 9 ciudades de EE.UU. | https://dailycoffeenews.com/2026/07/10/weekly-coffee-news-the-hello-operator-tour-uganda-auction-milestone/
 - 2026-07-12 | Salta se puso el delantal: arrancó Origen, la primera expo de café del norte | https://dossierweb.com.ar/expo-cafe-de-especialidad-origen-reunira-en-salta-a-productores-baristas-y-emprendedores-del-sector/
 - 2026-07-12 | Venezuela suspendió su encuentro de especialidad tras el sismo doble | https://eicev.cafe/
 - 2026-07-12 | Rosslyn Coffee llegó a 10 cafés en Londres y se plantó como el mejor de la ciudad | https://www.hospitalityandcateringnews.com/2026/07/a-true-londoner-rosslyn-opens-tenth-coffee-shop-beneath-bow-bells-on-cheapside/
@@ -136,3 +126,12 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-07-25 | Estudio: paquetes chicos al mismo precio empujan la compra ética | https://dailycoffeenews.com/2026/07/24/this-is-how-you-get-coffee-shoppers-to-follow-through-on-ethical-purchasing/
 - 2026-07-25 | Luckin muestra su "Smart Extraction Ecosystem" en WAIC 2026 (Shanghái) | https://finance.biggo.com/news/590c37be-799e-4213-9294-886346b10d4e
 - 2026-07-25 | Fourgrounds, café + newsroom de Detroit en Plymouth, Michigan | https://www.newscaststudio.com/2026/07/23/wdvi-local-4-coffee-shop/
+- 2026-07-26 | El USDA canta el pronóstico: viene una zafra récord y los precios miran para abajo | https://www.comunicaffe.com/usda-world-coffee-production-6-exports-9-and-global-consumption-3-6-set-to-reach-record-levels-in-2026-27
+- 2026-07-26 | La UE se sienta a la mesa del café: firmó el Acuerdo Internacional (21 de julio, Londres) | https://www.comunicaffe.com/coffee-futures-have-fallen-for-third-day-running-following-the-usdas-figures-on-global-markets
+- 2026-07-26 | Fairtrade se planta: "los precios altos no arreglan nada" (Andreas Kratz) | https://perfectdailygrind.com/2026/07/coffee-news-recap-24-july-2026/
+- 2026-07-26 | Otra ronda de aranceles de Trump del 24 de julio y el café volvió a esquivarla | https://www.worldcoffeeportal.com/news/coffee-emerges-unscathed-in-latest-rounds-of-us-tariffs-for-now/
+- 2026-07-26 | Filtrado vs instantáneo: estudio Chongqing Medical University + UK Biobank sobre envejecimiento biológico | https://sprudge.com/filter-coffee-vs-instant-which-helps-you-age-better-1219429.html
+- 2026-07-26 | Etiopía apunta a US$ 4.000 millones exportando 550.000 toneladas de café | https://ethiopiatoday.net/ministry-of-agriculture-plans-to-export-550000-tons-of-coffee-as-earnings-goal-rises-to-4b/
+- 2026-07-26 | Weber Workshops se queda con la canastilla oficial del WBC 2026-27 | https://www.comunicaffe.com/weber-workshops-unibasket-official-espresso-basket-world-barista-championship-2026-2027
+- 2026-07-26 | Delays to Brazil's Harvest Push Coffee Prices Higher (Barchart) | https://www.barchart.com/story/news/3369070/delays-to-brazils-harvest-push-coffee-prices-higher
+- 2026-07-26 | GWAR lanza un nitro cold brew "Berserker Mode" | https://sprudge.com/ready-to-drink-berserker-mode-nitro-cold-brew-cans-from-horror-rock-heroes-gwar-1098882.html
