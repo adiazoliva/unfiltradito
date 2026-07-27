@@ -3,15 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-07-12 | Salta se puso el delantal: arrancó Origen, la primera expo de café del norte | https://dossierweb.com.ar/expo-cafe-de-especialidad-origen-reunira-en-salta-a-productores-baristas-y-emprendedores-del-sector/
-- 2026-07-12 | Venezuela suspendió su encuentro de especialidad tras el sismo doble | https://eicev.cafe/
-- 2026-07-12 | Rosslyn Coffee llegó a 10 cafés en Londres y se plantó como el mejor de la ciudad | https://www.hospitalityandcateringnews.com/2026/07/a-true-londoner-rosslyn-opens-tenth-coffee-shop-beneath-bow-bells-on-cheapside/
-- 2026-07-12 | Starbucks activa los despidos en Seattle: 252 puestos corporativos afuera desde el 17 de julio | https://mynorthwest.com/local/starbucks-layoffs-seattle-employees/4239515
-- 2026-07-12 | Nowwa Coffee, la cadena de las 10.000 tiendas chinas, se planta en Malasia | https://www.worldcoffeeportal.com/news/chinas-nowwa-coffee-has-big-plans-for-malaysia-its-not-alone/
-- 2026-07-12 | Lavazza renueva con Wimbledon hasta 2030 | https://www.worldcoffeeportal.com/news/game-set-and-match-lavazza-renews-wimbledon-partnership/
-- 2026-07-12 | La versión con paywall de la nota de Rosslyn en World Coffee Portal | https://www.worldcoffeeportal.com/news/londons-rosslyn-hits-new-growth-milestone-and-shows-independents-can-still-go-it-alone-in-a-tough-market/
-- 2026-07-12 | Sprudge: selección semanal de granos de tostadores asociados | https://sprudge.com/the-dog-days-of-coffee-are-here-1161962.html
-- 2026-07-12 | El arábica volvió a subir por las lluvias en Brasil | https://finance.yahoo.com/markets/commodities/articles/coffee-prices-surge-brazil-harvest-160727971.html
 - 2026-07-13 | Café y salud: la ciencia le sube el pulgar al hígado | https://sprudge.com/new-study-finds-drinking-coffee-protects-against-liver-disease-cancer-and-death-1138799.html
 - 2026-07-13 | El café de las mujeres del Cerrado se sube al barco a Shanghái | https://www.comunicaffe.com/chinese-company-partners-with-brazilian-cooperative-to-bring-women-produced-specialty-coffees-to-china
 - 2026-07-13 | Londres vuelve a ser sede del summit del café (con el cacao invitado) | https://dailycoffeenews.com/2026/07/09/world-coffee-innovation-summit-returning-to-london-in-october/
@@ -135,3 +126,13 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-07-26 | Weber Workshops se queda con la canastilla oficial del WBC 2026-27 | https://www.comunicaffe.com/weber-workshops-unibasket-official-espresso-basket-world-barista-championship-2026-2027
 - 2026-07-26 | Delays to Brazil's Harvest Push Coffee Prices Higher (Barchart) | https://www.barchart.com/story/news/3369070/delays-to-brazils-harvest-push-coffee-prices-higher
 - 2026-07-26 | GWAR lanza un nitro cold brew "Berserker Mode" | https://sprudge.com/ready-to-drink-berserker-mode-nitro-cold-brew-cans-from-horror-rock-heroes-gwar-1098882.html
+- 2026-07-27 | Tucumán se planta: nace el primer café gourmet argentino | https://www.lanacion.com.ar/economia/la-argentina-empieza-a-producir-cafe-gourmet-en-tucuman-nid27072026/
+- 2026-07-27 | India cruza el charco: Kruti manda su primer café a Londres sin arancel | https://www.millenniumpost.in/amp/business/india-uk-ceta-1st-zero-duty-coffee-jewellery-shipments-reach-uk-shores-668480
+- 2026-07-27 | El café tira del carro de Nestlé en la primera mitad de 2026 | https://www.comunicaffe.com/nestle-h1-2026-results-organic-growth-guidance
+- 2026-07-27 | Alsea prendió el ventilador: caen las ganancias y Starbucks México se resfrió | https://www.investing.com/news/company-news/alsea-q2-2026-slides-sales-dip-but-digital-growth-shines-93CH-4807524
+- 2026-07-27 | Cuatro fermentaciones, un mismo grano: el proyecto de Hoffmann y Solis | https://www.baristamagazine.com/the-insider-headlines-from-the-coffee-industry-40/
+- 2026-07-27 | Kopi Kenangan huele salida a bolsa (Quartz) | https://qz.com/kopi-kenangan-ipo-serena-williams-jay-z-indonesia-coffee-071726
+- 2026-07-27 | Coffee Master 2026 vuelve a Bogotá con 50 cafeterías (El Tiempo) | https://www.eltiempo.com/cultura/gastronomia/coffee-master-2026-regresa-a-bogota-con-mas-de-50-cafeterias-y-una-ruta-para-descubrir-el-cafe-de-especialidad-colombiano-3573325
+- 2026-07-27 | Wavelength Coffee Roasters lanza división de hospitalidad | https://express-press-release.net/news/2026/07/25/1763923
+- 2026-07-27 | Sprudge: selección semanal de tostadores asociados (You Need Coffee) | https://sprudge.com/you-need-coffee-but-also-coffee-needs-you-1223213.html
+- 2026-07-27 | Café Martínez proyecta 27-30 aperturas nuevas en Argentina | https://derechadiario.com.ar/economia/cafe-martinez-anuncio-ambicioso-plan-inversiones-apertura-nuevos-locales-argentina
