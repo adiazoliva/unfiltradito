@@ -3,13 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-07-13 | Café y salud: la ciencia le sube el pulgar al hígado | https://sprudge.com/new-study-finds-drinking-coffee-protects-against-liver-disease-cancer-and-death-1138799.html
-- 2026-07-13 | El café de las mujeres del Cerrado se sube al barco a Shanghái | https://www.comunicaffe.com/chinese-company-partners-with-brazilian-cooperative-to-bring-women-produced-specialty-coffees-to-china
-- 2026-07-13 | Londres vuelve a ser sede del summit del café (con el cacao invitado) | https://dailycoffeenews.com/2026/07/09/world-coffee-innovation-summit-returning-to-london-in-october/
-- 2026-07-13 | Global Coffee Awards US & Canadá y Latinoamérica (10 y 12 de agosto en Houston) | https://perfectdailygrind.com/events/global-coffee-awards-us-canada-latin-america-2026/
-- 2026-07-13 | 25° Concurso Estadual Qualidade do Café de São Paulo abre inscripciones | https://www.tribunaribeirao.com.br/de-olho-no-mercado-de-cafes-especiais-sao-paulo-abre-inscricoes-para-25o-concurso-estadual-qualidade-do-cafe/
-- 2026-07-13 | Coalición Bean Voyage apunta a 500 productoras en Chiapas | https://dailycoffeenews.com/2026/06/25/women-powered-coffee-coalition-launches-with-focus-on-chiapas-mexico/
-- 2026-07-13 | Kenia proyecta subir 12% las exportaciones en 2026/27, según USDA | https://www.foodbusinessmea.com/kenya-coffee-exports-forecast-to-rise-12-in-2026-27-usda/
 - 2026-07-14 | Ibagué se pone la camiseta: cinco países en el Café Festival | https://tolimaonline.com/ibague-cafe-festival-2026-se-internacionaliza-y-reunira-a-productores-de-cinco-paises/
 - 2026-07-14 | Vancouver abre una cafetería japonesa sin notebooks (Hiyori Coffee) | https://dailycoffeenews.com/2026/07/13/in-vancouver-bc-hiyori-coffee-finds-its-moment-in-the-sun/
 - 2026-07-14 | Shelbru le pone termo al pour-over: nace el "June Brewer" | https://sprudge.com/the-pour-over-goes-vacuum-insulated-with-shelbrus-new-june-brewer-1178260.html
@@ -136,3 +129,11 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-07-27 | Wavelength Coffee Roasters lanza división de hospitalidad | https://express-press-release.net/news/2026/07/25/1763923
 - 2026-07-27 | Sprudge: selección semanal de tostadores asociados (You Need Coffee) | https://sprudge.com/you-need-coffee-but-also-coffee-needs-you-1223213.html
 - 2026-07-27 | Café Martínez proyecta 27-30 aperturas nuevas en Argentina | https://derechadiario.com.ar/economia/cafe-martinez-anuncio-ambicioso-plan-inversiones-apertura-nuevos-locales-argentina
+- 2026-07-28 | Mar del Plata Coffee Cup: la primera jornada dejó a los finalistas del Cup Tasters | https://mercado.com.ar/eventos/mar-del-plata-coffee-cup-2026-definio-finalistas-de-cup-tasters-y-sigue-la-agenda
+- 2026-07-28 | Cayó agua en Minas Gerais y el arábica se despertó de mal humor | https://www.barchart.com/story/news/3484781/coffee-prices-sharply-higher-as-brazils-coffee-harvest-is-delayed
+- 2026-07-28 | Guatemala junta a la industria del café: llega CAFEX 2026 | https://www.anacafe.org/34-congreso-de-la-caficultura/
+- 2026-07-28 | La borra del café también puede limpiar gases tóxicos | https://dailycoffeenews.com/2026/07/27/spent-coffee-grounds-as-biochar-could-treat-toxic-gas/
+- 2026-07-28 | En Portland abrió un showroom-escuela-tostaduría todo en uno | https://dailycoffeenews.com/2026/07/27/session-room-brings-equipment-training-and-coffee-together-in-portland/
+- 2026-07-28 | Build-Outs of Coffee: 107 Roasters & Cafe (Amarillo, Texas) | https://sprudge.com/build-outs-of-coffee-107-roasters-cafe-in-amarillo-tx-1028506.html
+- 2026-07-28 | Rabobank anticipa superávit global de 7 a 10 millones de sacas en 2026/27 | https://www.foodbusinessmea.com/rabobank-forecasts-global-coffee-surplus-as-brazils-record-2026-27-crop-reshapes-market-outlook/
+- 2026-07-28 | Colombia produjo 1,3 millones de sacas en junio, un 43% más que en 2025 | https://www.eltiempo.com/amp/economia/sectores/la-produccion-de-cafe-de-colombia-aumento-un-43-en-junio-pero-sigue-en-numeros-rojos-en-lo-corrido-del-ano-3568738
