@@ -3,22 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-07-14 | Ibagué se pone la camiseta: cinco países en el Café Festival | https://tolimaonline.com/ibague-cafe-festival-2026-se-internacionaliza-y-reunira-a-productores-de-cinco-paises/
-- 2026-07-14 | Vancouver abre una cafetería japonesa sin notebooks (Hiyori Coffee) | https://dailycoffeenews.com/2026/07/13/in-vancouver-bc-hiyori-coffee-finds-its-moment-in-the-sun/
-- 2026-07-14 | Shelbru le pone termo al pour-over: nace el "June Brewer" | https://sprudge.com/the-pour-over-goes-vacuum-insulated-with-shelbrus-new-june-brewer-1178260.html
-- 2026-07-14 | El Niño está cerca, pero el café brasileño ya no es el mismo | https://wtvbam.com/2026/07/13/brazil-coffee-faces-el-nino-headwinds-but-crops-more-resilient/
-- 2026-07-14 | Compose Coffee y Rainbow Robotics arman café con robot barista | https://mbiz.heraldcorp.com/article/10789028
-- 2026-07-14 | Origen Fest en Armenia (Quindío), 19 y 20 de julio | https://perfectdailygrind.com/es/2026/07/10/noticias-de-cafe-global-coffee-awards-ganadores-africa-y-mena/
-- 2026-07-14 | Etiopía cerró el ejercicio con un récord de US$ 3.000 millones en exportaciones de café | https://kilimonews.co.ke/general-news/ethiopia-hits-record-usd-3-billion-in-coffee-export-earnings/
-- 2026-07-14 | Panorama global de robots baristas (Global Coffee Report) | https://www.gcrmag.com/rise-of-the-robot-barista/
-- 2026-07-15 | Reformed levanta US$ 22 millones para llevar su café funcional a EE.UU. | https://dailycoffeenews.com/2026/07/14/functional-instant-coffee-seller-reformed-gets-22-million-round/
-- 2026-07-15 | El Coffee Barometer suma un término nuevo al vocabulario: "greenhushing" | https://dailycoffeenews.com/2026/07/14/inside-the-2026-coffee-barometer-part-2-what-companies-are-not-saying/
-- 2026-07-15 | Café con reserva previa: Field Study se muda al modelo "coffee omakase" | https://dailycoffeenews.com/2026/07/14/field-study-coffee-introduces-reservation-only-service-in-brooklyn/
-- 2026-07-15 | Guatemala se anima al robusta: Anacafé estrenó su primer festival | https://perfectdailygrind.com/2026/07/coffee-news-recap-10-july-2026/
-- 2026-07-15 | Merit Coffee abrió su primer local en Houston (West University) | https://houston.culturemap.com/news/restaurants-bars/merit-coffee-west-university-opening/
-- 2026-07-15 | Perú y Guatemala activan un tratado de libre comercio | https://www.riotimesonline.com/peru-guatemala-free-trade-agreement-tariffs-july-2026/
-- 2026-07-15 | Javvy lleva su café con proteína a Walmart en todo EE.UU. | https://www.comunicaffe.com/javvy-expands-to-walmart-nationwide-as-demand-surges-for-its-best-selling-protein-coffee
-- 2026-07-15 | ICO publica su informe mensual con rebote fuerte de precios en junio | https://www.comunicaffe.com/ico-report-sharp-rebound-in-prices-from-early-june-lows-exports-stable-in-the-first-8-months-of-2025-26
 - 2026-07-16 | Honduras se juega el 20° aniversario: hoy remata su top 30 (Cup of Excellence) | https://allianceforcoffeeexcellence.org/honduras-2026/
 - 2026-07-16 | Florida quiere ser el próximo origen: estudio de la Universidad de Florida en Crop Science | https://sprudge.com/americas-next-hotbed-for-coffee-production-is-florida-1180016.html
 - 2026-07-16 | La cáscara del café baja el colesterol: ensayo tailandés con extracto de pulpa | https://dailycoffeenews.com/2026/07/15/industry-backed-study-says-coffee-pulp-extract-may-lower-cholesterol/
@@ -137,3 +121,11 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-07-28 | Build-Outs of Coffee: 107 Roasters & Cafe (Amarillo, Texas) | https://sprudge.com/build-outs-of-coffee-107-roasters-cafe-in-amarillo-tx-1028506.html
 - 2026-07-28 | Rabobank anticipa superávit global de 7 a 10 millones de sacas en 2026/27 | https://www.foodbusinessmea.com/rabobank-forecasts-global-coffee-surplus-as-brazils-record-2026-27-crop-reshapes-market-outlook/
 - 2026-07-28 | Colombia produjo 1,3 millones de sacas en junio, un 43% más que en 2025 | https://www.eltiempo.com/amp/economia/sectores/la-produccion-de-cafe-de-colombia-aumento-un-43-en-junio-pero-sigue-en-numeros-rojos-en-lo-corrido-del-ano-3568738
+- 2026-07-29 | En Alhambra abrió Monolith: piedra, tueste propio y menú por movimientos | https://dailycoffeenews.com/2026/07/28/monolith-coffee-is-building-something-different-in-los-angeles/
+- 2026-07-29 | La revaluación del peso les come la ganancia a los cafeteros colombianos | https://www.lafm.com.co/economia/revaluacion-peso-colombiano-perdidas-cafeteros-445000-millones-ingresos-afectados-401633
+- 2026-07-29 | Kenia larga un plan para triplicar la producción de café en tres años | https://www.foodbusinessmea.com/kenya-launches-coffee-revitalization-programme-to-triple-production-by-2028-29/
+- 2026-07-29 | Arabia Saudita se para en las fincas: mira al café salvadoreño | https://www.elsalvador.com/dinero-y-negocios/entorno-economico/cafe-arabia-saudita-ecuador-el-salvador/1284834/2026/
+- 2026-07-29 | Edrey Vega: The Sprudge Twenty Interview | https://sprudge.com/edrey-vega-the-sprudge-twenty-interview-1127603.html
+- 2026-07-29 | Groupe SEB reporta ventas de €3.743M en el primer semestre | https://www.comunicaffe.com/groupe-seb-reports-1h-sales-of-e3743m-up-1-7-lfl-stable-on-a-reported-basis
+- 2026-07-29 | Coffee LATAM 2026 arranca en Campinas | https://informaconnect.com/coffee-latam/
+- 2026-07-29 | Arábica sigue en trepada (+3,4%), preocupa "Super El Niño" | https://www.comunicaffe.com/arabica-coffee-futures-soared-again-yesterday-3-4-super-el-nino-could-cause-losses-of-686-billion/
