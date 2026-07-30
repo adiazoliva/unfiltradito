@@ -129,3 +129,11 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-07-29 | Groupe SEB reporta ventas de €3.743M en el primer semestre | https://www.comunicaffe.com/groupe-seb-reports-1h-sales-of-e3743m-up-1-7-lfl-stable-on-a-reported-basis
 - 2026-07-29 | Coffee LATAM 2026 arranca en Campinas | https://informaconnect.com/coffee-latam/
 - 2026-07-29 | Arábica sigue en trepada (+3,4%), preocupa "Super El Niño" | https://www.comunicaffe.com/arabica-coffee-futures-soared-again-yesterday-3-4-super-el-nino-could-cause-losses-of-686-billion/
+- 2026-07-30 | Boquete se pone de largo: arrancó el 30° Best of Panamá | https://www.infobae.com/panama/2026/07/29/expertos-de-14-paises-buscan-en-panama-los-mejores-cafes-de-especialidad-del-ano/
+- 2026-07-30 | Vuelve Cafezazo a Córdoba: dos jornadas y mudanza a la Plaza de la Intendencia | https://www.perfil.com/noticias/cordoba/cafezazo-vuelve-a-cordoba-con-su-cuarta-edicion-y-se-muda-a-la-plaza-de-la-intendencia.phtml
+- 2026-07-30 | Cafestival vuelve al Centro Histórico de la CDMX | https://www.chilango.com/que-hacer/festival-del-cafe-2026-cdmx-fechas-registro-actividades-cafestival-mx/
+- 2026-07-30 | Cold coffee, la nueva obsesión: Mother Parkers abre una planta de extractos en Ontario | https://dailycoffeenews.com/2026/07/29/mother-parkers-expands-into-coffee-extract-manufacturing/
+- 2026-07-30 | Brasil bajo el agua: el arábica se mueve al ritmo del pronóstico | https://finance.yahoo.com/markets/commodities/articles/coffee-prices-jump-heavy-rains-154901351.html
+- 2026-07-30 | La Marzocco's Ice Cream Social Goes To Cleveland | https://sprudge.com/la-marzoccos-ice-cream-social-goes-to-cleveland-1222006.html
+- 2026-07-30 | Etiopía cierra el año fiscal con US$ 3.000 millones exportando café | https://ethiopiatoday.net/ministry-of-agriculture-plans-to-export-550000-tons-of-coffee-as-earnings-goal-rises-to-4b/
+- 2026-07-30 | Edrey Vega: The Sprudge Twenty Interview | https://sprudge.com/edrey-vega-the-sprudge-twenty-interview-1127603.html
