@@ -3,15 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-07-16 | Honduras se juega el 20° aniversario: hoy remata su top 30 (Cup of Excellence) | https://allianceforcoffeeexcellence.org/honduras-2026/
-- 2026-07-16 | Florida quiere ser el próximo origen: estudio de la Universidad de Florida en Crop Science | https://sprudge.com/americas-next-hotbed-for-coffee-production-is-florida-1180016.html
-- 2026-07-16 | La cáscara del café baja el colesterol: ensayo tailandés con extracto de pulpa | https://dailycoffeenews.com/2026/07/15/industry-backed-study-says-coffee-pulp-extract-may-lower-cholesterol/
-- 2026-07-16 | Veinte años de investigación en sostenibilidad del café: mucho ruido y borra que va al basural | https://dailycoffeenews.com/2026/07/15/review-coffee-sustainability-research-is-growing-but-fragmented/
-- 2026-07-16 | European Coffee & Hospitality Awards 2026 abren nominaciones | https://www.worldcoffeeportal.com/news/nominations-are-now-open-for-the-european-coffee-hospitality-awards-2026/
-- 2026-07-16 | Vixxo lanza plataforma de reparación de equipos para cafeterías en EE.UU. | https://dailycoffeenews.com/2026/07/15/vixxo-launches-cafe-solutions-platform-pairing-techs-with-cafe-operators/
-- 2026-07-16 | DeLonghi acelera lanzamientos globales con Brad Pitt como imagen | https://www.comunicaffe.com/delonghi-group-global-growth-strategy-record-product-launches
-- 2026-07-16 | Sodexo UK abre su Barista Collective | https://www.comunicaffe.com/sodexo-uk-unveils-its-barista-collective-putting-craft-and-careers-at-the-heart-of-its-training
-- 2026-07-16 | Arábica cerró en US$ 3,28 por libra el 15 de julio | https://tradingeconomics.com/commodity/coffee
 - 2026-07-17 | Bruselas mete al café instantáneo en la ley antideforestación | https://dailycoffeenews.com/2026/07/16/european-commission-adds-soluble-coffee-to-eudr-product-list/
 - 2026-07-17 | Colombia cerró el semestre en rojo: -10% en producción, -18% en exportaciones | https://www.semana.com/economia/empresas/articulo/produccion-de-cafe-cerro-el-primer-semestre-con-una-caida-del-10-pese-al-repunte-de-junio/202643/
 - 2026-07-17 | Robusta al alza: Vietnam mira el cielo con miedo a El Niño | https://e.vnexpress.net/news/news/environment/world-s-top-robusta-supplier-faces-its-strongest-el-ni-o-in-70-years-5086977.html
@@ -137,3 +128,13 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-07-30 | La Marzocco's Ice Cream Social Goes To Cleveland | https://sprudge.com/la-marzoccos-ice-cream-social-goes-to-cleveland-1222006.html
 - 2026-07-30 | Etiopía cierra el año fiscal con US$ 3.000 millones exportando café | https://ethiopiatoday.net/ministry-of-agriculture-plans-to-export-550000-tons-of-coffee-as-earnings-goal-rises-to-4b/
 - 2026-07-30 | Edrey Vega: The Sprudge Twenty Interview | https://sprudge.com/edrey-vega-the-sprudge-twenty-interview-1127603.html
+- 2026-07-31 | Fairtrade sube el piso: US$ 2 por libra para el arábica lavado | https://www.comunicaffe.com/fairtrade-increases-minimum-coffee-prices-december-2026
+- 2026-07-31 | La ciencia le puso nombre al amargo del café (TAS2R43, UNC) | https://dailycoffeenews.com/2026/07/29/new-research-digs-into-the-bitter-truth-about-coffee/
+- 2026-07-31 | Victoria Arduino Record: la máquina que se puede hundir en la mesada | https://dailycoffeenews.com/2026/07/29/victoria-arduino-introduces-record-a-new-take-on-undercounter-espresso/
+- 2026-07-31 | La Cosecha 2026: café panameño con chefs Michelin en Boquete | https://www.riotimesonline.com/la-cosecha-2026-panamanian-coffee-art-gastronomy-2026/
+- 2026-07-31 | Un filamento 3D con borra de café: la china eSUN lanza PLA-Coffee | https://www.comunicaffe.com/esun-launches-pla-coffee-a-sustainable-3d-printing-filament-made-from-recycled-coffee-grounds
+- 2026-07-31 | Coffee Prices Jump as Heavy Rains Delay Brazil's Harvest (Barchart) | https://www.barchart.com/story/news/3482266/coffee-prices-jump-as-heavy-rains-delay-brazils-coffee-harvest
+- 2026-07-31 | Pinup Coffee Takes Off with Standalone Cafe in Virginia Beach (Daily Coffee News) | https://dailycoffeenews.com/2026/07/30/pinup-coffee-takes-off-with-standalone-cafe-in-virginia-beach/
+- 2026-07-31 | Ellianos Coffee Signs Development Agreement in Troy, Michigan (Comunicaffe) | https://www.comunicaffe.com/ellianos-coffee-signs-development-agreement-in-troy-michigan/
+- 2026-07-31 | Ficafe Cusco 2026 lanzada por el presidente peruano (ANDINA) | https://andina.pe/ingles/noticia-peru-president-leads-international-specialty-coffee-fair-ficafe-launch-1083974.aspx
+- 2026-07-31 | Kenya SumSeron envía 20 contenedores a Trieste (Log Update Africa) | https://www.logupdateafrica.com/amp/trade/kncci-backs-kenya-coffee-hub-launch-as-coffee-exports-rise-1359457
