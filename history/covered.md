@@ -3,15 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-07-17 | Bruselas mete al café instantáneo en la ley antideforestación | https://dailycoffeenews.com/2026/07/16/european-commission-adds-soluble-coffee-to-eudr-product-list/
-- 2026-07-17 | Colombia cerró el semestre en rojo: -10% en producción, -18% en exportaciones | https://www.semana.com/economia/empresas/articulo/produccion-de-cafe-cerro-el-primer-semestre-con-una-caida-del-10-pese-al-repunte-de-junio/202643/
-- 2026-07-17 | Robusta al alza: Vietnam mira el cielo con miedo a El Niño | https://e.vnexpress.net/news/news/environment/world-s-top-robusta-supplier-faces-its-strongest-el-ni-o-in-70-years-5086977.html
-- 2026-07-17 | Black Sheep, la cadena del robusta de especialidad, prepara desembarco europeo | https://www.worldcoffeeportal.com/news/uks-black-sheep-coffee-gearing-up-for-new-european-launch/
-- 2026-07-17 | Coffee LATAM 2026: Campinas se pone el saco de anfitrión los días 27 y 28 | https://informaconnect.com/coffee-latam/
-- 2026-07-17 | Della Coffee abre "Della Coffee + Wine" en Richmond, Texas | https://dailycoffeenews.com/2026/07/16/houstons-della-coffee-pours-another-one-in-richmond-texas/
-- 2026-07-17 | Productores del Pacífico cerraron US$ 2,3 millones en negocios en Melbourne | https://www.comunicaffe.com/pacific-coffee-strikes-2-3-million-in-deals-in-melbourne
-- 2026-07-17 | Highlights de World of Coffee Brussels — parte 2 | https://www.baristamagazine.com/highlights-from-world-of-coffee-brussels-2026-part-two/
-- 2026-07-17 | Arábica cerró en US$ 3,13 por libra el 16 de julio, cayendo 3,98% | https://tradingeconomics.com/commodity/coffee
 - 2026-07-18 | Coffee Wheel: Apóstoles ya tiene su primera cafetería de especialidad | https://misionesonline.net/2026/07/17/coffee-wheel-el-primer-cafe-de-especialidad-de-apostoles/
 - 2026-07-18 | Honduras rompió récord: Spirit Origin se llevó de nuevo el lote #1 | https://www.comunicaffe.com/spirit-origin-wins-top-lot-at-record-breaking-honduras-cup-of-excellence-for-second-straight-year
 - 2026-07-18 | Puerto Antioquia estrena ruta cafetera: Urabá exporta por primera vez | https://colombiaone.com/2026/07/17/colombia-makes-its-first-coffee-export-from-puerto-antioquia-in-uraba/
@@ -138,3 +129,12 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-07-31 | Ellianos Coffee Signs Development Agreement in Troy, Michigan (Comunicaffe) | https://www.comunicaffe.com/ellianos-coffee-signs-development-agreement-in-troy-michigan/
 - 2026-07-31 | Ficafe Cusco 2026 lanzada por el presidente peruano (ANDINA) | https://andina.pe/ingles/noticia-peru-president-leads-international-specialty-coffee-fair-ficafe-launch-1083974.aspx
 - 2026-07-31 | Kenya SumSeron envía 20 contenedores a Trieste (Log Update Africa) | https://www.logupdateafrica.com/amp/trade/kncci-backs-kenya-coffee-hub-launch-as-coffee-exports-rise-1359457
+- 2026-08-01 | Couche-Tard se comió Żabka por US$ 8.700M y suma cafeteras en Europa | https://www.worldcoffeeportal.com/news/alimentation-couche-tard-set-to-become-one-of-europes-largest-coffee-players-following-8-7bn-acquisition/
+- 2026-08-01 | Uganda le mete US$ 200M al café con plata saudí (Nonda Coffee Park) | https://ugandainvest.go.ug/200-million-nonda-coffee-park-opening-in-uganda/
+- 2026-08-01 | Cold brew a los tribunales: la jueza le dijo no a Chobani (Danone vs La Colombe) | https://www.worldcoffeeportal.com/news/chobani-fails-in-bid-to-dismiss-danones-cold-brew-coffee-lawsuit/
+- 2026-08-01 | Hormigas aliadas: le encontraron al cafeto una defensa contra la broca | https://dailycoffeenews.com/2026/07/31/weekly-coffee-news-ants-and-borers-regulating-health-claims/
+- 2026-08-01 | Brooklyn Roasting devuelve 11.500 litros de cold brew por riesgo de botulismo | https://www.foxbusiness.com/retail/brooklyn-roasting-company-recalls-cold-brew-sold-new-york-new-jersey-over-botulism-risk
+- 2026-08-01 | illycaffè arranca producción en EE.UU. con Westrock | https://www.worldcoffeeportal.com/news/italys-illycaffe-confirms-plans-to-commence-us-production-in-2026/
+- 2026-08-01 | El pabellón vietnamita en Expo Café Chile | https://english.vov.vn/en/economy/appeal-of-vietnamese-coffee-at-expo-cafe-chile-2026-post1318785.vov
+- 2026-08-01 | Rota Blue Coffee revive el Typica plantado por los japoneses en la isla de Rota | https://perfectdailygrind.com/2026/07/coffee-news-recap-31-july-2026/
+- 2026-08-01 | Luckin y Duolingo lanzan cuatro bebidas co-branded en Nueva York | https://perfectdailygrind.com/2026/07/coffee-news-recap-31-july-2026/
