@@ -3,16 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-07-18 | Coffee Wheel: Apóstoles ya tiene su primera cafetería de especialidad | https://misionesonline.net/2026/07/17/coffee-wheel-el-primer-cafe-de-especialidad-de-apostoles/
-- 2026-07-18 | Honduras rompió récord: Spirit Origin se llevó de nuevo el lote #1 | https://www.comunicaffe.com/spirit-origin-wins-top-lot-at-record-breaking-honduras-cup-of-excellence-for-second-straight-year
-- 2026-07-18 | Puerto Antioquia estrena ruta cafetera: Urabá exporta por primera vez | https://colombiaone.com/2026/07/17/colombia-makes-its-first-coffee-export-from-puerto-antioquia-in-uraba/
-- 2026-07-18 | Daria Bila es la nueva campeona barista del Reino Unido | https://perfectdailygrind.com/2026/07/coffee-news-recap-17-jul-2026/
-- 2026-07-18 | La FDA se mete con la cafeína: guía de etiquetado en carpeta 2026 | https://dailycoffeenews.com/2026/07/17/fda-eyes-caffeine-labeling-as-a-2026-priority/
-- 2026-07-18 | Brasil cerró la campaña 2025/26 con exportaciones en baja: 38,5 millones de sacas, -15,7% | https://www.comunicaffe.com/brazilian-coffee-exports-fell-sharply-in-crop-year-2025-26-to-38-5-million-bags-15-7-but-rebounded-strongly-in-june-16-9
-- 2026-07-18 | All Day Roasting (Taipei) se llevó los Global Coffee Awards Asia | https://perfectdailygrind.com/2026/07/global-coffee-awards-best-roasters-asia/
-- 2026-07-18 | CQI y la Asociación Brasileña de Cafés Especiales firmaron acuerdo educativo | https://www.gcrmag.com/cqis-education-to-become-more-accessible-to-brazilian-producers
-- 2026-07-18 | EE.UU. confirma la exención de aranceles para el café (incluido el instantáneo) | https://dailycoffeenews.com/2026/07/17/weekly-coffee-news-cqi-in-brazil-another-coffee-festival/
-- 2026-07-18 | La Cámara de Comercio de El Cairo dice que 80% del café en Egipto es adulterado | https://www.egyptindependent.com/egypts-coffee-crisis-up-to-80-of-market-flooded-with-fake-blends/
 - 2026-07-19 | Cafento se lleva McCabe's y se afianza en Irlanda | https://www.rte.ie/news/business/2026/0717/1583882-mccabes-cafento/
 - 2026-07-19 | Los importadores yanquis empiezan a devolver los aranceles cobrados de más | https://sprudge.com/some-green-coffee-importers-are-now-issuing-tariff-refunds-1181963.html
 - 2026-07-19 | Starbucks llega a Georgia de la mano de Alshaya | https://www.worldcoffeeportal.com/news/alshaya-group-expands-licensed-starbucks-business-with-georgia-launch/
@@ -138,3 +128,13 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-08-01 | El pabellón vietnamita en Expo Café Chile | https://english.vov.vn/en/economy/appeal-of-vietnamese-coffee-at-expo-cafe-chile-2026-post1318785.vov
 - 2026-08-01 | Rota Blue Coffee revive el Typica plantado por los japoneses en la isla de Rota | https://perfectdailygrind.com/2026/07/coffee-news-recap-31-july-2026/
 - 2026-08-01 | Luckin y Duolingo lanzan cuatro bebidas co-branded en Nueva York | https://perfectdailygrind.com/2026/07/coffee-news-recap-31-july-2026/
+- 2026-08-02 | En Taza vuelve a Córdoba con la vara de la SCA | https://entaza.cafe/en
+- 2026-08-02 | En EE.UU. el especialidad ya le pasó por arriba al café común | https://sca.coffee/sca-news/2026-national-coffee-data-trends-report
+- 2026-08-02 | Panera le sacó lo "unlimited" al Sip Club | https://www.nrn.com/fast-casual/panera-s-unlimited-sip-club-will-no-longer-be-unlimited
+- 2026-08-02 | La Marzocco le prende fuego al cobre y saca máquinas irrepetibles (Fiammata Technique) | https://sprudge.com/you-need-to-see-officine-fratelli-bambis-newest-process-the-fiammata-technique-1232313.html
+- 2026-08-02 | Costa Coffee ajusta la brújula en India y va por la Gen Z | https://www.worldcoffeeportal.com/news/costa-coffees-india-reset-underway-as-master-franchisee-bets-big-on-gen-z/
+- 2026-08-02 | Arábica en US$ 3,32/lb con stocks certificados en mínimos (Trading Economics) | https://tradingeconomics.com/commodity/coffee
+- 2026-08-02 | Krispy Kreme anuncia su tercer mercado internacional de 2026 | https://www.worldcoffeeportal.com/news/krispy-kreme-announces-third-international-market-move-of-2026/
+- 2026-08-02 | illycaffè planea duplicar producción global con nueva planta en Trieste | https://www.worldcoffeeportal.com/news/illycaffe-to-double-production-as-global-demand-soars/
+- 2026-08-02 | Level Up vuelve a Minneapolis del 18 al 20 de septiembre | https://sprudge.com/level-up-returns-to-minneapolis-for-a-weekend-of-immersive-learning-1234662.html
+- 2026-08-02 | Cajé Coffee Roasters abre local en Goleta, California | https://www.santabarbara.com/dining/news/2026/07/21/goleta-caje-coffee-roasters-to-open-in-august/
