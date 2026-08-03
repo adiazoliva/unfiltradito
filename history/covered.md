@@ -3,17 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-07-19 | Cafento se lleva McCabe's y se afianza en Irlanda | https://www.rte.ie/news/business/2026/0717/1583882-mccabes-cafento/
-- 2026-07-19 | Los importadores yanquis empiezan a devolver los aranceles cobrados de más | https://sprudge.com/some-green-coffee-importers-are-now-issuing-tariff-refunds-1181963.html
-- 2026-07-19 | Starbucks llega a Georgia de la mano de Alshaya | https://www.worldcoffeeportal.com/news/alshaya-group-expands-licensed-starbucks-business-with-georgia-launch/
-- 2026-07-19 | Verve estrena un descafeinado con caña colombiana (Long Play) | https://www.vervecoffee.com/products/long-play-decaf
-- 2026-07-19 | Blue Tokai desembarca en Dubai y apunta al Golfo (BurJuman Mall) | https://mid-east.info/indias-specialty-coffee-pioneer-blue-tokai-enters-the-gcc-market-with-first-uae-cafe-in-dubai/
-- 2026-07-19 | World Coffee Portal — Cafento adquiere McCabe's (paywall) | https://www.worldcoffeeportal.com/news/spains-cafento-snaps-up-second-irish-coffee-roaster/
-- 2026-07-19 | Every Half (Vietnam) levanta US$ 8 millones Serie A | https://www.rli.uk.com/every-half-brews-up-8m-series-a-for-expansion/
-- 2026-07-19 | Rwanda-Aston Villa: contrato de US$ 26M para café ruandés en la Premier League | https://africa.businessinsider.com/local/lifestyle/rwandan-coffee-heads-to-the-premier-league-through-aston-villas-dollar26-million-a/nzgphl4
-- 2026-07-19 | Kenia envía su primer contenedor de café verde a Italia por el puerto de Trieste | https://www.logupdateafrica.com/trade/kenya-ships-first-green-coffee-consignment-to-italy-eyes-eu-market-1359888
-- 2026-07-19 | Miko compra la noruega Kronen Kaffe (75%) | https://manda.be/articles/miko-is-expanding-internationally-through-a-buy-and-build-strategy/
-- 2026-07-19 | SCA anuncia los sponsors del World Barista Championship 2026-27 | https://wcc.coffee/latest-news/announcing-the-2026-2027-world-barista-championship-qualified-sponsors
 - 2026-07-20 | Espresso con ondas de sonido: la ciencia dice que se puede (UNSW ultrasonic espresso) | https://perfectdailygrind.com/2026/07/what-is-ultrasonic-espresso/
 - 2026-07-20 | "El especialty se pasó de rosca": el manifiesto de Ana Rubio en Rebeldes Coffee (Madrid) | https://www.que.es/2026/07/20/ana-rubio-esnobismo-cafe-especialidad/
 - 2026-07-20 | Perú arranca 2026 pisando fuerte: exportaciones de café +71,9% en el primer bimestre | https://elcomercio.pe/economia/peru/exportaciones-de-cafe-peruano-despegan-con-us1313-millones-en-el-primer-bimestre-del-2026-l-ultimas-noticia/
@@ -138,3 +127,11 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-08-02 | illycaffè planea duplicar producción global con nueva planta en Trieste | https://www.worldcoffeeportal.com/news/illycaffe-to-double-production-as-global-demand-soars/
 - 2026-08-02 | Level Up vuelve a Minneapolis del 18 al 20 de septiembre | https://sprudge.com/level-up-returns-to-minneapolis-for-a-weekend-of-immersive-learning-1234662.html
 - 2026-08-02 | Cajé Coffee Roasters abre local en Goleta, California | https://www.santabarbara.com/dining/news/2026/07/21/goleta-caje-coffee-roasters-to-open-in-august/
+- 2026-08-03 | Best of Panama 2026: los Lamastus vuelven a quedarse con el trono | https://newsroompanama.com/2026/08/02/these-were-the-winners-of-the-best-of-panama-2026-the-kings-of-geisha-coffee/
+- 2026-08-03 | Cafecito BA vuelve a Recoleta con más de 25 puestos y entrada libre | https://www.lanacion.com.ar/que-sale/cafecito-ba-llega-a-recoleta-con-mas-de-25-puestos-cine-al-aire-libre-y-actividades-para-toda-la-nid05082025/
+- 2026-08-03 | Global Coffee Awards: hoy cierra la ventana para tostadores de Latam y el Caribe | https://perfectdailygrind.com/events/global-coffee-awards-us-canada-latin-america-2026/
+- 2026-08-03 | Puertas giratorias en el café global: Costa, Pret y Ziggi's mueven ficha | https://www.worldcoffeeportal.com/news/coffee-industry-senior-appointments-july-2026/
+- 2026-08-03 | An August Collection Of Coffees (Sprudge) | https://sprudge.com/an-august-collection-of-coffees-just-in-time-for-what-month-is-it-now-1243520.html
+- 2026-08-03 | Luckin Coffee anuncia resultados del segundo trimestre 2026 hoy | https://finance.yahoo.com/markets/stocks/articles/luckin-coffee-announce-second-quarter-110000645.html
+- 2026-08-03 | Coffee Fest Los Angeles 2026 — 21 y 22 de agosto | https://www.coffeefest.com/los-angeles
+- 2026-08-03 | Resumen de fusiones y adquisiciones de julio 2026 (WCP) | https://www.worldcoffeeportal.com/news/coffee-industry-investments-mergers-and-acquisitions-july-2026/
