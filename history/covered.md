@@ -3,14 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-07-20 | Espresso con ondas de sonido: la ciencia dice que se puede (UNSW ultrasonic espresso) | https://perfectdailygrind.com/2026/07/what-is-ultrasonic-espresso/
-- 2026-07-20 | "El especialty se pasó de rosca": el manifiesto de Ana Rubio en Rebeldes Coffee (Madrid) | https://www.que.es/2026/07/20/ana-rubio-esnobismo-cafe-especialidad/
-- 2026-07-20 | Perú arranca 2026 pisando fuerte: exportaciones de café +71,9% en el primer bimestre | https://elcomercio.pe/economia/peru/exportaciones-de-cafe-peruano-despegan-con-us1313-millones-en-el-primer-bimestre-del-2026-l-ultimas-noticia/
-- 2026-07-20 | El arábica se desinfla: -4,1% con Brasil mostrando mejor clima | https://tradingeconomics.com/commodity/coffee
-- 2026-07-20 | Café con vinilo: abrió Café Audire en Charlotte (listening lounge) | https://www.jswmediagroup.com/cafe-audire-a-coffee-shop-and-vinyl-listening-lounge-celebrates-grand-opening-on-july-18-in-noda/
-- 2026-07-20 | Illy apuesta a IA aplicada a agricultura regenerativa (Comunicaffe) | https://www.comunicaffe.com/coffee-futures-prices-down-sharply-after-cecafes-positive-data-on-brazilian-exports-in-june-illy-focuses-on-ai-applied-to-regenerative-agriculture
-- 2026-07-20 | Campaña cafetera de Uganda en Copenhague abrió puertas al mercado nórdico | https://nilepost.co.ug/news/355829/ugandas-coffee-campaign-in-denmark-opens-new-export-opportunities-for-local-producers
-- 2026-07-20 | Sprudge: selección semanal de cafés de tostadores asociados | https://sprudge.com/the-only-three-hour-odyssey-im-interested-in-is-my-morning-caffeine-high-1187195.html
 - 2026-07-21 | Córdoba se toma un café: arranca Expo Cafeto con dos campeonatos | https://www.revistagente.com/lifestyle/gastronomia/expo-cafeto-degustacion-de-cafe-de-especialidad-pasteleria-y-shows-en-vivo-en-un-evento-imperdible/
 - 2026-07-21 | El café no era solo cafeína: le encontraron un botón antiedad (estudio Texas A&M sobre NR4A1) | https://www.sciencedaily.com/releases/2026/07/260719035927.htm
 - 2026-07-21 | En Pittsburgh abrió una cafetería que puso al productor en la pared (Dynamic Coffee - La Galeria) | https://dailycoffeenews.com/2026/07/20/dynamic-coffee-steadies-focus-on-producers-at-new-pittsburgh-shop/
@@ -135,3 +127,11 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-08-03 | Luckin Coffee anuncia resultados del segundo trimestre 2026 hoy | https://finance.yahoo.com/markets/stocks/articles/luckin-coffee-announce-second-quarter-110000645.html
 - 2026-08-03 | Coffee Fest Los Angeles 2026 — 21 y 22 de agosto | https://www.coffeefest.com/los-angeles
 - 2026-08-03 | Resumen de fusiones y adquisiciones de julio 2026 (WCP) | https://www.worldcoffeeportal.com/news/coffee-industry-investments-mergers-and-acquisitions-july-2026/
+- 2026-08-04 | En los países cafeteros, las marcas de barrio le sacan ventaja a las cadenas | https://perfectdailygrind.com/2026/08/local-brands-coffee-producing-countries/
+- 2026-08-04 | El sándwich imposible del café: ni chico ni grande (cafeterías medianas en aprietos) | https://perfectdailygrind.com/2026/08/medium-sized-coffee-shops-struggles/
+- 2026-08-04 | Luckin no afloja: ingresos +28,5% y ya con ocho tiendas en Nueva York (Q2 2026) | https://www.globenewswire.com/news-release/2026/08/03/3337369/0/en/Luckin-Coffee-Announces-Second-Quarter-2026-Financial-Results.html
+- 2026-08-04 | Chile tiene reina: Anaís Cabello, primera mujer al frente del podio nacional | https://www.expocafechile.cl/rumbo-a-la-gloria-expo-cafe-chile-sera-la-sede-de-la-gran-final-nacional-de-baristas-2026/
+- 2026-08-04 | Una funda de laptop hecha con la borra que iba al tacho (Moft) | https://sprudge.com/protect-your-laptop-from-coffee-with-upcycled-coffee-1238991.html
+- 2026-08-04 | Build-Outs of Coffee: Demitasse in Santa Monica, CA | https://sprudge.com/build-outs-of-coffee-demitasse-in-santa-monica-ca-1159742.html
+- 2026-08-04 | Arábica cotizando en US$ 3,41/lb el 4 de agosto (Trading Economics) | https://tradingeconomics.com/commodity/coffee
+- 2026-08-04 | Venturi Bold Brew debuta línea Nitro Cold Brew premium | https://www.bevindustry.com/articles/98388-venturi-nitro-cold-brew
