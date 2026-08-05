@@ -3,13 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-07-21 | Córdoba se toma un café: arranca Expo Cafeto con dos campeonatos | https://www.revistagente.com/lifestyle/gastronomia/expo-cafeto-degustacion-de-cafe-de-especialidad-pasteleria-y-shows-en-vivo-en-un-evento-imperdible/
-- 2026-07-21 | El café no era solo cafeína: le encontraron un botón antiedad (estudio Texas A&M sobre NR4A1) | https://www.sciencedaily.com/releases/2026/07/260719035927.htm
-- 2026-07-21 | En Pittsburgh abrió una cafetería que puso al productor en la pared (Dynamic Coffee - La Galeria) | https://dailycoffeenews.com/2026/07/20/dynamic-coffee-steadies-focus-on-producers-at-new-pittsburgh-shop/
-- 2026-07-21 | Guatemala calienta motores: se remata el Cup of Excellence el 23 de julio | https://allianceforcoffeeexcellence.org/guatemala-2026/
-- 2026-07-21 | Bar Basso (Milán) elegido "el mejor bar del mundo" 2026 | https://www.comunicaffe.com/bar-basso-milan-best-bar-2026/
-- 2026-07-21 | Etiopía empuja la ceremonia del café al Patrimonio Inmaterial de la UNESCO (Warka Coffee) | https://www.comunicaffe.com/ethiopia-unesco-intangible-heritage-coffee-ceremony-2026/
-- 2026-07-21 | Arábica cerró en US$ 3,19 por libra el 20 de julio, cayendo 0,47% | https://tradingeconomics.com/commodity/coffee
 - 2026-07-22 | Sweet & Coffee sale de Ecuador: Chile es la primera parada | https://www.worldcoffeeportal.com/news/ecuadors-sweet-coffee-to-make-international-debut-in-2027/
 - 2026-07-22 | Sweet & Coffee abrirá su primera franquicia fuera de Ecuador en Chile | https://www.eluniverso.com/noticias/economia/sweet-coffee-primera-franquicia-fuera-de-ecuador-chile-nota/
 - 2026-07-22 | Arábica en mínimos de 19 meses: la súper cosecha brasileña pega fuerte | https://www.stonex.com/en-us/insights/brazil-harvest-pressures-coffee-market-as-arabica-futures-fall-to-19-month-lows/
@@ -135,3 +128,12 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-08-04 | Build-Outs of Coffee: Demitasse in Santa Monica, CA | https://sprudge.com/build-outs-of-coffee-demitasse-in-santa-monica-ca-1159742.html
 - 2026-08-04 | Arábica cotizando en US$ 3,41/lb el 4 de agosto (Trading Economics) | https://tradingeconomics.com/commodity/coffee
 - 2026-08-04 | Venturi Bold Brew debuta línea Nitro Cold Brew premium | https://www.bevindustry.com/articles/98388-venturi-nitro-cold-brew
+- 2026-08-05 | Rosario se pone el delantal: llega el Regional Santa Fe de Latte Art (Ruffo Coffee Company) | https://www.on24.com.ar/vida-ocio/rosario-celebra-el-auge-del-cafe-de-especialidad-con-el-campeonato-regional-santa-fe-de-latte-art-sca-2026/
+- 2026-08-05 | La cardiología le dio luz verde al café: hasta 5 tazas por día (AHA en Circulation, cobertura Sprudge) | https://sprudge.com/the-american-heart-association-says-five-cups-of-coffee-a-day-is-fine-1232466.html
+- 2026-08-05 | Lavazza estrena la pastilla de café sola: adiós a la cápsula (Tablì lanzamiento oficial en EE.UU.) | https://www.comunicaffe.com/lavazza-launches-tabli-the-worlds-first-100-coffee-tab-system-in-the-u-s/
+- 2026-08-05 | Recuerdos Cafe en Atlanta: Ivan Solis Sprudge Twenty Interview | https://sprudge.com/ivan-solis-of-recuerdos-cafe-the-sprudge-twenty-interview-1250780.html
+- 2026-08-05 | Etiopía se prepara para pasarle por arriba a Indonesia (USDA Coffee Annual 2026/27) | https://www.foodbusinessmea.com/ethiopia-set-to-become-worlds-fourth-largest-coffee-producer-in-2026-27-usda/
+- 2026-08-05 | Volcano Coffee sirve más de 10.000 tazas por día en oficinas de WeWork UK | https://www.comunicaffe.com/volcano-coffee-works-and-wework-uk-a-partnership-serving-more-than-10000-cups-of-coffee-every-day/
+- 2026-08-05 | Indonesia envía 57,6 toneladas de Royal Gayo a Kuwait | https://www.comunicaffe.com/indonesia-specialty-coffee-exports-57-6-tonnes-of-royal-gayo-coffee-to-kuwait/
+- 2026-08-05 | La Vicegobernadora de Córdoba visitó Cafezazo (Prunotto) | https://www.sierraschicasvivo.com/2026/08/prunotto-acompano-la-cuarta-edicion-de-cafezazo-y-destaco-el-crecimiento-de-la-produccion-gastronomica-cordobesa/
+- 2026-08-05 | Build-Outs Of Coffee: Demitasse in Santa Monica, CA | https://sprudge.com/build-outs-of-coffee-demitasse-in-santa-monica-ca-1159742.html
