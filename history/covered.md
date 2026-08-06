@@ -3,17 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-07-22 | Sweet & Coffee sale de Ecuador: Chile es la primera parada | https://www.worldcoffeeportal.com/news/ecuadors-sweet-coffee-to-make-international-debut-in-2027/
-- 2026-07-22 | Sweet & Coffee abrirá su primera franquicia fuera de Ecuador en Chile | https://www.eluniverso.com/noticias/economia/sweet-coffee-primera-franquicia-fuera-de-ecuador-chile-nota/
-- 2026-07-22 | Arábica en mínimos de 19 meses: la súper cosecha brasileña pega fuerte | https://www.stonex.com/en-us/insights/brazil-harvest-pressures-coffee-market-as-arabica-futures-fall-to-19-month-lows/
-- 2026-07-22 | Massimo Zanetti (Segafredo) en la vidriera: media docena de fondos golpea la puerta | https://www.worldcoffeeportal.com/news/massimo-zanetti-beverage-group-valued-at-eur1-2bn-as-multiple-bidders-suggest-sale-imminent/
-- 2026-07-22 | Hyunah Coffee Club: un laboratorio de café con turno previo en Brooklyn | https://sprudge.com/at-brooklyns-hyunah-coffee-club-enthusiasts-get-off-the-internet-and-into-the-lab-1192849.html
-- 2026-07-22 | Vuelven los regionales al US Coffee Championships en 2027 | https://sprudge.com/regionals-return-for-the-2027-us-coffee-championships-season-1214719.html
-- 2026-07-22 | Rejoice! Pope Leo Loves Drinking Coffee (And He Likes It Strong) | https://sprudge.com/rejoice-pope-leo-loves-drinking-coffee-and-he-likes-it-strong-1186669.html
-- 2026-07-22 | Mammoth Coffee llegó a 1.000 tiendas en Corea del Sur | https://www.worldcoffeeportal.com/news/as-mammoth-coffee-reaches-1-000-stores-in-south-korea-its-preparing-for-a-bigger-battle-abroad/
-- 2026-07-22 | Build-Outs Of Coffee: Blue Sparrow Coffee In Denver, CO | https://sprudge.com/build-outs-of-coffee-blue-sparrow-coffee-in-denver-co-1101814.html
-- 2026-07-22 | The largest coffee chain in Cambodia faces an uncertain future | https://www.worldcoffeeportal.com/news/thailands-cafe-amazon-faces-uncertain-future-in-cambodia/
-- 2026-07-22 | Profitable Fore Coffee sticks to the script with disciplined lifestyle-brand growth | https://www.worldcoffeeportal.com/news/profitable-fore-coffee-sticks-to-the-script-with-disciplined-lifestyle-brand-growth/
 - 2026-07-23 | Mar del Plata se prepara: llega la Coffee Cup con 60 marcas y tres campeonatos | https://puntonoticias.com/mar-del-plata-abre-las-puertas-a-la-mayor-expo-de-cafe-de-especialidad-del-pais/
 - 2026-07-23 | Santiago se pone de vuelta el delantal: séptima edición de ExpoCafé Chile | https://www.cnnchile.com/tendencias/expocafe-chile-2026-llega-a-espacio-riesco-con-mas-de-30-000-visitantes-esperados-seis-campeonatos-nacionales-y-100-000-degustaciones-gratuitas/
 - 2026-07-23 | Café Quindío se mete en la puerta: especialidad frío o caliente por Rappi Turbo | https://www.publimetro.co/gourmetro/2026/07/22/del-quindio-a-la-puerta-de-su-casa-el-cafe-de-especialidad-gana-terreno-en-colombia/
@@ -137,3 +126,13 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-08-05 | Indonesia envía 57,6 toneladas de Royal Gayo a Kuwait | https://www.comunicaffe.com/indonesia-specialty-coffee-exports-57-6-tonnes-of-royal-gayo-coffee-to-kuwait/
 - 2026-08-05 | La Vicegobernadora de Córdoba visitó Cafezazo (Prunotto) | https://www.sierraschicasvivo.com/2026/08/prunotto-acompano-la-cuarta-edicion-de-cafezazo-y-destaco-el-crecimiento-de-la-produccion-gastronomica-cordobesa/
 - 2026-08-05 | Build-Outs Of Coffee: Demitasse in Santa Monica, CA | https://sprudge.com/build-outs-of-coffee-demitasse-in-santa-monica-ca-1159742.html
+- 2026-08-06 | Panamá se pasó de rosca: la subasta del Best of Panamá cerró con un promedio de US$ 2.861 por kilo | https://www.laestrella.com.pa/economia/panama-se-alista-para-la-subasta-electronica-de-cafes-especiales-CI14945412
+- 2026-08-06 | Dutch Bros se queda con 65 sitios de Salad and Go por US$ 105 millones | https://www.worldcoffeeportal.com/news/dutch-bros-makes-third-major-acquisition-of-2026/
+- 2026-08-06 | La policía coreana allanó la sede de Starbucks por el papelón del "Tank Day" | https://www.worldcoffeeportal.com/news/starbucks-korea-headquarters-raided-by-police-as-tank-day-fallout-widens/
+- 2026-08-06 | El especialidad se sale del ghetto: los James Beard reconocen a Onyx y a Endorffeine | https://perfectdailygrind.com/2026/08/specialty-coffee-recognition/
+- 2026-08-06 | Onyx abre en un parque de Arkansas: acero, roble blanco y arquitectura de Marlon Blackwell | https://sprudge.com/build-outs-of-coffee-onyx-at-the-preserve-in-bentonville-ar-1215178.html
+- 2026-08-06 | Bain Capital compra las 2.200 tiendas de Gong cha | https://www.worldcoffeeportal.com/news/bain-capital-acquires-gong-chas-2-200-store-global-business/
+- 2026-08-06 | McDonald's se rearma como destino de bebidas en Estados Unidos | https://www.worldcoffeeportal.com/news/mcdonalds-is-recasting-itself-as-a-beverage-destination-in-the-us/
+- 2026-08-06 | Saddle Café (EAU) firma para entrar a su cuarto mercado internacional | https://www.worldcoffeeportal.com/news/uaes-saddle-cafe-signs-deal-to-enter-fourth-international-market/
+- 2026-08-06 | Arábica septiembre cerró en 324,10 centavos el martes 4 | https://tradingeconomics.com/commodity/coffee/news/519705
+- 2026-08-06 | Coffee Master 2026 arrancó ayer en Bogotá | https://www.eltiempo.com/cultura/gastronomia/coffee-master-2026-regresa-a-bogota-con-mas-de-50-cafeterias-y-una-ruta-para-descubrir-el-cafe-de-especialidad-colombiano-3573325
