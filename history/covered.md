@@ -3,15 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-07-23 | Mar del Plata se prepara: llega la Coffee Cup con 60 marcas y tres campeonatos | https://puntonoticias.com/mar-del-plata-abre-las-puertas-a-la-mayor-expo-de-cafe-de-especialidad-del-pais/
-- 2026-07-23 | Santiago se pone de vuelta el delantal: séptima edición de ExpoCafé Chile | https://www.cnnchile.com/tendencias/expocafe-chile-2026-llega-a-espacio-riesco-con-mas-de-30-000-visitantes-esperados-seis-campeonatos-nacionales-y-100-000-degustaciones-gratuitas/
-- 2026-07-23 | Café Quindío se mete en la puerta: especialidad frío o caliente por Rappi Turbo | https://www.publimetro.co/gourmetro/2026/07/22/del-quindio-a-la-puerta-de-su-casa-el-cafe-de-especialidad-gana-terreno-en-colombia/
-- 2026-07-23 | Un tostador hogareño con IA sale a Kickstarter hoy: llega el Roma-X | https://www.comunicaffe.com/mago-maga-to-launch-roma-x-ai-home-coffee-roaster-on-kickstarter-july-23
-- 2026-07-23 | Cup of Excellence Guatemala 2026 — auction landing | https://allianceforcoffeeexcellence.org/guatemala-2026/
-- 2026-07-23 | Récord de participación en el Cup of Excellence Guatemala (GCR) | https://www.gcrmag.com/record-participation-in-cup-of-excellence-guatemala/
-- 2026-07-23 | Nestlé podría bajar precios del café (ESM Magazine) | https://www.esmmagazine.com/a-brands/nestle-could-lower-coffee-prices-as-bean-costs-fall-315640
-- 2026-07-23 | Vietnam y el El Niño más fuerte en 70 años (VnExpress) | https://e.vnexpress.net/news/news/environment/world-s-top-robusta-supplier-faces-its-strongest-el-ni-o-in-70-years-5086977.html
-- 2026-07-23 | SPRO Coffee Lab abre en San Francisco (Sprudge Build-Out) | https://sprudge.com/build-outs-of-coffee-spro-coffee-lab-in-san-francisco-cafeteria-1161900.html
 - 2026-07-24 | El Injerto rompe la banca en el Cup of Excellence Guatemala | https://allianceforcoffeeexcellence.org/guatemala-2026/
 - 2026-07-24 | Kafeterija se anima a cruzar la frontera: Serbia desembarca en Bulgaria | https://www.worldcoffeeportal.com/news/serbias-largest-coffee-chain-enters-bulgaria-with-cafe-chain-acquisition/
 - 2026-07-24 | Luckin le suma pantallas al mostrador y avanza en Nueva York | https://www.nrn.com/quick-service/luckin-coffee-adds-kiosks-to-its-new-york-city-locations
@@ -136,3 +127,11 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-08-06 | Saddle Café (EAU) firma para entrar a su cuarto mercado internacional | https://www.worldcoffeeportal.com/news/uaes-saddle-cafe-signs-deal-to-enter-fourth-international-market/
 - 2026-08-06 | Arábica septiembre cerró en 324,10 centavos el martes 4 | https://tradingeconomics.com/commodity/coffee/news/519705
 - 2026-08-06 | Coffee Master 2026 arrancó ayer en Bogotá | https://www.eltiempo.com/cultura/gastronomia/coffee-master-2026-regresa-a-bogota-con-mas-de-50-cafeterias-y-una-ruta-para-descubrir-el-cafe-de-especialidad-colombiano-3573325
+- 2026-08-07 | Café Amazon aterriza en Bangladesh: primer pie en el sur de Asia | https://www.worldcoffeeportal.com/news/cafe-amazon-launches-in-bangladesh-after-near-two-year-delay/
+- 2026-08-07 | Black Rock Coffee Bar cruza los 200 locales con una apertura en Denver | https://www.worldcoffeeportal.com/news/black-rock-coffee-bar-reaches-200-stores-ahead-of-crunch-earnings-release/
+- 2026-08-07 | Global Coffee Awards: la semana que viene se juzgan los mejores tostadores de Latam | https://perfectdailygrind.com/events/global-coffee-awards-us-canada-latin-america-2026/
+- 2026-08-07 | Innoroc lanza Beyond: la Übermilk se muda a una plataforma modular bajo mesada | https://dailycoffeenews.com/2026/08/04/beyond-brand-launches-around-ubermilk-and-plus-x-platform/
+- 2026-08-07 | Spokane Coffee Shops Open Doors To Those Impacted By Wildfires (Sprudge) | https://sprudge.com/spokane-coffee-shops-open-doors-to-those-impacted-by-wildfires-1253730.html
+- 2026-08-07 | Coffee Borer Beetles Are Making Homes For The Ants That Hunt Them (Sprudge) | https://sprudge.com/coffee-borer-beetles-are-making-homes-for-the-ants-that-hunt-them-1251142.html
+- 2026-08-07 | UK's Coughlans Bakery acquired out of liquidation (WCP) | https://www.worldcoffeeportal.com/news/uks-coughlans-bakery-acquired-out-of-liquidation/
+- 2026-08-07 | Nestlé Brasil proyecta subir 27% las exportaciones de café soluble (Yahoo Finance) | https://finance.yahoo.com/sectors/energy/articles/nestl-inks-partnership-support-labor-124535966.html
