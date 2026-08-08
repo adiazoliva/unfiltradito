@@ -3,14 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-07-24 | El Injerto rompe la banca en el Cup of Excellence Guatemala | https://allianceforcoffeeexcellence.org/guatemala-2026/
-- 2026-07-24 | Kafeterija se anima a cruzar la frontera: Serbia desembarca en Bulgaria | https://www.worldcoffeeportal.com/news/serbias-largest-coffee-chain-enters-bulgaria-with-cafe-chain-acquisition/
-- 2026-07-24 | Luckin le suma pantallas al mostrador y avanza en Nueva York | https://www.nrn.com/quick-service/luckin-coffee-adds-kiosks-to-its-new-york-city-locations
-- 2026-07-24 | Fore Coffee cerró junio con 377 locales: Indonesia se planta | https://finance.yahoo.com/news/fore-coffee-launches-concept-south-jakarta-120225195.html
-- 2026-07-24 | El robusta se hunde: Vietnam mira una cosecha de cuatro años | https://www.gcrmag.com/robusta-prices-dropping-as-vietnam-harvest-projections-rise/
-- 2026-07-24 | Costa Rica busca conquistar Corea del Sur con su café de especialidad | https://forbescentroamerica.com/2026/06/04/costa-rica-busca-conquistar-corea-del-sur-con-su-cafe-de-especialidad/
-- 2026-07-24 | Arábica cerca de mínimos de cuatro meses | https://tradingeconomics.com/commodity/coffee/news/511840
-- 2026-07-24 | Otra versión de la nota de los kioskos de Luckin en Yahoo | https://finance.yahoo.com/small-business/articles/luckin-coffee-adds-kiosks-york-182945564.html
 - 2026-07-25 | Regenerativa e ingreso digno: la ecuación que a veces cierra (y a veces no) | https://dailycoffeenews.com/2026/07/23/can-regenerative-coffee-farming-deliver-living-incomes-it-depends-analysis-shows/
 - 2026-07-25 | Brasil se retrasa y el arábica agarra envión el viernes | https://www.barchart.com/story/news/3369070/delays-to-brazils-harvest-push-coffee-prices-higher
 - 2026-07-25 | La IWCA suma tres capítulos y llega a 40 en todo el mundo (BeNeLux, Francia, Ghana) | https://www.womenincoffee.org/chapter-list
@@ -135,3 +127,12 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-08-07 | Coffee Borer Beetles Are Making Homes For The Ants That Hunt Them (Sprudge) | https://sprudge.com/coffee-borer-beetles-are-making-homes-for-the-ants-that-hunt-them-1251142.html
 - 2026-08-07 | UK's Coughlans Bakery acquired out of liquidation (WCP) | https://www.worldcoffeeportal.com/news/uks-coughlans-bakery-acquired-out-of-liquidation/
 - 2026-08-07 | Nestlé Brasil proyecta subir 27% las exportaciones de café soluble (Yahoo Finance) | https://finance.yahoo.com/sectors/energy/articles/nestl-inks-partnership-support-labor-124535966.html
+- 2026-08-08 | El PRF cruza el charco y se planta en Chiapas por primera vez (marzo 2027) | https://perfectdailygrind.com/2026/08/coffee-news-recap-7-august-2026/
+- 2026-08-08 | Aillio abre casa matriz regional en San Salvador | https://perfectdailygrind.com/2026/08/coffee-news-recap-7-august-2026/
+- 2026-08-08 | Oaxaca convoca: llega la Convención del Café Oaxaqueño 2026 (14-15 agosto) | https://www.gob.mx/agricultura/prensa/anuncia-agricultura-segunda-edicion-de-la-convencion-del-cafe-oaxaqueno-como-reconocimiento-a-productoras-y-productores
+- 2026-08-08 | Jordan Saglio se lleva el Brewers Cup panameño con un Esmeralda | https://perfectdailygrind.com/2026/08/coffee-news-recap-7-august-2026/
+- 2026-08-08 | Perú tiene guía nueva: 96 páginas para entender la cosecha 2025/26 (Khipu) | https://www.comunicaffe.com/khipu-coffee-peruvian-coffee-harvest-guide-2025-26
+- 2026-08-08 | Liberia reparte 700.000 plantines de Liberica para revivir la industria cafetera | https://www.liberianobserver.com/news/lacra-distributes-700k-coffee-liberica-seedlings-to-revive-coffee-industry/article_2ef6fc2b-cc41-4825-bf3b-098364c7c710.html
+- 2026-08-08 | illycaffè reporta ingresos récord de €373 millones en el primer semestre (+19%) | https://www.prnewswire.com/news-releases/first-half-2026-results-record-revenue-growth-19-at-constant-exchange-rates-double-digit-ebitda-increase-302841336.html
+- 2026-08-08 | Australia lanza programa nacional de investigación cafetera por AUD 4 millones | https://www.beanscenemag.com.au/new-multi-million-dollar-australian-coffee-research-program-launched
+- 2026-08-08 | Arábica cerró una semana volátil con rango entre US$ 2,98 y US$ 3,40 por libra | https://es.dailyforex.com/forex-technical-analysis/2026/08/cafe-arabica-conserva-estructura-volatil-semana-3-a-7-agosto-2026/248251
