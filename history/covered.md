@@ -3,24 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-07-25 | Regenerativa e ingreso digno: la ecuación que a veces cierra (y a veces no) | https://dailycoffeenews.com/2026/07/23/can-regenerative-coffee-farming-deliver-living-incomes-it-depends-analysis-shows/
-- 2026-07-25 | Brasil se retrasa y el arábica agarra envión el viernes | https://www.barchart.com/story/news/3369070/delays-to-brazils-harvest-push-coffee-prices-higher
-- 2026-07-25 | La IWCA suma tres capítulos y llega a 40 en todo el mundo (BeNeLux, Francia, Ghana) | https://www.womenincoffee.org/chapter-list
-- 2026-07-25 | Vietnam mete US$ 12,5 millones en un instituto de café con inteligencia artificial (Gia Lai) | https://www.gcrmag.com/12m-ai-coffee-research-facility-given-green-light
-- 2026-07-25 | Corea del Sur les cierra la canilla a los descartables: 22.000 locales adentro | https://www.worldcoffeeportal.com/news/south-koreas-largest-coffee-chains-join-fresh-government-action-to-cut-disposable-cup-waste/
-- 2026-07-25 | Weekly Coffee News (Daily Coffee News) — recopilación del 24/07 | https://dailycoffeenews.com/2026/07/24/weekly-coffee-news-new-iwca-chapters-plastic-in-retail-agreement/
-- 2026-07-25 | Estudio: paquetes chicos al mismo precio empujan la compra ética | https://dailycoffeenews.com/2026/07/24/this-is-how-you-get-coffee-shoppers-to-follow-through-on-ethical-purchasing/
-- 2026-07-25 | Luckin muestra su "Smart Extraction Ecosystem" en WAIC 2026 (Shanghái) | https://finance.biggo.com/news/590c37be-799e-4213-9294-886346b10d4e
-- 2026-07-25 | Fourgrounds, café + newsroom de Detroit en Plymouth, Michigan | https://www.newscaststudio.com/2026/07/23/wdvi-local-4-coffee-shop/
-- 2026-07-26 | El USDA canta el pronóstico: viene una zafra récord y los precios miran para abajo | https://www.comunicaffe.com/usda-world-coffee-production-6-exports-9-and-global-consumption-3-6-set-to-reach-record-levels-in-2026-27
-- 2026-07-26 | La UE se sienta a la mesa del café: firmó el Acuerdo Internacional (21 de julio, Londres) | https://www.comunicaffe.com/coffee-futures-have-fallen-for-third-day-running-following-the-usdas-figures-on-global-markets
-- 2026-07-26 | Fairtrade se planta: "los precios altos no arreglan nada" (Andreas Kratz) | https://perfectdailygrind.com/2026/07/coffee-news-recap-24-july-2026/
-- 2026-07-26 | Otra ronda de aranceles de Trump del 24 de julio y el café volvió a esquivarla | https://www.worldcoffeeportal.com/news/coffee-emerges-unscathed-in-latest-rounds-of-us-tariffs-for-now/
-- 2026-07-26 | Filtrado vs instantáneo: estudio Chongqing Medical University + UK Biobank sobre envejecimiento biológico | https://sprudge.com/filter-coffee-vs-instant-which-helps-you-age-better-1219429.html
-- 2026-07-26 | Etiopía apunta a US$ 4.000 millones exportando 550.000 toneladas de café | https://ethiopiatoday.net/ministry-of-agriculture-plans-to-export-550000-tons-of-coffee-as-earnings-goal-rises-to-4b/
-- 2026-07-26 | Weber Workshops se queda con la canastilla oficial del WBC 2026-27 | https://www.comunicaffe.com/weber-workshops-unibasket-official-espresso-basket-world-barista-championship-2026-2027
-- 2026-07-26 | Delays to Brazil's Harvest Push Coffee Prices Higher (Barchart) | https://www.barchart.com/story/news/3369070/delays-to-brazils-harvest-push-coffee-prices-higher
-- 2026-07-26 | GWAR lanza un nitro cold brew "Berserker Mode" | https://sprudge.com/ready-to-drink-berserker-mode-nitro-cold-brew-cans-from-horror-rock-heroes-gwar-1098882.html
 - 2026-07-27 | Tucumán se planta: nace el primer café gourmet argentino | https://www.lanacion.com.ar/economia/la-argentina-empieza-a-producir-cafe-gourmet-en-tucuman-nid27072026/
 - 2026-07-27 | India cruza el charco: Kruti manda su primer café a Londres sin arancel | https://www.millenniumpost.in/amp/business/india-uk-ceta-1st-zero-duty-coffee-jewellery-shipments-reach-uk-shores-668480
 - 2026-07-27 | El café tira del carro de Nestlé en la primera mitad de 2026 | https://www.comunicaffe.com/nestle-h1-2026-results-organic-growth-guidance
@@ -136,3 +118,12 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-08-08 | illycaffè reporta ingresos récord de €373 millones en el primer semestre (+19%) | https://www.prnewswire.com/news-releases/first-half-2026-results-record-revenue-growth-19-at-constant-exchange-rates-double-digit-ebitda-increase-302841336.html
 - 2026-08-08 | Australia lanza programa nacional de investigación cafetera por AUD 4 millones | https://www.beanscenemag.com.au/new-multi-million-dollar-australian-coffee-research-program-launched
 - 2026-08-08 | Arábica cerró una semana volátil con rango entre US$ 2,98 y US$ 3,40 por libra | https://es.dailyforex.com/forex-technical-analysis/2026/08/cafe-arabica-conserva-estructura-volatil-semana-3-a-7-agosto-2026/248251
+- 2026-08-09 | Antioquia mueve más de $12.000 millones para café sostenible (1.200 caficultores) | https://www.eltiempo.com/amp/vida/medio-ambiente/mas-de-1-200-caficultores-en-antioquia-fortalecieron-su-produccion-con-modelo-de-financiamiento-verde-3576738
+- 2026-08-09 | Ecuador tiene sus 41 mejores cafeterías: cuatro son de Loja (The Best Coffee Shop 2026) | https://www.primicias.ec/entretenimiento/gastronomia/mejores-cafeterias-ecuador2026-best-coffee-shop-ranking-129424/
+- 2026-08-09 | Tim Hortons pisa el freno en Canadá y le complica los planes a RBI (Q2 2026) | https://www.theglobeandmail.com/business/article-restaurant-brands-second-quarter-results-burger-king-tim-hortons/
+- 2026-08-09 | La malaya Oriental Kopi se planta en Indonesia y Mauricio | https://www.worldcoffeeportal.com/news/malaysias-oriental-kopi-signs-deals-to-enter-two-new-international-markets/
+- 2026-08-09 | El arábica cerró la semana con un rebote fuerte: +4,32% el viernes | https://www.barchart.com/story/news/3724772/arabica-coffee-surges-on-dollar-weakness-and-tight-ice-inventories
+- 2026-08-09 | De'Longhi H1 2026: división profesional (La Marzocco + Eversys) +36% a €302,8 millones | https://www.worldcoffeeportal.com/news/global-coffee-chain-growth-puts-la-marzocco-and-eversys-in-the-spotlight-for-delonghi/
+- 2026-08-09 | Brighton Coffee Festival este fin de semana con el UK & Ireland Filter Championship | https://www.brightoncoffeefest.com/event/brighton-coffee-festival-2026/
+- 2026-08-09 | Kahwa Coffee, la mayor tostaduría independiente de Florida, duplicó su central en St. Petersburg | https://tbbwmag.com/2026/08/05/kahwa-coffee-st-petersburg-headquarters/
+- 2026-08-09 | World Coffee Portal pone la lupa sobre la expansión regional de Café Martínez | https://www.worldcoffeeportal.com/news/argentinas-cafe-martinez-outlines-bold-growth-ambitions-in-south-america/
