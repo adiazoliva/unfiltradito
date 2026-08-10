@@ -127,3 +127,10 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-08-09 | Brighton Coffee Festival este fin de semana con el UK & Ireland Filter Championship | https://www.brightoncoffeefest.com/event/brighton-coffee-festival-2026/
 - 2026-08-09 | Kahwa Coffee, la mayor tostaduría independiente de Florida, duplicó su central en St. Petersburg | https://tbbwmag.com/2026/08/05/kahwa-coffee-st-petersburg-headquarters/
 - 2026-08-09 | World Coffee Portal pone la lupa sobre la expansión regional de Café Martínez | https://www.worldcoffeeportal.com/news/argentinas-cafe-martinez-outlines-bold-growth-ambitions-in-south-america/
+- 2026-08-10 | Honduras rompe el récord y cierra la cosecha con US$ 2.224 millones | https://www.laprensa.hn/economia/honduras-perfila-record-exportaciones-cafe-divisas-AJ31298329
+- 2026-08-10 | Colombia cierra el año cafetero en rojo pese al rebote de junio | https://www.elespectador.com/economia/cafe-colombiano-repunta-en-junio-pero-sigue-con-la-produccion-anual-en-rojo/
+- 2026-08-10 | Robusta y arábica se separan: Londres cae, Nueva York rebota | https://www.comunicaffe.com/coffee-futures-prices-rose-again-during-yesterdays-trading-session-industry-insiders-explain-the-reasons-behind-last-months-unprecedented-rises/
+- 2026-08-10 | Empieza el juzgamiento de los mejores tostadores de Latam (Global Coffee Awards Houston) | https://perfectdailygrind.com/events/global-coffee-awards-us-canada-latin-america-2026/
+- 2026-08-10 | Every Half Coffee Roasters (Vietnam) levanta US$ 8M en Serie A | https://vir.com.vn/every-half-coffee-roasters-raises-8-million-in-series-a-financing-156787.html
+- 2026-08-10 | Death Wish suma Caramel Cold Brew Latte a su línea RTD | https://www.foodbev.com/news/death-wish-coffee-launches-caramel-cold-brew-latte-in-rtd-range
+- 2026-08-10 | Julius Meinl Barista Cup: la final mundial es el 4 de septiembre en Viena | https://juliusmeinl.com/at/baristacup
