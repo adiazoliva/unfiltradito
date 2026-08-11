@@ -3,16 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-07-27 | Tucumán se planta: nace el primer café gourmet argentino | https://www.lanacion.com.ar/economia/la-argentina-empieza-a-producir-cafe-gourmet-en-tucuman-nid27072026/
-- 2026-07-27 | India cruza el charco: Kruti manda su primer café a Londres sin arancel | https://www.millenniumpost.in/amp/business/india-uk-ceta-1st-zero-duty-coffee-jewellery-shipments-reach-uk-shores-668480
-- 2026-07-27 | El café tira del carro de Nestlé en la primera mitad de 2026 | https://www.comunicaffe.com/nestle-h1-2026-results-organic-growth-guidance
-- 2026-07-27 | Alsea prendió el ventilador: caen las ganancias y Starbucks México se resfrió | https://www.investing.com/news/company-news/alsea-q2-2026-slides-sales-dip-but-digital-growth-shines-93CH-4807524
-- 2026-07-27 | Cuatro fermentaciones, un mismo grano: el proyecto de Hoffmann y Solis | https://www.baristamagazine.com/the-insider-headlines-from-the-coffee-industry-40/
-- 2026-07-27 | Kopi Kenangan huele salida a bolsa (Quartz) | https://qz.com/kopi-kenangan-ipo-serena-williams-jay-z-indonesia-coffee-071726
-- 2026-07-27 | Coffee Master 2026 vuelve a Bogotá con 50 cafeterías (El Tiempo) | https://www.eltiempo.com/cultura/gastronomia/coffee-master-2026-regresa-a-bogota-con-mas-de-50-cafeterias-y-una-ruta-para-descubrir-el-cafe-de-especialidad-colombiano-3573325
-- 2026-07-27 | Wavelength Coffee Roasters lanza división de hospitalidad | https://express-press-release.net/news/2026/07/25/1763923
-- 2026-07-27 | Sprudge: selección semanal de tostadores asociados (You Need Coffee) | https://sprudge.com/you-need-coffee-but-also-coffee-needs-you-1223213.html
-- 2026-07-27 | Café Martínez proyecta 27-30 aperturas nuevas en Argentina | https://derechadiario.com.ar/economia/cafe-martinez-anuncio-ambicioso-plan-inversiones-apertura-nuevos-locales-argentina
 - 2026-07-28 | Mar del Plata Coffee Cup: la primera jornada dejó a los finalistas del Cup Tasters | https://mercado.com.ar/eventos/mar-del-plata-coffee-cup-2026-definio-finalistas-de-cup-tasters-y-sigue-la-agenda
 - 2026-07-28 | Cayó agua en Minas Gerais y el arábica se despertó de mal humor | https://www.barchart.com/story/news/3484781/coffee-prices-sharply-higher-as-brazils-coffee-harvest-is-delayed
 - 2026-07-28 | Guatemala junta a la industria del café: llega CAFEX 2026 | https://www.anacafe.org/34-congreso-de-la-caficultura/
@@ -134,3 +124,11 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-08-10 | Every Half Coffee Roasters (Vietnam) levanta US$ 8M en Serie A | https://vir.com.vn/every-half-coffee-roasters-raises-8-million-in-series-a-financing-156787.html
 - 2026-08-10 | Death Wish suma Caramel Cold Brew Latte a su línea RTD | https://www.foodbev.com/news/death-wish-coffee-launches-caramel-cold-brew-latte-in-rtd-range
 - 2026-08-10 | Julius Meinl Barista Cup: la final mundial es el 4 de septiembre en Viena | https://juliusmeinl.com/at/baristacup
+- 2026-08-11 | El arábica se pegó un porrazo: -3,79% el lunes por Brasil despejado | https://www.barchart.com/story/news/3618212/harvest-friendly-weather-in-brazil-weighs-on-arabica-coffee-prices
+- 2026-08-11 | Development Stage vuelve a Oakland con foco en el productor | https://dailycoffeenews.com/2026/08/10/development-stage-to-explore-coffee-beyond-the-cup-in-oakland/
+- 2026-08-11 | Polvo con sílice: los baristas de Starbucks piden que revisen la receta | https://www.snopes.com/news/2026/08/09/starbucks-drinks-powder/
+- 2026-08-11 | La SCA mete el Coffee Value Assessment en el celular | https://sca.coffee/sca-news/the-coffee-value-assessment-and-tools-new-digita-platforms
+- 2026-08-11 | El matcha les come el plato a las cafeterías: qué dice Japón | https://perfectdailygrind.com/2026/08/matcha-is-everywhere-japan/
+- 2026-08-11 | Camp Coffee Shop en Napa Valley (10-13 de agosto) | https://dailycoffeenews.com/2026/02/25/barista-magazine-hosting-camp-coffee-shop-in-napa/
+- 2026-08-11 | From edgy to elegant: How 'cool' in specialty coffee is maturing (PDG) | https://perfectdailygrind.com/2026/08/cool-in-specialty-coffee-maturing/
+- 2026-08-11 | Jolene Coffee lanza tres nuevos sabores RTD (Red Velvet, Avellana, Caramelo Salado) | https://www.comunicaffe.com/jolene-coffee-introduces-three-bold-new-flavors/
