@@ -3,14 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-07-28 | Mar del Plata Coffee Cup: la primera jornada dejó a los finalistas del Cup Tasters | https://mercado.com.ar/eventos/mar-del-plata-coffee-cup-2026-definio-finalistas-de-cup-tasters-y-sigue-la-agenda
-- 2026-07-28 | Cayó agua en Minas Gerais y el arábica se despertó de mal humor | https://www.barchart.com/story/news/3484781/coffee-prices-sharply-higher-as-brazils-coffee-harvest-is-delayed
-- 2026-07-28 | Guatemala junta a la industria del café: llega CAFEX 2026 | https://www.anacafe.org/34-congreso-de-la-caficultura/
-- 2026-07-28 | La borra del café también puede limpiar gases tóxicos | https://dailycoffeenews.com/2026/07/27/spent-coffee-grounds-as-biochar-could-treat-toxic-gas/
-- 2026-07-28 | En Portland abrió un showroom-escuela-tostaduría todo en uno | https://dailycoffeenews.com/2026/07/27/session-room-brings-equipment-training-and-coffee-together-in-portland/
-- 2026-07-28 | Build-Outs of Coffee: 107 Roasters & Cafe (Amarillo, Texas) | https://sprudge.com/build-outs-of-coffee-107-roasters-cafe-in-amarillo-tx-1028506.html
-- 2026-07-28 | Rabobank anticipa superávit global de 7 a 10 millones de sacas en 2026/27 | https://www.foodbusinessmea.com/rabobank-forecasts-global-coffee-surplus-as-brazils-record-2026-27-crop-reshapes-market-outlook/
-- 2026-07-28 | Colombia produjo 1,3 millones de sacas en junio, un 43% más que en 2025 | https://www.eltiempo.com/amp/economia/sectores/la-produccion-de-cafe-de-colombia-aumento-un-43-en-junio-pero-sigue-en-numeros-rojos-en-lo-corrido-del-ano-3568738
 - 2026-07-29 | En Alhambra abrió Monolith: piedra, tueste propio y menú por movimientos | https://dailycoffeenews.com/2026/07/28/monolith-coffee-is-building-something-different-in-los-angeles/
 - 2026-07-29 | La revaluación del peso les come la ganancia a los cafeteros colombianos | https://www.lafm.com.co/economia/revaluacion-peso-colombiano-perdidas-cafeteros-445000-millones-ingresos-afectados-401633
 - 2026-07-29 | Kenia larga un plan para triplicar la producción de café en tres años | https://www.foodbusinessmea.com/kenya-launches-coffee-revitalization-programme-to-triple-production-by-2028-29/
@@ -132,3 +124,10 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-08-11 | Camp Coffee Shop en Napa Valley (10-13 de agosto) | https://dailycoffeenews.com/2026/02/25/barista-magazine-hosting-camp-coffee-shop-in-napa/
 - 2026-08-11 | From edgy to elegant: How 'cool' in specialty coffee is maturing (PDG) | https://perfectdailygrind.com/2026/08/cool-in-specialty-coffee-maturing/
 - 2026-08-11 | Jolene Coffee lanza tres nuevos sabores RTD (Red Velvet, Avellana, Caramelo Salado) | https://www.comunicaffe.com/jolene-coffee-introduces-three-bold-new-flavors/
+- 2026-08-12 | Colombia bajo escombros: el eje cafetero se levanta como puede | https://www.semana.com/economia/articulo/federacion-nacional-de-cafeteros-activa-plan-a-para-atender-caficultores-tras-terremoto-del-10-de-agosto-en-colombia/202626/
+- 2026-08-12 | El arábica se prende fuego: máximos de tres semanas por Colombia | https://www.brecorder.com/news/40434375/arabica-coffee-rallies-to-three-week-high
+- 2026-08-12 | Ya se sabe con qué máquinas se pelea el Mundial en Panamá (Storm/Ceado/BWT 2026-2027) | https://wcc.coffee/latest-news/announcing-the-2026-2027-world-barista-championship-qualified-sponsors
+- 2026-08-12 | Goodboybob salta a la costa este y se planta en Venice | https://dailycoffeenews.com/2026/08/11/goodboybob-doubles-cafe-footprint-with-openings-in-new-york-and-la/
+- 2026-08-12 | ¿Qué es un café "fuerte"? Un estudio brasileño mete cuchara | https://dailycoffeenews.com/2026/08/11/what-is-strong-coffee-it-may-depend-on-cultural-context/
+- 2026-08-12 | South America's 100 Best Coffee Shops 2026 — votación abierta hasta el 16 | https://theworlds100bestcoffeeshops.com/voting/south-america/
+- 2026-08-12 | Two Fold Coffee & Kitchen abre en Tampa (multiroaster con Modbar y vinos naturales) | https://dailycoffeenews.com/2026/08/06/two-fold-doubles-down-on-quality-in-tampa/
