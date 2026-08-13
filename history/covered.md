@@ -3,14 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-07-29 | En Alhambra abrió Monolith: piedra, tueste propio y menú por movimientos | https://dailycoffeenews.com/2026/07/28/monolith-coffee-is-building-something-different-in-los-angeles/
-- 2026-07-29 | La revaluación del peso les come la ganancia a los cafeteros colombianos | https://www.lafm.com.co/economia/revaluacion-peso-colombiano-perdidas-cafeteros-445000-millones-ingresos-afectados-401633
-- 2026-07-29 | Kenia larga un plan para triplicar la producción de café en tres años | https://www.foodbusinessmea.com/kenya-launches-coffee-revitalization-programme-to-triple-production-by-2028-29/
-- 2026-07-29 | Arabia Saudita se para en las fincas: mira al café salvadoreño | https://www.elsalvador.com/dinero-y-negocios/entorno-economico/cafe-arabia-saudita-ecuador-el-salvador/1284834/2026/
-- 2026-07-29 | Edrey Vega: The Sprudge Twenty Interview | https://sprudge.com/edrey-vega-the-sprudge-twenty-interview-1127603.html
-- 2026-07-29 | Groupe SEB reporta ventas de €3.743M en el primer semestre | https://www.comunicaffe.com/groupe-seb-reports-1h-sales-of-e3743m-up-1-7-lfl-stable-on-a-reported-basis
-- 2026-07-29 | Coffee LATAM 2026 arranca en Campinas | https://informaconnect.com/coffee-latam/
-- 2026-07-29 | Arábica sigue en trepada (+3,4%), preocupa "Super El Niño" | https://www.comunicaffe.com/arabica-coffee-futures-soared-again-yesterday-3-4-super-el-nino-could-cause-losses-of-686-billion/
 - 2026-07-30 | Boquete se pone de largo: arrancó el 30° Best of Panamá | https://www.infobae.com/panama/2026/07/29/expertos-de-14-paises-buscan-en-panama-los-mejores-cafes-de-especialidad-del-ano/
 - 2026-07-30 | Vuelve Cafezazo a Córdoba: dos jornadas y mudanza a la Plaza de la Intendencia | https://www.perfil.com/noticias/cordoba/cafezazo-vuelve-a-cordoba-con-su-cuarta-edicion-y-se-muda-a-la-plaza-de-la-intendencia.phtml
 - 2026-07-30 | Cafestival vuelve al Centro Histórico de la CDMX | https://www.chilango.com/que-hacer/festival-del-cafe-2026-cdmx-fechas-registro-actividades-cafestival-mx/
@@ -131,3 +123,11 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-08-12 | ¿Qué es un café "fuerte"? Un estudio brasileño mete cuchara | https://dailycoffeenews.com/2026/08/11/what-is-strong-coffee-it-may-depend-on-cultural-context/
 - 2026-08-12 | South America's 100 Best Coffee Shops 2026 — votación abierta hasta el 16 | https://theworlds100bestcoffeeshops.com/voting/south-america/
 - 2026-08-12 | Two Fold Coffee & Kitchen abre en Tampa (multiroaster con Modbar y vinos naturales) | https://dailycoffeenews.com/2026/08/06/two-fold-doubles-down-on-quality-in-tampa/
+- 2026-08-13 | El café colombiano quedó varado: Buenaventura sigue trabada tras el sismo | https://www.infobae.com/colombia/2026/08/12/el-terremoto-en-colombia-paralizo-las-exportaciones-de-cafe-miles-de-toneladas-del-grano-dejan-de-salir-del-pais-por-la-dificil-situacion/
+- 2026-08-13 | Guatemala rompió el techo del Cup of Excellence: US$ 449 por libra (El Injerto) | https://www.bloomberglinea.com/2026/08/12/cafes-de-especialidad-de-centroamerica-se-cotizan-hasta-en-us450-por-libra/
+- 2026-08-13 | Jollibee cerró un trimestre récord empujado por Highlands Coffee (+46,7%) | https://www.worldcoffeeportal.com/news/jollibees-coffee-portfolio-powers-q2-recovery-but-higher-costs-could-constrain-global-ambitions/
+- 2026-08-13 | Westrock Coffee: la planta de US$ 360 millones ya escupe caja (Q2 2026) | https://www.worldcoffeeportal.com/news/westrock-coffees-360m-investment-now-a-generator-of-cash-says-ceo/
+- 2026-08-13 | Valora se suma a 250 estaciones de BP en Austria | https://www.worldcoffeeportal.com/news/valora-partnership-acquires-hundreds-of-petrol-station-sites-in-austria/
+- 2026-08-13 | Starbucks China elimina el 14° salario y modifica beneficios (rumores) | https://www.gurufocus.com/news/9027554/starbucks-china-faces-rumors-amid-strategic-changes-and-market-competition
+- 2026-08-13 | El café doméstico en Vietnam roza los 100.000 VND por kg | https://www.vietnam.vn/en/gia-nong-san-hom-nay-12-8-2026-gia-ca-phe-trong-nuoc-thu-thach-moc-100-000-dong-gia-gao-neo-cao-phi-qua-kenh-dao-panama-tang-chua-tung-co
+- 2026-08-13 | PRESS Coffee abre nuevo local en CityNorth, Phoenix | https://whatnow.com/phoenix/restaurants/press-coffee-opening-citynorth-cafe-in-august/
