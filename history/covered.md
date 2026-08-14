@@ -3,14 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-07-30 | Boquete se pone de largo: arrancó el 30° Best of Panamá | https://www.infobae.com/panama/2026/07/29/expertos-de-14-paises-buscan-en-panama-los-mejores-cafes-de-especialidad-del-ano/
-- 2026-07-30 | Vuelve Cafezazo a Córdoba: dos jornadas y mudanza a la Plaza de la Intendencia | https://www.perfil.com/noticias/cordoba/cafezazo-vuelve-a-cordoba-con-su-cuarta-edicion-y-se-muda-a-la-plaza-de-la-intendencia.phtml
-- 2026-07-30 | Cafestival vuelve al Centro Histórico de la CDMX | https://www.chilango.com/que-hacer/festival-del-cafe-2026-cdmx-fechas-registro-actividades-cafestival-mx/
-- 2026-07-30 | Cold coffee, la nueva obsesión: Mother Parkers abre una planta de extractos en Ontario | https://dailycoffeenews.com/2026/07/29/mother-parkers-expands-into-coffee-extract-manufacturing/
-- 2026-07-30 | Brasil bajo el agua: el arábica se mueve al ritmo del pronóstico | https://finance.yahoo.com/markets/commodities/articles/coffee-prices-jump-heavy-rains-154901351.html
-- 2026-07-30 | La Marzocco's Ice Cream Social Goes To Cleveland | https://sprudge.com/la-marzoccos-ice-cream-social-goes-to-cleveland-1222006.html
-- 2026-07-30 | Etiopía cierra el año fiscal con US$ 3.000 millones exportando café | https://ethiopiatoday.net/ministry-of-agriculture-plans-to-export-550000-tons-of-coffee-as-earnings-goal-rises-to-4b/
-- 2026-07-30 | Edrey Vega: The Sprudge Twenty Interview | https://sprudge.com/edrey-vega-the-sprudge-twenty-interview-1127603.html
 - 2026-07-31 | Fairtrade sube el piso: US$ 2 por libra para el arábica lavado | https://www.comunicaffe.com/fairtrade-increases-minimum-coffee-prices-december-2026
 - 2026-07-31 | La ciencia le puso nombre al amargo del café (TAS2R43, UNC) | https://dailycoffeenews.com/2026/07/29/new-research-digs-into-the-bitter-truth-about-coffee/
 - 2026-07-31 | Victoria Arduino Record: la máquina que se puede hundir en la mesada | https://dailycoffeenews.com/2026/07/29/victoria-arduino-introduces-record-a-new-take-on-undercounter-espresso/
@@ -131,3 +123,11 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-08-13 | Starbucks China elimina el 14° salario y modifica beneficios (rumores) | https://www.gurufocus.com/news/9027554/starbucks-china-faces-rumors-amid-strategic-changes-and-market-competition
 - 2026-08-13 | El café doméstico en Vietnam roza los 100.000 VND por kg | https://www.vietnam.vn/en/gia-nong-san-hom-nay-12-8-2026-gia-ca-phe-trong-nuoc-thu-thach-moc-100-000-dong-gia-gao-neo-cao-phi-qua-kenh-dao-panama-tang-chua-tung-co
 - 2026-08-13 | PRESS Coffee abre nuevo local en CityNorth, Phoenix | https://whatnow.com/phoenix/restaurants/press-coffee-opening-citynorth-cafe-in-august/
+- 2026-08-14 | Aldi le pone la ficha al café regenerativo: arranca el Resilient Coffee Program (IDH, 4 países) | https://www.comunicaffe.com/idh-launches-resilient-coffee-program-300000-farmers-and-500000-tonnes-of-regenerative-coffee-annually-by-2030/
+- 2026-08-14 | Buenaventura vuelve a moverse: APM Terminals restablece bodegas de café tras el sismo | https://www.porttechnology.org/apm-terminals-buenaventura-restarts-after-earthquake/
+- 2026-08-14 | Black Rock Coffee Bar: ingresos +25% en Q2 2026 pero EPS por debajo del consenso | https://www.stocktitan.net/news/BRCB/black-rock-coffee-bar-inc-reports-second-quarter-2026-uf1ypdrgfc9j.html
+- 2026-08-14 | Cambio de mando en Go Get Em Tiger: David Yardley al frente como CEO | https://sprudge.com/
+- 2026-08-14 | Groundswell abre en el Fine Arts Building de Chicago (Daily Coffee News) | https://dailycoffeenews.com/2026/08/13/groundswell-brings-fine-coffees-to-chicagos-fine-arts-building/
+- 2026-08-14 | Black Rifle Coffee cerca de la rentabilidad: EBITDA +164% en Q2 2026 | https://ir.blackriflecoffee.com/news-events/press-releases/detail/116/brc-inc-reports-second-quarter-2026-financial-results
+- 2026-08-14 | Arábica cotizando en torno a US$ 3,19/lb el 13 de agosto (Trading Economics) | https://tradingeconomics.com/commodity/coffee
+- 2026-08-14 | Mazzer lanza el "Best Opener" en la industria del café (Sprudge) | https://sprudge.com/
