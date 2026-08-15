@@ -3,16 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-07-31 | Fairtrade sube el piso: US$ 2 por libra para el arábica lavado | https://www.comunicaffe.com/fairtrade-increases-minimum-coffee-prices-december-2026
-- 2026-07-31 | La ciencia le puso nombre al amargo del café (TAS2R43, UNC) | https://dailycoffeenews.com/2026/07/29/new-research-digs-into-the-bitter-truth-about-coffee/
-- 2026-07-31 | Victoria Arduino Record: la máquina que se puede hundir en la mesada | https://dailycoffeenews.com/2026/07/29/victoria-arduino-introduces-record-a-new-take-on-undercounter-espresso/
-- 2026-07-31 | La Cosecha 2026: café panameño con chefs Michelin en Boquete | https://www.riotimesonline.com/la-cosecha-2026-panamanian-coffee-art-gastronomy-2026/
-- 2026-07-31 | Un filamento 3D con borra de café: la china eSUN lanza PLA-Coffee | https://www.comunicaffe.com/esun-launches-pla-coffee-a-sustainable-3d-printing-filament-made-from-recycled-coffee-grounds
-- 2026-07-31 | Coffee Prices Jump as Heavy Rains Delay Brazil's Harvest (Barchart) | https://www.barchart.com/story/news/3482266/coffee-prices-jump-as-heavy-rains-delay-brazils-coffee-harvest
-- 2026-07-31 | Pinup Coffee Takes Off with Standalone Cafe in Virginia Beach (Daily Coffee News) | https://dailycoffeenews.com/2026/07/30/pinup-coffee-takes-off-with-standalone-cafe-in-virginia-beach/
-- 2026-07-31 | Ellianos Coffee Signs Development Agreement in Troy, Michigan (Comunicaffe) | https://www.comunicaffe.com/ellianos-coffee-signs-development-agreement-in-troy-michigan/
-- 2026-07-31 | Ficafe Cusco 2026 lanzada por el presidente peruano (ANDINA) | https://andina.pe/ingles/noticia-peru-president-leads-international-specialty-coffee-fair-ficafe-launch-1083974.aspx
-- 2026-07-31 | Kenya SumSeron envía 20 contenedores a Trieste (Log Update Africa) | https://www.logupdateafrica.com/amp/trade/kncci-backs-kenya-coffee-hub-launch-as-coffee-exports-rise-1359457
 - 2026-08-01 | Couche-Tard se comió Żabka por US$ 8.700M y suma cafeteras en Europa | https://www.worldcoffeeportal.com/news/alimentation-couche-tard-set-to-become-one-of-europes-largest-coffee-players-following-8-7bn-acquisition/
 - 2026-08-01 | Uganda le mete US$ 200M al café con plata saudí (Nonda Coffee Park) | https://ugandainvest.go.ug/200-million-nonda-coffee-park-opening-in-uganda/
 - 2026-08-01 | Cold brew a los tribunales: la jueza le dijo no a Chobani (Danone vs La Colombe) | https://www.worldcoffeeportal.com/news/chobani-fails-in-bid-to-dismiss-danones-cold-brew-coffee-lawsuit/
@@ -131,3 +121,11 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-08-14 | Black Rifle Coffee cerca de la rentabilidad: EBITDA +164% en Q2 2026 | https://ir.blackriflecoffee.com/news-events/press-releases/detail/116/brc-inc-reports-second-quarter-2026-financial-results
 - 2026-08-14 | Arábica cotizando en torno a US$ 3,19/lb el 13 de agosto (Trading Economics) | https://tradingeconomics.com/commodity/coffee
 - 2026-08-14 | Mazzer lanza el "Best Opener" en la industria del café (Sprudge) | https://sprudge.com/
+- 2026-08-15 | El Mundial de AeroPress cruza a Latam: Ciudad de México, 6 de diciembre | https://dailycoffeenews.com/2026/08/14/the-2026-world-aeropress-championship-heads-to-mexico-city/
+- 2026-08-15 | Brasil va por la cosecha más grande de su historia (Conab: 66,7M sacos) | https://www.gcrmag.com/brazil-on-track-for-record-coffee-harvest-in-2026/
+- 2026-08-15 | La paradoja vietnamita: más volumen (+21,1%), menos plata (-11,2%) en 7 meses | https://dtinews.dantri.com.vn/vietnam-today/vietnam-coffee-exports-reach-usd-545-billion-in-seven-months-20260811074047983.htm
+- 2026-08-15 | Best of Hawai'i 2026: Miranda's Farms se queda con el trono con un Geisha natural (87,84) | https://dailycoffeenews.com/2026/08/11/best-of-hawaii-names-2026-winners-plans-2027-auction/
+- 2026-08-15 | La UE le apretó el cinturón a las cápsulas de café (PPWR desde el 12/8) | https://perfectdailygrind.com/2026/08/coffee-news-recap-14-august-2026/
+- 2026-08-15 | Faema arma un Barista Journey con Jack Simpson en Barcelona (14 sept) | https://perfectdailygrind.com/2026/08/coffee-news-recap-14-august-2026/
+- 2026-08-15 | Araku Coffee (India) apunta a 50.000 toneladas para 2047 | https://perfectdailygrind.com/2026/08/coffee-news-recap-14-august-2026/
+- 2026-08-15 | April Coffee Roasters lanza un molinillo manual en Kickstarter el 1 de septiembre | https://perfectdailygrind.com/2026/08/coffee-news-recap-14-august-2026/
