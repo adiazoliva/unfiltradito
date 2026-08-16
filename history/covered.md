@@ -3,15 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-08-01 | Couche-Tard se comió Żabka por US$ 8.700M y suma cafeteras en Europa | https://www.worldcoffeeportal.com/news/alimentation-couche-tard-set-to-become-one-of-europes-largest-coffee-players-following-8-7bn-acquisition/
-- 2026-08-01 | Uganda le mete US$ 200M al café con plata saudí (Nonda Coffee Park) | https://ugandainvest.go.ug/200-million-nonda-coffee-park-opening-in-uganda/
-- 2026-08-01 | Cold brew a los tribunales: la jueza le dijo no a Chobani (Danone vs La Colombe) | https://www.worldcoffeeportal.com/news/chobani-fails-in-bid-to-dismiss-danones-cold-brew-coffee-lawsuit/
-- 2026-08-01 | Hormigas aliadas: le encontraron al cafeto una defensa contra la broca | https://dailycoffeenews.com/2026/07/31/weekly-coffee-news-ants-and-borers-regulating-health-claims/
-- 2026-08-01 | Brooklyn Roasting devuelve 11.500 litros de cold brew por riesgo de botulismo | https://www.foxbusiness.com/retail/brooklyn-roasting-company-recalls-cold-brew-sold-new-york-new-jersey-over-botulism-risk
-- 2026-08-01 | illycaffè arranca producción en EE.UU. con Westrock | https://www.worldcoffeeportal.com/news/italys-illycaffe-confirms-plans-to-commence-us-production-in-2026/
-- 2026-08-01 | El pabellón vietnamita en Expo Café Chile | https://english.vov.vn/en/economy/appeal-of-vietnamese-coffee-at-expo-cafe-chile-2026-post1318785.vov
-- 2026-08-01 | Rota Blue Coffee revive el Typica plantado por los japoneses en la isla de Rota | https://perfectdailygrind.com/2026/07/coffee-news-recap-31-july-2026/
-- 2026-08-01 | Luckin y Duolingo lanzan cuatro bebidas co-branded en Nueva York | https://perfectdailygrind.com/2026/07/coffee-news-recap-31-july-2026/
 - 2026-08-02 | En Taza vuelve a Córdoba con la vara de la SCA | https://entaza.cafe/en
 - 2026-08-02 | En EE.UU. el especialidad ya le pasó por arriba al café común | https://sca.coffee/sca-news/2026-national-coffee-data-trends-report
 - 2026-08-02 | Panera le sacó lo "unlimited" al Sip Club | https://www.nrn.com/fast-casual/panera-s-unlimited-sip-club-will-no-longer-be-unlimited
@@ -129,3 +120,13 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-08-15 | Faema arma un Barista Journey con Jack Simpson en Barcelona (14 sept) | https://perfectdailygrind.com/2026/08/coffee-news-recap-14-august-2026/
 - 2026-08-15 | Araku Coffee (India) apunta a 50.000 toneladas para 2047 | https://perfectdailygrind.com/2026/08/coffee-news-recap-14-august-2026/
 - 2026-08-15 | April Coffee Roasters lanza un molinillo manual en Kickstarter el 1 de septiembre | https://perfectdailygrind.com/2026/08/coffee-news-recap-14-august-2026/
+- 2026-08-16 | Puerto Madryn recibe a Leonardo Flórez en Casa Hulpe (21-22 agosto, taller CVA) | https://www.elchubut.com.ar/puerto-madryn/2026-8-15-21-26-0-el-barista-y-tostador-profesional-leonardo-florez-llega-a-casa-hulpe-para-actividades-con-cafe-de-especialidad
+- 2026-08-16 | Una taza de café a US$ 32: WatchHouse suma quinto local en Manhattan y mira LA, Austin, Chicago y Miami | https://www.bloomberg.com/news/articles/2026-08-07/how-much-will-coffee-drinkers-pay-watchhouse-bets-32-a-cup
+- 2026-08-16 | Estudio DECAF: una taza diaria de café baja 39% la recurrencia de fibrilación auricular | https://www.news-medical.net/news/20260812/The-coffee-advice-given-to-atrial-fibrillation-patients-may-deserve-a-rethink.aspx
+- 2026-08-16 | El arábica sigue prendido fuego: +30% desde junio y stocks ICE en mínimos de 2,5 años | https://finance.yahoo.com/markets/commodities/articles/coffee-prices-finish-sharply-higher-183449788.html
+- 2026-08-16 | Starbucks reordena la casa: la delivery sigue siendo clave en la vuelta al "third place" | https://www.worldcoffeeportal.com/news/as-starbucks-rebuilds-its-coffee-house-credentials-delivery-still-matters-heres-why/
+- 2026-08-16 | Starbucks trae de vuelta el Unicorn Frappuccino por un solo fin de semana (15 al 17 de agosto) | https://about.starbucks.com/press/2026/unicorn-frappuccino-blended-beverage-makes-its-magical-return-later-this-summer/
+- 2026-08-16 | UCTT se suma a ECOM Agroindustrial y le abre a la comercializadora la puerta del té | https://www.teaandcoffee.net/news/39825/uctt-announced-it-is-joining-ecom-agroindustrial-corp/
+- 2026-08-16 | Sprudge sobre la guía de Khipu de la cosecha peruana 2025/26 | https://sprudge.com/perus-specialty-coffee-sector-enters-a-new-era-says-new-harvest-guide-1267722.html
+- 2026-08-16 | Sprudge Twenty entrevista a Pack Katisomsakul (Newbery Street Coffee Roasters) | https://sprudge.com/pack-katisomsakul-of-newbery-street-coffee-roasters-the-sprudge-twenty-interview-1266442.html
+- 2026-08-16 | Strauss Group: Q2 rentable pero con caída en ventas internacionales de café | https://www.worldcoffeeportal.com/news/efficiency-drive-delivers-profitable-q2-for-strauss-group-but-international-coffee-sales-decline/
