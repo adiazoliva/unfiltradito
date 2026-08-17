@@ -3,16 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-08-02 | En Taza vuelve a Córdoba con la vara de la SCA | https://entaza.cafe/en
-- 2026-08-02 | En EE.UU. el especialidad ya le pasó por arriba al café común | https://sca.coffee/sca-news/2026-national-coffee-data-trends-report
-- 2026-08-02 | Panera le sacó lo "unlimited" al Sip Club | https://www.nrn.com/fast-casual/panera-s-unlimited-sip-club-will-no-longer-be-unlimited
-- 2026-08-02 | La Marzocco le prende fuego al cobre y saca máquinas irrepetibles (Fiammata Technique) | https://sprudge.com/you-need-to-see-officine-fratelli-bambis-newest-process-the-fiammata-technique-1232313.html
-- 2026-08-02 | Costa Coffee ajusta la brújula en India y va por la Gen Z | https://www.worldcoffeeportal.com/news/costa-coffees-india-reset-underway-as-master-franchisee-bets-big-on-gen-z/
-- 2026-08-02 | Arábica en US$ 3,32/lb con stocks certificados en mínimos (Trading Economics) | https://tradingeconomics.com/commodity/coffee
-- 2026-08-02 | Krispy Kreme anuncia su tercer mercado internacional de 2026 | https://www.worldcoffeeportal.com/news/krispy-kreme-announces-third-international-market-move-of-2026/
-- 2026-08-02 | illycaffè planea duplicar producción global con nueva planta en Trieste | https://www.worldcoffeeportal.com/news/illycaffe-to-double-production-as-global-demand-soars/
-- 2026-08-02 | Level Up vuelve a Minneapolis del 18 al 20 de septiembre | https://sprudge.com/level-up-returns-to-minneapolis-for-a-weekend-of-immersive-learning-1234662.html
-- 2026-08-02 | Cajé Coffee Roasters abre local en Goleta, California | https://www.santabarbara.com/dining/news/2026/07/21/goleta-caje-coffee-roasters-to-open-in-august/
 - 2026-08-03 | Best of Panama 2026: los Lamastus vuelven a quedarse con el trono | https://newsroompanama.com/2026/08/02/these-were-the-winners-of-the-best-of-panama-2026-the-kings-of-geisha-coffee/
 - 2026-08-03 | Cafecito BA vuelve a Recoleta con más de 25 puestos y entrada libre | https://www.lanacion.com.ar/que-sale/cafecito-ba-llega-a-recoleta-con-mas-de-25-puestos-cine-al-aire-libre-y-actividades-para-toda-la-nid05082025/
 - 2026-08-03 | Global Coffee Awards: hoy cierra la ventana para tostadores de Latam y el Caribe | https://perfectdailygrind.com/events/global-coffee-awards-us-canada-latin-america-2026/
@@ -130,3 +120,10 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-08-16 | Sprudge sobre la guía de Khipu de la cosecha peruana 2025/26 | https://sprudge.com/perus-specialty-coffee-sector-enters-a-new-era-says-new-harvest-guide-1267722.html
 - 2026-08-16 | Sprudge Twenty entrevista a Pack Katisomsakul (Newbery Street Coffee Roasters) | https://sprudge.com/pack-katisomsakul-of-newbery-street-coffee-roasters-the-sprudge-twenty-interview-1266442.html
 - 2026-08-16 | Strauss Group: Q2 rentable pero con caída en ventas internacionales de café | https://www.worldcoffeeportal.com/news/efficiency-drive-delivers-profitable-q2-for-strauss-group-but-international-coffee-sales-decline/
+- 2026-08-17 | Coffee Master 2026 corona su cafetería del año en Bogotá | https://www.eltiempo.com/cultura/gastronomia/coffee-master-2026-regresa-a-bogota-con-mas-de-50-cafeterias-y-una-ruta-para-descubrir-el-cafe-de-especialidad-colombiano-3573325
+- 2026-08-17 | CDMX pone la mesa: Festival de Café en el Palacio de la Autonomía (16 y 17 de agosto) | https://descubreenmexico.com/festival-de-cafe-regresa-a-cdmx-con-catas-talleres-y-actividades-especiales/
+- 2026-08-17 | Los productores le meten pinza a cada paso del procesamiento (PDG) | https://perfectdailygrind.com/2026/08/coffee-producers-scrutinising-processing/
+- 2026-08-17 | Sprudge abre The Green Room: vidriera para los importadores de café verde | https://sprudge.com/the-green-room-your-source-for-coffee-importers-sourcing-coffees-at-source-1267417.html
+- 2026-08-17 | Última llamada: hoy cierra Build-Outs of Coffee 2026 en Sprudge | https://sprudge.com/the-deadline-to-submit-your-cafe-for-the-2026-build-outs-of-coffee-is-august-17th-1265169.html
+- 2026-08-17 | Coffee Price Weekly Forecast: Record Brazil Harvest in Focus | https://bestliveforexcomexrecommendationsprovider.wordpress.com/2026/08/16/coffee-price-weekly-forecast-record-brazil-harvest-in-focus/
+- 2026-08-17 | Hot Coffees Comin' In Hot! (Sprudge) | https://sprudge.com/hot-coffees-comin-in-hot-1266539.html
