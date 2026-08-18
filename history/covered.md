@@ -3,14 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-08-03 | Best of Panama 2026: los Lamastus vuelven a quedarse con el trono | https://newsroompanama.com/2026/08/02/these-were-the-winners-of-the-best-of-panama-2026-the-kings-of-geisha-coffee/
-- 2026-08-03 | Cafecito BA vuelve a Recoleta con más de 25 puestos y entrada libre | https://www.lanacion.com.ar/que-sale/cafecito-ba-llega-a-recoleta-con-mas-de-25-puestos-cine-al-aire-libre-y-actividades-para-toda-la-nid05082025/
-- 2026-08-03 | Global Coffee Awards: hoy cierra la ventana para tostadores de Latam y el Caribe | https://perfectdailygrind.com/events/global-coffee-awards-us-canada-latin-america-2026/
-- 2026-08-03 | Puertas giratorias en el café global: Costa, Pret y Ziggi's mueven ficha | https://www.worldcoffeeportal.com/news/coffee-industry-senior-appointments-july-2026/
-- 2026-08-03 | An August Collection Of Coffees (Sprudge) | https://sprudge.com/an-august-collection-of-coffees-just-in-time-for-what-month-is-it-now-1243520.html
-- 2026-08-03 | Luckin Coffee anuncia resultados del segundo trimestre 2026 hoy | https://finance.yahoo.com/markets/stocks/articles/luckin-coffee-announce-second-quarter-110000645.html
-- 2026-08-03 | Coffee Fest Los Angeles 2026 — 21 y 22 de agosto | https://www.coffeefest.com/los-angeles
-- 2026-08-03 | Resumen de fusiones y adquisiciones de julio 2026 (WCP) | https://www.worldcoffeeportal.com/news/coffee-industry-investments-mergers-and-acquisitions-july-2026/
 - 2026-08-04 | En los países cafeteros, las marcas de barrio le sacan ventaja a las cadenas | https://perfectdailygrind.com/2026/08/local-brands-coffee-producing-countries/
 - 2026-08-04 | El sándwich imposible del café: ni chico ni grande (cafeterías medianas en aprietos) | https://perfectdailygrind.com/2026/08/medium-sized-coffee-shops-struggles/
 - 2026-08-04 | Luckin no afloja: ingresos +28,5% y ya con ocho tiendas en Nueva York (Q2 2026) | https://www.globenewswire.com/news-release/2026/08/03/3337369/0/en/Luckin-Coffee-Announces-Second-Quarter-2026-Financial-Results.html
@@ -127,3 +119,10 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-08-17 | Última llamada: hoy cierra Build-Outs of Coffee 2026 en Sprudge | https://sprudge.com/the-deadline-to-submit-your-cafe-for-the-2026-build-outs-of-coffee-is-august-17th-1265169.html
 - 2026-08-17 | Coffee Price Weekly Forecast: Record Brazil Harvest in Focus | https://bestliveforexcomexrecommendationsprovider.wordpress.com/2026/08/16/coffee-price-weekly-forecast-record-brazil-harvest-in-focus/
 - 2026-08-17 | Hot Coffees Comin' In Hot! (Sprudge) | https://sprudge.com/hot-coffees-comin-in-hot-1266539.html
+- 2026-08-18 | The Coffee prepara la expansión más ambiciosa desde su fundación (1.500 tiendas fuera de Brasil para 2028) | https://www.worldcoffeeportal.com/news/brazils-the-coffee-gearing-up-for-further-international-expansion/
+- 2026-08-18 | Descubren una rana entre cafetales de Costa Rica y hay firma argentina (CONICET, Tarrazú) | https://sprudge.com/
+- 2026-08-18 | Manna Coffee levanta plata para llenar el mundo de kioscos automáticos (ronda semilla US$ 1,25M) | https://dailycoffeenews.com/2026/08/17/manna-coffee-adds-funding-for-automated-kiosk-growth/
+- 2026-08-18 | El arábica vuelve a acelerar: cerró cerca de US$ 3,21 por libra (17 de agosto) | https://tradingeconomics.com/commodity/coffee
+- 2026-08-18 | Outsiders Coffee Roasters abre su primer local en Scotch Plains, Nueva Jersey | https://dailycoffeenews.com/2026/08/17/inside-the-first-new-jersey-cafe-of-outsiders-coffee/
+- 2026-08-18 | Kalve Coffee, la letona que quiere ser marca europea, dispara sus ingresos | https://www.worldcoffeeportal.com/news/
+- 2026-08-18 | Nick Mabey asciende a Managing Director de Full Steam Espresso (Volcano y Assembly) | https://www.comunicaffe.com/full-steam-espresso-nick-mabey-managing-director/
