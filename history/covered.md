@@ -3,14 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-08-04 | En los países cafeteros, las marcas de barrio le sacan ventaja a las cadenas | https://perfectdailygrind.com/2026/08/local-brands-coffee-producing-countries/
-- 2026-08-04 | El sándwich imposible del café: ni chico ni grande (cafeterías medianas en aprietos) | https://perfectdailygrind.com/2026/08/medium-sized-coffee-shops-struggles/
-- 2026-08-04 | Luckin no afloja: ingresos +28,5% y ya con ocho tiendas en Nueva York (Q2 2026) | https://www.globenewswire.com/news-release/2026/08/03/3337369/0/en/Luckin-Coffee-Announces-Second-Quarter-2026-Financial-Results.html
-- 2026-08-04 | Chile tiene reina: Anaís Cabello, primera mujer al frente del podio nacional | https://www.expocafechile.cl/rumbo-a-la-gloria-expo-cafe-chile-sera-la-sede-de-la-gran-final-nacional-de-baristas-2026/
-- 2026-08-04 | Una funda de laptop hecha con la borra que iba al tacho (Moft) | https://sprudge.com/protect-your-laptop-from-coffee-with-upcycled-coffee-1238991.html
-- 2026-08-04 | Build-Outs of Coffee: Demitasse in Santa Monica, CA | https://sprudge.com/build-outs-of-coffee-demitasse-in-santa-monica-ca-1159742.html
-- 2026-08-04 | Arábica cotizando en US$ 3,41/lb el 4 de agosto (Trading Economics) | https://tradingeconomics.com/commodity/coffee
-- 2026-08-04 | Venturi Bold Brew debuta línea Nitro Cold Brew premium | https://www.bevindustry.com/articles/98388-venturi-nitro-cold-brew
 - 2026-08-05 | Rosario se pone el delantal: llega el Regional Santa Fe de Latte Art (Ruffo Coffee Company) | https://www.on24.com.ar/vida-ocio/rosario-celebra-el-auge-del-cafe-de-especialidad-con-el-campeonato-regional-santa-fe-de-latte-art-sca-2026/
 - 2026-08-05 | La cardiología le dio luz verde al café: hasta 5 tazas por día (AHA en Circulation, cobertura Sprudge) | https://sprudge.com/the-american-heart-association-says-five-cups-of-coffee-a-day-is-fine-1232466.html
 - 2026-08-05 | Lavazza estrena la pastilla de café sola: adiós a la cápsula (Tablì lanzamiento oficial en EE.UU.) | https://www.comunicaffe.com/lavazza-launches-tabli-the-worlds-first-100-coffee-tab-system-in-the-u-s/
@@ -126,3 +118,11 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-08-18 | Outsiders Coffee Roasters abre su primer local en Scotch Plains, Nueva Jersey | https://dailycoffeenews.com/2026/08/17/inside-the-first-new-jersey-cafe-of-outsiders-coffee/
 - 2026-08-18 | Kalve Coffee, la letona que quiere ser marca europea, dispara sus ingresos | https://www.worldcoffeeportal.com/news/
 - 2026-08-18 | Nick Mabey asciende a Managing Director de Full Steam Espresso (Volcano y Assembly) | https://www.comunicaffe.com/full-steam-espresso-nick-mabey-managing-director/
+- 2026-08-19 | Fairtrade pisa el acelerador: el arábica lavado sube a US$ 2 por libra desde diciembre | https://dailycoffeenews.com/2026/08/04/fairtrade-international-raises-price-minimums-again/
+- 2026-08-19 | Exigí Buen Café vuelve a La Rural (13 y 14 de septiembre) | https://www.laruralticket.com.ar/event/exigibuencafe-2026
+- 2026-08-19 | Santiago: 20 cafeterías y 50 DJs en Barrio Italia el sábado 22 (Ruta Coffee Party) | https://providencia.cl/provi/explora/noticias/emprendimiento/coffee-party-barrio-italia
+- 2026-08-19 | El arábica pega otro salto: +5,3% en un día y máximo de 6,5 meses (18/8) | https://tradingeconomics.com/commodity/coffee
+- 2026-08-19 | Clark's Coffee toma la vieja casa de Stumptown en Belmont, Portland | https://dailycoffeenews.com/2026/08/18/clarks-coffee-brings-fresh-energy-to-former-stumptown-space-in-portland/
+- 2026-08-19 | Round K Comes Full Circle at Renovated New York Cafe (Daily Coffee News) | https://dailycoffeenews.com/2026/08/18/round-k-comes-full-circle-at-renovated-new-york-cafe/
+- 2026-08-19 | Roast Summit vuelve a Portland (1-2 de octubre) | https://dailycoffeenews.com/2026/08/18/roast-summit-returns-to-portland-in-2026/
+- 2026-08-19 | PunThai Coffee siente el combustible en Tailandia (WCP) | https://www.worldcoffeeportal.com/news/high-fuel-prices-put-the-brakes-on-sales-for-thailands-punthai-coffee/
