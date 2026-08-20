@@ -3,15 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-08-05 | Rosario se pone el delantal: llega el Regional Santa Fe de Latte Art (Ruffo Coffee Company) | https://www.on24.com.ar/vida-ocio/rosario-celebra-el-auge-del-cafe-de-especialidad-con-el-campeonato-regional-santa-fe-de-latte-art-sca-2026/
-- 2026-08-05 | La cardiología le dio luz verde al café: hasta 5 tazas por día (AHA en Circulation, cobertura Sprudge) | https://sprudge.com/the-american-heart-association-says-five-cups-of-coffee-a-day-is-fine-1232466.html
-- 2026-08-05 | Lavazza estrena la pastilla de café sola: adiós a la cápsula (Tablì lanzamiento oficial en EE.UU.) | https://www.comunicaffe.com/lavazza-launches-tabli-the-worlds-first-100-coffee-tab-system-in-the-u-s/
-- 2026-08-05 | Recuerdos Cafe en Atlanta: Ivan Solis Sprudge Twenty Interview | https://sprudge.com/ivan-solis-of-recuerdos-cafe-the-sprudge-twenty-interview-1250780.html
-- 2026-08-05 | Etiopía se prepara para pasarle por arriba a Indonesia (USDA Coffee Annual 2026/27) | https://www.foodbusinessmea.com/ethiopia-set-to-become-worlds-fourth-largest-coffee-producer-in-2026-27-usda/
-- 2026-08-05 | Volcano Coffee sirve más de 10.000 tazas por día en oficinas de WeWork UK | https://www.comunicaffe.com/volcano-coffee-works-and-wework-uk-a-partnership-serving-more-than-10000-cups-of-coffee-every-day/
-- 2026-08-05 | Indonesia envía 57,6 toneladas de Royal Gayo a Kuwait | https://www.comunicaffe.com/indonesia-specialty-coffee-exports-57-6-tonnes-of-royal-gayo-coffee-to-kuwait/
-- 2026-08-05 | La Vicegobernadora de Córdoba visitó Cafezazo (Prunotto) | https://www.sierraschicasvivo.com/2026/08/prunotto-acompano-la-cuarta-edicion-de-cafezazo-y-destaco-el-crecimiento-de-la-produccion-gastronomica-cordobesa/
-- 2026-08-05 | Build-Outs Of Coffee: Demitasse in Santa Monica, CA | https://sprudge.com/build-outs-of-coffee-demitasse-in-santa-monica-ca-1159742.html
 - 2026-08-06 | Panamá se pasó de rosca: la subasta del Best of Panamá cerró con un promedio de US$ 2.861 por kilo | https://www.laestrella.com.pa/economia/panama-se-alista-para-la-subasta-electronica-de-cafes-especiales-CI14945412
 - 2026-08-06 | Dutch Bros se queda con 65 sitios de Salad and Go por US$ 105 millones | https://www.worldcoffeeportal.com/news/dutch-bros-makes-third-major-acquisition-of-2026/
 - 2026-08-06 | La policía coreana allanó la sede de Starbucks por el papelón del "Tank Day" | https://www.worldcoffeeportal.com/news/starbucks-korea-headquarters-raided-by-police-as-tank-day-fallout-widens/
@@ -126,3 +117,13 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-08-19 | Round K Comes Full Circle at Renovated New York Cafe (Daily Coffee News) | https://dailycoffeenews.com/2026/08/18/round-k-comes-full-circle-at-renovated-new-york-cafe/
 - 2026-08-19 | Roast Summit vuelve a Portland (1-2 de octubre) | https://dailycoffeenews.com/2026/08/18/roast-summit-returns-to-portland-in-2026/
 - 2026-08-19 | PunThai Coffee siente el combustible en Tailandia (WCP) | https://www.worldcoffeeportal.com/news/high-fuel-prices-put-the-brakes-on-sales-for-thailands-punthai-coffee/
+- 2026-08-20 | El vaivén de las monedas se le come el margen al productor (Perfect Daily Grind) | https://perfectdailygrind.com/2026/08/currency-fluctuations-coffee-sourcing/
+- 2026-08-20 | First Coffee levanta otra ronda: India se pone seria con el especialidad | https://www.worldcoffeeportal.com/news/first-coffee-confirms-new-investment-as-indias-specialty-coffee-segment-gains-momentum/
+- 2026-08-20 | A la liberica se le está por dar la revancha (PDG) | https://perfectdailygrind.com/2026/08/coffee-processing-liberica/
+- 2026-08-20 | Pact Coffee dice que le paga a los productores 127% arriba del piso Fairtrade (Global Coffee Report) | https://www.gcrmag.com/pact-coffee-releases-2026-global-impact-report
+- 2026-08-20 | Lo que tocás con la mano cambia lo que sentís en la taza (Daily Coffee News) | https://dailycoffeenews.com/2026/08/19/what-we-touch-with-our-hands-may-affect-what-we-taste-in-the-cup/
+- 2026-08-20 | "It is clear that we need to make meaningful changes", says new Tims China CEO (WCP) | https://www.worldcoffeeportal.com/news/it-is-clear-that-we-need-to-make-meaningful-changes-says-new-tims-china-ceo/
+- 2026-08-20 | The Nero Group hires new CFO following Compass acquisition (WCP) | https://www.worldcoffeeportal.com/news/the-nero-group-hires-new-chief-financial-officer-amid-exec-reshuffle/
+- 2026-08-20 | South Korea's Hollys gets K-pop act together for first brand ambassador deal (WCP) | https://www.worldcoffeeportal.com/news/south-koreas-hollys-gets-k-pop-act-together-with-first-brand-ambassador-deal/
+- 2026-08-20 | The New Brew Watch Is Inspired By Milk Pouring Into Coffee (Sprudge) | https://sprudge.com/the-new-brew-watch-is-inspired-by-milk-pouring-into-coffee-1274374.html
+- 2026-08-20 | Build-Outs Of Coffee: The Back Room In Tirana, Albania (Sprudge) | https://sprudge.com/build-outs-of-coffee-the-back-room-in-tirana-albania-1232238.html
