@@ -3,16 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-08-06 | Panamá se pasó de rosca: la subasta del Best of Panamá cerró con un promedio de US$ 2.861 por kilo | https://www.laestrella.com.pa/economia/panama-se-alista-para-la-subasta-electronica-de-cafes-especiales-CI14945412
-- 2026-08-06 | Dutch Bros se queda con 65 sitios de Salad and Go por US$ 105 millones | https://www.worldcoffeeportal.com/news/dutch-bros-makes-third-major-acquisition-of-2026/
-- 2026-08-06 | La policía coreana allanó la sede de Starbucks por el papelón del "Tank Day" | https://www.worldcoffeeportal.com/news/starbucks-korea-headquarters-raided-by-police-as-tank-day-fallout-widens/
-- 2026-08-06 | El especialidad se sale del ghetto: los James Beard reconocen a Onyx y a Endorffeine | https://perfectdailygrind.com/2026/08/specialty-coffee-recognition/
-- 2026-08-06 | Onyx abre en un parque de Arkansas: acero, roble blanco y arquitectura de Marlon Blackwell | https://sprudge.com/build-outs-of-coffee-onyx-at-the-preserve-in-bentonville-ar-1215178.html
-- 2026-08-06 | Bain Capital compra las 2.200 tiendas de Gong cha | https://www.worldcoffeeportal.com/news/bain-capital-acquires-gong-chas-2-200-store-global-business/
-- 2026-08-06 | McDonald's se rearma como destino de bebidas en Estados Unidos | https://www.worldcoffeeportal.com/news/mcdonalds-is-recasting-itself-as-a-beverage-destination-in-the-us/
-- 2026-08-06 | Saddle Café (EAU) firma para entrar a su cuarto mercado internacional | https://www.worldcoffeeportal.com/news/uaes-saddle-cafe-signs-deal-to-enter-fourth-international-market/
-- 2026-08-06 | Arábica septiembre cerró en 324,10 centavos el martes 4 | https://tradingeconomics.com/commodity/coffee/news/519705
-- 2026-08-06 | Coffee Master 2026 arrancó ayer en Bogotá | https://www.eltiempo.com/cultura/gastronomia/coffee-master-2026-regresa-a-bogota-con-mas-de-50-cafeterias-y-una-ruta-para-descubrir-el-cafe-de-especialidad-colombiano-3573325
 - 2026-08-07 | Café Amazon aterriza en Bangladesh: primer pie en el sur de Asia | https://www.worldcoffeeportal.com/news/cafe-amazon-launches-in-bangladesh-after-near-two-year-delay/
 - 2026-08-07 | Black Rock Coffee Bar cruza los 200 locales con una apertura en Denver | https://www.worldcoffeeportal.com/news/black-rock-coffee-bar-reaches-200-stores-ahead-of-crunch-earnings-release/
 - 2026-08-07 | Global Coffee Awards: la semana que viene se juzgan los mejores tostadores de Latam | https://perfectdailygrind.com/events/global-coffee-awards-us-canada-latin-america-2026/
@@ -127,3 +117,11 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-08-20 | South Korea's Hollys gets K-pop act together for first brand ambassador deal (WCP) | https://www.worldcoffeeportal.com/news/south-koreas-hollys-gets-k-pop-act-together-with-first-brand-ambassador-deal/
 - 2026-08-20 | The New Brew Watch Is Inspired By Milk Pouring Into Coffee (Sprudge) | https://sprudge.com/the-new-brew-watch-is-inspired-by-milk-pouring-into-coffee-1274374.html
 - 2026-08-20 | Build-Outs Of Coffee: The Back Room In Tirana, Albania (Sprudge) | https://sprudge.com/build-outs-of-coffee-the-back-room-in-tirana-albania-1232238.html
+- 2026-08-21 | Mendoza sube al ring: primera clasificatoria del Mejor Café Argentina | https://www.mendovoz.com/ciudad/2026/8/20/clasificatoria-del-mejor-cafe-argentina-en-mendoza-fechas-sede-detalles-del-evento-175357.html
+- 2026-08-21 | Villa Rica desembarca en Lima: cuatro días de café de la selva peruana | https://www.infobae.com/peru/2026/08/21/expocafe-villa-rica-2026-regalaran-3000-mil-vasos-y-400-plantas-de-cafe-en-el-parque-de-la-exposicion/
+- 2026-08-21 | Otro cross al hígado: el café vuelve a sacar pecho con 13 años de datos | https://dailycoffeenews.com/2026/08/20/13-year-study-gives-more-good-news-to-the-livers-of-coffee-drinkers/
+- 2026-08-21 | UCC pone plata en café regenerativo: piloto en Vietnam con ECOM | https://dailycoffeenews.com/2026/08/19/ucc-launches-regenerative-coffee-pilot-in-vietnam/
+- 2026-08-21 | En Austin, Cuvée abre un bar híbrido: espresso al alba, tragos al ocaso | https://dailycoffeenews.com/2026/08/20/cuvee-coffee-opens-coffee-to-cocktail-flagship-in-austin/
+- 2026-08-21 | The Left Hook Coffee abre local propio en Raleigh | https://dailycoffeenews.com/2026/08/19/the-left-hook-coffee-comes-out-swinging-in-raleigh/
+- 2026-08-21 | Coffee Fest Los Angeles arranca hoy en el Convention Center | https://www.laconventioncenter.com/events/detail/coffee-fest-2026
+- 2026-08-21 | Oaxaca conquista mercados internacionales con su café de especialidad | https://www.diariomarca.com.mx/2026/08/oaxaca-conquista-nuevos-mercados-con-su-cafe-de-especialidad/
