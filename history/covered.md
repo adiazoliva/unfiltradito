@@ -3,14 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-08-07 | Café Amazon aterriza en Bangladesh: primer pie en el sur de Asia | https://www.worldcoffeeportal.com/news/cafe-amazon-launches-in-bangladesh-after-near-two-year-delay/
-- 2026-08-07 | Black Rock Coffee Bar cruza los 200 locales con una apertura en Denver | https://www.worldcoffeeportal.com/news/black-rock-coffee-bar-reaches-200-stores-ahead-of-crunch-earnings-release/
-- 2026-08-07 | Global Coffee Awards: la semana que viene se juzgan los mejores tostadores de Latam | https://perfectdailygrind.com/events/global-coffee-awards-us-canada-latin-america-2026/
-- 2026-08-07 | Innoroc lanza Beyond: la Übermilk se muda a una plataforma modular bajo mesada | https://dailycoffeenews.com/2026/08/04/beyond-brand-launches-around-ubermilk-and-plus-x-platform/
-- 2026-08-07 | Spokane Coffee Shops Open Doors To Those Impacted By Wildfires (Sprudge) | https://sprudge.com/spokane-coffee-shops-open-doors-to-those-impacted-by-wildfires-1253730.html
-- 2026-08-07 | Coffee Borer Beetles Are Making Homes For The Ants That Hunt Them (Sprudge) | https://sprudge.com/coffee-borer-beetles-are-making-homes-for-the-ants-that-hunt-them-1251142.html
-- 2026-08-07 | UK's Coughlans Bakery acquired out of liquidation (WCP) | https://www.worldcoffeeportal.com/news/uks-coughlans-bakery-acquired-out-of-liquidation/
-- 2026-08-07 | Nestlé Brasil proyecta subir 27% las exportaciones de café soluble (Yahoo Finance) | https://finance.yahoo.com/sectors/energy/articles/nestl-inks-partnership-support-labor-124535966.html
 - 2026-08-08 | El PRF cruza el charco y se planta en Chiapas por primera vez (marzo 2027) | https://perfectdailygrind.com/2026/08/coffee-news-recap-7-august-2026/
 - 2026-08-08 | Aillio abre casa matriz regional en San Salvador | https://perfectdailygrind.com/2026/08/coffee-news-recap-7-august-2026/
 - 2026-08-08 | Oaxaca convoca: llega la Convención del Café Oaxaqueño 2026 (14-15 agosto) | https://www.gob.mx/agricultura/prensa/anuncia-agricultura-segunda-edicion-de-la-convencion-del-cafe-oaxaqueno-como-reconocimiento-a-productoras-y-productores
@@ -125,3 +117,12 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-08-21 | The Left Hook Coffee abre local propio en Raleigh | https://dailycoffeenews.com/2026/08/19/the-left-hook-coffee-comes-out-swinging-in-raleigh/
 - 2026-08-21 | Coffee Fest Los Angeles arranca hoy en el Convention Center | https://www.laconventioncenter.com/events/detail/coffee-fest-2026
 - 2026-08-21 | Oaxaca conquista mercados internacionales con su café de especialidad | https://www.diariomarca.com.mx/2026/08/oaxaca-conquista-nuevos-mercados-con-su-cafe-de-especialidad/
+- 2026-08-22 | En Taza: Córdoba se planta como capital del café argentino (3ra edición 21-22 agosto) | https://entaza.cafe/en
+- 2026-08-22 | Los Global Coffee Awards ya tienen fecha en Europa: Burdeos, 25-28 octubre | https://perfectdailygrind.com/events/global-coffee-awards-europe-2026/
+- 2026-08-22 | Costa Rica convierte la borra en gas: la apuesta de Poás Bioenergy (syngas + biochar) | https://energiesmedia.com/costa-rica-pineapple-coffee-waste-into-syngas/
+- 2026-08-22 | Kruti Coffee (Odisha) saca el café indio a la vidriera: primer local en Londres | https://www.prameyanews.com/odisha-grown-specialty-coffee-brand-kruti-coffee-opens-flagship-international-caf-in-london
+- 2026-08-22 | Boston coronó a su AeroPress campeón: próxima parada, CDMX (World AeroPress dic) | https://dailycoffeenews.com/2026/05/28/the-2026-american-aeropress-championship-is-heading-to-boston/
+- 2026-08-22 | What Is The True Water Cost Of A Cup Of Coffee? (Sprudge, 21 ago) | https://sprudge.com/
+- 2026-08-22 | Coffee Fest Los Angeles cierra hoy (22 ago) | https://www.laconventioncenter.com/events/detail/coffee-fest-2026
+- 2026-08-22 | Arábica cerró el 21 de agosto cerca de US$ 3,24 por libra | https://tradingeconomics.com/commodity/coffee
+- 2026-08-22 | Weekly Coffee News: Leadership Changes + Big Show in Buenos Aires (DCN 21 ago) | https://dailycoffeenews.com/2026/08/21/weekly-coffee-news-leadership-changes-big-show-in-buenos-aires/
