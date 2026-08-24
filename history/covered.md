@@ -3,24 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-08-08 | El PRF cruza el charco y se planta en Chiapas por primera vez (marzo 2027) | https://perfectdailygrind.com/2026/08/coffee-news-recap-7-august-2026/
-- 2026-08-08 | Aillio abre casa matriz regional en San Salvador | https://perfectdailygrind.com/2026/08/coffee-news-recap-7-august-2026/
-- 2026-08-08 | Oaxaca convoca: llega la Convención del Café Oaxaqueño 2026 (14-15 agosto) | https://www.gob.mx/agricultura/prensa/anuncia-agricultura-segunda-edicion-de-la-convencion-del-cafe-oaxaqueno-como-reconocimiento-a-productoras-y-productores
-- 2026-08-08 | Jordan Saglio se lleva el Brewers Cup panameño con un Esmeralda | https://perfectdailygrind.com/2026/08/coffee-news-recap-7-august-2026/
-- 2026-08-08 | Perú tiene guía nueva: 96 páginas para entender la cosecha 2025/26 (Khipu) | https://www.comunicaffe.com/khipu-coffee-peruvian-coffee-harvest-guide-2025-26
-- 2026-08-08 | Liberia reparte 700.000 plantines de Liberica para revivir la industria cafetera | https://www.liberianobserver.com/news/lacra-distributes-700k-coffee-liberica-seedlings-to-revive-coffee-industry/article_2ef6fc2b-cc41-4825-bf3b-098364c7c710.html
-- 2026-08-08 | illycaffè reporta ingresos récord de €373 millones en el primer semestre (+19%) | https://www.prnewswire.com/news-releases/first-half-2026-results-record-revenue-growth-19-at-constant-exchange-rates-double-digit-ebitda-increase-302841336.html
-- 2026-08-08 | Australia lanza programa nacional de investigación cafetera por AUD 4 millones | https://www.beanscenemag.com.au/new-multi-million-dollar-australian-coffee-research-program-launched
-- 2026-08-08 | Arábica cerró una semana volátil con rango entre US$ 2,98 y US$ 3,40 por libra | https://es.dailyforex.com/forex-technical-analysis/2026/08/cafe-arabica-conserva-estructura-volatil-semana-3-a-7-agosto-2026/248251
-- 2026-08-09 | Antioquia mueve más de $12.000 millones para café sostenible (1.200 caficultores) | https://www.eltiempo.com/amp/vida/medio-ambiente/mas-de-1-200-caficultores-en-antioquia-fortalecieron-su-produccion-con-modelo-de-financiamiento-verde-3576738
-- 2026-08-09 | Ecuador tiene sus 41 mejores cafeterías: cuatro son de Loja (The Best Coffee Shop 2026) | https://www.primicias.ec/entretenimiento/gastronomia/mejores-cafeterias-ecuador2026-best-coffee-shop-ranking-129424/
-- 2026-08-09 | Tim Hortons pisa el freno en Canadá y le complica los planes a RBI (Q2 2026) | https://www.theglobeandmail.com/business/article-restaurant-brands-second-quarter-results-burger-king-tim-hortons/
-- 2026-08-09 | La malaya Oriental Kopi se planta en Indonesia y Mauricio | https://www.worldcoffeeportal.com/news/malaysias-oriental-kopi-signs-deals-to-enter-two-new-international-markets/
-- 2026-08-09 | El arábica cerró la semana con un rebote fuerte: +4,32% el viernes | https://www.barchart.com/story/news/3724772/arabica-coffee-surges-on-dollar-weakness-and-tight-ice-inventories
-- 2026-08-09 | De'Longhi H1 2026: división profesional (La Marzocco + Eversys) +36% a €302,8 millones | https://www.worldcoffeeportal.com/news/global-coffee-chain-growth-puts-la-marzocco-and-eversys-in-the-spotlight-for-delonghi/
-- 2026-08-09 | Brighton Coffee Festival este fin de semana con el UK & Ireland Filter Championship | https://www.brightoncoffeefest.com/event/brighton-coffee-festival-2026/
-- 2026-08-09 | Kahwa Coffee, la mayor tostaduría independiente de Florida, duplicó su central en St. Petersburg | https://tbbwmag.com/2026/08/05/kahwa-coffee-st-petersburg-headquarters/
-- 2026-08-09 | World Coffee Portal pone la lupa sobre la expansión regional de Café Martínez | https://www.worldcoffeeportal.com/news/argentinas-cafe-martinez-outlines-bold-growth-ambitions-in-south-america/
 - 2026-08-10 | Honduras rompe el récord y cierra la cosecha con US$ 2.224 millones | https://www.laprensa.hn/economia/honduras-perfila-record-exportaciones-cafe-divisas-AJ31298329
 - 2026-08-10 | Colombia cierra el año cafetero en rojo pese al rebote de junio | https://www.elespectador.com/economia/cafe-colombiano-repunta-en-junio-pero-sigue-con-la-produccion-anual-en-rojo/
 - 2026-08-10 | Robusta y arábica se separan: Londres cae, Nueva York rebota | https://www.comunicaffe.com/coffee-futures-prices-rose-again-during-yesterdays-trading-session-industry-insiders-explain-the-reasons-behind-last-months-unprecedented-rises/
@@ -126,3 +108,14 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-08-22 | Coffee Fest Los Angeles cierra hoy (22 ago) | https://www.laconventioncenter.com/events/detail/coffee-fest-2026
 - 2026-08-22 | Arábica cerró el 21 de agosto cerca de US$ 3,24 por libra | https://tradingeconomics.com/commodity/coffee
 - 2026-08-22 | Weekly Coffee News: Leadership Changes + Big Show in Buenos Aires (DCN 21 ago) | https://dailycoffeenews.com/2026/08/21/weekly-coffee-news-leadership-changes-big-show-in-buenos-aires/
+- 2026-08-24 | Perú se cuelga la taza: arranca "Yo tomo café peruano" (22-25 agosto) | https://www.infobae.com/peru/2026/08/21/expocafe-villa-rica-2026-regalaran-3000-mil-vasos-y-400-plantas-de-cafe-en-el-parque-de-la-exposicion/
+- 2026-08-24 | Starbucks vuelve a apretar el cinturón antes de mudarse a Nashville | https://www.worldcoffeeportal.com/news/starbucks-confirms-latest-job-cuts-ahead-of-nashville-relocation/
+- 2026-08-24 | Kenia ya tiene barista para Panamá: gana Kennedy Owino | https://perfectdailygrind.com/2026/08/coffee-news-recap-21-august-2026/
+- 2026-08-24 | Blue Bottle se anima con la excelsa y saca dos ediciones limitadas | https://perfectdailygrind.com/2026/08/coffee-news-recap-21-august-2026/
+- 2026-08-24 | Brasil pisa el acelerador del soluble: +20% en las exportaciones de julio | https://perfectdailygrind.com/2026/08/coffee-news-recap-21-august-2026/
+- 2026-08-24 | Vern Long (World Coffee Research) entra al Forbes 50 Over 50 | https://perfectdailygrind.com/2026/08/coffee-news-recap-21-august-2026/
+- 2026-08-24 | Terremoto de magnitud 7,7 en Flores, Indonesia | https://perfectdailygrind.com/2026/08/coffee-news-recap-21-august-2026/
+- 2026-08-24 | Nespresso Canadá remodeló la boutique de Sherway Gardens | https://perfectdailygrind.com/2026/08/coffee-news-recap-21-august-2026/
+- 2026-08-24 | La SCA armó comités regionales en 11 países europeos | https://perfectdailygrind.com/2026/08/coffee-news-recap-21-august-2026/
+- 2026-08-24 | Australia enfrenta hasta 60% de recargos por aranceles al importar de EE.UU. | https://perfectdailygrind.com/2026/08/coffee-news-recap-21-august-2026/
+- 2026-08-24 | JD.com abrió una cafetería 24 horas sin personal en Beijing | https://perfectdailygrind.com/2026/08/coffee-news-recap-21-august-2026/
