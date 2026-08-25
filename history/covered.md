@@ -3,13 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-08-10 | Honduras rompe el récord y cierra la cosecha con US$ 2.224 millones | https://www.laprensa.hn/economia/honduras-perfila-record-exportaciones-cafe-divisas-AJ31298329
-- 2026-08-10 | Colombia cierra el año cafetero en rojo pese al rebote de junio | https://www.elespectador.com/economia/cafe-colombiano-repunta-en-junio-pero-sigue-con-la-produccion-anual-en-rojo/
-- 2026-08-10 | Robusta y arábica se separan: Londres cae, Nueva York rebota | https://www.comunicaffe.com/coffee-futures-prices-rose-again-during-yesterdays-trading-session-industry-insiders-explain-the-reasons-behind-last-months-unprecedented-rises/
-- 2026-08-10 | Empieza el juzgamiento de los mejores tostadores de Latam (Global Coffee Awards Houston) | https://perfectdailygrind.com/events/global-coffee-awards-us-canada-latin-america-2026/
-- 2026-08-10 | Every Half Coffee Roasters (Vietnam) levanta US$ 8M en Serie A | https://vir.com.vn/every-half-coffee-roasters-raises-8-million-in-series-a-financing-156787.html
-- 2026-08-10 | Death Wish suma Caramel Cold Brew Latte a su línea RTD | https://www.foodbev.com/news/death-wish-coffee-launches-caramel-cold-brew-latte-in-rtd-range
-- 2026-08-10 | Julius Meinl Barista Cup: la final mundial es el 4 de septiembre en Viena | https://juliusmeinl.com/at/baristacup
 - 2026-08-11 | El arábica se pegó un porrazo: -3,79% el lunes por Brasil despejado | https://www.barchart.com/story/news/3618212/harvest-friendly-weather-in-brazil-weighs-on-arabica-coffee-prices
 - 2026-08-11 | Development Stage vuelve a Oakland con foco en el productor | https://dailycoffeenews.com/2026/08/10/development-stage-to-explore-coffee-beyond-the-cup-in-oakland/
 - 2026-08-11 | Polvo con sílice: los baristas de Starbucks piden que revisen la receta | https://www.snopes.com/news/2026/08/09/starbucks-drinks-powder/
@@ -119,3 +112,12 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-08-24 | La SCA armó comités regionales en 11 países europeos | https://perfectdailygrind.com/2026/08/coffee-news-recap-21-august-2026/
 - 2026-08-24 | Australia enfrenta hasta 60% de recargos por aranceles al importar de EE.UU. | https://perfectdailygrind.com/2026/08/coffee-news-recap-21-august-2026/
 - 2026-08-24 | JD.com abrió una cafetería 24 horas sin personal en Beijing | https://perfectdailygrind.com/2026/08/coffee-news-recap-21-august-2026/
+- 2026-08-25 | Blank Street junta US$ 75M y se planta en la costa oeste | https://www.worldcoffeeportal.com/news/650m-valuation-75m-investment-this-is-blank-street-3-0/
+- 2026-08-25 | Third Wave Coffee suma US$ 43M y va por 320 locales en India | https://www.business-standard.com/companies/news/third-wave-coffee-raises-43-million-led-by-westbridge-capital-126082400316_1.html
+- 2026-08-25 | Perú se trajo 20 medallas de París: Puno, Pasco, Junín y el VRAEM (AVPA París 2026) | https://inforegion.pe/cafes-de-puno-pasco-junin-y-el-vraem-destacan-en-paris-y-consiguen-20-premios-en-uno-de-los-concursos-mas-importantes-del-mundo/
+- 2026-08-25 | Chile ya tiene su AeroPress: Claudio Langarini va al mundial en México | https://www.expocafechile.cl/que-es-el-world-aeropress-championship/
+- 2026-08-25 | Oklahoma: She Brews abre segundo local (mujeres pos-encarcelación) | https://dailycoffeenews.com/2026/08/24/oklahomas-she-brews-opens-larger-cafe-supporting-women-after-incarceration/
+- 2026-08-25 | Cooxupé llega al 81,1% de la cosecha 2026 | https://forbes.com.br/forbes-agro/2026/08/colheita-de-cafe-da-cooxupe-alcanca-811-da-area-em-meados-de-agosto/
+- 2026-08-25 | Kruti Coffee busca subir el perfil del café indio en el Reino Unido (WCP) | https://www.worldcoffeeportal.com/news/kruti-coffee-wants-to-raise-the-profile-indian-specialty-coffee-in-the-uk/
+- 2026-08-25 | Fresh Cup lanza curso "Wholesale for Roasters" | https://freshcup.com/
+- 2026-08-25 | Las cafeterías de Paula Pareto en San Fernando | https://www.canal26.com/turismo/2026/08/24/asi-son-las-cafeterias-de-paula-pareto-mesas-al-aire-libre-pet-friendly-y-menu-para-todos-los-gustos/
