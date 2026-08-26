@@ -3,14 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-08-11 | El arábica se pegó un porrazo: -3,79% el lunes por Brasil despejado | https://www.barchart.com/story/news/3618212/harvest-friendly-weather-in-brazil-weighs-on-arabica-coffee-prices
-- 2026-08-11 | Development Stage vuelve a Oakland con foco en el productor | https://dailycoffeenews.com/2026/08/10/development-stage-to-explore-coffee-beyond-the-cup-in-oakland/
-- 2026-08-11 | Polvo con sílice: los baristas de Starbucks piden que revisen la receta | https://www.snopes.com/news/2026/08/09/starbucks-drinks-powder/
-- 2026-08-11 | La SCA mete el Coffee Value Assessment en el celular | https://sca.coffee/sca-news/the-coffee-value-assessment-and-tools-new-digita-platforms
-- 2026-08-11 | El matcha les come el plato a las cafeterías: qué dice Japón | https://perfectdailygrind.com/2026/08/matcha-is-everywhere-japan/
-- 2026-08-11 | Camp Coffee Shop en Napa Valley (10-13 de agosto) | https://dailycoffeenews.com/2026/02/25/barista-magazine-hosting-camp-coffee-shop-in-napa/
-- 2026-08-11 | From edgy to elegant: How 'cool' in specialty coffee is maturing (PDG) | https://perfectdailygrind.com/2026/08/cool-in-specialty-coffee-maturing/
-- 2026-08-11 | Jolene Coffee lanza tres nuevos sabores RTD (Red Velvet, Avellana, Caramelo Salado) | https://www.comunicaffe.com/jolene-coffee-introduces-three-bold-new-flavors/
 - 2026-08-12 | Colombia bajo escombros: el eje cafetero se levanta como puede | https://www.semana.com/economia/articulo/federacion-nacional-de-cafeteros-activa-plan-a-para-atender-caficultores-tras-terremoto-del-10-de-agosto-en-colombia/202626/
 - 2026-08-12 | El arábica se prende fuego: máximos de tres semanas por Colombia | https://www.brecorder.com/news/40434375/arabica-coffee-rallies-to-three-week-high
 - 2026-08-12 | Ya se sabe con qué máquinas se pelea el Mundial en Panamá (Storm/Ceado/BWT 2026-2027) | https://wcc.coffee/latest-news/announcing-the-2026-2027-world-barista-championship-qualified-sponsors
@@ -121,3 +113,12 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-08-25 | Kruti Coffee busca subir el perfil del café indio en el Reino Unido (WCP) | https://www.worldcoffeeportal.com/news/kruti-coffee-wants-to-raise-the-profile-indian-specialty-coffee-in-the-uk/
 - 2026-08-25 | Fresh Cup lanza curso "Wholesale for Roasters" | https://freshcup.com/
 - 2026-08-25 | Las cafeterías de Paula Pareto en San Fernando | https://www.canal26.com/turismo/2026/08/24/asi-son-las-cafeterias-de-paula-pareto-mesas-al-aire-libre-pet-friendly-y-menu-para-todos-los-gustos/
+- 2026-08-26 | Dunkin' vuelve a Puerto Rico: doce años después, la casa se recalienta | https://www.gcrmag.com/dunkin-returns-to-puerto-rico-12-years-after-departure
+- 2026-08-26 | Kenia arma su propia mesa: el Coffee Hub muda las negociaciones al origen | https://www.logupdateafrica.com/trade/kncci-backs-kenya-coffee-hub-launch-as-coffee-exports-rise-1359457
+- 2026-08-26 | El arábica se pega un porrazo: -5,51% en la rueda del 25 de agosto | https://www.comunicaffe.com/coffee-futures-prices-consolidate-colombian-exports-sharply-down-in-july/
+- 2026-08-26 | Los pioneros del café toman la palabra: qué ven de acá para adelante | https://perfectdailygrind.com/2026/08/pioneers-specialty-coffee-future/
+- 2026-08-26 | Cold foam: el juego no es ahorrar plata, es poder cobrarla | https://perfectdailygrind.com/2026/08/cold-foam-coffee-raise-margins/
+- 2026-08-26 | Angel-in-us Coffee retorna a Indonesia (Corea del Sur) | https://www.koreatimes.co.kr/business/companies/20260825/coffee-franchise-angel-in-us-to-reenter-indonesian-market
+- 2026-08-26 | Viva Star Coffee prepara desembarco en Malasia (séptimo mercado) | https://www.worldcoffeeportal.com/news/vietnams-viva-star-coffee-preparing-to-enter-seventh-international-market/
+- 2026-08-26 | Scooter's Coffee nombra CMO ex-KFC (Anna Faktorovich) | https://www.worldcoffeeportal.com/news/scooters-coffee-appoints-kfc-exec-as-new-chief-marketing-officer/
+- 2026-08-26 | Exportaciones de café colombiano de julio: -22,6% interanual | https://www.comunicaffe.com/coffee-futures-prices-consolidate-colombian-exports-sharply-down-in-july/
