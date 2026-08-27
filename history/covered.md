@@ -122,3 +122,12 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-08-27 | Coffee futures jump as arabica stocks at ICE near a 26-year low (TradingView) | https://www.tradingview.com/news/reuters.com,2026:newsml_L1N44L0RM:0-coffee-futures-jump-as-arabica-stocks-at-ice-near-a-26-year-low/
 - 2026-08-27 | Starbucks vuelve a lanzar el Pumpkin Spice Latte (26 de agosto) | https://about.starbucks.com/press/news-blog/
 - 2026-08-27 | Webinar de PDG sobre optimización web para cafeterías (27 de agosto) | https://perfectdailygrind.com/
+- 2026-08-27 | A la Gesha se le vino la noche: Bernardina y compañía la corren del podio | https://perfectdailygrind.com/2026/08/gesha-coffee-competitions-auctions/
+- 2026-08-27 | Cafesazo Peruano vuelve a Lima: dos días de café gratis y finales de campeonato (29-30 agosto) | https://elcomercio.pe/somos/gastronomia/viii-festival-cafesazo-peruano-todo-lo-que-debes-saber-de-la-eidicon-en-el-campo-de-marte-de-jesus-maria-noticia/
+- 2026-08-27 | Segafredo cierra su desembarco en India: 100 locales en tres años | https://www.worldcoffeeportal.com/news/segafredo-caffe-eyes-rapid-expansion-in-india-after-signing-master-franchise-deal/
+- 2026-08-27 | Mokas Coffee mete otro paquete de nueve locales en Kansas City | https://www.worldcoffeeportal.com/news/mokas-coffee-eatery-builds-out-franchise-pipeline-with-largest-deal-to-date/
+- 2026-08-27 | El "proffee" no llegó para quedarse: PDG sobre el boom del café con proteína | https://perfectdailygrind.com/2026/08/protein-coffee-boom-wont-last/
+- 2026-08-27 | Tchibo posts strong annual revenues but warns of rising consumer price sensitivity | https://www.worldcoffeeportal.com/news/tchibo-posts-strong-annual-revenues-but-warns-of-rising-consumer-price-sensitivity/
+- 2026-08-27 | US RTD start-up Beekeeper Coffee scores slam dunk with NBA investors | https://www.worldcoffeeportal.com/news/us-rtd-start-up-beekeeper-coffee-scores-slam-dunk-with-nba-investors/
+- 2026-08-27 | Sodexo to cut more than 1,000 jobs | https://www.worldcoffeeportal.com/news/sodexo-to-cut-more-than-1-000-hq-jobs-report-says/
+- 2026-08-27 | South Korea's The Liter wades into Japan's Deka Drink trend | https://www.worldcoffeeportal.com/news/south-koreas-the-liter-wades-into-japans-deka-drink-trend/
