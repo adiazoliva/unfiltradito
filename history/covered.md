@@ -3,13 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-08-12 | Colombia bajo escombros: el eje cafetero se levanta como puede | https://www.semana.com/economia/articulo/federacion-nacional-de-cafeteros-activa-plan-a-para-atender-caficultores-tras-terremoto-del-10-de-agosto-en-colombia/202626/
-- 2026-08-12 | El arábica se prende fuego: máximos de tres semanas por Colombia | https://www.brecorder.com/news/40434375/arabica-coffee-rallies-to-three-week-high
-- 2026-08-12 | Ya se sabe con qué máquinas se pelea el Mundial en Panamá (Storm/Ceado/BWT 2026-2027) | https://wcc.coffee/latest-news/announcing-the-2026-2027-world-barista-championship-qualified-sponsors
-- 2026-08-12 | Goodboybob salta a la costa este y se planta en Venice | https://dailycoffeenews.com/2026/08/11/goodboybob-doubles-cafe-footprint-with-openings-in-new-york-and-la/
-- 2026-08-12 | ¿Qué es un café "fuerte"? Un estudio brasileño mete cuchara | https://dailycoffeenews.com/2026/08/11/what-is-strong-coffee-it-may-depend-on-cultural-context/
-- 2026-08-12 | South America's 100 Best Coffee Shops 2026 — votación abierta hasta el 16 | https://theworlds100bestcoffeeshops.com/voting/south-america/
-- 2026-08-12 | Two Fold Coffee & Kitchen abre en Tampa (multiroaster con Modbar y vinos naturales) | https://dailycoffeenews.com/2026/08/06/two-fold-doubles-down-on-quality-in-tampa/
 - 2026-08-13 | El café colombiano quedó varado: Buenaventura sigue trabada tras el sismo | https://www.infobae.com/colombia/2026/08/12/el-terremoto-en-colombia-paralizo-las-exportaciones-de-cafe-miles-de-toneladas-del-grano-dejan-de-salir-del-pais-por-la-dificil-situacion/
 - 2026-08-13 | Guatemala rompió el techo del Cup of Excellence: US$ 449 por libra (El Injerto) | https://www.bloomberglinea.com/2026/08/12/cafes-de-especialidad-de-centroamerica-se-cotizan-hasta-en-us450-por-libra/
 - 2026-08-13 | Jollibee cerró un trimestre récord empujado por Highlands Coffee (+46,7%) | https://www.worldcoffeeportal.com/news/jollibees-coffee-portfolio-powers-q2-recovery-but-higher-costs-could-constrain-global-ambitions/
@@ -122,3 +115,10 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-08-26 | Viva Star Coffee prepara desembarco en Malasia (séptimo mercado) | https://www.worldcoffeeportal.com/news/vietnams-viva-star-coffee-preparing-to-enter-seventh-international-market/
 - 2026-08-26 | Scooter's Coffee nombra CMO ex-KFC (Anna Faktorovich) | https://www.worldcoffeeportal.com/news/scooters-coffee-appoints-kfc-exec-as-new-chief-marketing-officer/
 - 2026-08-26 | Exportaciones de café colombiano de julio: -22,6% interanual | https://www.comunicaffe.com/coffee-futures-prices-consolidate-colombian-exports-sharply-down-in-july/
+- 2026-08-27 | El Congo se prepara para su primer anaeróbico: la subasta arranca el 1 de septiembre | https://dailycoffeenews.com/2026/08/26/high-scoring-microlots-head-to-best-of-congo-cooperatives-auction/
+- 2026-08-27 | Florida se prueba como origen de café: la Universidad publica su primer estudio serio | https://dailycoffeenews.com/2026/08/26/florida-grown-coffee-gets-its-first-serious-field-test/
+- 2026-08-27 | Coffee Futures Fund abre inscripción: mentoría gratis para dueños de cafeterías | https://dailycoffeenews.com/2026/08/26/coffee-futures-fund-seeks-independent-cafe-owners-for-second-cohort/
+- 2026-08-27 | Costa le arrebata 26 cines a Starbucks en Reino Unido | https://www.thegrocer.co.uk/news/costa-coffee-to-replace-starbucks-as-cafe-operator-in-26-cineworld-locations/718841.article
+- 2026-08-27 | Coffee futures jump as arabica stocks at ICE near a 26-year low (TradingView) | https://www.tradingview.com/news/reuters.com,2026:newsml_L1N44L0RM:0-coffee-futures-jump-as-arabica-stocks-at-ice-near-a-26-year-low/
+- 2026-08-27 | Starbucks vuelve a lanzar el Pumpkin Spice Latte (26 de agosto) | https://about.starbucks.com/press/news-blog/
+- 2026-08-27 | Webinar de PDG sobre optimización web para cafeterías (27 de agosto) | https://perfectdailygrind.com/
