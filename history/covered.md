@@ -3,14 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-08-13 | El café colombiano quedó varado: Buenaventura sigue trabada tras el sismo | https://www.infobae.com/colombia/2026/08/12/el-terremoto-en-colombia-paralizo-las-exportaciones-de-cafe-miles-de-toneladas-del-grano-dejan-de-salir-del-pais-por-la-dificil-situacion/
-- 2026-08-13 | Guatemala rompió el techo del Cup of Excellence: US$ 449 por libra (El Injerto) | https://www.bloomberglinea.com/2026/08/12/cafes-de-especialidad-de-centroamerica-se-cotizan-hasta-en-us450-por-libra/
-- 2026-08-13 | Jollibee cerró un trimestre récord empujado por Highlands Coffee (+46,7%) | https://www.worldcoffeeportal.com/news/jollibees-coffee-portfolio-powers-q2-recovery-but-higher-costs-could-constrain-global-ambitions/
-- 2026-08-13 | Westrock Coffee: la planta de US$ 360 millones ya escupe caja (Q2 2026) | https://www.worldcoffeeportal.com/news/westrock-coffees-360m-investment-now-a-generator-of-cash-says-ceo/
-- 2026-08-13 | Valora se suma a 250 estaciones de BP en Austria | https://www.worldcoffeeportal.com/news/valora-partnership-acquires-hundreds-of-petrol-station-sites-in-austria/
-- 2026-08-13 | Starbucks China elimina el 14° salario y modifica beneficios (rumores) | https://www.gurufocus.com/news/9027554/starbucks-china-faces-rumors-amid-strategic-changes-and-market-competition
-- 2026-08-13 | El café doméstico en Vietnam roza los 100.000 VND por kg | https://www.vietnam.vn/en/gia-nong-san-hom-nay-12-8-2026-gia-ca-phe-trong-nuoc-thu-thach-moc-100-000-dong-gia-gao-neo-cao-phi-qua-kenh-dao-panama-tang-chua-tung-co
-- 2026-08-13 | PRESS Coffee abre nuevo local en CityNorth, Phoenix | https://whatnow.com/phoenix/restaurants/press-coffee-opening-citynorth-cafe-in-august/
 - 2026-08-14 | Aldi le pone la ficha al café regenerativo: arranca el Resilient Coffee Program (IDH, 4 países) | https://www.comunicaffe.com/idh-launches-resilient-coffee-program-300000-farmers-and-500000-tonnes-of-regenerative-coffee-annually-by-2030/
 - 2026-08-14 | Buenaventura vuelve a moverse: APM Terminals restablece bodegas de café tras el sismo | https://www.porttechnology.org/apm-terminals-buenaventura-restarts-after-earthquake/
 - 2026-08-14 | Black Rock Coffee Bar: ingresos +25% en Q2 2026 pero EPS por debajo del consenso | https://www.stocktitan.net/news/BRCB/black-rock-coffee-bar-inc-reports-second-quarter-2026-uf1ypdrgfc9j.html
@@ -131,3 +123,12 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-08-27 | US RTD start-up Beekeeper Coffee scores slam dunk with NBA investors | https://www.worldcoffeeportal.com/news/us-rtd-start-up-beekeeper-coffee-scores-slam-dunk-with-nba-investors/
 - 2026-08-27 | Sodexo to cut more than 1,000 jobs | https://www.worldcoffeeportal.com/news/sodexo-to-cut-more-than-1-000-hq-jobs-report-says/
 - 2026-08-27 | South Korea's The Liter wades into Japan's Deka Drink trend | https://www.worldcoffeeportal.com/news/south-koreas-the-liter-wades-into-japans-deka-drink-trend/
+- 2026-08-28 | Onyx pisa fuerte en la SCA: Jon Allen asume como 2° vicepresidente (board 2027-2029) | https://sca.coffee/sca-news/announcement/presenting-the-slate-of-candidates-for-the-2026-2028-sca-board-of-directors-elections-and-appointment-of-the-2nd-vice-president-2026
+- 2026-08-28 | Neumann Kaffee Gruppe publica reporte de sostenibilidad 2026: 20,9M árboles y -33,9% en emisiones | https://stir-tea-coffee.com/tea-coffee-news/neumann-kaffee-gruppe-releases-sustainability-report/
+- 2026-08-28 | Sweet & Coffee (Ecuador) confirma desembarco en Chile en 2027 | https://www.worldcoffeeportal.com/news/ecuadors-sweet-coffee-to-make-international-debut-in-2027/
+- 2026-08-28 | El arábica se pega otro porrazo: -3,88% el 27 de agosto por presión de la cosecha brasileña | https://finance.yahoo.com/markets/commodities/articles/arabica-coffee-tumbles-brazil-harvest-182608289.html
+- 2026-08-28 | Sprudge: quedan 10 días para inscribir tu café en los Good Food Awards 2027 | https://sprudge.com/good-food-awards-10-days-left-to-submit-coffee-24775.html
+- 2026-08-28 | Coffee News Recap, 28 Aug (Perfect Daily Grind) | https://perfectdailygrind.com/2026/08/coffee-news-recap-28-august-2026/
+- 2026-08-28 | The Insider: Headlines from the Coffee Industry (Barista Magazine) | https://www.baristamagazine.com/the-insider-headlines-from-the-coffee-industry-42/
+- 2026-08-28 | Pennsylvania Chocolate and Coffee Festival (Sprudge, 27-28 ago) | https://sprudge.com/
+- 2026-08-28 | Neumann Kaffee Gruppe lays out new sustainability strategy (Global Coffee Report) | https://www.gcrmag.com/neumann-kaffee-gruppe-lays-out-new-sustainability-strategy
