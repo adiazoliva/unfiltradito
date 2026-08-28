@@ -132,3 +132,10 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-08-28 | The Insider: Headlines from the Coffee Industry (Barista Magazine) | https://www.baristamagazine.com/the-insider-headlines-from-the-coffee-industry-42/
 - 2026-08-28 | Pennsylvania Chocolate and Coffee Festival (Sprudge, 27-28 ago) | https://sprudge.com/
 - 2026-08-28 | Neumann Kaffee Gruppe lays out new sustainability strategy (Global Coffee Report) | https://www.gcrmag.com/neumann-kaffee-gruppe-lays-out-new-sustainability-strategy
+- 2026-08-28 | Hawái cuenta las pérdidas: el huracán Lala pegó justo antes de la cosecha (DCN) | https://dailycoffeenews.com/2026/08/28/hawaii-coffee-farms-face-long-recovery-after-hurricane-lala/
+- 2026-08-28 | Estados Unidos ya eligió a su AeroPress: Phillippe "Akira" Kato al mundial de CDMX | https://newberyst.com/blogs/coffee/american-aeropress-championship-2026
+- 2026-08-28 | Negro abre en Palermo Hollywood: café, libros y bandejas | https://www.ambito.com/lifestyle/la-cafeteria-argentina-elegida-las-mejores-del-mundo-abre-un-nuevo-espacio-donde-conviven-cafe-libros-y-musica-n6288377
+- 2026-08-28 | Otra cafetería cierra en EE.UU. tras una detención de ICE (City Watch Coffee, PA) | https://dailycoffeenews.com/2026/08/27/pennsylvania-coffee-shop-latest-to-close-following-ice-detention/
+- 2026-08-28 | Ljubljana Coffee Festival se muda al Center Rog (26-27 septiembre) | https://ljubljanacoffeefestival.si/en/
+- 2026-08-28 | Lala took toll on Hawaiʻi Island coffee farms (Hawai'i Public Radio) | https://www.hawaiipublicradio.org/local-news/2026-08-27/lala-took-toll-on-hawaii-island-coffee-farms
+- 2026-08-28 | Lala devastates Ka'u coffee farms right before harvest (West Hawaii Today) | https://www.westhawaiitoday.com/2026/08/25/hawaii-news/its-going-to-be-a-big-loss-lala-devastates-kau-coffee-farms-right-before-harvest-time/
