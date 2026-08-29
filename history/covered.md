@@ -3,14 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-08-14 | Aldi le pone la ficha al café regenerativo: arranca el Resilient Coffee Program (IDH, 4 países) | https://www.comunicaffe.com/idh-launches-resilient-coffee-program-300000-farmers-and-500000-tonnes-of-regenerative-coffee-annually-by-2030/
-- 2026-08-14 | Buenaventura vuelve a moverse: APM Terminals restablece bodegas de café tras el sismo | https://www.porttechnology.org/apm-terminals-buenaventura-restarts-after-earthquake/
-- 2026-08-14 | Black Rock Coffee Bar: ingresos +25% en Q2 2026 pero EPS por debajo del consenso | https://www.stocktitan.net/news/BRCB/black-rock-coffee-bar-inc-reports-second-quarter-2026-uf1ypdrgfc9j.html
-- 2026-08-14 | Cambio de mando en Go Get Em Tiger: David Yardley al frente como CEO | https://sprudge.com/
-- 2026-08-14 | Groundswell abre en el Fine Arts Building de Chicago (Daily Coffee News) | https://dailycoffeenews.com/2026/08/13/groundswell-brings-fine-coffees-to-chicagos-fine-arts-building/
-- 2026-08-14 | Black Rifle Coffee cerca de la rentabilidad: EBITDA +164% en Q2 2026 | https://ir.blackriflecoffee.com/news-events/press-releases/detail/116/brc-inc-reports-second-quarter-2026-financial-results
-- 2026-08-14 | Arábica cotizando en torno a US$ 3,19/lb el 13 de agosto (Trading Economics) | https://tradingeconomics.com/commodity/coffee
-- 2026-08-14 | Mazzer lanza el "Best Opener" en la industria del café (Sprudge) | https://sprudge.com/
 - 2026-08-15 | El Mundial de AeroPress cruza a Latam: Ciudad de México, 6 de diciembre | https://dailycoffeenews.com/2026/08/14/the-2026-world-aeropress-championship-heads-to-mexico-city/
 - 2026-08-15 | Brasil va por la cosecha más grande de su historia (Conab: 66,7M sacos) | https://www.gcrmag.com/brazil-on-track-for-record-coffee-harvest-in-2026/
 - 2026-08-15 | La paradoja vietnamita: más volumen (+21,1%), menos plata (-11,2%) en 7 meses | https://dtinews.dantri.com.vn/vietnam-today/vietnam-coffee-exports-reach-usd-545-billion-in-seven-months-20260811074047983.htm
@@ -139,3 +131,11 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-08-28 | Ljubljana Coffee Festival se muda al Center Rog (26-27 septiembre) | https://ljubljanacoffeefestival.si/en/
 - 2026-08-28 | Lala took toll on Hawaiʻi Island coffee farms (Hawai'i Public Radio) | https://www.hawaiipublicradio.org/local-news/2026-08-27/lala-took-toll-on-hawaii-island-coffee-farms
 - 2026-08-28 | Lala devastates Ka'u coffee farms right before harvest (West Hawaii Today) | https://www.westhawaiitoday.com/2026/08/25/hawaii-news/its-going-to-be-a-big-loss-lala-devastates-kau-coffee-farms-right-before-harvest-time/
+- 2026-08-29 | Stumptown vuelve al centro de LA con flagship en el Starland Theater (Lincoln Heights) | https://lamag.com/food/new-stumptown-coffee-roasters-flagship-lincoln-heights-los-angeles/
+- 2026-08-29 | Tijuana se convierte hoy en la mesa binacional del café (Mundo Silvestre Coffee Camp) | https://silvestre.world/
+- 2026-08-29 | Día del Café Peruano: exportaciones récord (US$ 1.796M en 2025) | https://elperuano.pe/noticia/303531-hoy-se-celebra-el-dia-del-cafe-peruano-aroma-que-conquista-el-mundo
+- 2026-08-29 | Graffeo sortea una Ferrari 308 de 1984 con máquina de espresso La Pavoni adentro | https://sprudge.com/now-someone-has-built-an-espresso-machine-into-a-working-ferrari-engine-411047.html
+- 2026-08-29 | Kimo Falconer, Farmer of the Year 2026 en Hawai (Maui Coffee Association) | https://mauinow.com/2026/08/27/maui-coffee-association-honors-kimo-falconer-as-2026-farmer-of-the-year/
+- 2026-08-29 | Coffee Arabica Weekly: Holds Higher Ground (DailyForex 24-28 ago) | https://www.dailyforex.com/forex-technical-analysis/2026/08/coffee-arabica-remains-above-key-support-week-from-24th-to-28th-august-2026/248913
+- 2026-08-29 | Coffee Prices Erase Early Gains as Brazil's Coffee Warehouses Fill (Barchart) | https://www.barchart.com/story/news/4028564/coffee-prices-erase-early-gains-as-brazils-coffee-warehouses-fill
+- 2026-08-29 | Mendoza tendrá su primera clasificatoria provincial rumbo al Mejor Café Argentina (Prensa Ciudad de Mendoza) | https://prensa.ciudaddemendoza.gob.ar/2026/08/19/mendoza-tendra-su-primera-clasificatoria-provincial-rumbo-al-mejor-cafe-argentina/
