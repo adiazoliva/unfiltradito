@@ -3,14 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-08-15 | El Mundial de AeroPress cruza a Latam: Ciudad de México, 6 de diciembre | https://dailycoffeenews.com/2026/08/14/the-2026-world-aeropress-championship-heads-to-mexico-city/
-- 2026-08-15 | Brasil va por la cosecha más grande de su historia (Conab: 66,7M sacos) | https://www.gcrmag.com/brazil-on-track-for-record-coffee-harvest-in-2026/
-- 2026-08-15 | La paradoja vietnamita: más volumen (+21,1%), menos plata (-11,2%) en 7 meses | https://dtinews.dantri.com.vn/vietnam-today/vietnam-coffee-exports-reach-usd-545-billion-in-seven-months-20260811074047983.htm
-- 2026-08-15 | Best of Hawai'i 2026: Miranda's Farms se queda con el trono con un Geisha natural (87,84) | https://dailycoffeenews.com/2026/08/11/best-of-hawaii-names-2026-winners-plans-2027-auction/
-- 2026-08-15 | La UE le apretó el cinturón a las cápsulas de café (PPWR desde el 12/8) | https://perfectdailygrind.com/2026/08/coffee-news-recap-14-august-2026/
-- 2026-08-15 | Faema arma un Barista Journey con Jack Simpson en Barcelona (14 sept) | https://perfectdailygrind.com/2026/08/coffee-news-recap-14-august-2026/
-- 2026-08-15 | Araku Coffee (India) apunta a 50.000 toneladas para 2047 | https://perfectdailygrind.com/2026/08/coffee-news-recap-14-august-2026/
-- 2026-08-15 | April Coffee Roasters lanza un molinillo manual en Kickstarter el 1 de septiembre | https://perfectdailygrind.com/2026/08/coffee-news-recap-14-august-2026/
 - 2026-08-16 | Puerto Madryn recibe a Leonardo Flórez en Casa Hulpe (21-22 agosto, taller CVA) | https://www.elchubut.com.ar/puerto-madryn/2026-8-15-21-26-0-el-barista-y-tostador-profesional-leonardo-florez-llega-a-casa-hulpe-para-actividades-con-cafe-de-especialidad
 - 2026-08-16 | Una taza de café a US$ 32: WatchHouse suma quinto local en Manhattan y mira LA, Austin, Chicago y Miami | https://www.bloomberg.com/news/articles/2026-08-07/how-much-will-coffee-drinkers-pay-watchhouse-bets-32-a-cup
 - 2026-08-16 | Estudio DECAF: una taza diaria de café baja 39% la recurrencia de fibrilación auricular | https://www.news-medical.net/news/20260812/The-coffee-advice-given-to-atrial-fibrillation-patients-may-deserve-a-rethink.aspx
@@ -139,3 +131,9 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-08-29 | Coffee Arabica Weekly: Holds Higher Ground (DailyForex 24-28 ago) | https://www.dailyforex.com/forex-technical-analysis/2026/08/coffee-arabica-remains-above-key-support-week-from-24th-to-28th-august-2026/248913
 - 2026-08-29 | Coffee Prices Erase Early Gains as Brazil's Coffee Warehouses Fill (Barchart) | https://www.barchart.com/story/news/4028564/coffee-prices-erase-early-gains-as-brazils-coffee-warehouses-fill
 - 2026-08-29 | Mendoza tendrá su primera clasificatoria provincial rumbo al Mejor Café Argentina (Prensa Ciudad de Mendoza) | https://prensa.ciudaddemendoza.gob.ar/2026/08/19/mendoza-tendra-su-primera-clasificatoria-provincial-rumbo-al-mejor-cafe-argentina/
+- 2026-08-30 | Kofola compra el 52% de Cøkafe y cierra su círculo del café | https://www.worldcoffeeportal.com/news/czech-beverage-group-acquires-specialty-coffee-chain-cokafe/
+- 2026-08-30 | Starbucks se sube al avión: acuerdo con China Eastern | https://www.worldcoffeeportal.com/news/starbucks-strikes-deal-with-chinas-second-largest-airline/
+- 2026-08-30 | Cafesazo Peruano define hoy a su AeroPress campeón: rumbo a México | https://elcomercio.pe/somos/gastronomia/viii-festival-cafesazo-peruano-todo-lo-que-debes-saber-de-la-eidicon-en-el-campo-de-marte-de-jesus-maria-noticia/
+- 2026-08-30 | Gloria Jean's ajusta su fórmula en Australia pero se queda corta con los refurbs (WCP) | https://www.worldcoffeeportal.com/news/gloria-jeans-finds-the-right-formula-in-australia-but-refurbs-rate-falls-short/
+- 2026-08-30 | Weekly Coffee News: US AeroPress Champion + Coffee 101 with the Howells (DCN) | https://dailycoffeenews.com/2026/08/28/weekly-coffee-news-us-aeropress-champion-coffee-101-with-the-howells/
+- 2026-08-30 | Global Coffee Report — portada del 28 y 29 de agosto | https://www.gcrmag.com/
