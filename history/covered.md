@@ -3,16 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-08-16 | Puerto Madryn recibe a Leonardo Flórez en Casa Hulpe (21-22 agosto, taller CVA) | https://www.elchubut.com.ar/puerto-madryn/2026-8-15-21-26-0-el-barista-y-tostador-profesional-leonardo-florez-llega-a-casa-hulpe-para-actividades-con-cafe-de-especialidad
-- 2026-08-16 | Una taza de café a US$ 32: WatchHouse suma quinto local en Manhattan y mira LA, Austin, Chicago y Miami | https://www.bloomberg.com/news/articles/2026-08-07/how-much-will-coffee-drinkers-pay-watchhouse-bets-32-a-cup
-- 2026-08-16 | Estudio DECAF: una taza diaria de café baja 39% la recurrencia de fibrilación auricular | https://www.news-medical.net/news/20260812/The-coffee-advice-given-to-atrial-fibrillation-patients-may-deserve-a-rethink.aspx
-- 2026-08-16 | El arábica sigue prendido fuego: +30% desde junio y stocks ICE en mínimos de 2,5 años | https://finance.yahoo.com/markets/commodities/articles/coffee-prices-finish-sharply-higher-183449788.html
-- 2026-08-16 | Starbucks reordena la casa: la delivery sigue siendo clave en la vuelta al "third place" | https://www.worldcoffeeportal.com/news/as-starbucks-rebuilds-its-coffee-house-credentials-delivery-still-matters-heres-why/
-- 2026-08-16 | Starbucks trae de vuelta el Unicorn Frappuccino por un solo fin de semana (15 al 17 de agosto) | https://about.starbucks.com/press/2026/unicorn-frappuccino-blended-beverage-makes-its-magical-return-later-this-summer/
-- 2026-08-16 | UCTT se suma a ECOM Agroindustrial y le abre a la comercializadora la puerta del té | https://www.teaandcoffee.net/news/39825/uctt-announced-it-is-joining-ecom-agroindustrial-corp/
-- 2026-08-16 | Sprudge sobre la guía de Khipu de la cosecha peruana 2025/26 | https://sprudge.com/perus-specialty-coffee-sector-enters-a-new-era-says-new-harvest-guide-1267722.html
-- 2026-08-16 | Sprudge Twenty entrevista a Pack Katisomsakul (Newbery Street Coffee Roasters) | https://sprudge.com/pack-katisomsakul-of-newbery-street-coffee-roasters-the-sprudge-twenty-interview-1266442.html
-- 2026-08-16 | Strauss Group: Q2 rentable pero con caída en ventas internacionales de café | https://www.worldcoffeeportal.com/news/efficiency-drive-delivers-profitable-q2-for-strauss-group-but-international-coffee-sales-decline/
 - 2026-08-17 | Coffee Master 2026 corona su cafetería del año en Bogotá | https://www.eltiempo.com/cultura/gastronomia/coffee-master-2026-regresa-a-bogota-con-mas-de-50-cafeterias-y-una-ruta-para-descubrir-el-cafe-de-especialidad-colombiano-3573325
 - 2026-08-17 | CDMX pone la mesa: Festival de Café en el Palacio de la Autonomía (16 y 17 de agosto) | https://descubreenmexico.com/festival-de-cafe-regresa-a-cdmx-con-catas-talleres-y-actividades-especiales/
 - 2026-08-17 | Los productores le meten pinza a cada paso del procesamiento (PDG) | https://perfectdailygrind.com/2026/08/coffee-producers-scrutinising-processing/
@@ -137,3 +127,13 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-08-30 | Gloria Jean's ajusta su fórmula en Australia pero se queda corta con los refurbs (WCP) | https://www.worldcoffeeportal.com/news/gloria-jeans-finds-the-right-formula-in-australia-but-refurbs-rate-falls-short/
 - 2026-08-30 | Weekly Coffee News: US AeroPress Champion + Coffee 101 with the Howells (DCN) | https://dailycoffeenews.com/2026/08/28/weekly-coffee-news-us-aeropress-champion-coffee-101-with-the-howells/
 - 2026-08-30 | Global Coffee Report — portada del 28 y 29 de agosto | https://www.gcrmag.com/
+- 2026-08-31 | Reysol le pone el hombro a Balboa: un tostador colombo-neoyorkino junta plata para su pueblo | https://www.roi-nj.com/2026/08/27/lifestyle/food-hospitality/coffee-roaster-with-colombian-roots-starts-gofundme-site-to-raise-funds-for-earthquake-stricken-hometown/
+- 2026-08-31 | Brasil se anima con la canéfora: abre el primer concurso serio de robusta y conilon (Best of Canephora Brazil 2026) | https://www.bsca.com.br/bsca-cria-concurso-internacional-para-cafe-especial-da-especie-canefora/
+- 2026-08-31 | Coffee Review estrena su podio: Hula Daddy se queda con el primer Kenneth Davids Cup | https://www.coffeereview.com/kenneth-davids-cup/
+- 2026-08-31 | Campeonatos brasileños de Latte Art y CIGS en el Mercadão paulista (3-5 septiembre) | https://www.bsca.com.br/sp-mercadao-sediara-campeonatos-brasileiros-de-barismo-em-setembro/
+- 2026-08-31 | Subko presenta el primer Gesha indio: microlote de Riverdale con notas a pomelo y Earl Grey | https://www.subko.coffee/collections
+- 2026-08-31 | Denim Coffee compra dos locales de Prince Street Café en Pennsylvania | https://dailycoffeenews.com/2026/08/28/weekly-coffee-news-us-aeropress-champion-coffee-101-with-the-howells/
+- 2026-08-31 | Moka & Co. abre su segunda cafetería yemení en Nueva Jersey (Somerville, 29 ago) | https://hoodline.com/2026/08/yemeni-coffee-chain-moka-co-sets-august-29-opening-in-somerville/
+- 2026-08-31 | BrewAtlas publica su reporte "State of Specialty Coffee 2026" (6.163 cafeterías) | https://brewatlas.co/
+- 2026-08-31 | Inundaciones en Nepal dejan más de 900 muertos y golpean fincas de café | https://en.wikipedia.org/wiki/2026_Nepal_floods
+- 2026-08-31 | Un estudio pretende catalogar la estética de la "tercera ola" | https://perfectdailygrind.com/2026/08/coffee-news-recap-28-august-2026/
