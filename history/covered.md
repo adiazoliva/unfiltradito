@@ -3,13 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-08-17 | Coffee Master 2026 corona su cafetería del año en Bogotá | https://www.eltiempo.com/cultura/gastronomia/coffee-master-2026-regresa-a-bogota-con-mas-de-50-cafeterias-y-una-ruta-para-descubrir-el-cafe-de-especialidad-colombiano-3573325
-- 2026-08-17 | CDMX pone la mesa: Festival de Café en el Palacio de la Autonomía (16 y 17 de agosto) | https://descubreenmexico.com/festival-de-cafe-regresa-a-cdmx-con-catas-talleres-y-actividades-especiales/
-- 2026-08-17 | Los productores le meten pinza a cada paso del procesamiento (PDG) | https://perfectdailygrind.com/2026/08/coffee-producers-scrutinising-processing/
-- 2026-08-17 | Sprudge abre The Green Room: vidriera para los importadores de café verde | https://sprudge.com/the-green-room-your-source-for-coffee-importers-sourcing-coffees-at-source-1267417.html
-- 2026-08-17 | Última llamada: hoy cierra Build-Outs of Coffee 2026 en Sprudge | https://sprudge.com/the-deadline-to-submit-your-cafe-for-the-2026-build-outs-of-coffee-is-august-17th-1265169.html
-- 2026-08-17 | Coffee Price Weekly Forecast: Record Brazil Harvest in Focus | https://bestliveforexcomexrecommendationsprovider.wordpress.com/2026/08/16/coffee-price-weekly-forecast-record-brazil-harvest-in-focus/
-- 2026-08-17 | Hot Coffees Comin' In Hot! (Sprudge) | https://sprudge.com/hot-coffees-comin-in-hot-1266539.html
 - 2026-08-18 | The Coffee prepara la expansión más ambiciosa desde su fundación (1.500 tiendas fuera de Brasil para 2028) | https://www.worldcoffeeportal.com/news/brazils-the-coffee-gearing-up-for-further-international-expansion/
 - 2026-08-18 | Descubren una rana entre cafetales de Costa Rica y hay firma argentina (CONICET, Tarrazú) | https://sprudge.com/
 - 2026-08-18 | Manna Coffee levanta plata para llenar el mundo de kioscos automáticos (ronda semilla US$ 1,25M) | https://dailycoffeenews.com/2026/08/17/manna-coffee-adds-funding-for-automated-kiosk-growth/
@@ -137,3 +130,11 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-08-31 | BrewAtlas publica su reporte "State of Specialty Coffee 2026" (6.163 cafeterías) | https://brewatlas.co/
 - 2026-08-31 | Inundaciones en Nepal dejan más de 900 muertos y golpean fincas de café | https://en.wikipedia.org/wiki/2026_Nepal_floods
 - 2026-08-31 | Un estudio pretende catalogar la estética de la "tercera ola" | https://perfectdailygrind.com/2026/08/coffee-news-recap-28-august-2026/
+- 2026-09-01 | Shoprite pone la ficha grande al café: se queda con Vida e Caffè | https://www.worldcoffeeportal.com/news/major-retailer-acquires-south-africas-largest-coffee-chain-vida-e-caffe/
+- 2026-09-01 | Cafecito BA se instala en Palermo este fin de semana (5-6 sep) y en Chacabuco (13-14 sep) | https://turismo.buenosaires.gob.ar/es/article/cafecito-ba
+- 2026-09-01 | Expo Café CDMX abre esta semana (3-5 septiembre en WTC) | https://www.expocafe.mx/
+- 2026-09-01 | El café suave colombiano rompió el techo de los US$4 por libra (24 ago) | https://www.eltiempo.com/economia/sectores/el-precio-del-cafe-suave-colombiano-se-trepa-sobre-los-us-4-por-libra-pero-el-terremoto-no-explica-el-repunte-3581009
+- 2026-09-01 | Coffee industry senior appointments: August 2026 (WCP) | https://www.worldcoffeeportal.com/news/coffee-industry-senior-appointments-august-2026/
+- 2026-09-01 | Coffee industry investments, mergers and acquisitions: August 2026 (WCP) | https://www.worldcoffeeportal.com/news/coffee-industry-investments-mergers-and-acquisitions-august-2026/
+- 2026-09-01 | Graffeo sortea su Ferrari con La Pavoni adentro (Comunicaffe) | https://www.comunicaffe.com/graffeo-coffee-launches-giveaway-of-its-1984-ferrari-308-custom-fitted-with-la-pavoni-and-a-lifetimes-supply-of-coffee/
+- 2026-09-01 | Etiopía: precios de la cereza triplicados en la cosecha 2026 (Algrano) | https://algrano.com/learn/ethiopia-coffee-harvest-report-2026
