@@ -3,13 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-08-18 | The Coffee prepara la expansión más ambiciosa desde su fundación (1.500 tiendas fuera de Brasil para 2028) | https://www.worldcoffeeportal.com/news/brazils-the-coffee-gearing-up-for-further-international-expansion/
-- 2026-08-18 | Descubren una rana entre cafetales de Costa Rica y hay firma argentina (CONICET, Tarrazú) | https://sprudge.com/
-- 2026-08-18 | Manna Coffee levanta plata para llenar el mundo de kioscos automáticos (ronda semilla US$ 1,25M) | https://dailycoffeenews.com/2026/08/17/manna-coffee-adds-funding-for-automated-kiosk-growth/
-- 2026-08-18 | El arábica vuelve a acelerar: cerró cerca de US$ 3,21 por libra (17 de agosto) | https://tradingeconomics.com/commodity/coffee
-- 2026-08-18 | Outsiders Coffee Roasters abre su primer local en Scotch Plains, Nueva Jersey | https://dailycoffeenews.com/2026/08/17/inside-the-first-new-jersey-cafe-of-outsiders-coffee/
-- 2026-08-18 | Kalve Coffee, la letona que quiere ser marca europea, dispara sus ingresos | https://www.worldcoffeeportal.com/news/
-- 2026-08-18 | Nick Mabey asciende a Managing Director de Full Steam Espresso (Volcano y Assembly) | https://www.comunicaffe.com/full-steam-espresso-nick-mabey-managing-director/
 - 2026-08-19 | Fairtrade pisa el acelerador: el arábica lavado sube a US$ 2 por libra desde diciembre | https://dailycoffeenews.com/2026/08/04/fairtrade-international-raises-price-minimums-again/
 - 2026-08-19 | Exigí Buen Café vuelve a La Rural (13 y 14 de septiembre) | https://www.laruralticket.com.ar/event/exigibuencafe-2026
 - 2026-08-19 | Santiago: 20 cafeterías y 50 DJs en Barrio Italia el sábado 22 (Ruta Coffee Party) | https://providencia.cl/provi/explora/noticias/emprendimiento/coffee-party-barrio-italia
@@ -138,3 +131,11 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-09-01 | Coffee industry investments, mergers and acquisitions: August 2026 (WCP) | https://www.worldcoffeeportal.com/news/coffee-industry-investments-mergers-and-acquisitions-august-2026/
 - 2026-09-01 | Graffeo sortea su Ferrari con La Pavoni adentro (Comunicaffe) | https://www.comunicaffe.com/graffeo-coffee-launches-giveaway-of-its-1984-ferrari-308-custom-fitted-with-la-pavoni-and-a-lifetimes-supply-of-coffee/
 - 2026-09-01 | Etiopía: precios de la cereza triplicados en la cosecha 2026 (Algrano) | https://algrano.com/learn/ethiopia-coffee-harvest-report-2026
+- 2026-09-02 | Nero Group cierra su tercer año récord: £670M y el frío tira del carro | https://www.worldcoffeeportal.com/news/the-nero-group-achieves-third-successive-year-of-record-annual-sales/
+- 2026-09-02 | 7 Brew le birla 73 locales a Dutch Bros por US$ 143M (subasta Salad and Go) | https://dailycoffeenews.com/2026/09/02/7-brew-wins-143-million-auction-for-former-salad-and-go-locations/
+- 2026-09-02 | El café sin azúcar te cuida el corazón: estudio UK Biobank sobre 167.142 personas | https://dailycoffeenews.com/2026/09/01/coffees-heart-health-link-looks-stronger-without-sweeteners/
+- 2026-09-02 | Forbes recorre el camino de la taza de US$ 60: Aprocetu, Turrubares, Costa Rica | https://ticotimes.net/2026/09/01/forbes-costa-rica-coffee-farmers-turrubares
+- 2026-09-02 | April Coffee lanza su primer molinillo manual con Timemore (April Hand Grinder 01) | https://dailycoffeenews.com/2026/09/01/april-coffee-springs-a-manual-grinder-into-production/
+- 2026-09-02 | How filter coffee became specialty's favourite drink (Perfect Daily Grind) | https://perfectdailygrind.com/2026/09/how-filter-coffee-became-specialty-favourite/
+- 2026-09-02 | How to curate an exceptional home coffee setup (Perfect Daily Grind) | https://perfectdailygrind.com/2026/09/curate-exceptional-home-coffee-setup/
+- 2026-09-02 | Arabica Coffee Settles Higher on Supply Concerns (Barchart, 2 sep) | https://www.barchart.com/story/news/3956273/arabica-coffee-settles-higher-on-supply-concerns
