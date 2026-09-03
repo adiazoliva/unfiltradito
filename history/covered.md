@@ -3,14 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-08-19 | Fairtrade pisa el acelerador: el arábica lavado sube a US$ 2 por libra desde diciembre | https://dailycoffeenews.com/2026/08/04/fairtrade-international-raises-price-minimums-again/
-- 2026-08-19 | Exigí Buen Café vuelve a La Rural (13 y 14 de septiembre) | https://www.laruralticket.com.ar/event/exigibuencafe-2026
-- 2026-08-19 | Santiago: 20 cafeterías y 50 DJs en Barrio Italia el sábado 22 (Ruta Coffee Party) | https://providencia.cl/provi/explora/noticias/emprendimiento/coffee-party-barrio-italia
-- 2026-08-19 | El arábica pega otro salto: +5,3% en un día y máximo de 6,5 meses (18/8) | https://tradingeconomics.com/commodity/coffee
-- 2026-08-19 | Clark's Coffee toma la vieja casa de Stumptown en Belmont, Portland | https://dailycoffeenews.com/2026/08/18/clarks-coffee-brings-fresh-energy-to-former-stumptown-space-in-portland/
-- 2026-08-19 | Round K Comes Full Circle at Renovated New York Cafe (Daily Coffee News) | https://dailycoffeenews.com/2026/08/18/round-k-comes-full-circle-at-renovated-new-york-cafe/
-- 2026-08-19 | Roast Summit vuelve a Portland (1-2 de octubre) | https://dailycoffeenews.com/2026/08/18/roast-summit-returns-to-portland-in-2026/
-- 2026-08-19 | PunThai Coffee siente el combustible en Tailandia (WCP) | https://www.worldcoffeeportal.com/news/high-fuel-prices-put-the-brakes-on-sales-for-thailands-punthai-coffee/
 - 2026-08-20 | El vaivén de las monedas se le come el margen al productor (Perfect Daily Grind) | https://perfectdailygrind.com/2026/08/currency-fluctuations-coffee-sourcing/
 - 2026-08-20 | First Coffee levanta otra ronda: India se pone seria con el especialidad | https://www.worldcoffeeportal.com/news/first-coffee-confirms-new-investment-as-indias-specialty-coffee-segment-gains-momentum/
 - 2026-08-20 | A la liberica se le está por dar la revancha (PDG) | https://perfectdailygrind.com/2026/08/coffee-processing-liberica/
@@ -139,3 +131,13 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-09-02 | How filter coffee became specialty's favourite drink (Perfect Daily Grind) | https://perfectdailygrind.com/2026/09/how-filter-coffee-became-specialty-favourite/
 - 2026-09-02 | How to curate an exceptional home coffee setup (Perfect Daily Grind) | https://perfectdailygrind.com/2026/09/curate-exceptional-home-coffee-setup/
 - 2026-09-02 | Arabica Coffee Settles Higher on Supply Concerns (Barchart, 2 sep) | https://www.barchart.com/story/news/3956273/arabica-coffee-settles-higher-on-supply-concerns
+- 2026-09-03 | The Best Coffee Shops Argentina se pone de gala: cita en el Alvear el 15 de septiembre | https://www.iprofesional.com/actualidad/463648-los-mejores-cafes-de-argentina-cuando-y-donde-es-la-gala-con-aval-internacional
+- 2026-09-03 | Al productor colombiano se le junta todo: peso fuerte, precio bajo y menos cosecha | https://www.bloomberglinea.com/latinoamerica/colombia/menos-cafe-precios-bajos-y-un-peso-fuerte-asi-se-revierte-la-bonanza-cafetera-en-colombia/
+- 2026-09-03 | La cafetería excelente no la hace el barista: la hace la barra que te saluda por tu nombre (PDG) | https://perfectdailygrind.com/2026/09/what-makes-an-excellent-coffee-shop/
+- 2026-09-03 | Los stocks de arábica en la ICE tocan mínimo de 27 años (Trading Economics, 3 sep) | https://tradingeconomics.com/commodity/coffee
+- 2026-09-03 | Starbucks by Nespresso Vertuo desembarca en México con seis cápsulas | https://www.informabtl.com/lanzamiento-starbucks-by-nespresso-vertuo-mexico-capsulas/
+- 2026-09-03 | Caribou Coffee appoints new Chief Operations Officer (WCP) | https://www.worldcoffeeportal.com/news/caribou-coffee-appoints-new-chief-operations-officer/
+- 2026-09-03 | Build-Outs of Coffee: Aurora Coffee Hub, Amán (Sprudge) | https://sprudge.com/build-outs-of-coffee-aurora-coffee-hub-in-amman-jordan-1265150.html
+- 2026-09-03 | Hershey's Goes Affogato For Their New Creme Bar (Sprudge) | https://sprudge.com/hersheys-goes-affogato-for-their-new-creme-bar-1304480.html
+- 2026-09-03 | COFE Tech secures $178m valuation in pre-IPO funding round (WCP) | https://www.worldcoffeeportal.com/news/cofe-tech-secures-178m-valuation-in-pre-ipo-funding-round/
+- 2026-09-03 | How filter coffee became specialty's favourite drink (PDG) | https://perfectdailygrind.com/2026/09/how-filter-coffee-became-specialty-favourite/
