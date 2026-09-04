@@ -3,16 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-08-20 | El vaivén de las monedas se le come el margen al productor (Perfect Daily Grind) | https://perfectdailygrind.com/2026/08/currency-fluctuations-coffee-sourcing/
-- 2026-08-20 | First Coffee levanta otra ronda: India se pone seria con el especialidad | https://www.worldcoffeeportal.com/news/first-coffee-confirms-new-investment-as-indias-specialty-coffee-segment-gains-momentum/
-- 2026-08-20 | A la liberica se le está por dar la revancha (PDG) | https://perfectdailygrind.com/2026/08/coffee-processing-liberica/
-- 2026-08-20 | Pact Coffee dice que le paga a los productores 127% arriba del piso Fairtrade (Global Coffee Report) | https://www.gcrmag.com/pact-coffee-releases-2026-global-impact-report
-- 2026-08-20 | Lo que tocás con la mano cambia lo que sentís en la taza (Daily Coffee News) | https://dailycoffeenews.com/2026/08/19/what-we-touch-with-our-hands-may-affect-what-we-taste-in-the-cup/
-- 2026-08-20 | "It is clear that we need to make meaningful changes", says new Tims China CEO (WCP) | https://www.worldcoffeeportal.com/news/it-is-clear-that-we-need-to-make-meaningful-changes-says-new-tims-china-ceo/
-- 2026-08-20 | The Nero Group hires new CFO following Compass acquisition (WCP) | https://www.worldcoffeeportal.com/news/the-nero-group-hires-new-chief-financial-officer-amid-exec-reshuffle/
-- 2026-08-20 | South Korea's Hollys gets K-pop act together for first brand ambassador deal (WCP) | https://www.worldcoffeeportal.com/news/south-koreas-hollys-gets-k-pop-act-together-with-first-brand-ambassador-deal/
-- 2026-08-20 | The New Brew Watch Is Inspired By Milk Pouring Into Coffee (Sprudge) | https://sprudge.com/the-new-brew-watch-is-inspired-by-milk-pouring-into-coffee-1274374.html
-- 2026-08-20 | Build-Outs Of Coffee: The Back Room In Tirana, Albania (Sprudge) | https://sprudge.com/build-outs-of-coffee-the-back-room-in-tirana-albania-1232238.html
 - 2026-08-21 | Mendoza sube al ring: primera clasificatoria del Mejor Café Argentina | https://www.mendovoz.com/ciudad/2026/8/20/clasificatoria-del-mejor-cafe-argentina-en-mendoza-fechas-sede-detalles-del-evento-175357.html
 - 2026-08-21 | Villa Rica desembarca en Lima: cuatro días de café de la selva peruana | https://www.infobae.com/peru/2026/08/21/expocafe-villa-rica-2026-regalaran-3000-mil-vasos-y-400-plantas-de-cafe-en-el-parque-de-la-exposicion/
 - 2026-08-21 | Otro cross al hígado: el café vuelve a sacar pecho con 13 años de datos | https://dailycoffeenews.com/2026/08/20/13-year-study-gives-more-good-news-to-the-livers-of-coffee-drinkers/
@@ -141,3 +131,11 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-09-03 | Hershey's Goes Affogato For Their New Creme Bar (Sprudge) | https://sprudge.com/hersheys-goes-affogato-for-their-new-creme-bar-1304480.html
 - 2026-09-03 | COFE Tech secures $178m valuation in pre-IPO funding round (WCP) | https://www.worldcoffeeportal.com/news/cofe-tech-secures-178m-valuation-in-pre-ipo-funding-round/
 - 2026-09-03 | How filter coffee became specialty's favourite drink (PDG) | https://perfectdailygrind.com/2026/09/how-filter-coffee-became-specialty-favourite/
+- 2026-09-04 | México ya tiene su barista Starbucks: Christian Ortiz va por Latam (Expoknews) | https://www.expoknews.com/starbucks-mexico-celebra-el-talento-con-su-barista-campeon-2026/
+- 2026-09-04 | Joe Coffee se sube al avión: acuerdo con JetBlue para primera clase (WCP) | https://www.worldcoffeeportal.com/news/new-yorks-joe-coffee-secures-first-us-airline-partnership/
+- 2026-09-04 | Corea del Sur pisa EE.UU.: A Twosome Place abre en Virginia (Korea Times) | https://www.koreatimes.co.kr/business/companies/20260903/twosome-place-to-enter-us-market-in-october-for-next-phase-of-growth
+- 2026-09-04 | Walmart le abre la puerta a Dunkin' desde su propia app (Restaurant Dive) | https://www.restaurantdive.com/news/walmart-shoppers-dunkin-delivery-coffee/829593/
+- 2026-09-04 | Coffee Buddy, marca filipina, planta bandera en India (WCP) | https://www.worldcoffeeportal.com/news/the-philippines-coffee-buddy-makes-international-debut-with-india-launch/
+- 2026-09-04 | India's Third Wave Coffee hires former Sapphire Foods exec for top tech role (WCP) | https://www.worldcoffeeportal.com/news/indias-third-wave-coffee-hires-former-sapphire-foods-exec-for-top-tech-role/
+- 2026-09-04 | 'Cauca Sabe a Café 2026': Popayán se convierte en epicentro de la cultura cafetera (El País Cali) | https://www.elpais.com.co/colombia/cauca-sabe-a-cafe-2026-la-feria-que-convierte-a-popayan-en-el-epicentro-de-la-cultura-cafetera-0320.html
+- 2026-09-04 | Tucumán se encamina a ser la primera provincia cafetera de la Argentina (Contexto Tucumán) | https://www.contextotucuman.com/nota/409495/tucuman-se-encamina-a-ser-la-primera-provincia-cafetera-de-la-argentina.html
