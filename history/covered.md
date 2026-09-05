@@ -3,14 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-08-21 | Mendoza sube al ring: primera clasificatoria del Mejor Café Argentina | https://www.mendovoz.com/ciudad/2026/8/20/clasificatoria-del-mejor-cafe-argentina-en-mendoza-fechas-sede-detalles-del-evento-175357.html
-- 2026-08-21 | Villa Rica desembarca en Lima: cuatro días de café de la selva peruana | https://www.infobae.com/peru/2026/08/21/expocafe-villa-rica-2026-regalaran-3000-mil-vasos-y-400-plantas-de-cafe-en-el-parque-de-la-exposicion/
-- 2026-08-21 | Otro cross al hígado: el café vuelve a sacar pecho con 13 años de datos | https://dailycoffeenews.com/2026/08/20/13-year-study-gives-more-good-news-to-the-livers-of-coffee-drinkers/
-- 2026-08-21 | UCC pone plata en café regenerativo: piloto en Vietnam con ECOM | https://dailycoffeenews.com/2026/08/19/ucc-launches-regenerative-coffee-pilot-in-vietnam/
-- 2026-08-21 | En Austin, Cuvée abre un bar híbrido: espresso al alba, tragos al ocaso | https://dailycoffeenews.com/2026/08/20/cuvee-coffee-opens-coffee-to-cocktail-flagship-in-austin/
-- 2026-08-21 | The Left Hook Coffee abre local propio en Raleigh | https://dailycoffeenews.com/2026/08/19/the-left-hook-coffee-comes-out-swinging-in-raleigh/
-- 2026-08-21 | Coffee Fest Los Angeles arranca hoy en el Convention Center | https://www.laconventioncenter.com/events/detail/coffee-fest-2026
-- 2026-08-21 | Oaxaca conquista mercados internacionales con su café de especialidad | https://www.diariomarca.com.mx/2026/08/oaxaca-conquista-nuevos-mercados-con-su-cafe-de-especialidad/
 - 2026-08-22 | En Taza: Córdoba se planta como capital del café argentino (3ra edición 21-22 agosto) | https://entaza.cafe/en
 - 2026-08-22 | Los Global Coffee Awards ya tienen fecha en Europa: Burdeos, 25-28 octubre | https://perfectdailygrind.com/events/global-coffee-awards-europe-2026/
 - 2026-08-22 | Costa Rica convierte la borra en gas: la apuesta de Poás Bioenergy (syngas + biochar) | https://energiesmedia.com/costa-rica-pineapple-coffee-waste-into-syngas/
@@ -139,3 +131,13 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-09-04 | India's Third Wave Coffee hires former Sapphire Foods exec for top tech role (WCP) | https://www.worldcoffeeportal.com/news/indias-third-wave-coffee-hires-former-sapphire-foods-exec-for-top-tech-role/
 - 2026-09-04 | 'Cauca Sabe a Café 2026': Popayán se convierte en epicentro de la cultura cafetera (El País Cali) | https://www.elpais.com.co/colombia/cauca-sabe-a-cafe-2026-la-feria-que-convierte-a-popayan-en-el-epicentro-de-la-cultura-cafetera-0320.html
 - 2026-09-04 | Tucumán se encamina a ser la primera provincia cafetera de la Argentina (Contexto Tucumán) | https://www.contextotucuman.com/nota/409495/tucuman-se-encamina-a-ser-la-primera-provincia-cafetera-de-la-argentina.html
+- 2026-09-05 | A Colombia se le cae la taza: la Federación proyecta 8% menos de cosecha | https://dailycoffeenews.com/2026/09/04/weekly-coffee-news-colombia-earthquake-support-brewing-for-equity/
+- 2026-09-05 | Ecuador escala su café sin deforestación y le gana la carrera a Bruselas | https://dailycoffeenews.com/2026/09/03/ecuadors-deforestation-free-coffee-model-moves-beyond-the-pilot-stage/
+- 2026-09-05 | Vuelve Exigí Buen Café: 13ª edición con 100 expositores en La Rural | https://larural.com.ar/evento/expo-exigi-buen-cafe/
+- 2026-09-05 | Un hongo chino empuja al arábica hacia la especialidad: 1,5 puntos más de taza | https://www.baristamagazine.com/a-newly-discovered-fungus-is-pushing-arabica-into-specialty-grade-territory/
+- 2026-09-05 | Coffee People Zine vuelve al papel con su número más grande | https://dailycoffeenews.com/2026/09/04/coffee-people-zine-back-in-print-plans-minneapolis-party/
+- 2026-09-05 | Bay Area coffee shop closes indefinitely amid lawsuits alleging discrimination against Jewish customers | https://www.jns.org/news/u-s-news/bay-area-coffee-shop-closes-indefinitely-amid-lawsuits-alleging-discrimination-against-jewish-customers
+- 2026-09-05 | California-Based Specialty Coffee Roaster Faces Lawsuit Alleging Sexual Harassment | https://coffeetalk.com/daily-dose/for-roasters-retailers/08-2026/110834/
+- 2026-09-05 | Coffee Coalition for Racial Equity extiende inscripción a Brewing for Equity Fellowship hasta el 10 de septiembre | https://dailycoffeenews.com/2026/09/04/weekly-coffee-news-colombia-earthquake-support-brewing-for-equity/
+- 2026-09-05 | Caffè Culture Show London (29-30 septiembre) | https://www.caffecultureshow.com/
+- 2026-09-05 | Brasil rumbo a una cosecha récord 2026/27 de 71,9 millones de sacos (USDA) | https://www.gcrmag.com/brazil-on-track-for-record-coffee-harvest-in-2026/
