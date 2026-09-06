@@ -3,15 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-08-22 | En Taza: Córdoba se planta como capital del café argentino (3ra edición 21-22 agosto) | https://entaza.cafe/en
-- 2026-08-22 | Los Global Coffee Awards ya tienen fecha en Europa: Burdeos, 25-28 octubre | https://perfectdailygrind.com/events/global-coffee-awards-europe-2026/
-- 2026-08-22 | Costa Rica convierte la borra en gas: la apuesta de Poás Bioenergy (syngas + biochar) | https://energiesmedia.com/costa-rica-pineapple-coffee-waste-into-syngas/
-- 2026-08-22 | Kruti Coffee (Odisha) saca el café indio a la vidriera: primer local en Londres | https://www.prameyanews.com/odisha-grown-specialty-coffee-brand-kruti-coffee-opens-flagship-international-caf-in-london
-- 2026-08-22 | Boston coronó a su AeroPress campeón: próxima parada, CDMX (World AeroPress dic) | https://dailycoffeenews.com/2026/05/28/the-2026-american-aeropress-championship-is-heading-to-boston/
-- 2026-08-22 | What Is The True Water Cost Of A Cup Of Coffee? (Sprudge, 21 ago) | https://sprudge.com/
-- 2026-08-22 | Coffee Fest Los Angeles cierra hoy (22 ago) | https://www.laconventioncenter.com/events/detail/coffee-fest-2026
-- 2026-08-22 | Arábica cerró el 21 de agosto cerca de US$ 3,24 por libra | https://tradingeconomics.com/commodity/coffee
-- 2026-08-22 | Weekly Coffee News: Leadership Changes + Big Show in Buenos Aires (DCN 21 ago) | https://dailycoffeenews.com/2026/08/21/weekly-coffee-news-leadership-changes-big-show-in-buenos-aires/
 - 2026-08-24 | Perú se cuelga la taza: arranca "Yo tomo café peruano" (22-25 agosto) | https://www.infobae.com/peru/2026/08/21/expocafe-villa-rica-2026-regalaran-3000-mil-vasos-y-400-plantas-de-cafe-en-el-parque-de-la-exposicion/
 - 2026-08-24 | Starbucks vuelve a apretar el cinturón antes de mudarse a Nashville | https://www.worldcoffeeportal.com/news/starbucks-confirms-latest-job-cuts-ahead-of-nashville-relocation/
 - 2026-08-24 | Kenia ya tiene barista para Panamá: gana Kennedy Owino | https://perfectdailygrind.com/2026/08/coffee-news-recap-21-august-2026/
@@ -141,3 +132,11 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-09-05 | Coffee Coalition for Racial Equity extiende inscripción a Brewing for Equity Fellowship hasta el 10 de septiembre | https://dailycoffeenews.com/2026/09/04/weekly-coffee-news-colombia-earthquake-support-brewing-for-equity/
 - 2026-09-05 | Caffè Culture Show London (29-30 septiembre) | https://www.caffecultureshow.com/
 - 2026-09-05 | Brasil rumbo a una cosecha récord 2026/27 de 71,9 millones de sacos (USDA) | https://www.gcrmag.com/brazil-on-track-for-record-coffee-harvest-in-2026/
+- 2026-09-06 | KDP se despide de Chobani por US$ 800M y se abraza fuerte a La Colombe | https://perfectdailygrind.com/2026/09/coffee-news-recap-4-september-2026/
+- 2026-09-06 | El robusta no era tan resistente al clima: un estudio de Kew desarma el "mito" | https://sprudge.com/an-internet-myth-study-finds-robusta-may-not-be-the-answer-to-climate-change-after-all-1304058.html
+- 2026-09-06 | Paulig separa el café: el negocio va a tener división propia en 2027 | https://www.worldcoffeeportal.com/news/paulig-to-form-new-coffee-business-unit-as-part-of-organisational-restructure/
+- 2026-09-06 | MiiR sale del acero: llega su primera colección de cerámica el 29 de septiembre | https://sprudge.com/miir-expands-beyond-drinkware-with-its-first-collection-of-handcrafted-ceramics-1307146.html
+- 2026-09-06 | USDA: Etiopía en camino a superar a Indonesia como 4° productor mundial (2026/27) | https://www.fas.usda.gov/data/gain/2026/05/ethiopia-coffee-annual
+- 2026-09-06 | Faema arma un evento con Jack Simpson el 14 de septiembre en Barcelona | https://perfectdailygrind.com/events/world-of-coffee-panama-2026-world-barista-championship/
+- 2026-09-06 | Turquía tiene doble festival en septiembre (Estambul 10-13, Ankara 25-27) | https://ljubljanacoffeefestival.si/en/
+- 2026-09-06 | Expo Café CDMX cerró ayer con los siete finalistas del Premio Sabor 2026 | https://www.expocafe.mx/premio-sabor-expo-cafe-2026/
