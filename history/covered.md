@@ -140,3 +140,8 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-09-06 | Faema arma un evento con Jack Simpson el 14 de septiembre en Barcelona | https://perfectdailygrind.com/events/world-of-coffee-panama-2026-world-barista-championship/
 - 2026-09-06 | Turquía tiene doble festival en septiembre (Estambul 10-13, Ankara 25-27) | https://ljubljanacoffeefestival.si/en/
 - 2026-09-06 | Expo Café CDMX cerró ayer con los siete finalistas del Premio Sabor 2026 | https://www.expocafe.mx/premio-sabor-expo-cafe-2026/
+- 2026-09-07 | La sirena de Starbucks se cuela en la Ligue 1: acuerdo con el Toulouse FC | https://www.worldcoffeeportal.com/news/starbucks-signs-first-football-club-shirt-sponsorship-deal/
+- 2026-09-07 | Colombia elige por WhatsApp: 350.000 cafeteros votan y estrenan urna virtual | https://www.elcolombiano.com/negocios/elecciones-cafeteras-2026-voto-electronico-federacion-nacional-cafeteros-BH40650023
+- 2026-09-07 | Fiorenzato desembarca en Nueva Jersey: la etiqueta "Made in Italy" ya no alcanza sola | https://perfectdailygrind.com/2026/09/heritage-shaping-modern-coffee-equipment/
+- 2026-09-07 | La Prima Espresso amplía su tostaduría en Pittsburgh a 38 años del arranque | https://dailycoffeenews.com/2026/09/04/pittsburghs-la-prima-espresso-gets-second-wind-in-expanded-roastery/
+- 2026-09-07 | Segafredo lanza Cold Espresso en botella para foodservice en Estados Unidos | https://www.bevnet.com/pr/2026/09/01/segafredo-launches-cold-espresso-to-solve-speed-and-labor-challenges-for-restaurant--beverage-operators
