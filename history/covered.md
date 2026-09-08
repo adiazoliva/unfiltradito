@@ -3,17 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-08-24 | Perú se cuelga la taza: arranca "Yo tomo café peruano" (22-25 agosto) | https://www.infobae.com/peru/2026/08/21/expocafe-villa-rica-2026-regalaran-3000-mil-vasos-y-400-plantas-de-cafe-en-el-parque-de-la-exposicion/
-- 2026-08-24 | Starbucks vuelve a apretar el cinturón antes de mudarse a Nashville | https://www.worldcoffeeportal.com/news/starbucks-confirms-latest-job-cuts-ahead-of-nashville-relocation/
-- 2026-08-24 | Kenia ya tiene barista para Panamá: gana Kennedy Owino | https://perfectdailygrind.com/2026/08/coffee-news-recap-21-august-2026/
-- 2026-08-24 | Blue Bottle se anima con la excelsa y saca dos ediciones limitadas | https://perfectdailygrind.com/2026/08/coffee-news-recap-21-august-2026/
-- 2026-08-24 | Brasil pisa el acelerador del soluble: +20% en las exportaciones de julio | https://perfectdailygrind.com/2026/08/coffee-news-recap-21-august-2026/
-- 2026-08-24 | Vern Long (World Coffee Research) entra al Forbes 50 Over 50 | https://perfectdailygrind.com/2026/08/coffee-news-recap-21-august-2026/
-- 2026-08-24 | Terremoto de magnitud 7,7 en Flores, Indonesia | https://perfectdailygrind.com/2026/08/coffee-news-recap-21-august-2026/
-- 2026-08-24 | Nespresso Canadá remodeló la boutique de Sherway Gardens | https://perfectdailygrind.com/2026/08/coffee-news-recap-21-august-2026/
-- 2026-08-24 | La SCA armó comités regionales en 11 países europeos | https://perfectdailygrind.com/2026/08/coffee-news-recap-21-august-2026/
-- 2026-08-24 | Australia enfrenta hasta 60% de recargos por aranceles al importar de EE.UU. | https://perfectdailygrind.com/2026/08/coffee-news-recap-21-august-2026/
-- 2026-08-24 | JD.com abrió una cafetería 24 horas sin personal en Beijing | https://perfectdailygrind.com/2026/08/coffee-news-recap-21-august-2026/
 - 2026-08-25 | Blank Street junta US$ 75M y se planta en la costa oeste | https://www.worldcoffeeportal.com/news/650m-valuation-75m-investment-this-is-blank-street-3-0/
 - 2026-08-25 | Third Wave Coffee suma US$ 43M y va por 320 locales en India | https://www.business-standard.com/companies/news/third-wave-coffee-raises-43-million-led-by-westbridge-capital-126082400316_1.html
 - 2026-08-25 | Perú se trajo 20 medallas de París: Puno, Pasco, Junín y el VRAEM (AVPA París 2026) | https://inforegion.pe/cafes-de-puno-pasco-junin-y-el-vraem-destacan-en-paris-y-consiguen-20-premios-en-uno-de-los-concursos-mas-importantes-del-mundo/
@@ -145,3 +134,12 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-09-07 | Fiorenzato desembarca en Nueva Jersey: la etiqueta "Made in Italy" ya no alcanza sola | https://perfectdailygrind.com/2026/09/heritage-shaping-modern-coffee-equipment/
 - 2026-09-07 | La Prima Espresso amplía su tostaduría en Pittsburgh a 38 años del arranque | https://dailycoffeenews.com/2026/09/04/pittsburghs-la-prima-espresso-gets-second-wind-in-expanded-roastery/
 - 2026-09-07 | Segafredo lanza Cold Espresso en botella para foodservice en Estados Unidos | https://www.bevnet.com/pr/2026/09/01/segafredo-launches-cold-espresso-to-solve-speed-and-labor-challenges-for-restaurant--beverage-operators
+- 2026-09-08 | A Costa Rica se le viene una "tormenta perfecta": la cosecha 2026-27 en rojo | https://www.nacion.com/economia/cafetaleros-alertan-sobre-una-tormenta-perfecta/OQPC6FLAOVFLRLX7JUGHSIYHSQ/story/
+- 2026-09-08 | Puerto Rico se planta en Capitol Hill: El Cerro lleva el café boricua a Seattle | https://dailycoffeenews.com/2026/09/07/puerto-rican-coffee-climbs-the-hill-at-seattles-el-cerro/
+- 2026-09-08 | Dancing Goat sale de Egipto: primera cadena de especialidad árabe que se cruza la frontera | https://www.worldcoffeeportal.com/news/dancing-goat-to-become-first-egyptian-specialty-coffee-operator-to-launch-abroad/
+- 2026-09-08 | Yannick Alléno le puso café al croissant: abrió La Croissanterie en Londres | https://www.worldcoffeeportal.com/news/multi-michelin-starred-chef-launches-luxury-croissant-cafe-in-london/
+- 2026-09-08 | Mahlkönig se metió en las cafeteras: llega la Xenia Brew-by-Sync | https://www.comunicaffe.com/mahlkonig-home-introduces-xenia-brew-by-sync-its-first-espresso-machine/
+- 2026-09-08 | Black Sheep Coffee abrió su primer drive-thru del Reino Unido en Blackburn | https://www.worldcoffeeportal.com/news/black-sheep-coffee-enters-uk-drive-thru-market/
+- 2026-09-08 | Vietnam se encamina a un cierre fuerte de exportaciones 2026: casi 1,7M de toneladas y US$6.000M en ocho meses | https://en.vietnamplus.vn/vietnamese-coffee-exports-poised-for-strong-finish-toward-year-end-post351359.vnp
+- 2026-09-08 | Urth Caffé (California) anuncia su primer local en Europa: Covent Garden, Londres | https://www.worldcoffeeportal.com/news/californias-urth-caffe-to-open-first-store-in-europe/
+- 2026-09-08 | Backhaus Schröer compra a Backhaus Heislitz, panadería alemana de 140 años | https://www.worldcoffeeportal.com/news/germanys-backhaus-schroer-acquires-140-year-old-competitor/
