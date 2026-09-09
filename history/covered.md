@@ -3,15 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-08-25 | Blank Street junta US$ 75M y se planta en la costa oeste | https://www.worldcoffeeportal.com/news/650m-valuation-75m-investment-this-is-blank-street-3-0/
-- 2026-08-25 | Third Wave Coffee suma US$ 43M y va por 320 locales en India | https://www.business-standard.com/companies/news/third-wave-coffee-raises-43-million-led-by-westbridge-capital-126082400316_1.html
-- 2026-08-25 | Perú se trajo 20 medallas de París: Puno, Pasco, Junín y el VRAEM (AVPA París 2026) | https://inforegion.pe/cafes-de-puno-pasco-junin-y-el-vraem-destacan-en-paris-y-consiguen-20-premios-en-uno-de-los-concursos-mas-importantes-del-mundo/
-- 2026-08-25 | Chile ya tiene su AeroPress: Claudio Langarini va al mundial en México | https://www.expocafechile.cl/que-es-el-world-aeropress-championship/
-- 2026-08-25 | Oklahoma: She Brews abre segundo local (mujeres pos-encarcelación) | https://dailycoffeenews.com/2026/08/24/oklahomas-she-brews-opens-larger-cafe-supporting-women-after-incarceration/
-- 2026-08-25 | Cooxupé llega al 81,1% de la cosecha 2026 | https://forbes.com.br/forbes-agro/2026/08/colheita-de-cafe-da-cooxupe-alcanca-811-da-area-em-meados-de-agosto/
-- 2026-08-25 | Kruti Coffee busca subir el perfil del café indio en el Reino Unido (WCP) | https://www.worldcoffeeportal.com/news/kruti-coffee-wants-to-raise-the-profile-indian-specialty-coffee-in-the-uk/
-- 2026-08-25 | Fresh Cup lanza curso "Wholesale for Roasters" | https://freshcup.com/
-- 2026-08-25 | Las cafeterías de Paula Pareto en San Fernando | https://www.canal26.com/turismo/2026/08/24/asi-son-las-cafeterias-de-paula-pareto-mesas-al-aire-libre-pet-friendly-y-menu-para-todos-los-gustos/
 - 2026-08-26 | Dunkin' vuelve a Puerto Rico: doce años después, la casa se recalienta | https://www.gcrmag.com/dunkin-returns-to-puerto-rico-12-years-after-departure
 - 2026-08-26 | Kenia arma su propia mesa: el Coffee Hub muda las negociaciones al origen | https://www.logupdateafrica.com/trade/kncci-backs-kenya-coffee-hub-launch-as-coffee-exports-rise-1359457
 - 2026-08-26 | El arábica se pega un porrazo: -5,51% en la rueda del 25 de agosto | https://www.comunicaffe.com/coffee-futures-prices-consolidate-colombian-exports-sharply-down-in-july/
@@ -143,3 +134,12 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-09-08 | Vietnam se encamina a un cierre fuerte de exportaciones 2026: casi 1,7M de toneladas y US$6.000M en ocho meses | https://en.vietnamplus.vn/vietnamese-coffee-exports-poised-for-strong-finish-toward-year-end-post351359.vnp
 - 2026-09-08 | Urth Caffé (California) anuncia su primer local en Europa: Covent Garden, Londres | https://www.worldcoffeeportal.com/news/californias-urth-caffe-to-open-first-store-in-europe/
 - 2026-09-08 | Backhaus Schröer compra a Backhaus Heislitz, panadería alemana de 140 años | https://www.worldcoffeeportal.com/news/germanys-backhaus-schroer-acquires-140-year-old-competitor/
+- 2026-09-09 | Lavazza pisa la alfombra roja: acuerdo con TIFF hasta 2028 | https://www.worldcoffeeportal.com/news/lavazza-hits-the-red-carpet-with-major-film-festival-deal/
+- 2026-09-09 | Colombia no levanta cabeza: agosto cerró con -12% de producción y -10% de exportaciones | https://www.larepublica.co/economia/produccion-nacional-de-cafe-en-agosto-fue-de-1-09-millones-de-sacos-y-cayo-12-4474559
+- 2026-09-09 | Cincinnati reabre su cafetería cooperativa: se llama Radical Bean | https://dailycoffeenews.com/2026/09/08/radical-bean-wants-to-rework-the-coffee-model-in-cincinnati/
+- 2026-09-09 | Paik's Coffee pasa a ser DABANG y planta bandera en Taiwán | https://www.worldcoffeeportal.com/news/paiks-coffee-to-take-new-brand-identity-to-taiwan/
+- 2026-09-09 | Cinnabon se va de Singapur (por segunda vez) | https://www.worldcoffeeportal.com/news/cinnabon-to-exit-singapore-for-the-second-time/
+- 2026-09-09 | Henderson Foodservice unveils "biggest investment" in Barista Bar network | https://www.worldcoffeeportal.com/news/henderson-foodservice-unveils-biggest-investment-in-barista-bar-network/
+- 2026-09-09 | Joe & The Juice wants to 'own the morning' | https://www.worldcoffeeportal.com/news/joe-the-juice-wants-to-own-the-morning/
+- 2026-09-09 | Here's everyone moving on from the first qualifying event for the 2027 US Roasters Championship | https://sprudge.com/heres-everyone-moving-on-from-the-first-qualifying-event-for-the-2027-us-roasters-championship-1310523.html
+- 2026-09-09 | Arabica Coffee Futures at Over 1-Month High | https://tradingeconomics.com/commodity/coffee/news/577922
