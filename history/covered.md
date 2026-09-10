@@ -3,15 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-08-26 | Dunkin' vuelve a Puerto Rico: doce años después, la casa se recalienta | https://www.gcrmag.com/dunkin-returns-to-puerto-rico-12-years-after-departure
-- 2026-08-26 | Kenia arma su propia mesa: el Coffee Hub muda las negociaciones al origen | https://www.logupdateafrica.com/trade/kncci-backs-kenya-coffee-hub-launch-as-coffee-exports-rise-1359457
-- 2026-08-26 | El arábica se pega un porrazo: -5,51% en la rueda del 25 de agosto | https://www.comunicaffe.com/coffee-futures-prices-consolidate-colombian-exports-sharply-down-in-july/
-- 2026-08-26 | Los pioneros del café toman la palabra: qué ven de acá para adelante | https://perfectdailygrind.com/2026/08/pioneers-specialty-coffee-future/
-- 2026-08-26 | Cold foam: el juego no es ahorrar plata, es poder cobrarla | https://perfectdailygrind.com/2026/08/cold-foam-coffee-raise-margins/
-- 2026-08-26 | Angel-in-us Coffee retorna a Indonesia (Corea del Sur) | https://www.koreatimes.co.kr/business/companies/20260825/coffee-franchise-angel-in-us-to-reenter-indonesian-market
-- 2026-08-26 | Viva Star Coffee prepara desembarco en Malasia (séptimo mercado) | https://www.worldcoffeeportal.com/news/vietnams-viva-star-coffee-preparing-to-enter-seventh-international-market/
-- 2026-08-26 | Scooter's Coffee nombra CMO ex-KFC (Anna Faktorovich) | https://www.worldcoffeeportal.com/news/scooters-coffee-appoints-kfc-exec-as-new-chief-marketing-officer/
-- 2026-08-26 | Exportaciones de café colombiano de julio: -22,6% interanual | https://www.comunicaffe.com/coffee-futures-prices-consolidate-colombian-exports-sharply-down-in-july/
 - 2026-08-27 | El Congo se prepara para su primer anaeróbico: la subasta arranca el 1 de septiembre | https://dailycoffeenews.com/2026/08/26/high-scoring-microlots-head-to-best-of-congo-cooperatives-auction/
 - 2026-08-27 | Florida se prueba como origen de café: la Universidad publica su primer estudio serio | https://dailycoffeenews.com/2026/08/26/florida-grown-coffee-gets-its-first-serious-field-test/
 - 2026-08-27 | Coffee Futures Fund abre inscripción: mentoría gratis para dueños de cafeterías | https://dailycoffeenews.com/2026/08/26/coffee-futures-fund-seeks-independent-cafe-owners-for-second-cohort/
@@ -143,3 +134,11 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-09-09 | Joe & The Juice wants to 'own the morning' | https://www.worldcoffeeportal.com/news/joe-the-juice-wants-to-own-the-morning/
 - 2026-09-09 | Here's everyone moving on from the first qualifying event for the 2027 US Roasters Championship | https://sprudge.com/heres-everyone-moving-on-from-the-first-qualifying-event-for-the-2027-us-roasters-championship-1310523.html
 - 2026-09-09 | Arabica Coffee Futures at Over 1-Month High | https://tradingeconomics.com/commodity/coffee/news/577922
+- 2026-09-10 | Moldavia da la nota: Elizaveta Rîmscaia gana la Julius Meinl Barista Cup 2026 en Viena | https://www.comunicaffe.com/julius-meinl-barista-cup-2026-winner-vienna-elizaveta-rimscaia/
+- 2026-09-10 | Quito estrena la Global Coffee Fair y la gala de Los 100 Mejores Cafés de Sudamérica (18-20 sep) | https://turismo.quito.gob.ec/quito-reune-al-mundo-del-cafe-y-se-proyecta-como-destino-internacional-de-eventos/
+- 2026-09-10 | Uruguay repite: quinta Expo Café en Montevideo, 12 y 13 de septiembre | https://expocafe.uy/
+- 2026-09-10 | Kenia cierra la cosecha 2026 volando: AA por todos lados (Nordic Approach) | https://www.nordicapproach.no/post/kenya-specialty-coffee-harvest-2026-early-peak-and-strong-aa-quality
+- 2026-09-10 | Julius Meinl 1862 cerró 2025 con € 351 M en ventas netas (Comunicaffe) | https://www.comunicaffe.com/marcel-loffler-julius-meinl-results-2026/
+- 2026-09-10 | Alpine Roasting Championship arranca en Múnich el 9 de octubre | https://alpineroastingchampionship.com/
+- 2026-09-10 | Sanremo presentó LINK, un sistema que conecta espresso y molino | https://www.comunicaffe.com/sanremo-link-world-of-coffee-san-diego-2026/
+- 2026-09-10 | Fresh Cup Coffee News Club: boom del café en Odessa, Texas | https://freshcup.com/coffee-news-club-week-of-september-9th/
