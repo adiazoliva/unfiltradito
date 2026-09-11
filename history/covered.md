@@ -3,22 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-08-27 | El Congo se prepara para su primer anaeróbico: la subasta arranca el 1 de septiembre | https://dailycoffeenews.com/2026/08/26/high-scoring-microlots-head-to-best-of-congo-cooperatives-auction/
-- 2026-08-27 | Florida se prueba como origen de café: la Universidad publica su primer estudio serio | https://dailycoffeenews.com/2026/08/26/florida-grown-coffee-gets-its-first-serious-field-test/
-- 2026-08-27 | Coffee Futures Fund abre inscripción: mentoría gratis para dueños de cafeterías | https://dailycoffeenews.com/2026/08/26/coffee-futures-fund-seeks-independent-cafe-owners-for-second-cohort/
-- 2026-08-27 | Costa le arrebata 26 cines a Starbucks en Reino Unido | https://www.thegrocer.co.uk/news/costa-coffee-to-replace-starbucks-as-cafe-operator-in-26-cineworld-locations/718841.article
-- 2026-08-27 | Coffee futures jump as arabica stocks at ICE near a 26-year low (TradingView) | https://www.tradingview.com/news/reuters.com,2026:newsml_L1N44L0RM:0-coffee-futures-jump-as-arabica-stocks-at-ice-near-a-26-year-low/
-- 2026-08-27 | Starbucks vuelve a lanzar el Pumpkin Spice Latte (26 de agosto) | https://about.starbucks.com/press/news-blog/
-- 2026-08-27 | Webinar de PDG sobre optimización web para cafeterías (27 de agosto) | https://perfectdailygrind.com/
-- 2026-08-27 | A la Gesha se le vino la noche: Bernardina y compañía la corren del podio | https://perfectdailygrind.com/2026/08/gesha-coffee-competitions-auctions/
-- 2026-08-27 | Cafesazo Peruano vuelve a Lima: dos días de café gratis y finales de campeonato (29-30 agosto) | https://elcomercio.pe/somos/gastronomia/viii-festival-cafesazo-peruano-todo-lo-que-debes-saber-de-la-eidicon-en-el-campo-de-marte-de-jesus-maria-noticia/
-- 2026-08-27 | Segafredo cierra su desembarco en India: 100 locales en tres años | https://www.worldcoffeeportal.com/news/segafredo-caffe-eyes-rapid-expansion-in-india-after-signing-master-franchise-deal/
-- 2026-08-27 | Mokas Coffee mete otro paquete de nueve locales en Kansas City | https://www.worldcoffeeportal.com/news/mokas-coffee-eatery-builds-out-franchise-pipeline-with-largest-deal-to-date/
-- 2026-08-27 | El "proffee" no llegó para quedarse: PDG sobre el boom del café con proteína | https://perfectdailygrind.com/2026/08/protein-coffee-boom-wont-last/
-- 2026-08-27 | Tchibo posts strong annual revenues but warns of rising consumer price sensitivity | https://www.worldcoffeeportal.com/news/tchibo-posts-strong-annual-revenues-but-warns-of-rising-consumer-price-sensitivity/
-- 2026-08-27 | US RTD start-up Beekeeper Coffee scores slam dunk with NBA investors | https://www.worldcoffeeportal.com/news/us-rtd-start-up-beekeeper-coffee-scores-slam-dunk-with-nba-investors/
-- 2026-08-27 | Sodexo to cut more than 1,000 jobs | https://www.worldcoffeeportal.com/news/sodexo-to-cut-more-than-1-000-hq-jobs-report-says/
-- 2026-08-27 | South Korea's The Liter wades into Japan's Deka Drink trend | https://www.worldcoffeeportal.com/news/south-koreas-the-liter-wades-into-japans-deka-drink-trend/
 - 2026-08-28 | Onyx pisa fuerte en la SCA: Jon Allen asume como 2° vicepresidente (board 2027-2029) | https://sca.coffee/sca-news/announcement/presenting-the-slate-of-candidates-for-the-2026-2028-sca-board-of-directors-elections-and-appointment-of-the-2nd-vice-president-2026
 - 2026-08-28 | Neumann Kaffee Gruppe publica reporte de sostenibilidad 2026: 20,9M árboles y -33,9% en emisiones | https://stir-tea-coffee.com/tea-coffee-news/neumann-kaffee-gruppe-releases-sustainability-report/
 - 2026-08-28 | Sweet & Coffee (Ecuador) confirma desembarco en Chile en 2027 | https://www.worldcoffeeportal.com/news/ecuadors-sweet-coffee-to-make-international-debut-in-2027/
@@ -142,3 +126,13 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-09-10 | Alpine Roasting Championship arranca en Múnich el 9 de octubre | https://alpineroastingchampionship.com/
 - 2026-09-10 | Sanremo presentó LINK, un sistema que conecta espresso y molino | https://www.comunicaffe.com/sanremo-link-world-of-coffee-san-diego-2026/
 - 2026-09-10 | Fresh Cup Coffee News Club: boom del café en Odessa, Texas | https://freshcup.com/coffee-news-club-week-of-september-9th/
+- 2026-09-11 | Brasil se despachó el mejor agosto de la historia: US$ 1.331M en café | https://www.infobae.com/america/agencias/2026/09/10/brasil-exporta-un-valor-record-de-cafe-para-agosto-con-1331-millones-de-dolares/
+- 2026-09-11 | Sweet Bloom se lleva los Global Coffee Awards de Norteamérica | https://perfectdailygrind.com/2026/09/global-coffee-awards-us-canada-winners-2026/
+- 2026-09-11 | Caffè Borbone se lo lleva a Cipolloni: viene con Eataly y Autogrill en la mochila | https://www.worldcoffeeportal.com/news/new-leadership-announced-for-italys-caffe-borbone/
+- 2026-09-11 | Dunkin' cambia el timón: Paul Brown se aparta y Scott Murphy toma Inspire | https://www.worldcoffeeportal.com/news/inspire-brands-names-interim-ceo-ahead-of-planned-ipo/
+- 2026-09-11 | Rocket Espresso × Audi: una máquina hecha con lenguaje de auto deportivo | https://sprudge.com/rocket-espresso-presents-rocket-x-audi-1326918.html
+- 2026-09-11 | The Magic Bean Co pone £21M en drive-thru de Starbucks (UK) | https://www.worldcoffeeportal.com/news/uk-starbucks-licensee-to-invest-21m-in-drive-thru-stores/
+- 2026-09-11 | Löfbergs suma un cuarto mercado nórdico a su acuerdo con McDonald's | https://www.worldcoffeeportal.com/news/lofbergs-adds-fourth-nordic-market-to-key-mcdonalds-account/
+- 2026-09-11 | El US Barista Championship 2027 ya tiene calendario | https://sprudge.com/the-2027-us-barista-championship-schedule-has-been-announced-1324042.html
+- 2026-09-11 | Por qué los mejores baristas del mundo se van de gira (Perfect Daily Grind) | https://perfectdailygrind.com/2026/09/baristas-going-on-tour/
+- 2026-09-11 | Cinnabon apunta al mercado europeo más grande de panadería-café | https://www.worldcoffeeportal.com/news/cinnabon-to-take-on-europes-largest-bakery-cafe-market/
