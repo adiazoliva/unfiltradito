@@ -3,22 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-08-28 | Onyx pisa fuerte en la SCA: Jon Allen asume como 2° vicepresidente (board 2027-2029) | https://sca.coffee/sca-news/announcement/presenting-the-slate-of-candidates-for-the-2026-2028-sca-board-of-directors-elections-and-appointment-of-the-2nd-vice-president-2026
-- 2026-08-28 | Neumann Kaffee Gruppe publica reporte de sostenibilidad 2026: 20,9M árboles y -33,9% en emisiones | https://stir-tea-coffee.com/tea-coffee-news/neumann-kaffee-gruppe-releases-sustainability-report/
-- 2026-08-28 | Sweet & Coffee (Ecuador) confirma desembarco en Chile en 2027 | https://www.worldcoffeeportal.com/news/ecuadors-sweet-coffee-to-make-international-debut-in-2027/
-- 2026-08-28 | El arábica se pega otro porrazo: -3,88% el 27 de agosto por presión de la cosecha brasileña | https://finance.yahoo.com/markets/commodities/articles/arabica-coffee-tumbles-brazil-harvest-182608289.html
-- 2026-08-28 | Sprudge: quedan 10 días para inscribir tu café en los Good Food Awards 2027 | https://sprudge.com/good-food-awards-10-days-left-to-submit-coffee-24775.html
-- 2026-08-28 | Coffee News Recap, 28 Aug (Perfect Daily Grind) | https://perfectdailygrind.com/2026/08/coffee-news-recap-28-august-2026/
-- 2026-08-28 | The Insider: Headlines from the Coffee Industry (Barista Magazine) | https://www.baristamagazine.com/the-insider-headlines-from-the-coffee-industry-42/
-- 2026-08-28 | Pennsylvania Chocolate and Coffee Festival (Sprudge, 27-28 ago) | https://sprudge.com/
-- 2026-08-28 | Neumann Kaffee Gruppe lays out new sustainability strategy (Global Coffee Report) | https://www.gcrmag.com/neumann-kaffee-gruppe-lays-out-new-sustainability-strategy
-- 2026-08-28 | Hawái cuenta las pérdidas: el huracán Lala pegó justo antes de la cosecha (DCN) | https://dailycoffeenews.com/2026/08/28/hawaii-coffee-farms-face-long-recovery-after-hurricane-lala/
-- 2026-08-28 | Estados Unidos ya eligió a su AeroPress: Phillippe "Akira" Kato al mundial de CDMX | https://newberyst.com/blogs/coffee/american-aeropress-championship-2026
-- 2026-08-28 | Negro abre en Palermo Hollywood: café, libros y bandejas | https://www.ambito.com/lifestyle/la-cafeteria-argentina-elegida-las-mejores-del-mundo-abre-un-nuevo-espacio-donde-conviven-cafe-libros-y-musica-n6288377
-- 2026-08-28 | Otra cafetería cierra en EE.UU. tras una detención de ICE (City Watch Coffee, PA) | https://dailycoffeenews.com/2026/08/27/pennsylvania-coffee-shop-latest-to-close-following-ice-detention/
-- 2026-08-28 | Ljubljana Coffee Festival se muda al Center Rog (26-27 septiembre) | https://ljubljanacoffeefestival.si/en/
-- 2026-08-28 | Lala took toll on Hawaiʻi Island coffee farms (Hawai'i Public Radio) | https://www.hawaiipublicradio.org/local-news/2026-08-27/lala-took-toll-on-hawaii-island-coffee-farms
-- 2026-08-28 | Lala devastates Ka'u coffee farms right before harvest (West Hawaii Today) | https://www.westhawaiitoday.com/2026/08/25/hawaii-news/its-going-to-be-a-big-loss-lala-devastates-kau-coffee-farms-right-before-harvest-time/
 - 2026-08-29 | Stumptown vuelve al centro de LA con flagship en el Starland Theater (Lincoln Heights) | https://lamag.com/food/new-stumptown-coffee-roasters-flagship-lincoln-heights-los-angeles/
 - 2026-08-29 | Tijuana se convierte hoy en la mesa binacional del café (Mundo Silvestre Coffee Camp) | https://silvestre.world/
 - 2026-08-29 | Día del Café Peruano: exportaciones récord (US$ 1.796M en 2025) | https://elperuano.pe/noticia/303531-hoy-se-celebra-el-dia-del-cafe-peruano-aroma-que-conquista-el-mundo
@@ -136,3 +120,12 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-09-11 | El US Barista Championship 2027 ya tiene calendario | https://sprudge.com/the-2027-us-barista-championship-schedule-has-been-announced-1324042.html
 - 2026-09-11 | Por qué los mejores baristas del mundo se van de gira (Perfect Daily Grind) | https://perfectdailygrind.com/2026/09/baristas-going-on-tour/
 - 2026-09-11 | Cinnabon apunta al mercado europeo más grande de panadería-café | https://www.worldcoffeeportal.com/news/cinnabon-to-take-on-europes-largest-bakery-cafe-market/
+- 2026-09-12 | Abu Dhabi mete US$ 1.000 millones en Luckin y se sienta en la mesa china | https://dailycoffeenews.com/2026/09/10/mubadala-plans-minority-stake-in-luckin-in-1-billion-deal/
+- 2026-09-12 | Uganda le vende café a Corea del Sur: 3.500 toneladas por año y Busan como hub | https://coffeegeography.com/2026/09/08/uganda-secures-landmark-coffee-export-deal-with-south-korea/
+- 2026-09-12 | Barras "bikini" de Seattle: 70 baristas se llevan US$ 1,85 millones | https://www.spokesman.com/stories/2026/sep/09/group-of-bikini-baristas-win-nearly-2m-in-legal-ba/
+- 2026-09-12 | Café somalí en Ohio: el East African Coffee House abrió en Gahanna | https://www.baristamagazine.com/somali-coffee-traditions-find-a-home-in-columbus-ohio/
+- 2026-09-12 | Paris Brothers pasa a llamarse Paris Group y sale del clóset del café | https://startlandnews.com/2026/09/parisi-coffee-paris-group/
+- 2026-09-12 | Cuatro sucursales de Philz Coffee en California piden formar sindicato | https://spectrumnews1.com/ca/la/business/2026/09/08/philz-coffee-workers-union-california
+- 2026-09-12 | KLVN Coffee Lab cierra el 17 de septiembre en Pittsburgh | https://dailycoffeenews.com/2026/09/11/weekly-coffee-news-major-u-s-coffee-supplier-rebrands-1-85-million-barista-lawsuit/
+- 2026-09-12 | El arábica bajó 16,4% en 30 días y cerró en US$ 2,84 la libra | https://tradingeconomics.com/commodity/coffee/news/577922
+- 2026-09-12 | Reborn Coffee recibe notificación de Nasdaq por falta de presentación del 10-Q | https://www.manilatimes.net/2026/09/03/tmt-newswire/globenewswire/reborn-coffee-receives-nasdaq-notification-regarding-late-10-q-filing-and-continued-listing-requirements/2417622
