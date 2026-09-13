@@ -3,14 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-08-29 | Stumptown vuelve al centro de LA con flagship en el Starland Theater (Lincoln Heights) | https://lamag.com/food/new-stumptown-coffee-roasters-flagship-lincoln-heights-los-angeles/
-- 2026-08-29 | Tijuana se convierte hoy en la mesa binacional del café (Mundo Silvestre Coffee Camp) | https://silvestre.world/
-- 2026-08-29 | Día del Café Peruano: exportaciones récord (US$ 1.796M en 2025) | https://elperuano.pe/noticia/303531-hoy-se-celebra-el-dia-del-cafe-peruano-aroma-que-conquista-el-mundo
-- 2026-08-29 | Graffeo sortea una Ferrari 308 de 1984 con máquina de espresso La Pavoni adentro | https://sprudge.com/now-someone-has-built-an-espresso-machine-into-a-working-ferrari-engine-411047.html
-- 2026-08-29 | Kimo Falconer, Farmer of the Year 2026 en Hawai (Maui Coffee Association) | https://mauinow.com/2026/08/27/maui-coffee-association-honors-kimo-falconer-as-2026-farmer-of-the-year/
-- 2026-08-29 | Coffee Arabica Weekly: Holds Higher Ground (DailyForex 24-28 ago) | https://www.dailyforex.com/forex-technical-analysis/2026/08/coffee-arabica-remains-above-key-support-week-from-24th-to-28th-august-2026/248913
-- 2026-08-29 | Coffee Prices Erase Early Gains as Brazil's Coffee Warehouses Fill (Barchart) | https://www.barchart.com/story/news/4028564/coffee-prices-erase-early-gains-as-brazils-coffee-warehouses-fill
-- 2026-08-29 | Mendoza tendrá su primera clasificatoria provincial rumbo al Mejor Café Argentina (Prensa Ciudad de Mendoza) | https://prensa.ciudaddemendoza.gob.ar/2026/08/19/mendoza-tendra-su-primera-clasificatoria-provincial-rumbo-al-mejor-cafe-argentina/
 - 2026-08-30 | Kofola compra el 52% de Cøkafe y cierra su círculo del café | https://www.worldcoffeeportal.com/news/czech-beverage-group-acquires-specialty-coffee-chain-cokafe/
 - 2026-08-30 | Starbucks se sube al avión: acuerdo con China Eastern | https://www.worldcoffeeportal.com/news/starbucks-strikes-deal-with-chinas-second-largest-airline/
 - 2026-08-30 | Cafesazo Peruano define hoy a su AeroPress campeón: rumbo a México | https://elcomercio.pe/somos/gastronomia/viii-festival-cafesazo-peruano-todo-lo-que-debes-saber-de-la-eidicon-en-el-campo-de-marte-de-jesus-maria-noticia/
@@ -129,3 +121,12 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-09-12 | KLVN Coffee Lab cierra el 17 de septiembre en Pittsburgh | https://dailycoffeenews.com/2026/09/11/weekly-coffee-news-major-u-s-coffee-supplier-rebrands-1-85-million-barista-lawsuit/
 - 2026-09-12 | El arábica bajó 16,4% en 30 días y cerró en US$ 2,84 la libra | https://tradingeconomics.com/commodity/coffee/news/577922
 - 2026-09-12 | Reborn Coffee recibe notificación de Nasdaq por falta de presentación del 10-Q | https://www.manilatimes.net/2026/09/03/tmt-newswire/globenewswire/reborn-coffee-receives-nasdaq-notification-regarding-late-10-q-filing-and-continued-listing-requirements/2417622
+- 2026-09-13 | Starbucks Japón se mete en las expendedoras con un caramel macchiato exclusivo | https://soranews24.com/2026/09/12/starbucks-japan-unveils-first-ever-vending-machine-with-an-exclusive-coffee-drink/
+- 2026-09-13 | % Arabica cruza los Alpes: Zúrich es el próximo destino | https://www.worldcoffeeportal.com/news/japans-arabica-to-enter-fifth-european-market/
+- 2026-09-13 | Un café congoleño rompió el techo de la subasta: US$ 55,50 el kilo (Pact Coffee / Yetu Qahwah Izuba) | https://www.gcrmag.com/record-congolese-coffee-lot-secured-by-london-roaster
+- 2026-09-13 | Alcanza con oler el café: cinco minutos bastan para bajar la ansiedad (estudio Nutrients) | https://www.news-medical.net/news/20260910/Five-minutes-of-coffee-aroma-was-linked-to-shifts-in-mood-and-brain-activity.aspx
+- 2026-09-13 | Braun lanza la línea OptiBrew de cafeteras de goteo (US$199) | https://www.prnewswire.com/news-releases/new-optibrew-line-infuses-more-possibilities-to-the-daily-coffee-routine-302869125.html
+- 2026-09-13 | 92 Degrees Coffee entra en supermercados Sainsbury's del Reino Unido | https://www.worldcoffeeportal.com/news/uk-specialty-coffee-group-92-degrees-bags-major-supermarket-cafe-deal/
+- 2026-09-13 | El impacto del café sobre el Parkinson dependería de tus genes (Sprudge) | https://sprudge.com/coffees-impact-on-parkinsons-disease-may-depend-on-your-genetics-1308716.html
+- 2026-09-13 | Ljubljana Coffee Festival celebra su décima edición el 26 y 27 de septiembre | https://ljubljanacoffeefestival.si/en/
+- 2026-09-13 | Se anunció el calendario del US Roasters Championship 2027 | https://sprudge.com/the-2027-us-roasters-championship-schedule-has-been-announced-1265144.html
