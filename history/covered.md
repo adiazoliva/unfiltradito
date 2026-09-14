@@ -3,12 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-08-30 | Kofola compra el 52% de Cøkafe y cierra su círculo del café | https://www.worldcoffeeportal.com/news/czech-beverage-group-acquires-specialty-coffee-chain-cokafe/
-- 2026-08-30 | Starbucks se sube al avión: acuerdo con China Eastern | https://www.worldcoffeeportal.com/news/starbucks-strikes-deal-with-chinas-second-largest-airline/
-- 2026-08-30 | Cafesazo Peruano define hoy a su AeroPress campeón: rumbo a México | https://elcomercio.pe/somos/gastronomia/viii-festival-cafesazo-peruano-todo-lo-que-debes-saber-de-la-eidicon-en-el-campo-de-marte-de-jesus-maria-noticia/
-- 2026-08-30 | Gloria Jean's ajusta su fórmula en Australia pero se queda corta con los refurbs (WCP) | https://www.worldcoffeeportal.com/news/gloria-jeans-finds-the-right-formula-in-australia-but-refurbs-rate-falls-short/
-- 2026-08-30 | Weekly Coffee News: US AeroPress Champion + Coffee 101 with the Howells (DCN) | https://dailycoffeenews.com/2026/08/28/weekly-coffee-news-us-aeropress-champion-coffee-101-with-the-howells/
-- 2026-08-30 | Global Coffee Report — portada del 28 y 29 de agosto | https://www.gcrmag.com/
 - 2026-08-31 | Reysol le pone el hombro a Balboa: un tostador colombo-neoyorkino junta plata para su pueblo | https://www.roi-nj.com/2026/08/27/lifestyle/food-hospitality/coffee-roaster-with-colombian-roots-starts-gofundme-site-to-raise-funds-for-earthquake-stricken-hometown/
 - 2026-08-31 | Brasil se anima con la canéfora: abre el primer concurso serio de robusta y conilon (Best of Canephora Brazil 2026) | https://www.bsca.com.br/bsca-cria-concurso-internacional-para-cafe-especial-da-especie-canefora/
 - 2026-08-31 | Coffee Review estrena su podio: Hula Daddy se queda con el primer Kenneth Davids Cup | https://www.coffeereview.com/kenneth-davids-cup/
@@ -130,3 +124,12 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-09-13 | El impacto del café sobre el Parkinson dependería de tus genes (Sprudge) | https://sprudge.com/coffees-impact-on-parkinsons-disease-may-depend-on-your-genetics-1308716.html
 - 2026-09-13 | Ljubljana Coffee Festival celebra su décima edición el 26 y 27 de septiembre | https://ljubljanacoffeefestival.si/en/
 - 2026-09-13 | Se anunció el calendario del US Roasters Championship 2027 | https://sprudge.com/the-2027-us-roasters-championship-schedule-has-been-announced-1265144.html
+- 2026-09-14 | Cierra Exigí Buen Café en Palermo: 13ª edición con 100 expositores y 40 productores latinos y africanos | https://www.mediosagrupados.com.ar/llega-la-13a-edicion-de-la-feria-cafetera-mas-grande-de-argentina/
+- 2026-09-14 | Lavazza desembarca Tablì en EE.UU.: espresso monodosis sin plástico | https://finance.yahoo.com/markets/stocks/articles/lavazza-tabl-espresso-tablets-launching-145657827.html
+- 2026-09-14 | Jollibee cambia Wall Street por Hong Kong: Compose y Highlands salen a cotizar en Asia | https://www.worldcoffeeportal.com/news/jollibee-group-drops-us-listing-plan-in-favour-of-hong-kong/
+- 2026-09-14 | Vietnam, Uganda, Colombia e India firman con IDH el Programa de Café Resiliente (RCP): 300.000 productores | https://idh.org/news/idh-launches-the-resilient-coffee-program-to-accelerate-investment-in-regenerative-coffee-sourcing-regions
+- 2026-09-14 | The Coffee Project abre hoy su primer local en el Upper East Side | https://patch.com/new-york/upper-east-side-nyc/coffee-project-opening-first-upper-east-side-shop
+- 2026-09-14 | Rocket Espresso llega con la R58 Tune a más mercados en septiembre | https://sprudge.com/rocket-espresso-announces-new-r58-tune-dual-boiler-espresso-machine-910984.html
+- 2026-09-14 | StoneX advierte por escasez de mano de obra en Honduras y Guatemala | https://www.stonex.com/en-us/insights/central-america-s-coffee-belt-enters-a-critical-season-as-weather-risks-labor-shortages-and-regulatory-pressures-mount/
+- 2026-09-14 | BSH presenta la primera espresso hogareña con Alexa+ integrada | https://www.comunicaffe.com/bsh-launches-first-espresso-machine-globally-to-be-powered-by-alexa-new-natural-language-ai-technology-at-ces/
+- 2026-09-14 | Löfbergs nombra nueva conducción para Peter Larsen Kaffe en Dinamarca | https://www.mynewsdesk.com/lofbergs/pressreleases/loefbergs-strengthens-danish-operations-with-new-md-for-peter-larsen-kaffe-3389355
