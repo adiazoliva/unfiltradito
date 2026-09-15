@@ -3,16 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-08-31 | Reysol le pone el hombro a Balboa: un tostador colombo-neoyorkino junta plata para su pueblo | https://www.roi-nj.com/2026/08/27/lifestyle/food-hospitality/coffee-roaster-with-colombian-roots-starts-gofundme-site-to-raise-funds-for-earthquake-stricken-hometown/
-- 2026-08-31 | Brasil se anima con la canéfora: abre el primer concurso serio de robusta y conilon (Best of Canephora Brazil 2026) | https://www.bsca.com.br/bsca-cria-concurso-internacional-para-cafe-especial-da-especie-canefora/
-- 2026-08-31 | Coffee Review estrena su podio: Hula Daddy se queda con el primer Kenneth Davids Cup | https://www.coffeereview.com/kenneth-davids-cup/
-- 2026-08-31 | Campeonatos brasileños de Latte Art y CIGS en el Mercadão paulista (3-5 septiembre) | https://www.bsca.com.br/sp-mercadao-sediara-campeonatos-brasileiros-de-barismo-em-setembro/
-- 2026-08-31 | Subko presenta el primer Gesha indio: microlote de Riverdale con notas a pomelo y Earl Grey | https://www.subko.coffee/collections
-- 2026-08-31 | Denim Coffee compra dos locales de Prince Street Café en Pennsylvania | https://dailycoffeenews.com/2026/08/28/weekly-coffee-news-us-aeropress-champion-coffee-101-with-the-howells/
-- 2026-08-31 | Moka & Co. abre su segunda cafetería yemení en Nueva Jersey (Somerville, 29 ago) | https://hoodline.com/2026/08/yemeni-coffee-chain-moka-co-sets-august-29-opening-in-somerville/
-- 2026-08-31 | BrewAtlas publica su reporte "State of Specialty Coffee 2026" (6.163 cafeterías) | https://brewatlas.co/
-- 2026-08-31 | Inundaciones en Nepal dejan más de 900 muertos y golpean fincas de café | https://en.wikipedia.org/wiki/2026_Nepal_floods
-- 2026-08-31 | Un estudio pretende catalogar la estética de la "tercera ola" | https://perfectdailygrind.com/2026/08/coffee-news-recap-28-august-2026/
 - 2026-09-01 | Shoprite pone la ficha grande al café: se queda con Vida e Caffè | https://www.worldcoffeeportal.com/news/major-retailer-acquires-south-africas-largest-coffee-chain-vida-e-caffe/
 - 2026-09-01 | Cafecito BA se instala en Palermo este fin de semana (5-6 sep) y en Chacabuco (13-14 sep) | https://turismo.buenosaires.gob.ar/es/article/cafecito-ba
 - 2026-09-01 | Expo Café CDMX abre esta semana (3-5 septiembre en WTC) | https://www.expocafe.mx/
@@ -133,3 +123,12 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-09-14 | StoneX advierte por escasez de mano de obra en Honduras y Guatemala | https://www.stonex.com/en-us/insights/central-america-s-coffee-belt-enters-a-critical-season-as-weather-risks-labor-shortages-and-regulatory-pressures-mount/
 - 2026-09-14 | BSH presenta la primera espresso hogareña con Alexa+ integrada | https://www.comunicaffe.com/bsh-launches-first-espresso-machine-globally-to-be-powered-by-alexa-new-natural-language-ai-technology-at-ces/
 - 2026-09-14 | Löfbergs nombra nueva conducción para Peter Larsen Kaffe en Dinamarca | https://www.mynewsdesk.com/lofbergs/pressreleases/loefbergs-strengthens-danish-operations-with-new-md-for-peter-larsen-kaffe-3389355
+- 2026-09-15 | Negro se expande en Palermo: abre un local con vinilos, libros y cocina (Negro Hollywood, Arévalo 2051) | https://www.ambito.com/lifestyle/la-cafeteria-argentina-elegida-las-mejores-del-mundo-abre-un-nuevo-espacio-donde-conviven-cafe-libros-y-musica-n6288377
+- 2026-09-15 | Un Geisha de Ortega rompió el récord del Tolima: US$ 75 la libra (IV Feria Internacional del Café en Chaparral) | https://www.infobae.com/colombia/2026/09/13/feria-internacional-del-cafe-en-tolima-nuevo-record-historico-de-75-dolares-pagados-por-una-libra-de-cafe/
+- 2026-09-15 | Tomarlo muy caliente triplica el riesgo de cáncer de esófago (estudio Oxford / UK Biobank) | https://medicalxpress.com/news/2026-09-hot-tea-coffee-linked-greater.html
+- 2026-09-15 | Hawái contra las cuerdas: el huracán Lala arrasó cafetales en Ka'u | https://www.hawaiipublicradio.org/local-news/2026-08-27/lala-took-toll-on-hawaii-island-coffee-farms
+- 2026-09-15 | Kahwa Coffee cumple 20 y se muda a una planta de 2.300 m² en San Petersburgo | https://www.businessobserverfl.com/news/2026/aug/10/st-pete-coffee-company-headquarters/
+- 2026-09-15 | McDonald's se despide del Pumpkin Spice Latte después de 13 años (TheStreet) | https://www.thestreet.com/restaurants/mcdonalds-discontinues-pumpkin-spice-adds-caramel-apple-pie-latte-2026
+- 2026-09-15 | Stumptown vuelve a Los Ángeles con un flagship en el Lincoln Heights Theatre (Sprudge) | https://sprudge.com/stumptown-coffee-roasters-to-open-flagship-la-location-in-historic-lincoln-heights-theatre-1327035.html
+- 2026-09-15 | Build-Outs of Coffee: Slow By Slow rehizo su barra en Boise (Sprudge) | https://sprudge.com/build-outs-of-coffee-slow-by-slow-in-boise-id-1274400.html
+- 2026-09-15 | Accademia del Caffè Espresso lanza "Coffee Facts", una serie educativa (Sprudge) | https://sprudge.com/accademia-del-caffe-espresso-is-dropping-coffee-facts-a-new-educational-series-1338813.html
