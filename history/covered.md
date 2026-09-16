@@ -3,14 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-09-01 | Shoprite pone la ficha grande al café: se queda con Vida e Caffè | https://www.worldcoffeeportal.com/news/major-retailer-acquires-south-africas-largest-coffee-chain-vida-e-caffe/
-- 2026-09-01 | Cafecito BA se instala en Palermo este fin de semana (5-6 sep) y en Chacabuco (13-14 sep) | https://turismo.buenosaires.gob.ar/es/article/cafecito-ba
-- 2026-09-01 | Expo Café CDMX abre esta semana (3-5 septiembre en WTC) | https://www.expocafe.mx/
-- 2026-09-01 | El café suave colombiano rompió el techo de los US$4 por libra (24 ago) | https://www.eltiempo.com/economia/sectores/el-precio-del-cafe-suave-colombiano-se-trepa-sobre-los-us-4-por-libra-pero-el-terremoto-no-explica-el-repunte-3581009
-- 2026-09-01 | Coffee industry senior appointments: August 2026 (WCP) | https://www.worldcoffeeportal.com/news/coffee-industry-senior-appointments-august-2026/
-- 2026-09-01 | Coffee industry investments, mergers and acquisitions: August 2026 (WCP) | https://www.worldcoffeeportal.com/news/coffee-industry-investments-mergers-and-acquisitions-august-2026/
-- 2026-09-01 | Graffeo sortea su Ferrari con La Pavoni adentro (Comunicaffe) | https://www.comunicaffe.com/graffeo-coffee-launches-giveaway-of-its-1984-ferrari-308-custom-fitted-with-la-pavoni-and-a-lifetimes-supply-of-coffee/
-- 2026-09-01 | Etiopía: precios de la cereza triplicados en la cosecha 2026 (Algrano) | https://algrano.com/learn/ethiopia-coffee-harvest-report-2026
 - 2026-09-02 | Nero Group cierra su tercer año récord: £670M y el frío tira del carro | https://www.worldcoffeeportal.com/news/the-nero-group-achieves-third-successive-year-of-record-annual-sales/
 - 2026-09-02 | 7 Brew le birla 73 locales a Dutch Bros por US$ 143M (subasta Salad and Go) | https://dailycoffeenews.com/2026/09/02/7-brew-wins-143-million-auction-for-former-salad-and-go-locations/
 - 2026-09-02 | El café sin azúcar te cuida el corazón: estudio UK Biobank sobre 167.142 personas | https://dailycoffeenews.com/2026/09/01/coffees-heart-health-link-looks-stronger-without-sweeteners/
@@ -132,3 +124,11 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-09-15 | Stumptown vuelve a Los Ángeles con un flagship en el Lincoln Heights Theatre (Sprudge) | https://sprudge.com/stumptown-coffee-roasters-to-open-flagship-la-location-in-historic-lincoln-heights-theatre-1327035.html
 - 2026-09-15 | Build-Outs of Coffee: Slow By Slow rehizo su barra en Boise (Sprudge) | https://sprudge.com/build-outs-of-coffee-slow-by-slow-in-boise-id-1274400.html
 - 2026-09-15 | Accademia del Caffè Espresso lanza "Coffee Facts", una serie educativa (Sprudge) | https://sprudge.com/accademia-del-caffe-espresso-is-dropping-coffee-facts-a-new-educational-series-1338813.html
+- 2026-09-16 | El café de especialidad rompió su propio récord en EE.UU. (NCA Fall 2026) | https://dailycoffeenews.com/2026/09/15/nca-more-americans-are-drinking-specialty-coffee-and-ordering-by-app/
+- 2026-09-16 | Panamá suma equipos: la SCA definió los patrocinadores del WBC hasta 2027 | https://wcc.coffee/latest-news/announcing-the-2026-2027-world-barista-championship-qualified-sponsors
+- 2026-09-16 | Ecuador contra la Xylella: los cafeteros del sur piden respuestas | https://www.expreso.ec/economia-y-negocios/ecuador-cafe-arabigo-germina-amenazas-contracion-precios-bacteria-xylella-plaga-informacion-agrocalidad-menor-produccion-lluvias-285628.html
+- 2026-09-16 | Sudán del Sur apuesta al Excelsa contra el cambio climático (Sprudge Special Projects) | https://specialprojects.sprudge.com/?p=992
+- 2026-09-16 | El arábica frenó la caída después de diez semanas en rojo | https://www.brecorder.com/news/40439457/arabica-coffee-steadies-after-hitting-fresh-10-week-low
+- 2026-09-16 | Coffee Design: Ninety Three Million from Blanchard's Coffee (Sprudge) | https://sprudge.com/coffee-design-ninety-three-million-from-blanchards-coffee-1283165.html
+- 2026-09-16 | Coffee Project abre en el Upper East Side (Patch) | https://patch.com/new-york/upper-east-side-nyc/coffee-project-opening-first-upper-east-side-shop
+- 2026-09-16 | The Japanese Kissaten Cafe Tradition (Sprudge Special Projects) | https://specialprojects.sprudge.com/?p=951
