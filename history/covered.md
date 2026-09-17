@@ -3,14 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-09-02 | Nero Group cierra su tercer año récord: £670M y el frío tira del carro | https://www.worldcoffeeportal.com/news/the-nero-group-achieves-third-successive-year-of-record-annual-sales/
-- 2026-09-02 | 7 Brew le birla 73 locales a Dutch Bros por US$ 143M (subasta Salad and Go) | https://dailycoffeenews.com/2026/09/02/7-brew-wins-143-million-auction-for-former-salad-and-go-locations/
-- 2026-09-02 | El café sin azúcar te cuida el corazón: estudio UK Biobank sobre 167.142 personas | https://dailycoffeenews.com/2026/09/01/coffees-heart-health-link-looks-stronger-without-sweeteners/
-- 2026-09-02 | Forbes recorre el camino de la taza de US$ 60: Aprocetu, Turrubares, Costa Rica | https://ticotimes.net/2026/09/01/forbes-costa-rica-coffee-farmers-turrubares
-- 2026-09-02 | April Coffee lanza su primer molinillo manual con Timemore (April Hand Grinder 01) | https://dailycoffeenews.com/2026/09/01/april-coffee-springs-a-manual-grinder-into-production/
-- 2026-09-02 | How filter coffee became specialty's favourite drink (Perfect Daily Grind) | https://perfectdailygrind.com/2026/09/how-filter-coffee-became-specialty-favourite/
-- 2026-09-02 | How to curate an exceptional home coffee setup (Perfect Daily Grind) | https://perfectdailygrind.com/2026/09/curate-exceptional-home-coffee-setup/
-- 2026-09-02 | Arabica Coffee Settles Higher on Supply Concerns (Barchart, 2 sep) | https://www.barchart.com/story/news/3956273/arabica-coffee-settles-higher-on-supply-concerns
 - 2026-09-03 | The Best Coffee Shops Argentina se pone de gala: cita en el Alvear el 15 de septiembre | https://www.iprofesional.com/actualidad/463648-los-mejores-cafes-de-argentina-cuando-y-donde-es-la-gala-con-aval-internacional
 - 2026-09-03 | Al productor colombiano se le junta todo: peso fuerte, precio bajo y menos cosecha | https://www.bloomberglinea.com/latinoamerica/colombia/menos-cafe-precios-bajos-y-un-peso-fuerte-asi-se-revierte-la-bonanza-cafetera-en-colombia/
 - 2026-09-03 | La cafetería excelente no la hace el barista: la hace la barra que te saluda por tu nombre (PDG) | https://perfectdailygrind.com/2026/09/what-makes-an-excellent-coffee-shop/
@@ -132,3 +124,13 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-09-16 | Coffee Design: Ninety Three Million from Blanchard's Coffee (Sprudge) | https://sprudge.com/coffee-design-ninety-three-million-from-blanchards-coffee-1283165.html
 - 2026-09-16 | Coffee Project abre en el Upper East Side (Patch) | https://patch.com/new-york/upper-east-side-nyc/coffee-project-opening-first-upper-east-side-shop
 - 2026-09-16 | The Japanese Kissaten Cafe Tradition (Sprudge Special Projects) | https://specialprojects.sprudge.com/?p=951
+- 2026-09-17 | Tres Tostadores se llevó el número uno del país en el Alvear (The Best Coffee Shops Argentina 2026) | https://www.lanacion.com.ar/sabado/las-mejores-cafeterias-argentinas-publicaron-el-ranking-con-las-mejores-quienes-estan-en-el-top-ten-nid16092026/
+- 2026-09-17 | México se llevó los Global Coffee Awards de Latinoamérica (Café Baluarte de Veracruz) | https://perfectdailygrind.com/2026/09/global-coffee-awards-latin-america-winners-2026/
+- 2026-09-17 | Caffè Vergnano cruzó el Mar de Irlanda: primer local en Limerick | https://www.worldcoffeeportal.com/news/italys-caffe-vergnano-expands-european-cafe-network-with-ireland-debut/
+- 2026-09-17 | Beekeeper Coffee entró a Target con la NBA en la mochila | https://dailycoffeenews.com/2026/09/16/beekeeper-coffee-builds-buzz-with-nba-nfl-and-pga-investors/
+- 2026-09-17 | Grounds for Health cumple 30 y sale a subastar café verde (23-24 sep) | https://dailycoffeenews.com/2026/09/16/grounds-for-health-marks-30-years-with-annual-coffee-auction/
+- 2026-09-17 | Build-Outs of Coffee: Sightglass en Berkeley (Sprudge) | https://sprudge.com/build-outs-of-coffee-sightglass-coffee-in-berkeley-ca-1275259.html
+- 2026-09-17 | La Marzocco se aloja en Lodenfrey para el Oktoberfest (Sprudge) | https://sprudge.com/from-florence-to-munich-la-marzocco-teams-up-with-lodenfrey-for-oktoberfest-1327616.html
+- 2026-09-17 | "El Pumpkin Spice está muerto" (Sprudge) | https://sprudge.com/pumpkin-spice-is-dead-1339584.html
+- 2026-09-17 | Arábica toca mínimo de 10 semanas (Business Recorder) | https://www.brecorder.com/news/40439820/arabica-coffee-hits-fresh-10-week-low
+- 2026-09-17 | El problema no es la falta de café, es la logística (CoffeeTalk) | https://coffeetalk.com/daily-dose/from-origin/09-2026/110946/
