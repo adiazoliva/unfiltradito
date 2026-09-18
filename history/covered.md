@@ -3,16 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-09-03 | The Best Coffee Shops Argentina se pone de gala: cita en el Alvear el 15 de septiembre | https://www.iprofesional.com/actualidad/463648-los-mejores-cafes-de-argentina-cuando-y-donde-es-la-gala-con-aval-internacional
-- 2026-09-03 | Al productor colombiano se le junta todo: peso fuerte, precio bajo y menos cosecha | https://www.bloomberglinea.com/latinoamerica/colombia/menos-cafe-precios-bajos-y-un-peso-fuerte-asi-se-revierte-la-bonanza-cafetera-en-colombia/
-- 2026-09-03 | La cafetería excelente no la hace el barista: la hace la barra que te saluda por tu nombre (PDG) | https://perfectdailygrind.com/2026/09/what-makes-an-excellent-coffee-shop/
-- 2026-09-03 | Los stocks de arábica en la ICE tocan mínimo de 27 años (Trading Economics, 3 sep) | https://tradingeconomics.com/commodity/coffee
-- 2026-09-03 | Starbucks by Nespresso Vertuo desembarca en México con seis cápsulas | https://www.informabtl.com/lanzamiento-starbucks-by-nespresso-vertuo-mexico-capsulas/
-- 2026-09-03 | Caribou Coffee appoints new Chief Operations Officer (WCP) | https://www.worldcoffeeportal.com/news/caribou-coffee-appoints-new-chief-operations-officer/
-- 2026-09-03 | Build-Outs of Coffee: Aurora Coffee Hub, Amán (Sprudge) | https://sprudge.com/build-outs-of-coffee-aurora-coffee-hub-in-amman-jordan-1265150.html
-- 2026-09-03 | Hershey's Goes Affogato For Their New Creme Bar (Sprudge) | https://sprudge.com/hersheys-goes-affogato-for-their-new-creme-bar-1304480.html
-- 2026-09-03 | COFE Tech secures $178m valuation in pre-IPO funding round (WCP) | https://www.worldcoffeeportal.com/news/cofe-tech-secures-178m-valuation-in-pre-ipo-funding-round/
-- 2026-09-03 | How filter coffee became specialty's favourite drink (PDG) | https://perfectdailygrind.com/2026/09/how-filter-coffee-became-specialty-favourite/
 - 2026-09-04 | México ya tiene su barista Starbucks: Christian Ortiz va por Latam (Expoknews) | https://www.expoknews.com/starbucks-mexico-celebra-el-talento-con-su-barista-campeon-2026/
 - 2026-09-04 | Joe Coffee se sube al avión: acuerdo con JetBlue para primera clase (WCP) | https://www.worldcoffeeportal.com/news/new-yorks-joe-coffee-secures-first-us-airline-partnership/
 - 2026-09-04 | Corea del Sur pisa EE.UU.: A Twosome Place abre en Virginia (Korea Times) | https://www.koreatimes.co.kr/business/companies/20260903/twosome-place-to-enter-us-market-in-october-for-next-phase-of-growth
@@ -134,3 +124,11 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-09-17 | "El Pumpkin Spice está muerto" (Sprudge) | https://sprudge.com/pumpkin-spice-is-dead-1339584.html
 - 2026-09-17 | Arábica toca mínimo de 10 semanas (Business Recorder) | https://www.brecorder.com/news/40439820/arabica-coffee-hits-fresh-10-week-low
 - 2026-09-17 | El problema no es la falta de café, es la logística (CoffeeTalk) | https://coffeetalk.com/daily-dose/from-origin/09-2026/110946/
+- 2026-09-18 | El Kremlin le puso la mano encima a Nestlé: seis fábricas de café bajo administración estatal | https://www.beveragedaily.com/Article/2026/09/18/nestle-russia-under-state-administration-following-kremlin-decree/
+- 2026-09-18 | Nace Furthers & Betters, la consultora que quiere entender al que toma el café | https://dailycoffeenews.com/2026/09/17/furthers-betters-goes-beyond-the-cup-for-specialty-coffee-consumer-intelligence/
+- 2026-09-18 | La app y el drive-thru son un arma de doble filo (Sprudge) | https://sprudge.com/the-double-edged-sword-of-app-ordering-and-drive-thrus-in-coffee-1342468.html
+- 2026-09-18 | Motors Coffee cruza el Atlántico y se instala dos días en Brooklyn (Sprudge) | https://sprudge.com/motors-coffee-of-paris-is-popping-up-at-sey-coffee-of-brooklyn-1345718.html
+- 2026-09-18 | New CEO for Australia's Soul Origin as it looks to more than double in size (WCP) | https://www.worldcoffeeportal.com/news/new-ceo-for-australias-soul-origin-as-it-looks-to-more-than-double-in-size/
+- 2026-09-18 | Smart Care unifies five coffee equipment service brands as Turbo Tech (DCN) | https://dailycoffeenews.com/2026/09/17/smart-care-unifies-five-coffee-equipment-service-brands-as-turbo-tech/
+- 2026-09-18 | Build-Outs of Coffee: Hijau Coffee in San Jose, CA (Sprudge) | https://sprudge.com/build-outs-of-coffee-hijau-coffee-in-san-jose-ca-1283098.html
+- 2026-09-18 | Rare Earth Coffee opens first Sacramento-area shop in Rancho Cordova (Hoodline) | https://hoodline.com/2026/09/rare-earth-coffee-brews-up-first-sacramento-area-shop-in-rancho-cordova/
