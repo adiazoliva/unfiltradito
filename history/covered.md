@@ -3,14 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-09-04 | México ya tiene su barista Starbucks: Christian Ortiz va por Latam (Expoknews) | https://www.expoknews.com/starbucks-mexico-celebra-el-talento-con-su-barista-campeon-2026/
-- 2026-09-04 | Joe Coffee se sube al avión: acuerdo con JetBlue para primera clase (WCP) | https://www.worldcoffeeportal.com/news/new-yorks-joe-coffee-secures-first-us-airline-partnership/
-- 2026-09-04 | Corea del Sur pisa EE.UU.: A Twosome Place abre en Virginia (Korea Times) | https://www.koreatimes.co.kr/business/companies/20260903/twosome-place-to-enter-us-market-in-october-for-next-phase-of-growth
-- 2026-09-04 | Walmart le abre la puerta a Dunkin' desde su propia app (Restaurant Dive) | https://www.restaurantdive.com/news/walmart-shoppers-dunkin-delivery-coffee/829593/
-- 2026-09-04 | Coffee Buddy, marca filipina, planta bandera en India (WCP) | https://www.worldcoffeeportal.com/news/the-philippines-coffee-buddy-makes-international-debut-with-india-launch/
-- 2026-09-04 | India's Third Wave Coffee hires former Sapphire Foods exec for top tech role (WCP) | https://www.worldcoffeeportal.com/news/indias-third-wave-coffee-hires-former-sapphire-foods-exec-for-top-tech-role/
-- 2026-09-04 | 'Cauca Sabe a Café 2026': Popayán se convierte en epicentro de la cultura cafetera (El País Cali) | https://www.elpais.com.co/colombia/cauca-sabe-a-cafe-2026-la-feria-que-convierte-a-popayan-en-el-epicentro-de-la-cultura-cafetera-0320.html
-- 2026-09-04 | Tucumán se encamina a ser la primera provincia cafetera de la Argentina (Contexto Tucumán) | https://www.contextotucuman.com/nota/409495/tucuman-se-encamina-a-ser-la-primera-provincia-cafetera-de-la-argentina.html
 - 2026-09-05 | A Colombia se le cae la taza: la Federación proyecta 8% menos de cosecha | https://dailycoffeenews.com/2026/09/04/weekly-coffee-news-colombia-earthquake-support-brewing-for-equity/
 - 2026-09-05 | Ecuador escala su café sin deforestación y le gana la carrera a Bruselas | https://dailycoffeenews.com/2026/09/03/ecuadors-deforestation-free-coffee-model-moves-beyond-the-pilot-stage/
 - 2026-09-05 | Vuelve Exigí Buen Café: 13ª edición con 100 expositores en La Rural | https://larural.com.ar/evento/expo-exigi-buen-cafe/
@@ -132,3 +124,13 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-09-18 | Smart Care unifies five coffee equipment service brands as Turbo Tech (DCN) | https://dailycoffeenews.com/2026/09/17/smart-care-unifies-five-coffee-equipment-service-brands-as-turbo-tech/
 - 2026-09-18 | Build-Outs of Coffee: Hijau Coffee in San Jose, CA (Sprudge) | https://sprudge.com/build-outs-of-coffee-hijau-coffee-in-san-jose-ca-1283098.html
 - 2026-09-18 | Rare Earth Coffee opens first Sacramento-area shop in Rancho Cordova (Hoodline) | https://hoodline.com/2026/09/rare-earth-coffee-brews-up-first-sacramento-area-shop-in-rancho-cordova/
+- 2026-09-19 | Bolivia rompe la banca: un Geisha de Takesi se remató a US$ 3.100 el kilo | https://perfectdailygrind.com/2026/09/coffee-news-recap-18-september-2026/
+- 2026-09-19 | Jimmy Butler y J Balvin arman un bundle por el terremoto de Colombia | https://perfectdailygrind.com/2026/09/coffee-news-recap-18-september-2026/
+- 2026-09-19 | Amanda Albuquerque, primera mujer campeona brasileña de Coffee in Good Spirits | https://campovivo.com.br/cafeicultura/2026/09/09/barismo-brasil-conhece-seus-novos-campeoes-de-coffee-in-good-spirits-e-latte-art/
+- 2026-09-19 | Starbucks sopesa vender su negocio en Japón por hasta US$ 3.000 millones (CNBC) | https://www.cnbc.com/2026/09/16/starbucks-considers-selling-majority-stake-japan.html
+- 2026-09-19 | Illycaffè apunta a EE.UU. como "segundo mercado doméstico" y deja la IPO en pausa (Bloomberg) | https://www.bloomberg.com/news/articles/2026-09-16/illycaffe-ceo-wants-to-make-us-its-second-domestic-market
+- 2026-09-19 | Pusha T y Pharrell Williams lanzan Grindin Coffee con Lavazza (The Source) | https://thesource.com/2026/09/16/pusha-t-and-pharrell-williams-launch-grindin-coffee-in-nyc/
+- 2026-09-19 | El especialidad tocó el 48% del consumo diario en EE.UU. (NCA Fall 2026) | https://www.ncausa.org/Market-Research/National-Coffee-Data-Trends
+- 2026-09-19 | Reysol Coffee Roasters junta plata para carpas en Balboa, Colombia (DCN) | https://dailycoffeenews.com/2026/09/18/weekly-coffee-news-colombian-relief-collab-superautomatic-espresso-launch/
+- 2026-09-19 | Arrancó The Global Coffee Fair en Quito (18-20 sep) | https://www.globalcoffeefair.com/
+- 2026-09-19 | Nespresso saca su primera mezcla Pumpkin Spice para oficinas (PDG) | https://perfectdailygrind.com/2026/09/coffee-news-recap-18-september-2026/
