@@ -3,16 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-09-05 | A Colombia se le cae la taza: la Federación proyecta 8% menos de cosecha | https://dailycoffeenews.com/2026/09/04/weekly-coffee-news-colombia-earthquake-support-brewing-for-equity/
-- 2026-09-05 | Ecuador escala su café sin deforestación y le gana la carrera a Bruselas | https://dailycoffeenews.com/2026/09/03/ecuadors-deforestation-free-coffee-model-moves-beyond-the-pilot-stage/
-- 2026-09-05 | Vuelve Exigí Buen Café: 13ª edición con 100 expositores en La Rural | https://larural.com.ar/evento/expo-exigi-buen-cafe/
-- 2026-09-05 | Un hongo chino empuja al arábica hacia la especialidad: 1,5 puntos más de taza | https://www.baristamagazine.com/a-newly-discovered-fungus-is-pushing-arabica-into-specialty-grade-territory/
-- 2026-09-05 | Coffee People Zine vuelve al papel con su número más grande | https://dailycoffeenews.com/2026/09/04/coffee-people-zine-back-in-print-plans-minneapolis-party/
-- 2026-09-05 | Bay Area coffee shop closes indefinitely amid lawsuits alleging discrimination against Jewish customers | https://www.jns.org/news/u-s-news/bay-area-coffee-shop-closes-indefinitely-amid-lawsuits-alleging-discrimination-against-jewish-customers
-- 2026-09-05 | California-Based Specialty Coffee Roaster Faces Lawsuit Alleging Sexual Harassment | https://coffeetalk.com/daily-dose/for-roasters-retailers/08-2026/110834/
-- 2026-09-05 | Coffee Coalition for Racial Equity extiende inscripción a Brewing for Equity Fellowship hasta el 10 de septiembre | https://dailycoffeenews.com/2026/09/04/weekly-coffee-news-colombia-earthquake-support-brewing-for-equity/
-- 2026-09-05 | Caffè Culture Show London (29-30 septiembre) | https://www.caffecultureshow.com/
-- 2026-09-05 | Brasil rumbo a una cosecha récord 2026/27 de 71,9 millones de sacos (USDA) | https://www.gcrmag.com/brazil-on-track-for-record-coffee-harvest-in-2026/
 - 2026-09-06 | KDP se despide de Chobani por US$ 800M y se abraza fuerte a La Colombe | https://perfectdailygrind.com/2026/09/coffee-news-recap-4-september-2026/
 - 2026-09-06 | El robusta no era tan resistente al clima: un estudio de Kew desarma el "mito" | https://sprudge.com/an-internet-myth-study-finds-robusta-may-not-be-the-answer-to-climate-change-after-all-1304058.html
 - 2026-09-06 | Paulig separa el café: el negocio va a tener división propia en 2027 | https://www.worldcoffeeportal.com/news/paulig-to-form-new-coffee-business-unit-as-part-of-organisational-restructure/
@@ -134,3 +124,12 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-09-19 | Reysol Coffee Roasters junta plata para carpas en Balboa, Colombia (DCN) | https://dailycoffeenews.com/2026/09/18/weekly-coffee-news-colombian-relief-collab-superautomatic-espresso-launch/
 - 2026-09-19 | Arrancó The Global Coffee Fair en Quito (18-20 sep) | https://www.globalcoffeefair.com/
 - 2026-09-19 | Nespresso saca su primera mezcla Pumpkin Spice para oficinas (PDG) | https://perfectdailygrind.com/2026/09/coffee-news-recap-18-september-2026/
+- 2026-09-20 | Cafe Imports vuelve a Costa Rica con la 3ª temporada de Ecos del Café | https://www.cafeimports.com/australia/blog/category/costa-rica/
+- 2026-09-20 | Swiss Water invierte CA$ 6,2M en Delta y agranda su descafeinado sin químicos | https://www.worldcoffeeportal.com/news/swiss-water-unveils-multi-million-dollar-investment-in-production-expansion/
+- 2026-09-20 | Manolo Bakes ficha a David López para su expansión a Latinoamérica y Oriente Medio | https://www.worldcoffeeportal.com/news/spains-manolo-bakes-makes-key-senior-hire-to-drive-international-expansion/
+- 2026-09-20 | Brewtifi, la app rumana de café de especialidad, cierra ronda con valuación de €1,6M | https://www.worldcoffeeportal.com/news/romanias-brewtifi-attains-eur1-6m-valuation-one-year-after-launch/
+- 2026-09-20 | El arábica cayó 1,79% el viernes 19 y cerró en 276,50 centavos | https://tradingeconomics.com/commodity/coffee/news/577922
+- 2026-09-20 | Build-Outs: Stumptown Coffee Roasters en Los Ángeles (Sprudge) | https://sprudge.com/build-outs-of-coffee-stumptown-coffee-roasters-in-los-angeles-ca-1310585.html
+- 2026-09-20 | Green Room: novedades de importadores de verde (Sprudge) | https://sprudge.com/checking-in-on-the-other-side-of-the-supply-chain-with-the-green-room-1349454.html
+- 2026-09-20 | Tim Hortons vuelve a colaborar con Ryan Reynolds (Comunicaffe) | https://www.comunicaffe.com/tim-hortons-launching-its-second-collab-with-ryan-reynolds-this-time-on-a-new-ryans-signature-donut/
+- 2026-09-20 | World Barista Championship en Panamá (22-25 octubre) | https://panama.worldofcoffee.org/worldbaristachampionship
