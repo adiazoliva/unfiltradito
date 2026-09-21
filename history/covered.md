@@ -3,14 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-09-06 | KDP se despide de Chobani por US$ 800M y se abraza fuerte a La Colombe | https://perfectdailygrind.com/2026/09/coffee-news-recap-4-september-2026/
-- 2026-09-06 | El robusta no era tan resistente al clima: un estudio de Kew desarma el "mito" | https://sprudge.com/an-internet-myth-study-finds-robusta-may-not-be-the-answer-to-climate-change-after-all-1304058.html
-- 2026-09-06 | Paulig separa el café: el negocio va a tener división propia en 2027 | https://www.worldcoffeeportal.com/news/paulig-to-form-new-coffee-business-unit-as-part-of-organisational-restructure/
-- 2026-09-06 | MiiR sale del acero: llega su primera colección de cerámica el 29 de septiembre | https://sprudge.com/miir-expands-beyond-drinkware-with-its-first-collection-of-handcrafted-ceramics-1307146.html
-- 2026-09-06 | USDA: Etiopía en camino a superar a Indonesia como 4° productor mundial (2026/27) | https://www.fas.usda.gov/data/gain/2026/05/ethiopia-coffee-annual
-- 2026-09-06 | Faema arma un evento con Jack Simpson el 14 de septiembre en Barcelona | https://perfectdailygrind.com/events/world-of-coffee-panama-2026-world-barista-championship/
-- 2026-09-06 | Turquía tiene doble festival en septiembre (Estambul 10-13, Ankara 25-27) | https://ljubljanacoffeefestival.si/en/
-- 2026-09-06 | Expo Café CDMX cerró ayer con los siete finalistas del Premio Sabor 2026 | https://www.expocafe.mx/premio-sabor-expo-cafe-2026/
 - 2026-09-07 | La sirena de Starbucks se cuela en la Ligue 1: acuerdo con el Toulouse FC | https://www.worldcoffeeportal.com/news/starbucks-signs-first-football-club-shirt-sponsorship-deal/
 - 2026-09-07 | Colombia elige por WhatsApp: 350.000 cafeteros votan y estrenan urna virtual | https://www.elcolombiano.com/negocios/elecciones-cafeteras-2026-voto-electronico-federacion-nacional-cafeteros-BH40650023
 - 2026-09-07 | Fiorenzato desembarca en Nueva Jersey: la etiqueta "Made in Italy" ya no alcanza sola | https://perfectdailygrind.com/2026/09/heritage-shaping-modern-coffee-equipment/
@@ -133,3 +125,11 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-09-20 | Green Room: novedades de importadores de verde (Sprudge) | https://sprudge.com/checking-in-on-the-other-side-of-the-supply-chain-with-the-green-room-1349454.html
 - 2026-09-20 | Tim Hortons vuelve a colaborar con Ryan Reynolds (Comunicaffe) | https://www.comunicaffe.com/tim-hortons-launching-its-second-collab-with-ryan-reynolds-this-time-on-a-new-ryans-signature-donut/
 - 2026-09-20 | World Barista Championship en Panamá (22-25 octubre) | https://panama.worldofcoffee.org/worldbaristachampionship
+- 2026-09-21 | Negro Cueva de Café metió a Argentina en el top 10 sudamericano (100 Best Coffee Shops South America 2026) | https://www.primicias.ec/entretenimiento/gastronomia/ecuador-top-100-mejores-cafeterias-sudamerica-revelado-quito-domingo-133045/
+- 2026-09-21 | Free Bean abre en Manhattan la primera cafetería que no cobra el café (23 sep) | https://www.worldcoffeeportal.com/news/genius-or-gimmick-free-bean-launches-worlds-first-free-coffee-shop/
+- 2026-09-21 | Ecuador convoca al Loja Sabor a Café 2026: muestras hasta el 28 de septiembre, subasta el 9 de diciembre | https://cronica.com.ec/2026/09/07/prefectura-invita-a-caficultores-del-pais-a-inscripciones-para-el-concurso-nacional-loja-sabor-a-cafe-2026/
+- 2026-09-21 | Empezó la votación de los European Coffee & Hospitality Awards 2026 (Top 200) | https://www.worldcoffeeportal.com/news/the-2026-european-coffee-hospitality-top-200-has-been-announced/
+- 2026-09-21 | Sprudge Roaster's Village: selección de tostadores destacados | https://sprudge.com/if-i-had-to-pick-one-coffee-from-the-sprudge-roasters-village-id-pick-them-all-1349410.html
+- 2026-09-21 | The Plot Thickens On Tarik Skubal's Espresso Machine (Sprudge) | https://sprudge.com/the-plot-thickens-on-dodgers-pitcher-tarik-skubals-espresso-machine-1348212.html
+- 2026-09-21 | Coffee industry investments, mergers and acquisitions: August 2026 (World Coffee Portal) | https://www.worldcoffeeportal.com/news/coffee-industry-investments-mergers-and-acquisitions-august-2026/
+- 2026-09-21 | Arábica diciembre 2026 sube 1,27% a 271,95 centavos (Vietnam.vn) | https://www.vietnam.vn/en/gia-nong-san-hom-nay-21-9-2026-gia-ca-phe-trong-nuoc-di-nguoc-the-gioi-thi-truong-van-chiu-ap-luc-lon-tin-hieu-tich-cuc-tu-dam-phan-my-trung
