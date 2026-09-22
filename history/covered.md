@@ -3,11 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-09-07 | La sirena de Starbucks se cuela en la Ligue 1: acuerdo con el Toulouse FC | https://www.worldcoffeeportal.com/news/starbucks-signs-first-football-club-shirt-sponsorship-deal/
-- 2026-09-07 | Colombia elige por WhatsApp: 350.000 cafeteros votan y estrenan urna virtual | https://www.elcolombiano.com/negocios/elecciones-cafeteras-2026-voto-electronico-federacion-nacional-cafeteros-BH40650023
-- 2026-09-07 | Fiorenzato desembarca en Nueva Jersey: la etiqueta "Made in Italy" ya no alcanza sola | https://perfectdailygrind.com/2026/09/heritage-shaping-modern-coffee-equipment/
-- 2026-09-07 | La Prima Espresso amplía su tostaduría en Pittsburgh a 38 años del arranque | https://dailycoffeenews.com/2026/09/04/pittsburghs-la-prima-espresso-gets-second-wind-in-expanded-roastery/
-- 2026-09-07 | Segafredo lanza Cold Espresso en botella para foodservice en Estados Unidos | https://www.bevnet.com/pr/2026/09/01/segafredo-launches-cold-espresso-to-solve-speed-and-labor-challenges-for-restaurant--beverage-operators
 - 2026-09-08 | A Costa Rica se le viene una "tormenta perfecta": la cosecha 2026-27 en rojo | https://www.nacion.com/economia/cafetaleros-alertan-sobre-una-tormenta-perfecta/OQPC6FLAOVFLRLX7JUGHSIYHSQ/story/
 - 2026-09-08 | Puerto Rico se planta en Capitol Hill: El Cerro lleva el café boricua a Seattle | https://dailycoffeenews.com/2026/09/07/puerto-rican-coffee-climbs-the-hill-at-seattles-el-cerro/
 - 2026-09-08 | Dancing Goat sale de Egipto: primera cadena de especialidad árabe que se cruza la frontera | https://www.worldcoffeeportal.com/news/dancing-goat-to-become-first-egyptian-specialty-coffee-operator-to-launch-abroad/
@@ -133,3 +128,12 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-09-21 | The Plot Thickens On Tarik Skubal's Espresso Machine (Sprudge) | https://sprudge.com/the-plot-thickens-on-dodgers-pitcher-tarik-skubals-espresso-machine-1348212.html
 - 2026-09-21 | Coffee industry investments, mergers and acquisitions: August 2026 (World Coffee Portal) | https://www.worldcoffeeportal.com/news/coffee-industry-investments-mergers-and-acquisitions-august-2026/
 - 2026-09-21 | Arábica diciembre 2026 sube 1,27% a 271,95 centavos (Vietnam.vn) | https://www.vietnam.vn/en/gia-nong-san-hom-nay-21-9-2026-gia-ca-phe-trong-nuoc-di-nguoc-the-gioi-thi-truong-van-chiu-ap-luc-lon-tin-hieu-tich-cuc-tu-dam-phan-my-trung
+- 2026-09-22 | Colombia arma la vidriera: Cafés de Colombia Expo desembarca en Bogotá (15-18 oct) | https://www.infobae.com/colombia/2026/09/22/cafes-de-colombia-expo-2026-en-bogota-todo-lo-que-tendra-la-feria-del-15-al-18-de-octubre/
+- 2026-09-22 | RoastConsole: una tostaduría entera adentro de un solo software (Farspeak Labs) | https://sprudge.com/roastconsole-launches-coffee-roasting-software-that-runs-the-whole-roastery-on-one-plan-1356622.html
+- 2026-09-22 | Knoops se queda sin CEO: se va William Gordon-Harris | https://www.worldcoffeeportal.com/news/william-gordon-harris-steps-down-as-knoops-ceo/
+- 2026-09-22 | Abanico Coffee suma barra en San Francisco (Irving St): horchata al espresso | https://hoodline.com/2026/09/abanico-coffee-roasters-pours-into-irving-street-won-t-leave-the-mission-after-all/
+- 2026-09-22 | LaSavista se juega al otoño con cinco nuevas fórmulas para foodservice | https://www.worldcoffeeportal.com/news/lasavista-answers-consumer-cravings-for-autumnal-seasonal-serves/
+- 2026-09-22 | Chile se lleva el N° 1 en el ranking sudamericano con Eco Mapu Coffee (Villarrica) | https://www.biobiochile.cl/noticias/sociedad/curiosidades/2026/09/21/supero-a-colombia-cafeteria-chilena-fue-elegida-como-la-mejor-del-top-100-de-sudamerica.shtml
+- 2026-09-22 | Ecuador coloca 15 cafeterías en el top 100 con Fankør como #2 y Especie Café como #9 | https://prensamercosur.org/2026/09/22/en-quito-esta-la-segunda-mejor-cafeteria-de-sudamerica/
+- 2026-09-22 | Grounds For Health arranca su subasta anual (23-24 sep) | https://sprudge.com/the-grounds-for-health-auction-is-this-week-1356678.html
+- 2026-09-22 | Boom robot-barista: mercado global tocó US$2.180M, camino a US$4.050M en 2030 | https://coffeetalk.com/daily-dose/for-roasters-retailers/09-2026/110845/
