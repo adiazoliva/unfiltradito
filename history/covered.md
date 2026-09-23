@@ -3,15 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-09-08 | A Costa Rica se le viene una "tormenta perfecta": la cosecha 2026-27 en rojo | https://www.nacion.com/economia/cafetaleros-alertan-sobre-una-tormenta-perfecta/OQPC6FLAOVFLRLX7JUGHSIYHSQ/story/
-- 2026-09-08 | Puerto Rico se planta en Capitol Hill: El Cerro lleva el café boricua a Seattle | https://dailycoffeenews.com/2026/09/07/puerto-rican-coffee-climbs-the-hill-at-seattles-el-cerro/
-- 2026-09-08 | Dancing Goat sale de Egipto: primera cadena de especialidad árabe que se cruza la frontera | https://www.worldcoffeeportal.com/news/dancing-goat-to-become-first-egyptian-specialty-coffee-operator-to-launch-abroad/
-- 2026-09-08 | Yannick Alléno le puso café al croissant: abrió La Croissanterie en Londres | https://www.worldcoffeeportal.com/news/multi-michelin-starred-chef-launches-luxury-croissant-cafe-in-london/
-- 2026-09-08 | Mahlkönig se metió en las cafeteras: llega la Xenia Brew-by-Sync | https://www.comunicaffe.com/mahlkonig-home-introduces-xenia-brew-by-sync-its-first-espresso-machine/
-- 2026-09-08 | Black Sheep Coffee abrió su primer drive-thru del Reino Unido en Blackburn | https://www.worldcoffeeportal.com/news/black-sheep-coffee-enters-uk-drive-thru-market/
-- 2026-09-08 | Vietnam se encamina a un cierre fuerte de exportaciones 2026: casi 1,7M de toneladas y US$6.000M en ocho meses | https://en.vietnamplus.vn/vietnamese-coffee-exports-poised-for-strong-finish-toward-year-end-post351359.vnp
-- 2026-09-08 | Urth Caffé (California) anuncia su primer local en Europa: Covent Garden, Londres | https://www.worldcoffeeportal.com/news/californias-urth-caffe-to-open-first-store-in-europe/
-- 2026-09-08 | Backhaus Schröer compra a Backhaus Heislitz, panadería alemana de 140 años | https://www.worldcoffeeportal.com/news/germanys-backhaus-schroer-acquires-140-year-old-competitor/
 - 2026-09-09 | Lavazza pisa la alfombra roja: acuerdo con TIFF hasta 2028 | https://www.worldcoffeeportal.com/news/lavazza-hits-the-red-carpet-with-major-film-festival-deal/
 - 2026-09-09 | Colombia no levanta cabeza: agosto cerró con -12% de producción y -10% de exportaciones | https://www.larepublica.co/economia/produccion-nacional-de-cafe-en-agosto-fue-de-1-09-millones-de-sacos-y-cayo-12-4474559
 - 2026-09-09 | Cincinnati reabre su cafetería cooperativa: se llama Radical Bean | https://dailycoffeenews.com/2026/09/08/radical-bean-wants-to-rework-the-coffee-model-in-cincinnati/
@@ -137,3 +128,10 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-09-22 | Ecuador coloca 15 cafeterías en el top 100 con Fankør como #2 y Especie Café como #9 | https://prensamercosur.org/2026/09/22/en-quito-esta-la-segunda-mejor-cafeteria-de-sudamerica/
 - 2026-09-22 | Grounds For Health arranca su subasta anual (23-24 sep) | https://sprudge.com/the-grounds-for-health-auction-is-this-week-1356678.html
 - 2026-09-22 | Boom robot-barista: mercado global tocó US$2.180M, camino a US$4.050M en 2030 | https://coffeetalk.com/daily-dose/for-roasters-retailers/09-2026/110845/
+- 2026-09-23 | Cafe Imports pasa a manos de sus empleados (ESOP 100%) | https://dailycoffeenews.com/2026/09/21/cafe-imports-now-100-employee-owned-through-a-stock-plan/
+- 2026-09-23 | La SCA dona US$1 millón al UC Davis Coffee Center para una beca permanente de investigación | https://dailycoffeenews.com/2026/09/22/sca-gives-uc-davis-coffee-center-1-million-for-research-fellowship/
+- 2026-09-23 | Brasil estrena Best of Canephora: subasta internacional el 29 de noviembre en Cacoal | https://campovivo.com.br/cafeicultura/2026/08/24/bsca-cria-concurso-internacional-para-cafe-especial-da-especie-canefora/
+- 2026-09-23 | Arrancó Coffee Week Berlin (22-25 sep) con la primera edición de los CWB Awards | https://www.coffeeweek.de/
+- 2026-09-23 | Mahou San Miguel compra La Flor del Café y Gran Café Royale al mayorista Disbesa Darnés | https://www.worldcoffeeportal.com/news/spanish-beer-giant-mahou-san-miguel-snaps-up-two-b2b-coffee-brands/
+- 2026-09-23 | Variety Coffee Roasters llega a 10 locales en Nueva York con la apertura en Greenpoint | https://dailycoffeenews.com/2026/09/22/variety-coffee-roasters-consistently-delivers-with-10th-new-york-location/
+- 2026-09-23 | Delafinca Specialty Coffee (Nicaragua) sumó 9 reconocimientos en los Global Coffee Awards 2026 | https://www.laprensani.com/2026/09/21/nacionales/3788588-cafe-nicaraguense-global-coffee-awards
