@@ -3,15 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-09-09 | Lavazza pisa la alfombra roja: acuerdo con TIFF hasta 2028 | https://www.worldcoffeeportal.com/news/lavazza-hits-the-red-carpet-with-major-film-festival-deal/
-- 2026-09-09 | Colombia no levanta cabeza: agosto cerró con -12% de producción y -10% de exportaciones | https://www.larepublica.co/economia/produccion-nacional-de-cafe-en-agosto-fue-de-1-09-millones-de-sacos-y-cayo-12-4474559
-- 2026-09-09 | Cincinnati reabre su cafetería cooperativa: se llama Radical Bean | https://dailycoffeenews.com/2026/09/08/radical-bean-wants-to-rework-the-coffee-model-in-cincinnati/
-- 2026-09-09 | Paik's Coffee pasa a ser DABANG y planta bandera en Taiwán | https://www.worldcoffeeportal.com/news/paiks-coffee-to-take-new-brand-identity-to-taiwan/
-- 2026-09-09 | Cinnabon se va de Singapur (por segunda vez) | https://www.worldcoffeeportal.com/news/cinnabon-to-exit-singapore-for-the-second-time/
-- 2026-09-09 | Henderson Foodservice unveils "biggest investment" in Barista Bar network | https://www.worldcoffeeportal.com/news/henderson-foodservice-unveils-biggest-investment-in-barista-bar-network/
-- 2026-09-09 | Joe & The Juice wants to 'own the morning' | https://www.worldcoffeeportal.com/news/joe-the-juice-wants-to-own-the-morning/
-- 2026-09-09 | Here's everyone moving on from the first qualifying event for the 2027 US Roasters Championship | https://sprudge.com/heres-everyone-moving-on-from-the-first-qualifying-event-for-the-2027-us-roasters-championship-1310523.html
-- 2026-09-09 | Arabica Coffee Futures at Over 1-Month High | https://tradingeconomics.com/commodity/coffee/news/577922
 - 2026-09-10 | Moldavia da la nota: Elizaveta Rîmscaia gana la Julius Meinl Barista Cup 2026 en Viena | https://www.comunicaffe.com/julius-meinl-barista-cup-2026-winner-vienna-elizaveta-rimscaia/
 - 2026-09-10 | Quito estrena la Global Coffee Fair y la gala de Los 100 Mejores Cafés de Sudamérica (18-20 sep) | https://turismo.quito.gob.ec/quito-reune-al-mundo-del-cafe-y-se-proyecta-como-destino-internacional-de-eventos/
 - 2026-09-10 | Uruguay repite: quinta Expo Café en Montevideo, 12 y 13 de septiembre | https://expocafe.uy/
@@ -135,3 +126,12 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-09-23 | Mahou San Miguel compra La Flor del Café y Gran Café Royale al mayorista Disbesa Darnés | https://www.worldcoffeeportal.com/news/spanish-beer-giant-mahou-san-miguel-snaps-up-two-b2b-coffee-brands/
 - 2026-09-23 | Variety Coffee Roasters llega a 10 locales en Nueva York con la apertura en Greenpoint | https://dailycoffeenews.com/2026/09/22/variety-coffee-roasters-consistently-delivers-with-10th-new-york-location/
 - 2026-09-23 | Delafinca Specialty Coffee (Nicaragua) sumó 9 reconocimientos en los Global Coffee Awards 2026 | https://www.laprensani.com/2026/09/21/nacionales/3788588-cafe-nicaraguense-global-coffee-awards
+- 2026-09-24 | Sandia Labs tuesta café con sol guardado en piedras (New Mexico Experiment Brings Solar Heat to the Roasting Drum) | https://dailycoffeenews.com/2026/09/21/new-mexico-experiment-brings-solar-heat-to-the-roasting-drum/
+- 2026-09-24 | Blue Bottle saca el Excelsa del cajón: dos lanzamientos con la especie olvidada | https://www.teaandcoffee.net/news/40100/blue-bottle-launches-two-rare-excelsa-forward-coffees/
+- 2026-09-24 | Café indio en Virginia: abrió Pi's Coffee y trae solo cafés de la India | https://dailycoffeenews.com/2026/09/21/indian-specialty-coffee-comes-full-circle-at-pis-coffee-in-richmond/
+- 2026-09-24 | París 2026: "el servicio es la nueva especialidad" (recap Paris Coffee Show) | https://www.baristamagazine.com/in-france-service-is-the-new-specialty-a-recap-of-the-2026-paris-coffee-show/
+- 2026-09-24 | Guatemala arma "El Ritual del Café": 13 cocinas, un mes, un maridaje distinto | https://emisorasunidas.com/tendencias/2026/09/22/ritual-del-cafe-2026-fechas-y-establecimientos/
+- 2026-09-24 | William Yates asume como SVP Comercial en SEB Professional Beverage | https://asiafoodjournal.com/william-yates-becomes-senior-vice-president-commercial-at-seb-professional-beverage/
+- 2026-09-24 | Rocket Espresso presenta la Bicocca para el segmento "beyond home" | https://www.baristamagazine.com/coffee-goes-beyond-home-with-the-bicocca-from-rocket/
+- 2026-09-24 | El arábica cerró en 271,77 centavos la libra el 23/09 | https://tradingeconomics.com/commodity/coffee/news/577922
+- 2026-09-24 | Promociones por el National Coffee Day (29 de septiembre) | https://www.nbcnewyork.com/news/national-international/national-coffee-day-deals-2026-free-coffee/6551226/
