@@ -3,14 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-09-10 | Moldavia da la nota: Elizaveta Rîmscaia gana la Julius Meinl Barista Cup 2026 en Viena | https://www.comunicaffe.com/julius-meinl-barista-cup-2026-winner-vienna-elizaveta-rimscaia/
-- 2026-09-10 | Quito estrena la Global Coffee Fair y la gala de Los 100 Mejores Cafés de Sudamérica (18-20 sep) | https://turismo.quito.gob.ec/quito-reune-al-mundo-del-cafe-y-se-proyecta-como-destino-internacional-de-eventos/
-- 2026-09-10 | Uruguay repite: quinta Expo Café en Montevideo, 12 y 13 de septiembre | https://expocafe.uy/
-- 2026-09-10 | Kenia cierra la cosecha 2026 volando: AA por todos lados (Nordic Approach) | https://www.nordicapproach.no/post/kenya-specialty-coffee-harvest-2026-early-peak-and-strong-aa-quality
-- 2026-09-10 | Julius Meinl 1862 cerró 2025 con € 351 M en ventas netas (Comunicaffe) | https://www.comunicaffe.com/marcel-loffler-julius-meinl-results-2026/
-- 2026-09-10 | Alpine Roasting Championship arranca en Múnich el 9 de octubre | https://alpineroastingchampionship.com/
-- 2026-09-10 | Sanremo presentó LINK, un sistema que conecta espresso y molino | https://www.comunicaffe.com/sanremo-link-world-of-coffee-san-diego-2026/
-- 2026-09-10 | Fresh Cup Coffee News Club: boom del café en Odessa, Texas | https://freshcup.com/coffee-news-club-week-of-september-9th/
 - 2026-09-11 | Brasil se despachó el mejor agosto de la historia: US$ 1.331M en café | https://www.infobae.com/america/agencias/2026/09/10/brasil-exporta-un-valor-record-de-cafe-para-agosto-con-1331-millones-de-dolares/
 - 2026-09-11 | Sweet Bloom se lleva los Global Coffee Awards de Norteamérica | https://perfectdailygrind.com/2026/09/global-coffee-awards-us-canada-winners-2026/
 - 2026-09-11 | Caffè Borbone se lo lleva a Cipolloni: viene con Eataly y Autogrill en la mochila | https://www.worldcoffeeportal.com/news/new-leadership-announced-for-italys-caffe-borbone/
@@ -135,3 +127,12 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-09-24 | Rocket Espresso presenta la Bicocca para el segmento "beyond home" | https://www.baristamagazine.com/coffee-goes-beyond-home-with-the-bicocca-from-rocket/
 - 2026-09-24 | El arábica cerró en 271,77 centavos la libra el 23/09 | https://tradingeconomics.com/commodity/coffee/news/577922
 - 2026-09-24 | Promociones por el National Coffee Day (29 de septiembre) | https://www.nbcnewyork.com/news/national-international/national-coffee-day-deals-2026-free-coffee/6551226/
+- 2026-09-25 | Un Geisha panameño se paga US$ 18.004 el kilo y lo compra JD.com (Best of Panama 2026) | https://www.infobae.com/panama/2026/09/25/subasta-mundial-del-cafe-de-alta-gama-de-panama-supera-los-3-millones-en-ventas/
+- 2026-09-25 | Cafezal se anima a cruzar la frontera: primer local fuera de Italia en Lisboa (Q4 2026) | https://www.worldcoffeeportal.com/news/italys-cafezal-poised-for-international-debut-in-fourth-quarter/
+- 2026-09-25 | AeroPress cumple 20 y saca ediciones Premium en vidrio y metal (US$ 199,95, 28 sep) | https://www.comunicaffe.com/aeropress-celebrates-20-years-with-launch-of-hand-crafted-glass-metal-premium-black-and-white-editions/
+- 2026-09-25 | Umami en la taza: el café se pone salado (koji, miso caramelo Blue Bottle) | https://www.baristamagazine.com/hold-the-sugar-and-pass-the-dashi-coffee-is-having-a-savory-awakening/
+- 2026-09-25 | Boon Boona planta bandera en Pike Place con café africano (Build-Outs Sprudge) | https://sprudge.com/build-outs-of-coffee-boon-boona-coffee-in-seattle-wa-1310546.html
+- 2026-09-25 | Design Details: DOT. Coffee & Matcha en Varsovia (DCN) | https://dailycoffeenews.com/2026/09/24/design-details-urban-inspired-joy-at-dot-coffee-matcha-in-warsaw/
+- 2026-09-25 | El arábica tocó mínimo de tres meses (US$ 2,70 la libra) | https://www.brecorder.com/news/40440897/arabica-coffee-sets-three-month-low-sugar-and-cocoa-also-fall
+- 2026-09-25 | Fairtrade sube el precio mínimo del arábica a US$ 2 la libra desde diciembre | https://www.gcrmag.com/fairtrades-minimum-coffee-prices-to-increase
+- 2026-09-25 | Forbes Centroamérica: Geisha de US$ 18.000/kg en el BOP 2026 | https://forbescentroamerica.com/2026/09/24/la-silicon-valley-del-cafe-cosecha-el-exito-de-2026-con-un-geisha-de-18-mil-dolares-por-kilo
