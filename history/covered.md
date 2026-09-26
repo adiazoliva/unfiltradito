@@ -3,16 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-09-11 | Brasil se despachó el mejor agosto de la historia: US$ 1.331M en café | https://www.infobae.com/america/agencias/2026/09/10/brasil-exporta-un-valor-record-de-cafe-para-agosto-con-1331-millones-de-dolares/
-- 2026-09-11 | Sweet Bloom se lleva los Global Coffee Awards de Norteamérica | https://perfectdailygrind.com/2026/09/global-coffee-awards-us-canada-winners-2026/
-- 2026-09-11 | Caffè Borbone se lo lleva a Cipolloni: viene con Eataly y Autogrill en la mochila | https://www.worldcoffeeportal.com/news/new-leadership-announced-for-italys-caffe-borbone/
-- 2026-09-11 | Dunkin' cambia el timón: Paul Brown se aparta y Scott Murphy toma Inspire | https://www.worldcoffeeportal.com/news/inspire-brands-names-interim-ceo-ahead-of-planned-ipo/
-- 2026-09-11 | Rocket Espresso × Audi: una máquina hecha con lenguaje de auto deportivo | https://sprudge.com/rocket-espresso-presents-rocket-x-audi-1326918.html
-- 2026-09-11 | The Magic Bean Co pone £21M en drive-thru de Starbucks (UK) | https://www.worldcoffeeportal.com/news/uk-starbucks-licensee-to-invest-21m-in-drive-thru-stores/
-- 2026-09-11 | Löfbergs suma un cuarto mercado nórdico a su acuerdo con McDonald's | https://www.worldcoffeeportal.com/news/lofbergs-adds-fourth-nordic-market-to-key-mcdonalds-account/
-- 2026-09-11 | El US Barista Championship 2027 ya tiene calendario | https://sprudge.com/the-2027-us-barista-championship-schedule-has-been-announced-1324042.html
-- 2026-09-11 | Por qué los mejores baristas del mundo se van de gira (Perfect Daily Grind) | https://perfectdailygrind.com/2026/09/baristas-going-on-tour/
-- 2026-09-11 | Cinnabon apunta al mercado europeo más grande de panadería-café | https://www.worldcoffeeportal.com/news/cinnabon-to-take-on-europes-largest-bakery-cafe-market/
 - 2026-09-12 | Abu Dhabi mete US$ 1.000 millones en Luckin y se sienta en la mesa china | https://dailycoffeenews.com/2026/09/10/mubadala-plans-minority-stake-in-luckin-in-1-billion-deal/
 - 2026-09-12 | Uganda le vende café a Corea del Sur: 3.500 toneladas por año y Busan como hub | https://coffeegeography.com/2026/09/08/uganda-secures-landmark-coffee-export-deal-with-south-korea/
 - 2026-09-12 | Barras "bikini" de Seattle: 70 baristas se llevan US$ 1,85 millones | https://www.spokesman.com/stories/2026/sep/09/group-of-bikini-baristas-win-nearly-2m-in-legal-ba/
@@ -136,3 +126,11 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-09-25 | El arábica tocó mínimo de tres meses (US$ 2,70 la libra) | https://www.brecorder.com/news/40440897/arabica-coffee-sets-three-month-low-sugar-and-cocoa-also-fall
 - 2026-09-25 | Fairtrade sube el precio mínimo del arábica a US$ 2 la libra desde diciembre | https://www.gcrmag.com/fairtrades-minimum-coffee-prices-to-increase
 - 2026-09-25 | Forbes Centroamérica: Geisha de US$ 18.000/kg en el BOP 2026 | https://forbescentroamerica.com/2026/09/24/la-silicon-valley-del-cafe-cosecha-el-exito-de-2026-con-un-geisha-de-18-mil-dolares-por-kilo
+- 2026-09-26 | Una tampiqueña con café del Huila se llevó el Nacional de Filtrados (Sofía Hernández, México 2026) | https://www.milenio.com/estilo/gastronomia/sofia-hernandez-barista-llevo-tampico-podio-nacional
+- 2026-09-26 | StoneX ve 10 millones de sacos de excedente y el arábica sigue en piso (PDG recap 25 sep) | https://perfectdailygrind.com/2026/09/coffee-news-recap-25-september-2026/
+- 2026-09-26 | Brasil rescató a 53 trabajadores del café en condiciones análogas a la esclavitud | https://dailycoffeenews.com/2026/09/25/weekly-coffee-news-roasted-at-origin-program-53-coffee-workers-rescued/
+- 2026-09-26 | Go Get Em Tiger se lleva la tostaduría al origen (Roasted at Origin, PRISM 29 sep) | https://sprudge.com/go-get-em-tiger-launches-roasted-at-origin-shifting-more-of-its-coffee-program-to-producing-countries-1361782.html
+- 2026-09-26 | Bucarest le abre las puertas al café latinoamericano (Slow Coffee Festival 10ª edición, 25-27 sep) | https://www.comunicaffe.com/slow-coffee-festival-2026-bucharest-programme/
+- 2026-09-26 | Greggs supera a Costa como la mayor cadena británica de café (Retail Gazette) | https://www.retailgazette.co.uk/blog/2026/09/greggs-overtakes-costa/
+- 2026-09-26 | Promociones y descuentos por el National Coffee Day del 29 de septiembre en EE.UU. (NBC New York) | https://www.nbcnewyork.com/news/national-international/national-coffee-day-deals-2026-free-coffee/6551226/
+- 2026-09-26 | Klatch Coffee celebra el National Coffee Day con canjes en su app (Sprudge) | https://sprudge.com/klatch-coffee-celebrates-national-coffee-day-september-29-2026-1265734.html
