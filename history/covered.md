@@ -3,15 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-09-12 | Abu Dhabi mete US$ 1.000 millones en Luckin y se sienta en la mesa china | https://dailycoffeenews.com/2026/09/10/mubadala-plans-minority-stake-in-luckin-in-1-billion-deal/
-- 2026-09-12 | Uganda le vende café a Corea del Sur: 3.500 toneladas por año y Busan como hub | https://coffeegeography.com/2026/09/08/uganda-secures-landmark-coffee-export-deal-with-south-korea/
-- 2026-09-12 | Barras "bikini" de Seattle: 70 baristas se llevan US$ 1,85 millones | https://www.spokesman.com/stories/2026/sep/09/group-of-bikini-baristas-win-nearly-2m-in-legal-ba/
-- 2026-09-12 | Café somalí en Ohio: el East African Coffee House abrió en Gahanna | https://www.baristamagazine.com/somali-coffee-traditions-find-a-home-in-columbus-ohio/
-- 2026-09-12 | Paris Brothers pasa a llamarse Paris Group y sale del clóset del café | https://startlandnews.com/2026/09/parisi-coffee-paris-group/
-- 2026-09-12 | Cuatro sucursales de Philz Coffee en California piden formar sindicato | https://spectrumnews1.com/ca/la/business/2026/09/08/philz-coffee-workers-union-california
-- 2026-09-12 | KLVN Coffee Lab cierra el 17 de septiembre en Pittsburgh | https://dailycoffeenews.com/2026/09/11/weekly-coffee-news-major-u-s-coffee-supplier-rebrands-1-85-million-barista-lawsuit/
-- 2026-09-12 | El arábica bajó 16,4% en 30 días y cerró en US$ 2,84 la libra | https://tradingeconomics.com/commodity/coffee/news/577922
-- 2026-09-12 | Reborn Coffee recibe notificación de Nasdaq por falta de presentación del 10-Q | https://www.manilatimes.net/2026/09/03/tmt-newswire/globenewswire/reborn-coffee-receives-nasdaq-notification-regarding-late-10-q-filing-and-continued-listing-requirements/2417622
 - 2026-09-13 | Starbucks Japón se mete en las expendedoras con un caramel macchiato exclusivo | https://soranews24.com/2026/09/12/starbucks-japan-unveils-first-ever-vending-machine-with-an-exclusive-coffee-drink/
 - 2026-09-13 | % Arabica cruza los Alpes: Zúrich es el próximo destino | https://www.worldcoffeeportal.com/news/japans-arabica-to-enter-fifth-european-market/
 - 2026-09-13 | Un café congoleño rompió el techo de la subasta: US$ 55,50 el kilo (Pact Coffee / Yetu Qahwah Izuba) | https://www.gcrmag.com/record-congolese-coffee-lot-secured-by-london-roaster
@@ -134,3 +125,12 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-09-26 | Greggs supera a Costa como la mayor cadena británica de café (Retail Gazette) | https://www.retailgazette.co.uk/blog/2026/09/greggs-overtakes-costa/
 - 2026-09-26 | Promociones y descuentos por el National Coffee Day del 29 de septiembre en EE.UU. (NBC New York) | https://www.nbcnewyork.com/news/national-international/national-coffee-day-deals-2026-free-coffee/6551226/
 - 2026-09-26 | Klatch Coffee celebra el National Coffee Day con canjes en su app (Sprudge) | https://sprudge.com/klatch-coffee-celebrates-national-coffee-day-september-29-2026-1265734.html
+- 2026-09-27 | Starbucks vuelve a bajar la persiana: 250 locales cierran en Norteamérica | https://www.cnbc.com/2026/09/24/starbucks-to-close-250-stores.html
+- 2026-09-27 | Un colombiano de 21 años se lleva el LAC Barista Championship de Starbucks (Juan José Córdova) | https://www.unotv.com/estilo-de-vida/juan-jose-barista-de-colombia-gana-campeonato-de-latinoamerica-y-el-caribe-de-starbucks/
+- 2026-09-27 | Coffee People Zine vuelve al papel con más de 80 aportantes (Issue 26) | https://sprudge.com/coffee-people-zine-returns-for-issue-26-1325316.html
+- 2026-09-27 | Fresh Pots abre en Copenhague y va contra la moda del menú largo (Build-Outs Sprudge) | https://sprudge.com/build-outs-of-coffee-fresh-pots-in-copehagen-denmark-1266561.html
+- 2026-09-27 | Juan Valdez gana oro en los Latam Global Coffee Awards con café del Huila | https://www.vanguardia.com/economia/nacional/2026/09/26/cafe-colombiano-se-lleva-el-oro-juan-valdez-fue-premiado-en-los-latam-global-coffee-awards/
+- 2026-09-27 | Camilo lanza con Starbucks "Mi Café, Mi Ritual" en Latinoamérica | https://roastbrief.com.mx/2026/09/starbucks-y-el-cantautor-colombiano-camilo-se-unen-en-la-iniciativa-mi-cafe-mi-ritual/
+- 2026-09-27 | Wrecking Ball Coffee suma dos cafés y una tostaduría en el Área de la Bahía | https://hoodline.com/2026/09/wrecking-ball-coffee-plots-potrero-hill-berkeley-cafes-and-a-dogpatch-roastery/
+- 2026-09-27 | The Caffè by Mr. Espresso presenta su carta de otoño con pop-ups culinarios | https://sprudge.com/the-caffe-by-mr-espresso-announces-2026-fall-drink-lineup-culinary-pop-ups-1368017.html
+- 2026-09-27 | Sprudge recomienda equipos nuevos para renovar la barra de casa | https://sprudge.com/update-your-coffee-counter-with-some-fresh-new-gear-1367327.html
