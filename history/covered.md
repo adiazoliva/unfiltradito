@@ -3,15 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-09-13 | Starbucks Japón se mete en las expendedoras con un caramel macchiato exclusivo | https://soranews24.com/2026/09/12/starbucks-japan-unveils-first-ever-vending-machine-with-an-exclusive-coffee-drink/
-- 2026-09-13 | % Arabica cruza los Alpes: Zúrich es el próximo destino | https://www.worldcoffeeportal.com/news/japans-arabica-to-enter-fifth-european-market/
-- 2026-09-13 | Un café congoleño rompió el techo de la subasta: US$ 55,50 el kilo (Pact Coffee / Yetu Qahwah Izuba) | https://www.gcrmag.com/record-congolese-coffee-lot-secured-by-london-roaster
-- 2026-09-13 | Alcanza con oler el café: cinco minutos bastan para bajar la ansiedad (estudio Nutrients) | https://www.news-medical.net/news/20260910/Five-minutes-of-coffee-aroma-was-linked-to-shifts-in-mood-and-brain-activity.aspx
-- 2026-09-13 | Braun lanza la línea OptiBrew de cafeteras de goteo (US$199) | https://www.prnewswire.com/news-releases/new-optibrew-line-infuses-more-possibilities-to-the-daily-coffee-routine-302869125.html
-- 2026-09-13 | 92 Degrees Coffee entra en supermercados Sainsbury's del Reino Unido | https://www.worldcoffeeportal.com/news/uk-specialty-coffee-group-92-degrees-bags-major-supermarket-cafe-deal/
-- 2026-09-13 | El impacto del café sobre el Parkinson dependería de tus genes (Sprudge) | https://sprudge.com/coffees-impact-on-parkinsons-disease-may-depend-on-your-genetics-1308716.html
-- 2026-09-13 | Ljubljana Coffee Festival celebra su décima edición el 26 y 27 de septiembre | https://ljubljanacoffeefestival.si/en/
-- 2026-09-13 | Se anunció el calendario del US Roasters Championship 2027 | https://sprudge.com/the-2027-us-roasters-championship-schedule-has-been-announced-1265144.html
 - 2026-09-14 | Cierra Exigí Buen Café en Palermo: 13ª edición con 100 expositores y 40 productores latinos y africanos | https://www.mediosagrupados.com.ar/llega-la-13a-edicion-de-la-feria-cafetera-mas-grande-de-argentina/
 - 2026-09-14 | Lavazza desembarca Tablì en EE.UU.: espresso monodosis sin plástico | https://finance.yahoo.com/markets/stocks/articles/lavazza-tabl-espresso-tablets-launching-145657827.html
 - 2026-09-14 | Jollibee cambia Wall Street por Hong Kong: Compose y Highlands salen a cotizar en Asia | https://www.worldcoffeeportal.com/news/jollibee-group-drops-us-listing-plan-in-favour-of-hong-kong/
@@ -134,3 +125,12 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-09-27 | Wrecking Ball Coffee suma dos cafés y una tostaduría en el Área de la Bahía | https://hoodline.com/2026/09/wrecking-ball-coffee-plots-potrero-hill-berkeley-cafes-and-a-dogpatch-roastery/
 - 2026-09-27 | The Caffè by Mr. Espresso presenta su carta de otoño con pop-ups culinarios | https://sprudge.com/the-caffe-by-mr-espresso-announces-2026-fall-drink-lineup-culinary-pop-ups-1368017.html
 - 2026-09-27 | Sprudge recomienda equipos nuevos para renovar la barra de casa | https://sprudge.com/update-your-coffee-counter-with-some-fresh-new-gear-1367327.html
+- 2026-09-28 | El Tolima se prende fuego y los cafetales miran de cerca (15 incendios activos en Colombia, 9 en Tolima) | https://www.eltiempo.com/colombia/otras-ciudades/colombia-sigue-ardiendo-15-incendios-forestales-permanecen-activos-y-tolima-concentra-mas-de-la-mitad-3587274
+- 2026-09-28 | Un filtro de grafeno saca la mitad de la cafeína sin robarle el sabor (CGSM-1, Journal of Membrane Science) | https://sprudge.com/scientists-have-created-a-coffee-filter-that-removes-half-the-caffeine-1358171.html
+- 2026-09-28 | Verve Coffee firma un acuerdo sindical con US$ 5 extra por hora en licencias por enfermedad | https://coffeetalk.com/daily-dose/for-roasters-retailers/09-2026/111001/
+- 2026-09-28 | Highlands Coffee vuelve a manos vietnamitas: Jollibee vende 11% a VTI por US$ 88M | https://www.worldcoffeeportal.com/news/jollibee-group-cedes-control-of-highlands-coffee-with-stake-sale/
+- 2026-09-28 | Kopi Kenangan afila el lápiz para un IPO de US$ 1.000 millones (Serena Williams, Jay-Z) | https://qz.com/kopi-kenangan-ipo-serena-williams-jay-z-indonesia-coffee-071726
+- 2026-09-28 | UAE-listed Mair Group to acquire controlling stake in Turkey's Espressolab | https://www.worldcoffeeportal.com/news/uae-listed-mair-group-to-acquire-controlling-stake-in-turkeys-espressolab/
+- 2026-09-28 | China's Cotti Coffee to kickstart UK regional expansion | https://www.worldcoffeeportal.com/news/chinas-cotti-coffee-to-kickstart-uk-regional-expansion/
+- 2026-09-28 | Everyone Moving On From The Second 2027 US Roasters Championship Qualifying Event (Washougal) | https://sprudge.com/heres-everyone-moving-on-from-the-second-2027-us-roasters-championship-qualifying-event-1365120.html
+- 2026-09-28 | The Week in Coffee, 21-27 September 2026 (World Coffee Portal roundup) | https://www.worldcoffeeportal.com/news/the-week-in-coffee-21-27-september-2026/
