@@ -3,15 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-09-14 | Cierra Exigí Buen Café en Palermo: 13ª edición con 100 expositores y 40 productores latinos y africanos | https://www.mediosagrupados.com.ar/llega-la-13a-edicion-de-la-feria-cafetera-mas-grande-de-argentina/
-- 2026-09-14 | Lavazza desembarca Tablì en EE.UU.: espresso monodosis sin plástico | https://finance.yahoo.com/markets/stocks/articles/lavazza-tabl-espresso-tablets-launching-145657827.html
-- 2026-09-14 | Jollibee cambia Wall Street por Hong Kong: Compose y Highlands salen a cotizar en Asia | https://www.worldcoffeeportal.com/news/jollibee-group-drops-us-listing-plan-in-favour-of-hong-kong/
-- 2026-09-14 | Vietnam, Uganda, Colombia e India firman con IDH el Programa de Café Resiliente (RCP): 300.000 productores | https://idh.org/news/idh-launches-the-resilient-coffee-program-to-accelerate-investment-in-regenerative-coffee-sourcing-regions
-- 2026-09-14 | The Coffee Project abre hoy su primer local en el Upper East Side | https://patch.com/new-york/upper-east-side-nyc/coffee-project-opening-first-upper-east-side-shop
-- 2026-09-14 | Rocket Espresso llega con la R58 Tune a más mercados en septiembre | https://sprudge.com/rocket-espresso-announces-new-r58-tune-dual-boiler-espresso-machine-910984.html
-- 2026-09-14 | StoneX advierte por escasez de mano de obra en Honduras y Guatemala | https://www.stonex.com/en-us/insights/central-america-s-coffee-belt-enters-a-critical-season-as-weather-risks-labor-shortages-and-regulatory-pressures-mount/
-- 2026-09-14 | BSH presenta la primera espresso hogareña con Alexa+ integrada | https://www.comunicaffe.com/bsh-launches-first-espresso-machine-globally-to-be-powered-by-alexa-new-natural-language-ai-technology-at-ces/
-- 2026-09-14 | Löfbergs nombra nueva conducción para Peter Larsen Kaffe en Dinamarca | https://www.mynewsdesk.com/lofbergs/pressreleases/loefbergs-strengthens-danish-operations-with-new-md-for-peter-larsen-kaffe-3389355
 - 2026-09-15 | Negro se expande en Palermo: abre un local con vinilos, libros y cocina (Negro Hollywood, Arévalo 2051) | https://www.ambito.com/lifestyle/la-cafeteria-argentina-elegida-las-mejores-del-mundo-abre-un-nuevo-espacio-donde-conviven-cafe-libros-y-musica-n6288377
 - 2026-09-15 | Un Geisha de Ortega rompió el récord del Tolima: US$ 75 la libra (IV Feria Internacional del Café en Chaparral) | https://www.infobae.com/colombia/2026/09/13/feria-internacional-del-cafe-en-tolima-nuevo-record-historico-de-75-dolares-pagados-por-una-libra-de-cafe/
 - 2026-09-15 | Tomarlo muy caliente triplica el riesgo de cáncer de esófago (estudio Oxford / UK Biobank) | https://medicalxpress.com/news/2026-09-hot-tea-coffee-linked-greater.html
@@ -134,3 +125,11 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-09-28 | China's Cotti Coffee to kickstart UK regional expansion | https://www.worldcoffeeportal.com/news/chinas-cotti-coffee-to-kickstart-uk-regional-expansion/
 - 2026-09-28 | Everyone Moving On From The Second 2027 US Roasters Championship Qualifying Event (Washougal) | https://sprudge.com/heres-everyone-moving-on-from-the-second-2027-us-roasters-championship-qualifying-event-1365120.html
 - 2026-09-28 | The Week in Coffee, 21-27 September 2026 (World Coffee Portal roundup) | https://www.worldcoffeeportal.com/news/the-week-in-coffee-21-27-september-2026/
+- 2026-09-29 | FICCA arranca en Neiva: cuatro días de café, cacao y agroturismo (1-4 oct, Huila) | https://mundoagropecuario.com/colombia-arranca-una-nueva-edicion-de-ficca-punto-de-encuentro-de-la-industria-del-cafe-el-cacao-y-el-agroturismo/
+- 2026-09-29 | Por qué el café colombiano arrasa en las competencias globales (PDG, Thomas Wensma) | https://perfectdailygrind.com/2026/09/colombian-coffees-competitions-auctions/
+- 2026-09-29 | Luckin desembarcaría en el Golfo con la plata de Mubadala (WCP) | https://www.worldcoffeeportal.com/news/luckin-coffee-eyes-middle-east-debut-after-1bn-mubadala-stake-sale/
+- 2026-09-29 | Caffè Culture cumple 20 y toma Islington por dos días (29-30 sep, Londres) | https://www.worldcoffeeportal.com/news/the-london-coffee-festival-2026-is-just-days-away/
+- 2026-09-29 | The AeroPress Goes Premium With The New Walnut (Sprudge) | https://sprudge.com/the-aeropress-goes-premium-with-the-new-walnut-1365695.html
+- 2026-09-29 | Sun Bear Coffee abre su primer local propio en St. Petersburg (DCN) | https://dailycoffeenews.com/2026/09/29/sun-bear-coffee-basks-in-its-first-standalone-st-petersburg-cafe/
+- 2026-09-29 | The Miners prepara su séptimo mercado europeo (WCP) | https://www.worldcoffeeportal.com/news/czech-specialty-coffee-group-the-miners-to-enter-seventh-european-market/
+- 2026-09-29 | Sustainable Coffee Challenge lanza marco de resiliencia climática (CoffeeTalk) | https://coffeetalk.com/daily-dose/top-news/09-2026/111005/
