@@ -3,15 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-09-15 | Negro se expande en Palermo: abre un local con vinilos, libros y cocina (Negro Hollywood, Arévalo 2051) | https://www.ambito.com/lifestyle/la-cafeteria-argentina-elegida-las-mejores-del-mundo-abre-un-nuevo-espacio-donde-conviven-cafe-libros-y-musica-n6288377
-- 2026-09-15 | Un Geisha de Ortega rompió el récord del Tolima: US$ 75 la libra (IV Feria Internacional del Café en Chaparral) | https://www.infobae.com/colombia/2026/09/13/feria-internacional-del-cafe-en-tolima-nuevo-record-historico-de-75-dolares-pagados-por-una-libra-de-cafe/
-- 2026-09-15 | Tomarlo muy caliente triplica el riesgo de cáncer de esófago (estudio Oxford / UK Biobank) | https://medicalxpress.com/news/2026-09-hot-tea-coffee-linked-greater.html
-- 2026-09-15 | Hawái contra las cuerdas: el huracán Lala arrasó cafetales en Ka'u | https://www.hawaiipublicradio.org/local-news/2026-08-27/lala-took-toll-on-hawaii-island-coffee-farms
-- 2026-09-15 | Kahwa Coffee cumple 20 y se muda a una planta de 2.300 m² en San Petersburgo | https://www.businessobserverfl.com/news/2026/aug/10/st-pete-coffee-company-headquarters/
-- 2026-09-15 | McDonald's se despide del Pumpkin Spice Latte después de 13 años (TheStreet) | https://www.thestreet.com/restaurants/mcdonalds-discontinues-pumpkin-spice-adds-caramel-apple-pie-latte-2026
-- 2026-09-15 | Stumptown vuelve a Los Ángeles con un flagship en el Lincoln Heights Theatre (Sprudge) | https://sprudge.com/stumptown-coffee-roasters-to-open-flagship-la-location-in-historic-lincoln-heights-theatre-1327035.html
-- 2026-09-15 | Build-Outs of Coffee: Slow By Slow rehizo su barra en Boise (Sprudge) | https://sprudge.com/build-outs-of-coffee-slow-by-slow-in-boise-id-1274400.html
-- 2026-09-15 | Accademia del Caffè Espresso lanza "Coffee Facts", una serie educativa (Sprudge) | https://sprudge.com/accademia-del-caffe-espresso-is-dropping-coffee-facts-a-new-educational-series-1338813.html
 - 2026-09-16 | El café de especialidad rompió su propio récord en EE.UU. (NCA Fall 2026) | https://dailycoffeenews.com/2026/09/15/nca-more-americans-are-drinking-specialty-coffee-and-ordering-by-app/
 - 2026-09-16 | Panamá suma equipos: la SCA definió los patrocinadores del WBC hasta 2027 | https://wcc.coffee/latest-news/announcing-the-2026-2027-world-barista-championship-qualified-sponsors
 - 2026-09-16 | Ecuador contra la Xylella: los cafeteros del sur piden respuestas | https://www.expreso.ec/economia-y-negocios/ecuador-cafe-arabigo-germina-amenazas-contracion-precios-bacteria-xylella-plaga-informacion-agrocalidad-menor-produccion-lluvias-285628.html
@@ -133,3 +124,11 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-09-29 | Sun Bear Coffee abre su primer local propio en St. Petersburg (DCN) | https://dailycoffeenews.com/2026/09/29/sun-bear-coffee-basks-in-its-first-standalone-st-petersburg-cafe/
 - 2026-09-29 | The Miners prepara su séptimo mercado europeo (WCP) | https://www.worldcoffeeportal.com/news/czech-specialty-coffee-group-the-miners-to-enter-seventh-european-market/
 - 2026-09-29 | Sustainable Coffee Challenge lanza marco de resiliencia climática (CoffeeTalk) | https://coffeetalk.com/daily-dose/top-news/09-2026/111005/
+- 2026-09-30 | La Paz recibe la 4ª edición del festival El Buen Café con 12 productores (30 sep - 3 oct) | https://larazon.bo/economia-y-empresa/2026/09/29/el-festival-el-buen-cafe-reune-a-productores-de-seis-regiones-en-la-paz/
+- 2026-09-30 | Cuenca estrena el primer Café y Cacao Fest 2026 (9-11 oct, Hotel Oro Verde) | https://elmercurio.com.ec/cuenca/2026/09/30/cafe-cacao-fest-2026-cuenca-gastronomia/
+- 2026-09-30 | Blue Bottle debuta como sello con Notes In Repose, vinilo de jazz en edición de 1.500 copias (6 oct) | https://sprudge.com/blue-bottle-coffee-debuts-notes-in-repose-a-limited-edition-vinyl-celebrating-coffee-jazz-the-art-of-composition-1383088.html
+- 2026-09-30 | Keurig Dr Pepper lanza concentrado de espresso frío Jacobs para pelearle a Nestlé | https://www.worldcoffeeportal.com/news/instant-gratification-kdp-takes-on-nestle-with-espresso-concentrate-range/
+- 2026-09-30 | Miir presenta su primera colección de cerámicas en New Bone China (29 sep) | https://sprudge.com/miir-expands-beyond-drinkware-with-its-first-collection-of-handcrafted-ceramics-1307146.html
+- 2026-09-30 | El arábica se estabiliza en US$ 2,8845 con Brasil rumbo a récord de exportaciones (Business Recorder) | https://www.brecorder.com/news/40441889/arabica-coffee-steadies-amid-further-signs-of-growing-brazil-supplies
+- 2026-09-30 | Morgan Eckroth arma gira para presentar su libro "Coffee, for Here" (Sprudge) | https://sprudge.com/morgan-eckroth-is-going-on-a-coffee-for-here-book-tour-1382338.html
+- 2026-09-30 | Current Coffee Summit en St. Louis (29-30 sep, First Crack Coffee) | https://perfectdailygrind.com/events/world-of-coffee-panama-2026-world-barista-championship/
