@@ -3,14 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-09-16 | El café de especialidad rompió su propio récord en EE.UU. (NCA Fall 2026) | https://dailycoffeenews.com/2026/09/15/nca-more-americans-are-drinking-specialty-coffee-and-ordering-by-app/
-- 2026-09-16 | Panamá suma equipos: la SCA definió los patrocinadores del WBC hasta 2027 | https://wcc.coffee/latest-news/announcing-the-2026-2027-world-barista-championship-qualified-sponsors
-- 2026-09-16 | Ecuador contra la Xylella: los cafeteros del sur piden respuestas | https://www.expreso.ec/economia-y-negocios/ecuador-cafe-arabigo-germina-amenazas-contracion-precios-bacteria-xylella-plaga-informacion-agrocalidad-menor-produccion-lluvias-285628.html
-- 2026-09-16 | Sudán del Sur apuesta al Excelsa contra el cambio climático (Sprudge Special Projects) | https://specialprojects.sprudge.com/?p=992
-- 2026-09-16 | El arábica frenó la caída después de diez semanas en rojo | https://www.brecorder.com/news/40439457/arabica-coffee-steadies-after-hitting-fresh-10-week-low
-- 2026-09-16 | Coffee Design: Ninety Three Million from Blanchard's Coffee (Sprudge) | https://sprudge.com/coffee-design-ninety-three-million-from-blanchards-coffee-1283165.html
-- 2026-09-16 | Coffee Project abre en el Upper East Side (Patch) | https://patch.com/new-york/upper-east-side-nyc/coffee-project-opening-first-upper-east-side-shop
-- 2026-09-16 | The Japanese Kissaten Cafe Tradition (Sprudge Special Projects) | https://specialprojects.sprudge.com/?p=951
 - 2026-09-17 | Tres Tostadores se llevó el número uno del país en el Alvear (The Best Coffee Shops Argentina 2026) | https://www.lanacion.com.ar/sabado/las-mejores-cafeterias-argentinas-publicaron-el-ranking-con-las-mejores-quienes-estan-en-el-top-ten-nid16092026/
 - 2026-09-17 | México se llevó los Global Coffee Awards de Latinoamérica (Café Baluarte de Veracruz) | https://perfectdailygrind.com/2026/09/global-coffee-awards-latin-america-winners-2026/
 - 2026-09-17 | Caffè Vergnano cruzó el Mar de Irlanda: primer local en Limerick | https://www.worldcoffeeportal.com/news/italys-caffe-vergnano-expands-european-cafe-network-with-ireland-debut/
@@ -132,3 +124,11 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-09-30 | El arábica se estabiliza en US$ 2,8845 con Brasil rumbo a récord de exportaciones (Business Recorder) | https://www.brecorder.com/news/40441889/arabica-coffee-steadies-amid-further-signs-of-growing-brazil-supplies
 - 2026-09-30 | Morgan Eckroth arma gira para presentar su libro "Coffee, for Here" (Sprudge) | https://sprudge.com/morgan-eckroth-is-going-on-a-coffee-for-here-book-tour-1382338.html
 - 2026-09-30 | Current Coffee Summit en St. Louis (29-30 sep, First Crack Coffee) | https://perfectdailygrind.com/events/world-of-coffee-panama-2026-world-barista-championship/
+- 2026-10-01 | Argentina se mete en el mapa productor: el primer café de especialidad tucumano (Cabrales + IDEP) | https://www.infobae.com/tendencias/2026/10/01/martin-cabrales-la-primera-cosecha-de-cafe-en-tucuman-va-a-sorprender-por-la-calidad/
+- 2026-10-01 | Argentina toma más café que nunca: 208 tazas por persona al año (El Planeta Urbano) | https://elplanetaurbano.com/2026/09/dia-internacional-del-cafe-cuanto-crecio-el-consumo-y-donde-celebrarlo/
+- 2026-10-01 | Alianza GCP + GIZ + IDH + Solidaridad para compra responsable de café (DCN) | https://dailycoffeenews.com/2026/09/30/major-coffee-groups-combine-efforts-toward-responsible-procurement/
+- 2026-10-01 | Coffee Watch estrena el Coffee Scorecard 2026 | https://coffeewatch.org/the-2026-coffee-scorecard/
+- 2026-10-01 | Arábica rebota 2,4% a US$ 2,9640 por calidad brasileña y El Niño (Business Recorder) | https://www.brecorder.com/news/40442061/arabica-coffee-climbs-on-brazil-quality-concerns
+- 2026-10-01 | Raise Your Cup: Equal Origins arranca campaña de 15 días por productoras de café | https://equalorigins.org/raiseyourcup/
+- 2026-10-01 | Allpress + Hario relanzan el V60 Championship con regionales en 4 países | https://www.worldcoffeeportal.com/news/allpress-espresso-and-hario-unveil-their-biggest-v60-championship-yet/
+- 2026-10-01 | PRF cruza a México por primera vez (18-19 marzo 2027, Tuxtla, Chiapas) | https://perfectdailygrind.com/2026/10/prf-mexico-global-coffee-awards-world-championship/
