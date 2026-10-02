@@ -3,16 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-09-17 | Tres Tostadores se llevó el número uno del país en el Alvear (The Best Coffee Shops Argentina 2026) | https://www.lanacion.com.ar/sabado/las-mejores-cafeterias-argentinas-publicaron-el-ranking-con-las-mejores-quienes-estan-en-el-top-ten-nid16092026/
-- 2026-09-17 | México se llevó los Global Coffee Awards de Latinoamérica (Café Baluarte de Veracruz) | https://perfectdailygrind.com/2026/09/global-coffee-awards-latin-america-winners-2026/
-- 2026-09-17 | Caffè Vergnano cruzó el Mar de Irlanda: primer local en Limerick | https://www.worldcoffeeportal.com/news/italys-caffe-vergnano-expands-european-cafe-network-with-ireland-debut/
-- 2026-09-17 | Beekeeper Coffee entró a Target con la NBA en la mochila | https://dailycoffeenews.com/2026/09/16/beekeeper-coffee-builds-buzz-with-nba-nfl-and-pga-investors/
-- 2026-09-17 | Grounds for Health cumple 30 y sale a subastar café verde (23-24 sep) | https://dailycoffeenews.com/2026/09/16/grounds-for-health-marks-30-years-with-annual-coffee-auction/
-- 2026-09-17 | Build-Outs of Coffee: Sightglass en Berkeley (Sprudge) | https://sprudge.com/build-outs-of-coffee-sightglass-coffee-in-berkeley-ca-1275259.html
-- 2026-09-17 | La Marzocco se aloja en Lodenfrey para el Oktoberfest (Sprudge) | https://sprudge.com/from-florence-to-munich-la-marzocco-teams-up-with-lodenfrey-for-oktoberfest-1327616.html
-- 2026-09-17 | "El Pumpkin Spice está muerto" (Sprudge) | https://sprudge.com/pumpkin-spice-is-dead-1339584.html
-- 2026-09-17 | Arábica toca mínimo de 10 semanas (Business Recorder) | https://www.brecorder.com/news/40439820/arabica-coffee-hits-fresh-10-week-low
-- 2026-09-17 | El problema no es la falta de café, es la logística (CoffeeTalk) | https://coffeetalk.com/daily-dose/from-origin/09-2026/110946/
 - 2026-09-18 | El Kremlin le puso la mano encima a Nestlé: seis fábricas de café bajo administración estatal | https://www.beveragedaily.com/Article/2026/09/18/nestle-russia-under-state-administration-following-kremlin-decree/
 - 2026-09-18 | Nace Furthers & Betters, la consultora que quiere entender al que toma el café | https://dailycoffeenews.com/2026/09/17/furthers-betters-goes-beyond-the-cup-for-specialty-coffee-consumer-intelligence/
 - 2026-09-18 | La app y el drive-thru son un arma de doble filo (Sprudge) | https://sprudge.com/the-double-edged-sword-of-app-ordering-and-drive-thrus-in-coffee-1342468.html
@@ -132,3 +122,11 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-10-01 | Raise Your Cup: Equal Origins arranca campaña de 15 días por productoras de café | https://equalorigins.org/raiseyourcup/
 - 2026-10-01 | Allpress + Hario relanzan el V60 Championship con regionales en 4 países | https://www.worldcoffeeportal.com/news/allpress-espresso-and-hario-unveil-their-biggest-v60-championship-yet/
 - 2026-10-01 | PRF cruza a México por primera vez (18-19 marzo 2027, Tuxtla, Chiapas) | https://perfectdailygrind.com/2026/10/prf-mexico-global-coffee-awards-world-championship/
+- 2026-10-02 | La ONU estrenó el Día del Café y EE.UU. fue el único que votó en contra | https://dailycoffeenews.com/2026/10/01/today-is-the-first-official-un-international-coffee-day-guess-which-one-country-voted-against-it/
+- 2026-10-02 | Devoción destina 1% de cada bolsa a productores, pibes y bosques (Impact Fund) | https://sprudge.com/ny-based-colombian-coffee-roaster-devocion-launches-impact-fund-directing-1-of-every-retail-bag-to-coffee-farmers-youth-ecological-restoration-1396430.html
+- 2026-10-02 | Keurig Dr Pepper se juega a Russ Torres para su "Global Coffee Co." | https://worldcoffeeportal.com/news/keurig-dr-pepper-appoints-new-ceo-for-global-coffee-co-spinoff
+- 2026-10-02 | Carlos de la Torre (Café Avellaneda, CDMX) en la tapa de Barista Magazine (oct-nov 2026) | https://www.baristamagazine.com/out-now-the-october-november-2026-issue-of-barista-magazine/
+- 2026-10-02 | The Barista League Africa en Johannesburg (3 oct, Katy's Palace Bar) | https://www.thebaristaleague.com/2026-tbl-africa
+- 2026-10-02 | Roast Summit Portland 2026 (1-2 oct, Diedrich Roasters) | https://dailycoffeenews.com/2026/08/18/roast-summit-returns-to-portland-in-2026/
+- 2026-10-02 | Build-Outs of Coffee: Phil & Sebastian en Calgary (Seton) | https://sprudge.com/build-outs-of-coffee-phil-sebastian-in-calgary-alberta-1386731.html
+- 2026-10-02 | 7 Brew compra 63 locales ex-Salad and Go por US$ 123M | https://lasvegassun.com/news/2026/oct/01/fast-growing-coffee-chain-officially-acquires-63-b
