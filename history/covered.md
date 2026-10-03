@@ -3,14 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-09-18 | El Kremlin le puso la mano encima a Nestlé: seis fábricas de café bajo administración estatal | https://www.beveragedaily.com/Article/2026/09/18/nestle-russia-under-state-administration-following-kremlin-decree/
-- 2026-09-18 | Nace Furthers & Betters, la consultora que quiere entender al que toma el café | https://dailycoffeenews.com/2026/09/17/furthers-betters-goes-beyond-the-cup-for-specialty-coffee-consumer-intelligence/
-- 2026-09-18 | La app y el drive-thru son un arma de doble filo (Sprudge) | https://sprudge.com/the-double-edged-sword-of-app-ordering-and-drive-thrus-in-coffee-1342468.html
-- 2026-09-18 | Motors Coffee cruza el Atlántico y se instala dos días en Brooklyn (Sprudge) | https://sprudge.com/motors-coffee-of-paris-is-popping-up-at-sey-coffee-of-brooklyn-1345718.html
-- 2026-09-18 | New CEO for Australia's Soul Origin as it looks to more than double in size (WCP) | https://www.worldcoffeeportal.com/news/new-ceo-for-australias-soul-origin-as-it-looks-to-more-than-double-in-size/
-- 2026-09-18 | Smart Care unifies five coffee equipment service brands as Turbo Tech (DCN) | https://dailycoffeenews.com/2026/09/17/smart-care-unifies-five-coffee-equipment-service-brands-as-turbo-tech/
-- 2026-09-18 | Build-Outs of Coffee: Hijau Coffee in San Jose, CA (Sprudge) | https://sprudge.com/build-outs-of-coffee-hijau-coffee-in-san-jose-ca-1283098.html
-- 2026-09-18 | Rare Earth Coffee opens first Sacramento-area shop in Rancho Cordova (Hoodline) | https://hoodline.com/2026/09/rare-earth-coffee-brews-up-first-sacramento-area-shop-in-rancho-cordova/
 - 2026-09-19 | Bolivia rompe la banca: un Geisha de Takesi se remató a US$ 3.100 el kilo | https://perfectdailygrind.com/2026/09/coffee-news-recap-18-september-2026/
 - 2026-09-19 | Jimmy Butler y J Balvin arman un bundle por el terremoto de Colombia | https://perfectdailygrind.com/2026/09/coffee-news-recap-18-september-2026/
 - 2026-09-19 | Amanda Albuquerque, primera mujer campeona brasileña de Coffee in Good Spirits | https://campovivo.com.br/cafeicultura/2026/09/09/barismo-brasil-conhece-seus-novos-campeoes-de-coffee-in-good-spirits-e-latte-art/
@@ -130,3 +122,13 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-10-02 | Roast Summit Portland 2026 (1-2 oct, Diedrich Roasters) | https://dailycoffeenews.com/2026/08/18/roast-summit-returns-to-portland-in-2026/
 - 2026-10-02 | Build-Outs of Coffee: Phil & Sebastian en Calgary (Seton) | https://sprudge.com/build-outs-of-coffee-phil-sebastian-in-calgary-alberta-1386731.html
 - 2026-10-02 | 7 Brew compra 63 locales ex-Salad and Go por US$ 123M | https://lasvegassun.com/news/2026/oct/01/fast-growing-coffee-chain-officially-acquires-63-b
+- 2026-10-03 | Brasil hace fuerza: 67,6 M de sacos y floración un mes antes (Conab) | https://perfectdailygrind.com/es/2026/10/02/noticias-de-cafe-postulaciones-conferencias-prf-mexico/
+- 2026-10-03 | La roya se cuela en los Caturra nicaragüenses (12,4% de incidencia) | https://www.laprensani.com/2026/09/19/economia/3785409-roya-en-nicaragua-el-nino-esta-propiciando-condiciones-para-que-enfermedad-se-desarolle
+- 2026-10-03 | Etiopía rompe su propio techo: un Guji a US$ 2.376/kg (Faysel Abdosh Signature) | https://perfectdailygrind.com/2026/10/coffee-news-recap-2-october-2026/
+- 2026-10-03 | Nespresso baja la persiana a la cápsula de papel y vuelve al aluminio | https://www.worldcoffeeportal.com/news/nespresso-to-phase-out-home-compostable-paper-coffee-capsules/
+- 2026-10-03 | CoffeeFest Ecuador 2026 en Cotacachi (9-11 oct) | https://www.expectativa.ec/coffeefest-ecuador-2026-el-cafe-la-innovacion-y-el-talento-latinoamericano-se-encuentran-en-cotacachi/
+- 2026-10-03 | Luckin Coffee celebrates 100 stores in Singapore (Comunicaffe) | https://www.comunicaffe.com/luckin-coffee-celebrates-100-stores-in-singapore/
+- 2026-10-03 | Map It Forward lanza CoffeeListings.com (DCN Weekly) | https://dailycoffeenews.com/2026/10/02/weekly-coffee-news-marketplace-launches-dollys-new-coffee-commercial/
+- 2026-10-03 | Cartel Roasting se lleva dos platas en los Global Coffee Awards (Sprudge) | https://sprudge.com/cartel-roasting-co-takes-home-two-silver-medals-at-the-global-coffee-awards-1399540.html
+- 2026-10-03 | Dolly Parton Cup of Ambition sale a venta nacional (Barista Magazine Insider) | https://www.baristamagazine.com/the-insider-headlines-from-the-coffee-industry-45/
+- 2026-10-03 | Belfast Coffee Festival 3-4 de octubre | https://belfastcoffeefestival.com/
