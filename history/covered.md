@@ -3,16 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-09-19 | Bolivia rompe la banca: un Geisha de Takesi se remató a US$ 3.100 el kilo | https://perfectdailygrind.com/2026/09/coffee-news-recap-18-september-2026/
-- 2026-09-19 | Jimmy Butler y J Balvin arman un bundle por el terremoto de Colombia | https://perfectdailygrind.com/2026/09/coffee-news-recap-18-september-2026/
-- 2026-09-19 | Amanda Albuquerque, primera mujer campeona brasileña de Coffee in Good Spirits | https://campovivo.com.br/cafeicultura/2026/09/09/barismo-brasil-conhece-seus-novos-campeoes-de-coffee-in-good-spirits-e-latte-art/
-- 2026-09-19 | Starbucks sopesa vender su negocio en Japón por hasta US$ 3.000 millones (CNBC) | https://www.cnbc.com/2026/09/16/starbucks-considers-selling-majority-stake-japan.html
-- 2026-09-19 | Illycaffè apunta a EE.UU. como "segundo mercado doméstico" y deja la IPO en pausa (Bloomberg) | https://www.bloomberg.com/news/articles/2026-09-16/illycaffe-ceo-wants-to-make-us-its-second-domestic-market
-- 2026-09-19 | Pusha T y Pharrell Williams lanzan Grindin Coffee con Lavazza (The Source) | https://thesource.com/2026/09/16/pusha-t-and-pharrell-williams-launch-grindin-coffee-in-nyc/
-- 2026-09-19 | El especialidad tocó el 48% del consumo diario en EE.UU. (NCA Fall 2026) | https://www.ncausa.org/Market-Research/National-Coffee-Data-Trends
-- 2026-09-19 | Reysol Coffee Roasters junta plata para carpas en Balboa, Colombia (DCN) | https://dailycoffeenews.com/2026/09/18/weekly-coffee-news-colombian-relief-collab-superautomatic-espresso-launch/
-- 2026-09-19 | Arrancó The Global Coffee Fair en Quito (18-20 sep) | https://www.globalcoffeefair.com/
-- 2026-09-19 | Nespresso saca su primera mezcla Pumpkin Spice para oficinas (PDG) | https://perfectdailygrind.com/2026/09/coffee-news-recap-18-september-2026/
 - 2026-09-20 | Cafe Imports vuelve a Costa Rica con la 3ª temporada de Ecos del Café | https://www.cafeimports.com/australia/blog/category/costa-rica/
 - 2026-09-20 | Swiss Water invierte CA$ 6,2M en Delta y agranda su descafeinado sin químicos | https://www.worldcoffeeportal.com/news/swiss-water-unveils-multi-million-dollar-investment-in-production-expansion/
 - 2026-09-20 | Manolo Bakes ficha a David López para su expansión a Latinoamérica y Oriente Medio | https://www.worldcoffeeportal.com/news/spains-manolo-bakes-makes-key-senior-hire-to-drive-international-expansion/
@@ -132,3 +122,11 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-10-03 | Cartel Roasting se lleva dos platas en los Global Coffee Awards (Sprudge) | https://sprudge.com/cartel-roasting-co-takes-home-two-silver-medals-at-the-global-coffee-awards-1399540.html
 - 2026-10-03 | Dolly Parton Cup of Ambition sale a venta nacional (Barista Magazine Insider) | https://www.baristamagazine.com/the-insider-headlines-from-the-coffee-industry-45/
 - 2026-10-03 | Belfast Coffee Festival 3-4 de octubre | https://belfastcoffeefestival.com/
+- 2026-10-04 | DFI se queda con Starbucks en Asia: 1.100 locales y US$ 340 millones de cambio | https://www.worldcoffeeportal.com/news/hong-kong-retail-group-takes-control-of-seven-starbucks-markets-in-east-asia/
+- 2026-10-04 | Driftaway (Brooklyn) y Kafiex (Vancouver) se llevan el Roast Awards 2026 | https://qahwaworld.com/news/kafiex-driftaway-2026-roaster-awards/
+- 2026-10-04 | Chile se vuelve cafetero: 58% ya toma especialidad todas las semanas | https://www.lacuarta.com/tendencias/noticia/chile-celebra-el-dia-internacional-del-cafe-con-fuerte-alza-del-consumo-de-cafe-de-especialidad/
+- 2026-10-04 | Artusi se la juega: "El torrado fue el gran drama de Argentina" | https://www.infobae.com/tendencias/2026/10/01/del-cafe-torrado-al-boom-de-la-especialidad-nicolas-artusi-explica-como-cambio-el-consumo-en-argentina/
+- 2026-10-04 | África arma su primera gran mesa de café y cacao en Lagos | https://perfectdailygrind.com/events/africa-cocoa-and-coffee-conference-2026/
+- 2026-10-04 | Sprudge cierra su serie Build-Outs of Coffee 2026 | https://sprudge.substack.com/p/the-last-week-of-build-outs
+- 2026-10-04 | KapeCon 2026 en Makati, Filipinas | https://mb.com.ph/2026/10/04/kapecon-2026-brings-the-coffee-community-to-makati
+- 2026-10-04 | The Coffee Vine presenta su edición de octubre | https://thecoffeevine.com/blog/for-the-changing-seaons-heres-our-october-2026-edition
