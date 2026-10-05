@@ -3,15 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-09-20 | Cafe Imports vuelve a Costa Rica con la 3ª temporada de Ecos del Café | https://www.cafeimports.com/australia/blog/category/costa-rica/
-- 2026-09-20 | Swiss Water invierte CA$ 6,2M en Delta y agranda su descafeinado sin químicos | https://www.worldcoffeeportal.com/news/swiss-water-unveils-multi-million-dollar-investment-in-production-expansion/
-- 2026-09-20 | Manolo Bakes ficha a David López para su expansión a Latinoamérica y Oriente Medio | https://www.worldcoffeeportal.com/news/spains-manolo-bakes-makes-key-senior-hire-to-drive-international-expansion/
-- 2026-09-20 | Brewtifi, la app rumana de café de especialidad, cierra ronda con valuación de €1,6M | https://www.worldcoffeeportal.com/news/romanias-brewtifi-attains-eur1-6m-valuation-one-year-after-launch/
-- 2026-09-20 | El arábica cayó 1,79% el viernes 19 y cerró en 276,50 centavos | https://tradingeconomics.com/commodity/coffee/news/577922
-- 2026-09-20 | Build-Outs: Stumptown Coffee Roasters en Los Ángeles (Sprudge) | https://sprudge.com/build-outs-of-coffee-stumptown-coffee-roasters-in-los-angeles-ca-1310585.html
-- 2026-09-20 | Green Room: novedades de importadores de verde (Sprudge) | https://sprudge.com/checking-in-on-the-other-side-of-the-supply-chain-with-the-green-room-1349454.html
-- 2026-09-20 | Tim Hortons vuelve a colaborar con Ryan Reynolds (Comunicaffe) | https://www.comunicaffe.com/tim-hortons-launching-its-second-collab-with-ryan-reynolds-this-time-on-a-new-ryans-signature-donut/
-- 2026-09-20 | World Barista Championship en Panamá (22-25 octubre) | https://panama.worldofcoffee.org/worldbaristachampionship
 - 2026-09-21 | Negro Cueva de Café metió a Argentina en el top 10 sudamericano (100 Best Coffee Shops South America 2026) | https://www.primicias.ec/entretenimiento/gastronomia/ecuador-top-100-mejores-cafeterias-sudamerica-revelado-quito-domingo-133045/
 - 2026-09-21 | Free Bean abre en Manhattan la primera cafetería que no cobra el café (23 sep) | https://www.worldcoffeeportal.com/news/genius-or-gimmick-free-bean-launches-worlds-first-free-coffee-shop/
 - 2026-09-21 | Ecuador convoca al Loja Sabor a Café 2026: muestras hasta el 28 de septiembre, subasta el 9 de diciembre | https://cronica.com.ec/2026/09/07/prefectura-invita-a-caficultores-del-pais-a-inscripciones-para-el-concurso-nacional-loja-sabor-a-cafe-2026/
@@ -130,3 +121,13 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-10-04 | Sprudge cierra su serie Build-Outs of Coffee 2026 | https://sprudge.substack.com/p/the-last-week-of-build-outs
 - 2026-10-04 | KapeCon 2026 en Makati, Filipinas | https://mb.com.ph/2026/10/04/kapecon-2026-brings-the-coffee-community-to-makati
 - 2026-10-04 | The Coffee Vine presenta su edición de octubre | https://thecoffeevine.com/blog/for-the-changing-seaons-heres-our-october-2026-edition
+- 2026-10-05 | Honduras cerró la cosecha 2025-2026 con US$ 2.285 millones y arranca el ciclo 2026-2027 | https://forbescentroamerica.com/2026/10/01/cafe-hondureno-genera-en-la-ultima-cosecha-2285-mdd
+- 2026-10-05 | Café Martínez proyecta 31 aperturas en 2026 con US$ 7 millones de inversión | https://mercado.com.ar/negocios/cafe-martinez-proyecta-31-aperturas-en-2026-e-inversion-anual-de-us-7-millones
+- 2026-10-05 | SAS firma con Lykke Coffee Farms para servir café de especialidad en vuelo (feb 2027) | https://www.sasgroup.net/newsroom/press-releases/2026/sas-and-lykke-coffee-farms-team-up-to-raise-the-bar-for-coffee-in-the-air/
+- 2026-10-05 | 5ª edición del Pasaporte del Café de Especialidad CDMX con 60 barras | https://newsreportmx.com/2026/09/30/presentan-la-quinta-edicion-del-pasaporte-de-cafe-de-especialidad-con-60-barras-de-cafe-en-cdmx/
+- 2026-10-05 | Hacea Coffee Source se muda a una base más grande en Brea (DCN) | https://dailycoffeenews.com/2026/10/05/green-coffee-trader-hacea-gets-bigger-in-brea/
+- 2026-10-05 | From Vietnam To Vienna: Exploring The Global World Of Coffee Museums (Sprudge) | https://sprudge.com/from-vietnam-to-vienna-exploring-the-global-world-of-coffee-museums-1255579.html
+- 2026-10-05 | Heidi Bakery abre kiosko grab-and-go en London Victoria con café de Mozzo (WCP) | https://www.worldcoffeeportal.com/news/the-uks-heidi-bakery-enters-to-go-travel-retail-with-london-victoria-launch/
+- 2026-10-05 | The Coffee abre flagship en Parque Arauco (Chile) | https://www.df.cl/senal-df/el-deal/the-coffee-la-cafeteria-de-estilo-japones-que-conquista-chile
+- 2026-10-05 | Modern Cowgirl Coffee: ex marketera de Mattel lanza su DTC con café colombiano (DCN) | https://dailycoffeenews.com/2026/10/02/weekly-coffee-news-marketplace-launches-dollys-new-coffee-commercial/
+- 2026-10-05 | CNN: El Niño podría subir el precio del café y el cacao | https://www.cnn.com/2026/10/02/climate/el-nino-coffee-chocolate-price-increase
