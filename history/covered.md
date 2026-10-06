@@ -3,14 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-09-21 | Negro Cueva de Café metió a Argentina en el top 10 sudamericano (100 Best Coffee Shops South America 2026) | https://www.primicias.ec/entretenimiento/gastronomia/ecuador-top-100-mejores-cafeterias-sudamerica-revelado-quito-domingo-133045/
-- 2026-09-21 | Free Bean abre en Manhattan la primera cafetería que no cobra el café (23 sep) | https://www.worldcoffeeportal.com/news/genius-or-gimmick-free-bean-launches-worlds-first-free-coffee-shop/
-- 2026-09-21 | Ecuador convoca al Loja Sabor a Café 2026: muestras hasta el 28 de septiembre, subasta el 9 de diciembre | https://cronica.com.ec/2026/09/07/prefectura-invita-a-caficultores-del-pais-a-inscripciones-para-el-concurso-nacional-loja-sabor-a-cafe-2026/
-- 2026-09-21 | Empezó la votación de los European Coffee & Hospitality Awards 2026 (Top 200) | https://www.worldcoffeeportal.com/news/the-2026-european-coffee-hospitality-top-200-has-been-announced/
-- 2026-09-21 | Sprudge Roaster's Village: selección de tostadores destacados | https://sprudge.com/if-i-had-to-pick-one-coffee-from-the-sprudge-roasters-village-id-pick-them-all-1349410.html
-- 2026-09-21 | The Plot Thickens On Tarik Skubal's Espresso Machine (Sprudge) | https://sprudge.com/the-plot-thickens-on-dodgers-pitcher-tarik-skubals-espresso-machine-1348212.html
-- 2026-09-21 | Coffee industry investments, mergers and acquisitions: August 2026 (World Coffee Portal) | https://www.worldcoffeeportal.com/news/coffee-industry-investments-mergers-and-acquisitions-august-2026/
-- 2026-09-21 | Arábica diciembre 2026 sube 1,27% a 271,95 centavos (Vietnam.vn) | https://www.vietnam.vn/en/gia-nong-san-hom-nay-21-9-2026-gia-ca-phe-trong-nuoc-di-nguoc-the-gioi-thi-truong-van-chiu-ap-luc-lon-tin-hieu-tich-cuc-tu-dam-phan-my-trung
 - 2026-09-22 | Colombia arma la vidriera: Cafés de Colombia Expo desembarca en Bogotá (15-18 oct) | https://www.infobae.com/colombia/2026/09/22/cafes-de-colombia-expo-2026-en-bogota-todo-lo-que-tendra-la-feria-del-15-al-18-de-octubre/
 - 2026-09-22 | RoastConsole: una tostaduría entera adentro de un solo software (Farspeak Labs) | https://sprudge.com/roastconsole-launches-coffee-roasting-software-that-runs-the-whole-roastery-on-one-plan-1356622.html
 - 2026-09-22 | Knoops se queda sin CEO: se va William Gordon-Harris | https://www.worldcoffeeportal.com/news/william-gordon-harris-steps-down-as-knoops-ceo/
@@ -131,3 +123,10 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-10-05 | The Coffee abre flagship en Parque Arauco (Chile) | https://www.df.cl/senal-df/el-deal/the-coffee-la-cafeteria-de-estilo-japones-que-conquista-chile
 - 2026-10-05 | Modern Cowgirl Coffee: ex marketera de Mattel lanza su DTC con café colombiano (DCN) | https://dailycoffeenews.com/2026/10/02/weekly-coffee-news-marketplace-launches-dollys-new-coffee-commercial/
 - 2026-10-05 | CNN: El Niño podría subir el precio del café y el cacao | https://www.cnn.com/2026/10/02/climate/el-nino-coffee-chocolate-price-increase
+- 2026-10-06 | StoneX se queda con Integra Trading S.A.S. en Antioquia (Colombia) | https://www.comunicaffe.com/stonex-group-inc-acquires-integra-trading-s-a-s-establishing-a-colombian-coffee-origination-and-processing-platform/
+- 2026-10-06 | La ICO lanza el Coffee Market Intelligence Platform gratuito (data.ico.org) | https://dailycoffeenews.com/2026/09/30/ico-puts-global-coffee-market-data-in-one-interactive-place/
+- 2026-10-06 | Café Fest Manizales 2026: 21.000+ visitantes y 254 expositores en Expoferias | https://www.eje21.com.co/2026/10/cafe-fest-en-manizales-reunio-a-mas-de-21-000-visitantes-en-expoferias/
+- 2026-10-06 | Cafeyna cierra su 8ª edición en Valparaíso con 9.000 asistentes | https://g5noticias.cl/2026/10/06/mas-de-nueve-mil-personas-vivieron-la-octava-edicion-de-cafeyna-en-valparaiso/
+- 2026-10-06 | Estudio UFSC: polifenoles del café y menor mortalidad por cáncer de mama (British Journal of Nutrition) | https://dailycoffeenews.com/2026/10/05/small-study-links-polyphenols-to-breast-cancer-survival/
+- 2026-10-06 | SCA National Coffee Data Trends 2026: 47% consumo past-day de especialidad en EE.UU. | https://sca.coffee/sca-news/2026-national-coffee-data-trends-report
+- 2026-10-06 | Borra de café como aislante térmico biodegradable (Jeonbuk National University, Biochar) | https://www.eurekalert.org/news-releases/1130612
