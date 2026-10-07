@@ -3,15 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-09-22 | Colombia arma la vidriera: Cafés de Colombia Expo desembarca en Bogotá (15-18 oct) | https://www.infobae.com/colombia/2026/09/22/cafes-de-colombia-expo-2026-en-bogota-todo-lo-que-tendra-la-feria-del-15-al-18-de-octubre/
-- 2026-09-22 | RoastConsole: una tostaduría entera adentro de un solo software (Farspeak Labs) | https://sprudge.com/roastconsole-launches-coffee-roasting-software-that-runs-the-whole-roastery-on-one-plan-1356622.html
-- 2026-09-22 | Knoops se queda sin CEO: se va William Gordon-Harris | https://www.worldcoffeeportal.com/news/william-gordon-harris-steps-down-as-knoops-ceo/
-- 2026-09-22 | Abanico Coffee suma barra en San Francisco (Irving St): horchata al espresso | https://hoodline.com/2026/09/abanico-coffee-roasters-pours-into-irving-street-won-t-leave-the-mission-after-all/
-- 2026-09-22 | LaSavista se juega al otoño con cinco nuevas fórmulas para foodservice | https://www.worldcoffeeportal.com/news/lasavista-answers-consumer-cravings-for-autumnal-seasonal-serves/
-- 2026-09-22 | Chile se lleva el N° 1 en el ranking sudamericano con Eco Mapu Coffee (Villarrica) | https://www.biobiochile.cl/noticias/sociedad/curiosidades/2026/09/21/supero-a-colombia-cafeteria-chilena-fue-elegida-como-la-mejor-del-top-100-de-sudamerica.shtml
-- 2026-09-22 | Ecuador coloca 15 cafeterías en el top 100 con Fankør como #2 y Especie Café como #9 | https://prensamercosur.org/2026/09/22/en-quito-esta-la-segunda-mejor-cafeteria-de-sudamerica/
-- 2026-09-22 | Grounds For Health arranca su subasta anual (23-24 sep) | https://sprudge.com/the-grounds-for-health-auction-is-this-week-1356678.html
-- 2026-09-22 | Boom robot-barista: mercado global tocó US$2.180M, camino a US$4.050M en 2030 | https://coffeetalk.com/daily-dose/for-roasters-retailers/09-2026/110845/
 - 2026-09-23 | Cafe Imports pasa a manos de sus empleados (ESOP 100%) | https://dailycoffeenews.com/2026/09/21/cafe-imports-now-100-employee-owned-through-a-stock-plan/
 - 2026-09-23 | La SCA dona US$1 millón al UC Davis Coffee Center para una beca permanente de investigación | https://dailycoffeenews.com/2026/09/22/sca-gives-uc-davis-coffee-center-1-million-for-research-fellowship/
 - 2026-09-23 | Brasil estrena Best of Canephora: subasta internacional el 29 de noviembre en Cacoal | https://campovivo.com.br/cafeicultura/2026/08/24/bsca-cria-concurso-internacional-para-cafe-especial-da-especie-canefora/
@@ -130,3 +121,13 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-10-06 | Estudio UFSC: polifenoles del café y menor mortalidad por cáncer de mama (British Journal of Nutrition) | https://dailycoffeenews.com/2026/10/05/small-study-links-polyphenols-to-breast-cancer-survival/
 - 2026-10-06 | SCA National Coffee Data Trends 2026: 47% consumo past-day de especialidad en EE.UU. | https://sca.coffee/sca-news/2026-national-coffee-data-trends-report
 - 2026-10-06 | Borra de café como aislante térmico biodegradable (Jeonbuk National University, Biochar) | https://www.eurekalert.org/news-releases/1130612
+- 2026-10-07 | Sacarle la crema al espresso: la grieta que divide a la especialidad (PDG) | https://perfectdailygrind.com/2026/10/removing-crema-from-espresso/
+- 2026-10-07 | Reembolso de aranceles al café en EE.UU.: US$166 B y la cadena no se pone de acuerdo (PDG) | https://perfectdailygrind.com/2026/10/tariff-refunds-coffee/
+- 2026-10-07 | Drop Coffee abre su primer local internacional en Tokio (Nakano Marui) | https://www.worldcoffeeportal.com/news/swedens-drop-coffee-roasters-opens-first-international-cafe-in-japan/
+- 2026-10-07 | La Marzocco presenta la Strada X con perfiles por peso y Smart Saturation (PDG) | https://perfectdailygrind.com/2026/10/control-creativity-balancing-espresso/
+- 2026-10-07 | Juan Valdez nombra nuevo CEO tras seis meses de interinato (WCP, paywall) | https://www.worldcoffeeportal.com/news/new-ceo-for-colombian-coffee-group-juan-valdez/
+- 2026-10-07 | Blank Street triplica ganancias en Reino Unido (WCP) | https://www.worldcoffeeportal.com/news/believe-the-hype-blank-street-triples-uk-profits/
+- 2026-10-07 | Rumor de fusión Starbucks-Chipotle sube acciones de ambas (WCP) | https://www.worldcoffeeportal.com/news/there-is-a-rumour-that-starbucks-and-chipotle-could-merge/
+- 2026-10-07 | Costa Coffee recupera impulso con refacciones, drive-thru y matcha (WCP) | https://www.worldcoffeeportal.com/news/refurbishments-drive-thru-and-matcha-how-costa-coffee-got-its-mojo-back/
+- 2026-10-07 | Sprudge satiriza la moda de la leche de cereal gasificada | https://sprudge.com/did-we-really-need-to-carbonate-cereal-milk-1396692.html
+- 2026-10-07 | Seis meses sin novedades sobre Amy Hillyard, cofundadora de Farley's Coffeehouse (Oakland) | https://sprudge.com/six-months-later-the-co-owner-of-farleys-coffeehouse-is-still-missing-1393476.html
