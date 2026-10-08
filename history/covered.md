@@ -3,13 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-09-23 | Cafe Imports pasa a manos de sus empleados (ESOP 100%) | https://dailycoffeenews.com/2026/09/21/cafe-imports-now-100-employee-owned-through-a-stock-plan/
-- 2026-09-23 | La SCA dona US$1 millón al UC Davis Coffee Center para una beca permanente de investigación | https://dailycoffeenews.com/2026/09/22/sca-gives-uc-davis-coffee-center-1-million-for-research-fellowship/
-- 2026-09-23 | Brasil estrena Best of Canephora: subasta internacional el 29 de noviembre en Cacoal | https://campovivo.com.br/cafeicultura/2026/08/24/bsca-cria-concurso-internacional-para-cafe-especial-da-especie-canefora/
-- 2026-09-23 | Arrancó Coffee Week Berlin (22-25 sep) con la primera edición de los CWB Awards | https://www.coffeeweek.de/
-- 2026-09-23 | Mahou San Miguel compra La Flor del Café y Gran Café Royale al mayorista Disbesa Darnés | https://www.worldcoffeeportal.com/news/spanish-beer-giant-mahou-san-miguel-snaps-up-two-b2b-coffee-brands/
-- 2026-09-23 | Variety Coffee Roasters llega a 10 locales en Nueva York con la apertura en Greenpoint | https://dailycoffeenews.com/2026/09/22/variety-coffee-roasters-consistently-delivers-with-10th-new-york-location/
-- 2026-09-23 | Delafinca Specialty Coffee (Nicaragua) sumó 9 reconocimientos en los Global Coffee Awards 2026 | https://www.laprensani.com/2026/09/21/nacionales/3788588-cafe-nicaraguense-global-coffee-awards
 - 2026-09-24 | Sandia Labs tuesta café con sol guardado en piedras (New Mexico Experiment Brings Solar Heat to the Roasting Drum) | https://dailycoffeenews.com/2026/09/21/new-mexico-experiment-brings-solar-heat-to-the-roasting-drum/
 - 2026-09-24 | Blue Bottle saca el Excelsa del cajón: dos lanzamientos con la especie olvidada | https://www.teaandcoffee.net/news/40100/blue-bottle-launches-two-rare-excelsa-forward-coffees/
 - 2026-09-24 | Café indio en Virginia: abrió Pi's Coffee y trae solo cafés de la India | https://dailycoffeenews.com/2026/09/21/indian-specialty-coffee-comes-full-circle-at-pis-coffee-in-richmond/
@@ -131,3 +124,11 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-10-07 | Costa Coffee recupera impulso con refacciones, drive-thru y matcha (WCP) | https://www.worldcoffeeportal.com/news/refurbishments-drive-thru-and-matcha-how-costa-coffee-got-its-mojo-back/
 - 2026-10-07 | Sprudge satiriza la moda de la leche de cereal gasificada | https://sprudge.com/did-we-really-need-to-carbonate-cereal-milk-1396692.html
 - 2026-10-07 | Seis meses sin novedades sobre Amy Hillyard, cofundadora de Farley's Coffeehouse (Oakland) | https://sprudge.com/six-months-later-the-co-owner-of-farleys-coffeehouse-is-still-missing-1393476.html
+- 2026-10-08 | AmRest nombra a María Elena Pato-Castel como nueva CEO (desde 1 feb 2027) | https://www.worldcoffeeportal.com/news/major-european-starbucks-franchise-group-appoints-new-ceo/
+- 2026-10-08 | Mega Coffee abre flagship en Phnom Penh, Camboya (segundo mercado internacional) | https://www.worldcoffeeportal.com/news/mega-coffee-makes-big-bet-on-cambodia-flagship/
+- 2026-10-08 | M Stand (China) desembarca en Indonesia, tres meses después de Japón | https://www.worldcoffeeportal.com/news/chinas-m-stand-enters-second-international-market/
+- 2026-10-08 | Esteban Cristancho (Elevation Coffee Tampa) en los Sprudge Twenty 2026 | https://sprudge.com/esteban-cristancho-the-sprudge-twenty-interview-1278706.html
+- 2026-10-08 | Chronofuns lanza el Coffee in Motion Chronograph en Kickstarter (US$ 459) | https://sprudge.com/theres-a-new-coffee-watch-for-your-coffee-watch-collection-1406849.html
+- 2026-10-08 | Janette Watson (Gilly Brew Bar, Atlanta) en los Sprudge Twenty 2026 | https://sprudge.com/janette-watson-of-gilly-brew-bar-the-sprudge-twenty-interview-1278639.html
+- 2026-10-08 | Gong cha firma extensión de franquicia por 10 años en Filipinas | https://www.worldcoffeeportal.com/news/gong-cha-signs-10-year-franchise-extension-in-the-philippines/
+- 2026-10-08 | Evoca Group presenta su visión de valor sostenible (promocionado) | https://www.worldcoffeeportal.com/news/creating-sustainable-value-evoca-groups-vision/
