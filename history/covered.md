@@ -3,15 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-09-24 | Sandia Labs tuesta café con sol guardado en piedras (New Mexico Experiment Brings Solar Heat to the Roasting Drum) | https://dailycoffeenews.com/2026/09/21/new-mexico-experiment-brings-solar-heat-to-the-roasting-drum/
-- 2026-09-24 | Blue Bottle saca el Excelsa del cajón: dos lanzamientos con la especie olvidada | https://www.teaandcoffee.net/news/40100/blue-bottle-launches-two-rare-excelsa-forward-coffees/
-- 2026-09-24 | Café indio en Virginia: abrió Pi's Coffee y trae solo cafés de la India | https://dailycoffeenews.com/2026/09/21/indian-specialty-coffee-comes-full-circle-at-pis-coffee-in-richmond/
-- 2026-09-24 | París 2026: "el servicio es la nueva especialidad" (recap Paris Coffee Show) | https://www.baristamagazine.com/in-france-service-is-the-new-specialty-a-recap-of-the-2026-paris-coffee-show/
-- 2026-09-24 | Guatemala arma "El Ritual del Café": 13 cocinas, un mes, un maridaje distinto | https://emisorasunidas.com/tendencias/2026/09/22/ritual-del-cafe-2026-fechas-y-establecimientos/
-- 2026-09-24 | William Yates asume como SVP Comercial en SEB Professional Beverage | https://asiafoodjournal.com/william-yates-becomes-senior-vice-president-commercial-at-seb-professional-beverage/
-- 2026-09-24 | Rocket Espresso presenta la Bicocca para el segmento "beyond home" | https://www.baristamagazine.com/coffee-goes-beyond-home-with-the-bicocca-from-rocket/
-- 2026-09-24 | El arábica cerró en 271,77 centavos la libra el 23/09 | https://tradingeconomics.com/commodity/coffee/news/577922
-- 2026-09-24 | Promociones por el National Coffee Day (29 de septiembre) | https://www.nbcnewyork.com/news/national-international/national-coffee-day-deals-2026-free-coffee/6551226/
 - 2026-09-25 | Un Geisha panameño se paga US$ 18.004 el kilo y lo compra JD.com (Best of Panama 2026) | https://www.infobae.com/panama/2026/09/25/subasta-mundial-del-cafe-de-alta-gama-de-panama-supera-los-3-millones-en-ventas/
 - 2026-09-25 | Cafezal se anima a cruzar la frontera: primer local fuera de Italia en Lisboa (Q4 2026) | https://www.worldcoffeeportal.com/news/italys-cafezal-poised-for-international-debut-in-fourth-quarter/
 - 2026-09-25 | AeroPress cumple 20 y saca ediciones Premium en vidrio y metal (US$ 199,95, 28 sep) | https://www.comunicaffe.com/aeropress-celebrates-20-years-with-launch-of-hand-crafted-glass-metal-premium-black-and-white-editions/
@@ -132,3 +123,13 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-10-08 | Janette Watson (Gilly Brew Bar, Atlanta) en los Sprudge Twenty 2026 | https://sprudge.com/janette-watson-of-gilly-brew-bar-the-sprudge-twenty-interview-1278639.html
 - 2026-10-08 | Gong cha firma extensión de franquicia por 10 años en Filipinas | https://www.worldcoffeeportal.com/news/gong-cha-signs-10-year-franchise-extension-in-the-philippines/
 - 2026-10-08 | Evoca Group presenta su visión de valor sostenible (promocionado) | https://www.worldcoffeeportal.com/news/creating-sustainable-value-evoca-groups-vision/
+- 2026-10-09 | El arábica cruza los US$ 3 y Brasil firma su mejor septiembre en 20 meses (PDG recap 9 oct) | https://perfectdailygrind.com/2026/10/coffee-news-recap-9-october-2026/
+- 2026-10-09 | Costa vuelve a ganar plata y Coca-Cola vuelve a querer vender | https://www.worldcoffeeportal.com/news/back-to-profitability-back-on-the-market-coca-cola-reportedly-revisits-costa-coffee-sale/
+- 2026-10-09 | Nestlé firma con la NBA y mete a Nescau en 21 mercados (desde 1 ene 2027) | https://www.newswire.ca/news-releases/nestle-and-nba-announce-multi-year-international-marketing-partnership-826901743.html
+- 2026-10-09 | ¿Se puede patentar una fermentación? El caso TyOxidator en Finca Soledad, Ecuador (PDG) | https://perfectdailygrind.com/2026/10/can-coffee-producers-own-processing-methods/
+- 2026-10-09 | 400 mg de cafeína 12 horas antes de dormir recortan 21 minutos de sueño profundo (Nutrients, review) | https://perfectdailygrind.com/2026/10/coffee-news-recap-9-october-2026/
+- 2026-10-09 | La Marzocco y Rains sacan un delantal técnico para barista (Sprudge) | https://sprudge.com/la-marzocco-and-rains-collaborate-for-a-new-barista-apron-1409605.html
+- 2026-10-09 | IzyCoffee (Bélgica) cierra 9 de sus 20 locales (WCP) | https://www.worldcoffeeportal.com/news/belgiums-izycoffee-closes-11-stores-following-enormous-pressure/
+- 2026-10-09 | Rounton Coffee se muda y duplica producción en el Reino Unido (WCP) | https://www.worldcoffeeportal.com/news/the-uks-rounton-coffee-to-ramp-up-production-following-roastery-relocation/
+- 2026-10-09 | Pret A Manger ficha a una ex Elior para liderar marketing en el Reino Unido (WCP) | https://www.worldcoffeeportal.com/news/pret-a-manger-appoints-former-elior-exec-to-lead-uk-marketing-push/
+- 2026-10-09 | Un estudio valúa el sector cafetero alemán en €70.200 millones (PDG recap 9 oct) | https://perfectdailygrind.com/2026/10/coffee-news-recap-9-october-2026/
