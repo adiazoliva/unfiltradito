@@ -3,15 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-09-25 | Un Geisha panameño se paga US$ 18.004 el kilo y lo compra JD.com (Best of Panama 2026) | https://www.infobae.com/panama/2026/09/25/subasta-mundial-del-cafe-de-alta-gama-de-panama-supera-los-3-millones-en-ventas/
-- 2026-09-25 | Cafezal se anima a cruzar la frontera: primer local fuera de Italia en Lisboa (Q4 2026) | https://www.worldcoffeeportal.com/news/italys-cafezal-poised-for-international-debut-in-fourth-quarter/
-- 2026-09-25 | AeroPress cumple 20 y saca ediciones Premium en vidrio y metal (US$ 199,95, 28 sep) | https://www.comunicaffe.com/aeropress-celebrates-20-years-with-launch-of-hand-crafted-glass-metal-premium-black-and-white-editions/
-- 2026-09-25 | Umami en la taza: el café se pone salado (koji, miso caramelo Blue Bottle) | https://www.baristamagazine.com/hold-the-sugar-and-pass-the-dashi-coffee-is-having-a-savory-awakening/
-- 2026-09-25 | Boon Boona planta bandera en Pike Place con café africano (Build-Outs Sprudge) | https://sprudge.com/build-outs-of-coffee-boon-boona-coffee-in-seattle-wa-1310546.html
-- 2026-09-25 | Design Details: DOT. Coffee & Matcha en Varsovia (DCN) | https://dailycoffeenews.com/2026/09/24/design-details-urban-inspired-joy-at-dot-coffee-matcha-in-warsaw/
-- 2026-09-25 | El arábica tocó mínimo de tres meses (US$ 2,70 la libra) | https://www.brecorder.com/news/40440897/arabica-coffee-sets-three-month-low-sugar-and-cocoa-also-fall
-- 2026-09-25 | Fairtrade sube el precio mínimo del arábica a US$ 2 la libra desde diciembre | https://www.gcrmag.com/fairtrades-minimum-coffee-prices-to-increase
-- 2026-09-25 | Forbes Centroamérica: Geisha de US$ 18.000/kg en el BOP 2026 | https://forbescentroamerica.com/2026/09/24/la-silicon-valley-del-cafe-cosecha-el-exito-de-2026-con-un-geisha-de-18-mil-dolares-por-kilo
 - 2026-09-26 | Una tampiqueña con café del Huila se llevó el Nacional de Filtrados (Sofía Hernández, México 2026) | https://www.milenio.com/estilo/gastronomia/sofia-hernandez-barista-llevo-tampico-podio-nacional
 - 2026-09-26 | StoneX ve 10 millones de sacos de excedente y el arábica sigue en piso (PDG recap 25 sep) | https://perfectdailygrind.com/2026/09/coffee-news-recap-25-september-2026/
 - 2026-09-26 | Brasil rescató a 53 trabajadores del café en condiciones análogas a la esclavitud | https://dailycoffeenews.com/2026/09/25/weekly-coffee-news-roasted-at-origin-program-53-coffee-workers-rescued/
@@ -133,3 +124,10 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-10-09 | Rounton Coffee se muda y duplica producción en el Reino Unido (WCP) | https://www.worldcoffeeportal.com/news/the-uks-rounton-coffee-to-ramp-up-production-following-roastery-relocation/
 - 2026-10-09 | Pret A Manger ficha a una ex Elior para liderar marketing en el Reino Unido (WCP) | https://www.worldcoffeeportal.com/news/pret-a-manger-appoints-former-elior-exec-to-lead-uk-marketing-push/
 - 2026-10-09 | Un estudio valúa el sector cafetero alemán en €70.200 millones (PDG recap 9 oct) | https://perfectdailygrind.com/2026/10/coffee-news-recap-9-october-2026/
+- 2026-10-10 | Juan Valdez ya tiene nombre al mando: Luis Guillermo Quintero (Procafecol) | https://forbes.co/2026/10/06/negocios/procafecol-nombra-a-luis-guillermo-quintero-como-el-nuevo-gerente-general-de-juan-valdez/
+- 2026-10-10 | Panamá en la recta final para el World of Coffee: 13.000 asistentes y 320 expositores (22-25 oct) | https://www.laestrella.com.pa/economia/panama-en-la-recta-final-para-albergar-el-world-of-coffee-2026-KH24546936
+- 2026-10-10 | Honduras arranca el ciclo 2026/27 con meta de 7,5M de sacos y Día Nacional de la Caficultura | https://www.latribuna.hn/2026/10/01/dan-la-bienvenida-a-nueva-cosecha-de-cafe-entre-retos-por-el-cambio-climatico/
+- 2026-10-10 | Coffee Voyage Festival de Hong Kong (8-11 oct) con debut de Rikuto Tanaka (Philocoffea) | https://www.scmp.com/lifestyle/food-drink/article/3369273/5-new-hong-kong-cafes-and-coffee-shops-try-october-2026-plus-must-visit-events
+- 2026-10-10 | Cup of Excellence Guatemala 2026: Las Macadamias (90,77) y El Injerto I (US$ 449,10/lb) | https://allianceforcoffeeexcellence.org/guatemala-2026/
+- 2026-10-10 | Nicaragua 2026/27: USDA proyecta 2,3M sacos arábica con 62% de probabilidad de El Niño | https://cropgpt.ai/nicaragua-coffee-2026-27-production-decline-and-structural-constraints
+- 2026-10-10 | IMARC: mercado de café orgánico en Latam valuado en USD 640,1M en 2025 | https://www.imarcgroup.com/latin-america-organic-coffee-market
