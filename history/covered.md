@@ -3,14 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-09-26 | Una tampiqueña con café del Huila se llevó el Nacional de Filtrados (Sofía Hernández, México 2026) | https://www.milenio.com/estilo/gastronomia/sofia-hernandez-barista-llevo-tampico-podio-nacional
-- 2026-09-26 | StoneX ve 10 millones de sacos de excedente y el arábica sigue en piso (PDG recap 25 sep) | https://perfectdailygrind.com/2026/09/coffee-news-recap-25-september-2026/
-- 2026-09-26 | Brasil rescató a 53 trabajadores del café en condiciones análogas a la esclavitud | https://dailycoffeenews.com/2026/09/25/weekly-coffee-news-roasted-at-origin-program-53-coffee-workers-rescued/
-- 2026-09-26 | Go Get Em Tiger se lleva la tostaduría al origen (Roasted at Origin, PRISM 29 sep) | https://sprudge.com/go-get-em-tiger-launches-roasted-at-origin-shifting-more-of-its-coffee-program-to-producing-countries-1361782.html
-- 2026-09-26 | Bucarest le abre las puertas al café latinoamericano (Slow Coffee Festival 10ª edición, 25-27 sep) | https://www.comunicaffe.com/slow-coffee-festival-2026-bucharest-programme/
-- 2026-09-26 | Greggs supera a Costa como la mayor cadena británica de café (Retail Gazette) | https://www.retailgazette.co.uk/blog/2026/09/greggs-overtakes-costa/
-- 2026-09-26 | Promociones y descuentos por el National Coffee Day del 29 de septiembre en EE.UU. (NBC New York) | https://www.nbcnewyork.com/news/national-international/national-coffee-day-deals-2026-free-coffee/6551226/
-- 2026-09-26 | Klatch Coffee celebra el National Coffee Day con canjes en su app (Sprudge) | https://sprudge.com/klatch-coffee-celebrates-national-coffee-day-september-29-2026-1265734.html
 - 2026-09-27 | Starbucks vuelve a bajar la persiana: 250 locales cierran en Norteamérica | https://www.cnbc.com/2026/09/24/starbucks-to-close-250-stores.html
 - 2026-09-27 | Un colombiano de 21 años se lleva el LAC Barista Championship de Starbucks (Juan José Córdova) | https://www.unotv.com/estilo-de-vida/juan-jose-barista-de-colombia-gana-campeonato-de-latinoamerica-y-el-caribe-de-starbucks/
 - 2026-09-27 | Coffee People Zine vuelve al papel con más de 80 aportantes (Issue 26) | https://sprudge.com/coffee-people-zine-returns-for-issue-26-1325316.html
@@ -131,3 +123,10 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-10-10 | Cup of Excellence Guatemala 2026: Las Macadamias (90,77) y El Injerto I (US$ 449,10/lb) | https://allianceforcoffeeexcellence.org/guatemala-2026/
 - 2026-10-10 | Nicaragua 2026/27: USDA proyecta 2,3M sacos arábica con 62% de probabilidad de El Niño | https://cropgpt.ai/nicaragua-coffee-2026-27-production-decline-and-structural-constraints
 - 2026-10-10 | IMARC: mercado de café orgánico en Latam valuado en USD 640,1M en 2025 | https://www.imarcgroup.com/latin-america-organic-coffee-market
+- 2026-10-11 | Subway se mete en la pelea del café británico con un plan 100% arábica (Blueprint, Ámsterdam, 8 oct) | https://www.worldcoffeeportal.com/news/subway-to-take-on-uk-coffee-chains-with-major-investment-in-stores/
+- 2026-10-11 | Costa Rica le apunta a una cosecha 16,67% más grande, con un ojo en El Niño (Icafé 2026/27) | https://www.teletica.com/nacional/menos-cafe-fenomeno-del-nino-podria-afectar-cosecha_417167
+- 2026-10-11 | ve/la, el café-matcha tailandés, elige a Singapur como su segunda base internacional | https://www.worldcoffeeportal.com/news/thailands-ve-la-enters-second-international-market-of-2026/
+- 2026-10-11 | Sodexo compra Olive y suma otro tostador a su carta de café corporativo (UK) | https://www.worldcoffeeportal.com/news/frances-sodexo-strengthens-uk-workplace-division-with-acquisition/
+- 2026-10-11 | OldTown White Coffee cierra en Kallang Wave Mall tras 18 años en Singapur | https://www.worldcoffeeportal.com/news/another-international-coffee-chain-announces-singapore-exit/
+- 2026-10-11 | Joe & The Juice llega a los 500 locales y suma Grecia, Irlanda, Mónaco y España | https://www.worldcoffeeportal.com/news/joe-the-juices-global-rollout-gathers-pace-with-new-market-launch/
+- 2026-10-11 | Luciano Repetto, de Graffeo Coffee, en la Sprudge Twenty 2026 | https://sprudge.com/luciano-repetto-of-graffeo-coffee-the-sprudge-twenty-interview-1278697.html
