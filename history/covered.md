@@ -3,15 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-09-27 | Starbucks vuelve a bajar la persiana: 250 locales cierran en Norteamérica | https://www.cnbc.com/2026/09/24/starbucks-to-close-250-stores.html
-- 2026-09-27 | Un colombiano de 21 años se lleva el LAC Barista Championship de Starbucks (Juan José Córdova) | https://www.unotv.com/estilo-de-vida/juan-jose-barista-de-colombia-gana-campeonato-de-latinoamerica-y-el-caribe-de-starbucks/
-- 2026-09-27 | Coffee People Zine vuelve al papel con más de 80 aportantes (Issue 26) | https://sprudge.com/coffee-people-zine-returns-for-issue-26-1325316.html
-- 2026-09-27 | Fresh Pots abre en Copenhague y va contra la moda del menú largo (Build-Outs Sprudge) | https://sprudge.com/build-outs-of-coffee-fresh-pots-in-copehagen-denmark-1266561.html
-- 2026-09-27 | Juan Valdez gana oro en los Latam Global Coffee Awards con café del Huila | https://www.vanguardia.com/economia/nacional/2026/09/26/cafe-colombiano-se-lleva-el-oro-juan-valdez-fue-premiado-en-los-latam-global-coffee-awards/
-- 2026-09-27 | Camilo lanza con Starbucks "Mi Café, Mi Ritual" en Latinoamérica | https://roastbrief.com.mx/2026/09/starbucks-y-el-cantautor-colombiano-camilo-se-unen-en-la-iniciativa-mi-cafe-mi-ritual/
-- 2026-09-27 | Wrecking Ball Coffee suma dos cafés y una tostaduría en el Área de la Bahía | https://hoodline.com/2026/09/wrecking-ball-coffee-plots-potrero-hill-berkeley-cafes-and-a-dogpatch-roastery/
-- 2026-09-27 | The Caffè by Mr. Espresso presenta su carta de otoño con pop-ups culinarios | https://sprudge.com/the-caffe-by-mr-espresso-announces-2026-fall-drink-lineup-culinary-pop-ups-1368017.html
-- 2026-09-27 | Sprudge recomienda equipos nuevos para renovar la barra de casa | https://sprudge.com/update-your-coffee-counter-with-some-fresh-new-gear-1367327.html
 - 2026-09-28 | El Tolima se prende fuego y los cafetales miran de cerca (15 incendios activos en Colombia, 9 en Tolima) | https://www.eltiempo.com/colombia/otras-ciudades/colombia-sigue-ardiendo-15-incendios-forestales-permanecen-activos-y-tolima-concentra-mas-de-la-mitad-3587274
 - 2026-09-28 | Un filtro de grafeno saca la mitad de la cafeína sin robarle el sabor (CGSM-1, Journal of Membrane Science) | https://sprudge.com/scientists-have-created-a-coffee-filter-that-removes-half-the-caffeine-1358171.html
 - 2026-09-28 | Verve Coffee firma un acuerdo sindical con US$ 5 extra por hora en licencias por enfermedad | https://coffeetalk.com/daily-dose/for-roasters-retailers/09-2026/111001/
@@ -130,3 +121,10 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-10-11 | OldTown White Coffee cierra en Kallang Wave Mall tras 18 años en Singapur | https://www.worldcoffeeportal.com/news/another-international-coffee-chain-announces-singapore-exit/
 - 2026-10-11 | Joe & The Juice llega a los 500 locales y suma Grecia, Irlanda, Mónaco y España | https://www.worldcoffeeportal.com/news/joe-the-juices-global-rollout-gathers-pace-with-new-market-launch/
 - 2026-10-11 | Luciano Repetto, de Graffeo Coffee, en la Sprudge Twenty 2026 | https://sprudge.com/luciano-repetto-of-graffeo-coffee-the-sprudge-twenty-interview-1278697.html
+- 2026-10-12 | Colombia cierra el año cafetero 2025/26 con una caída del 15% (FNC, 12,65M sacos) | https://www.portafolio.co/economia/agro/produccion-de-cafe-en-colombia-cayo-15-en-el-ano-cafetero-y-cerro-en-12-65-millones-de-sacos-504163
+- 2026-10-12 | Purebread se queda con Caffè Artigiano por CA$ 7,7 millones y triplica tamaño | https://www.worldcoffeeportal.com/news/purebread-brands-to-triple-in-size-following-caffe-artigiano-acquisition/
+- 2026-10-12 | Espresso House arranca su desembarco en Francia desde Dijon (JAB Holding) | https://www.worldcoffeeportal.com/news/swedens-espresso-house-partners-with-travel-retail-giant-for-france-launch/
+- 2026-10-12 | Cafés de Colombia Expo abre en Bogotá el jueves (15-18 oct, Corferias) | https://www.showsbee.com/fairs/82893-Cafes-de-Colombia-2023.html
+- 2026-10-12 | Sprudge: ocho productos nuevos para armar la barra (Bookoo, V60 Simply, Baracuda, Acaia Horizon) | https://sprudge.com/feast-your-eyes-on-this-cornucopia-of-coffee-gear-1417120.html
+- 2026-10-12 | Sprudge: selección semanal de "Roaster's Village" (20 cafés recomendados) | https://sprudge.com/look-at-all-these-coffees-dont-look-at-them-drink-them-1417089.html
+- 2026-10-12 | World Coffee Portal: The Week in Coffee, 5-11 October 2026 (resumen semanal) | https://www.worldcoffeeportal.com/news/the-week-in-coffee-5-11-october-2026/
