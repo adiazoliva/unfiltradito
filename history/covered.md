@@ -3,15 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-09-28 | El Tolima se prende fuego y los cafetales miran de cerca (15 incendios activos en Colombia, 9 en Tolima) | https://www.eltiempo.com/colombia/otras-ciudades/colombia-sigue-ardiendo-15-incendios-forestales-permanecen-activos-y-tolima-concentra-mas-de-la-mitad-3587274
-- 2026-09-28 | Un filtro de grafeno saca la mitad de la cafeína sin robarle el sabor (CGSM-1, Journal of Membrane Science) | https://sprudge.com/scientists-have-created-a-coffee-filter-that-removes-half-the-caffeine-1358171.html
-- 2026-09-28 | Verve Coffee firma un acuerdo sindical con US$ 5 extra por hora en licencias por enfermedad | https://coffeetalk.com/daily-dose/for-roasters-retailers/09-2026/111001/
-- 2026-09-28 | Highlands Coffee vuelve a manos vietnamitas: Jollibee vende 11% a VTI por US$ 88M | https://www.worldcoffeeportal.com/news/jollibee-group-cedes-control-of-highlands-coffee-with-stake-sale/
-- 2026-09-28 | Kopi Kenangan afila el lápiz para un IPO de US$ 1.000 millones (Serena Williams, Jay-Z) | https://qz.com/kopi-kenangan-ipo-serena-williams-jay-z-indonesia-coffee-071726
-- 2026-09-28 | UAE-listed Mair Group to acquire controlling stake in Turkey's Espressolab | https://www.worldcoffeeportal.com/news/uae-listed-mair-group-to-acquire-controlling-stake-in-turkeys-espressolab/
-- 2026-09-28 | China's Cotti Coffee to kickstart UK regional expansion | https://www.worldcoffeeportal.com/news/chinas-cotti-coffee-to-kickstart-uk-regional-expansion/
-- 2026-09-28 | Everyone Moving On From The Second 2027 US Roasters Championship Qualifying Event (Washougal) | https://sprudge.com/heres-everyone-moving-on-from-the-second-2027-us-roasters-championship-qualifying-event-1365120.html
-- 2026-09-28 | The Week in Coffee, 21-27 September 2026 (World Coffee Portal roundup) | https://www.worldcoffeeportal.com/news/the-week-in-coffee-21-27-september-2026/
 - 2026-09-29 | FICCA arranca en Neiva: cuatro días de café, cacao y agroturismo (1-4 oct, Huila) | https://mundoagropecuario.com/colombia-arranca-una-nueva-edicion-de-ficca-punto-de-encuentro-de-la-industria-del-cafe-el-cacao-y-el-agroturismo/
 - 2026-09-29 | Por qué el café colombiano arrasa en las competencias globales (PDG, Thomas Wensma) | https://perfectdailygrind.com/2026/09/colombian-coffees-competitions-auctions/
 - 2026-09-29 | Luckin desembarcaría en el Golfo con la plata de Mubadala (WCP) | https://www.worldcoffeeportal.com/news/luckin-coffee-eyes-middle-east-debut-after-1bn-mubadala-stake-sale/
@@ -128,3 +119,12 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-10-12 | Sprudge: ocho productos nuevos para armar la barra (Bookoo, V60 Simply, Baracuda, Acaia Horizon) | https://sprudge.com/feast-your-eyes-on-this-cornucopia-of-coffee-gear-1417120.html
 - 2026-10-12 | Sprudge: selección semanal de "Roaster's Village" (20 cafés recomendados) | https://sprudge.com/look-at-all-these-coffees-dont-look-at-them-drink-them-1417089.html
 - 2026-10-12 | World Coffee Portal: The Week in Coffee, 5-11 October 2026 (resumen semanal) | https://www.worldcoffeeportal.com/news/the-week-in-coffee-5-11-october-2026/
+- 2026-10-13 | La Cabra planta bandera en Madrid y suma su quinto mercado (primera europea fuera de Dinamarca) | https://www.worldcoffeeportal.com/news/denmarks-la-cabra-launches-in-spain-with-boutique-bakery-cafe/
+- 2026-10-13 | Starbucks le baja el pulgar al rumor de comprar Chipotle (US$ 41.000M según FT) | https://www.worldcoffeeportal.com/news/starbucks-pours-cold-water-on-chipotle-acquisition-reports/
+- 2026-10-13 | Sprudge sobre el rumor Starbucks-Chipotle (análisis satírico, Zac Cadwalader) | https://sprudge.com/is-starbucks-going-to-buy-chipotle-1421282.html
+- 2026-10-13 | Union Hand Roasted entra a 130 cafeterías de Waitrose en UK | https://www.worldcoffeeportal.com/news/union-hand-roasted-coffee-secures-major-supermarket-cafe-contract/
+- 2026-10-13 | Espresso House aterriza en Francia desde la estación de Dijon (JAB, travel retail) | https://www.worldcoffeeportal.com/news/swedens-espresso-house-partners-with-travel-retail-giant-for-france-launch/
+- 2026-10-13 | Sprudge arma la guía definitiva del café en Fukuoka (Michael Joseph) | https://sprudge.com/the-sprudge-guide-to-coffee-in-fukuoka-city-japan-1314766.html
+- 2026-10-13 | World Coffee Portal — The Week in Coffee, 5-11 oct 2026 (fuera) | https://www.worldcoffeeportal.com/news/the-week-in-coffee-5-11-october-2026/
+- 2026-10-13 | Sprudge Roasters Village: 20 cafés para probar esta semana (fuera) | https://sprudge.com/look-at-all-these-coffees-dont-look-at-them-drink-them-1417089.html
+- 2026-10-13 | SCMP 5 cafeterías nuevas para probar en Hong Kong octubre (fuera) | https://www.scmp.com/lifestyle/food-drink/article/3369273/5-new-hong-kong-cafes-and-coffee-shops-try-october-2026-plus-must-visit-events
