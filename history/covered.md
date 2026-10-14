@@ -3,14 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-09-29 | FICCA arranca en Neiva: cuatro días de café, cacao y agroturismo (1-4 oct, Huila) | https://mundoagropecuario.com/colombia-arranca-una-nueva-edicion-de-ficca-punto-de-encuentro-de-la-industria-del-cafe-el-cacao-y-el-agroturismo/
-- 2026-09-29 | Por qué el café colombiano arrasa en las competencias globales (PDG, Thomas Wensma) | https://perfectdailygrind.com/2026/09/colombian-coffees-competitions-auctions/
-- 2026-09-29 | Luckin desembarcaría en el Golfo con la plata de Mubadala (WCP) | https://www.worldcoffeeportal.com/news/luckin-coffee-eyes-middle-east-debut-after-1bn-mubadala-stake-sale/
-- 2026-09-29 | Caffè Culture cumple 20 y toma Islington por dos días (29-30 sep, Londres) | https://www.worldcoffeeportal.com/news/the-london-coffee-festival-2026-is-just-days-away/
-- 2026-09-29 | The AeroPress Goes Premium With The New Walnut (Sprudge) | https://sprudge.com/the-aeropress-goes-premium-with-the-new-walnut-1365695.html
-- 2026-09-29 | Sun Bear Coffee abre su primer local propio en St. Petersburg (DCN) | https://dailycoffeenews.com/2026/09/29/sun-bear-coffee-basks-in-its-first-standalone-st-petersburg-cafe/
-- 2026-09-29 | The Miners prepara su séptimo mercado europeo (WCP) | https://www.worldcoffeeportal.com/news/czech-specialty-coffee-group-the-miners-to-enter-seventh-european-market/
-- 2026-09-29 | Sustainable Coffee Challenge lanza marco de resiliencia climática (CoffeeTalk) | https://coffeetalk.com/daily-dose/top-news/09-2026/111005/
 - 2026-09-30 | La Paz recibe la 4ª edición del festival El Buen Café con 12 productores (30 sep - 3 oct) | https://larazon.bo/economia-y-empresa/2026/09/29/el-festival-el-buen-cafe-reune-a-productores-de-seis-regiones-en-la-paz/
 - 2026-09-30 | Cuenca estrena el primer Café y Cacao Fest 2026 (9-11 oct, Hotel Oro Verde) | https://elmercurio.com.ec/cuenca/2026/09/30/cafe-cacao-fest-2026-cuenca-gastronomia/
 - 2026-09-30 | Blue Bottle debuta como sello con Notes In Repose, vinilo de jazz en edición de 1.500 copias (6 oct) | https://sprudge.com/blue-bottle-coffee-debuts-notes-in-repose-a-limited-edition-vinyl-celebrating-coffee-jazz-the-art-of-composition-1383088.html
@@ -128,3 +120,8 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-10-13 | World Coffee Portal — The Week in Coffee, 5-11 oct 2026 (fuera) | https://www.worldcoffeeportal.com/news/the-week-in-coffee-5-11-october-2026/
 - 2026-10-13 | Sprudge Roasters Village: 20 cafés para probar esta semana (fuera) | https://sprudge.com/look-at-all-these-coffees-dont-look-at-them-drink-them-1417089.html
 - 2026-10-13 | SCMP 5 cafeterías nuevas para probar en Hong Kong octubre (fuera) | https://www.scmp.com/lifestyle/food-drink/article/3369273/5-new-hong-kong-cafes-and-coffee-shops-try-october-2026-plus-must-visit-events
+- 2026-10-14 | SCAJ 2026 arranca hoy en Tokio con 560 marcas y Cup of Excellence (14-17 oct, Tokyo Big Sight) | https://scajconference.jp
+- 2026-10-14 | Oatly y Well Grounded firman alianza por £1M a 5 años para formar 10.000 baristas en UK | https://www.worldcoffeeportal.com/news/oatly-gives-uk-coffee-careers-a-1m-boost-with-well-grounded-partnership/
+- 2026-10-14 | Big Apple Donuts & Coffee celebra 100 locales en Malasia y le planta cara a Dunkin' | https://www.worldcoffeeportal.com/news/big-apple-donuts-coffee-is-taking-on-dunkin-to-become-malaysias-go-to-sweet-treat-chain/
+- 2026-10-14 | China's Bingxue launches in the US (Davis, CA), 10.000 locales a 2030 (fuera) | https://www.worldcoffeeportal.com/news/chinas-bingxue-launches-in-the-us-eyes-10-000-stores-globally-by-2030/
+- 2026-10-14 | Franke New A Line de máquinas automáticas (promoted) (fuera) | https://www.worldcoffeeportal.com/news/franke-puts-the-design-of-its-new-a-line-in-focus/
