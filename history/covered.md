@@ -3,14 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-09-30 | La Paz recibe la 4ª edición del festival El Buen Café con 12 productores (30 sep - 3 oct) | https://larazon.bo/economia-y-empresa/2026/09/29/el-festival-el-buen-cafe-reune-a-productores-de-seis-regiones-en-la-paz/
-- 2026-09-30 | Cuenca estrena el primer Café y Cacao Fest 2026 (9-11 oct, Hotel Oro Verde) | https://elmercurio.com.ec/cuenca/2026/09/30/cafe-cacao-fest-2026-cuenca-gastronomia/
-- 2026-09-30 | Blue Bottle debuta como sello con Notes In Repose, vinilo de jazz en edición de 1.500 copias (6 oct) | https://sprudge.com/blue-bottle-coffee-debuts-notes-in-repose-a-limited-edition-vinyl-celebrating-coffee-jazz-the-art-of-composition-1383088.html
-- 2026-09-30 | Keurig Dr Pepper lanza concentrado de espresso frío Jacobs para pelearle a Nestlé | https://www.worldcoffeeportal.com/news/instant-gratification-kdp-takes-on-nestle-with-espresso-concentrate-range/
-- 2026-09-30 | Miir presenta su primera colección de cerámicas en New Bone China (29 sep) | https://sprudge.com/miir-expands-beyond-drinkware-with-its-first-collection-of-handcrafted-ceramics-1307146.html
-- 2026-09-30 | El arábica se estabiliza en US$ 2,8845 con Brasil rumbo a récord de exportaciones (Business Recorder) | https://www.brecorder.com/news/40441889/arabica-coffee-steadies-amid-further-signs-of-growing-brazil-supplies
-- 2026-09-30 | Morgan Eckroth arma gira para presentar su libro "Coffee, for Here" (Sprudge) | https://sprudge.com/morgan-eckroth-is-going-on-a-coffee-for-here-book-tour-1382338.html
-- 2026-09-30 | Current Coffee Summit en St. Louis (29-30 sep, First Crack Coffee) | https://perfectdailygrind.com/events/world-of-coffee-panama-2026-world-barista-championship/
 - 2026-10-01 | Argentina se mete en el mapa productor: el primer café de especialidad tucumano (Cabrales + IDEP) | https://www.infobae.com/tendencias/2026/10/01/martin-cabrales-la-primera-cosecha-de-cafe-en-tucuman-va-a-sorprender-por-la-calidad/
 - 2026-10-01 | Argentina toma más café que nunca: 208 tazas por persona al año (El Planeta Urbano) | https://elplanetaurbano.com/2026/09/dia-internacional-del-cafe-cuanto-crecio-el-consumo-y-donde-celebrarlo/
 - 2026-10-01 | Alianza GCP + GIZ + IDH + Solidaridad para compra responsable de café (DCN) | https://dailycoffeenews.com/2026/09/30/major-coffee-groups-combine-efforts-toward-responsible-procurement/
@@ -125,3 +117,9 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-10-14 | Big Apple Donuts & Coffee celebra 100 locales en Malasia y le planta cara a Dunkin' | https://www.worldcoffeeportal.com/news/big-apple-donuts-coffee-is-taking-on-dunkin-to-become-malaysias-go-to-sweet-treat-chain/
 - 2026-10-14 | China's Bingxue launches in the US (Davis, CA), 10.000 locales a 2030 (fuera) | https://www.worldcoffeeportal.com/news/chinas-bingxue-launches-in-the-us-eyes-10-000-stores-globally-by-2030/
 - 2026-10-14 | Franke New A Line de máquinas automáticas (promoted) (fuera) | https://www.worldcoffeeportal.com/news/franke-puts-the-design-of-its-new-a-line-in-focus/
+- 2026-10-15 | Sicilia debuta como productor: 100 kg de cerezas en la finca Morettino, Palermo | https://sprudge.com/southern-italy-is-now-suitable-for-growing-coffee-1449973.html
+- 2026-10-15 | Bogotá se queda con el World Cup Tasters Championship 2027 (30 sep - 2 oct) | https://sprudge.com/the-world-cup-tasters-championship-heads-to-bogota-in-2027-1449662.html
+- 2026-10-15 | Phil & Sebastian (Calgary) ganan Canadá en los Global Coffee Awards 2026 | https://sprudge.com/phil-sebastian-named-national-winner-canada-at-the-2026-global-coffee-awards-1450922.html
+- 2026-10-15 | Caffè Nero firma su primera colaboración de bebidas funcionales con MyProtein | https://www.worldcoffeeportal.com/news/caffe-nero-muscles-into-protein-drinks-with-first-functional-collab/
+- 2026-10-15 | Smoking Tiger (K-bakery café) recibe inversión de The Ventures para expansión EE.UU. (fuera) | https://www.worldcoffeeportal.com/news/korean-inspired-bakery-cafe-gets-new-backing-for-us-expansion/
+- 2026-10-15 | The Welcome Conference no es sobre café, pero el café es protagonista (Sprudge, fuera) | https://sprudge.com/the-welcome-conference-is-not-a-coffee-conference-but-the-coffees-still-great-1416122.html
