@@ -3,14 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-10-01 | Argentina se mete en el mapa productor: el primer café de especialidad tucumano (Cabrales + IDEP) | https://www.infobae.com/tendencias/2026/10/01/martin-cabrales-la-primera-cosecha-de-cafe-en-tucuman-va-a-sorprender-por-la-calidad/
-- 2026-10-01 | Argentina toma más café que nunca: 208 tazas por persona al año (El Planeta Urbano) | https://elplanetaurbano.com/2026/09/dia-internacional-del-cafe-cuanto-crecio-el-consumo-y-donde-celebrarlo/
-- 2026-10-01 | Alianza GCP + GIZ + IDH + Solidaridad para compra responsable de café (DCN) | https://dailycoffeenews.com/2026/09/30/major-coffee-groups-combine-efforts-toward-responsible-procurement/
-- 2026-10-01 | Coffee Watch estrena el Coffee Scorecard 2026 | https://coffeewatch.org/the-2026-coffee-scorecard/
-- 2026-10-01 | Arábica rebota 2,4% a US$ 2,9640 por calidad brasileña y El Niño (Business Recorder) | https://www.brecorder.com/news/40442061/arabica-coffee-climbs-on-brazil-quality-concerns
-- 2026-10-01 | Raise Your Cup: Equal Origins arranca campaña de 15 días por productoras de café | https://equalorigins.org/raiseyourcup/
-- 2026-10-01 | Allpress + Hario relanzan el V60 Championship con regionales en 4 países | https://www.worldcoffeeportal.com/news/allpress-espresso-and-hario-unveil-their-biggest-v60-championship-yet/
-- 2026-10-01 | PRF cruza a México por primera vez (18-19 marzo 2027, Tuxtla, Chiapas) | https://perfectdailygrind.com/2026/10/prf-mexico-global-coffee-awards-world-championship/
 - 2026-10-02 | La ONU estrenó el Día del Café y EE.UU. fue el único que votó en contra | https://dailycoffeenews.com/2026/10/01/today-is-the-first-official-un-international-coffee-day-guess-which-one-country-voted-against-it/
 - 2026-10-02 | Devoción destina 1% de cada bolsa a productores, pibes y bosques (Impact Fund) | https://sprudge.com/ny-based-colombian-coffee-roaster-devocion-launches-impact-fund-directing-1-of-every-retail-bag-to-coffee-farmers-youth-ecological-restoration-1396430.html
 - 2026-10-02 | Keurig Dr Pepper se juega a Russ Torres para su "Global Coffee Co." | https://worldcoffeeportal.com/news/keurig-dr-pepper-appoints-new-ceo-for-global-coffee-co-spinoff
@@ -123,3 +115,13 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-10-15 | Caffè Nero firma su primera colaboración de bebidas funcionales con MyProtein | https://www.worldcoffeeportal.com/news/caffe-nero-muscles-into-protein-drinks-with-first-functional-collab/
 - 2026-10-15 | Smoking Tiger (K-bakery café) recibe inversión de The Ventures para expansión EE.UU. (fuera) | https://www.worldcoffeeportal.com/news/korean-inspired-bakery-cafe-gets-new-backing-for-us-expansion/
 - 2026-10-15 | The Welcome Conference no es sobre café, pero el café es protagonista (Sprudge, fuera) | https://sprudge.com/the-welcome-conference-is-not-a-coffee-conference-but-the-coffees-still-great-1416122.html
+- 2026-10-16 | Daniel Borrás (Flow Coffee, Atlanta) en los Sprudge Twenty 2026, arrancó barista en Buenos Aires | https://sprudge.com/daniel-borras-the-sprudge-twenty-interview-1278717.html
+- 2026-10-16 | Westrock y Kofola pujan por Massimo Zanetti Beverage Group (€1.200M) | https://www.worldcoffeeportal.com/news/westrock-and-kofolo-among-bidders-for-massimo-zanetti-beverage-group-sources-say/
+- 2026-10-16 | Simonelli le gana a fabricante chino por copiar Victoria Arduino Eagle One y Black Eagle Maverick | https://www.worldcoffeeportal.com/news/chinese-firm-ordered-to-cease-counterfeit-espresso-machine-production/
+- 2026-10-16 | Bellwether presenta nuevo Shop Roaster y datos: tostar in-house ahorra ~50% del costo mayorista | https://sprudge.com/bellwether-debuts-new-shop-roaster-as-data-shows-cafes-can-cut-coffee-costs-in-half-by-roasting-in-house-1457452.html
+- 2026-10-16 | Matcha y bebidas personalizadas al rescate de cafeterías (PDG, análisis con datos UK/AU/US) | https://perfectdailygrind.com/2026/10/matcha-customised-drinks-helping-specialty-coffee/
+- 2026-10-16 | Krispy Kreme reactiva expansión en EE.UU. con deal en Nueva York (fuera) | https://www.worldcoffeeportal.com/news/can-krispy-kreme-reignite-us-expansion-with-new-york-development-deal/
+- 2026-10-16 | Grupo hotelero malayo compra Christine's Bakery (fuera) | https://www.worldcoffeeportal.com/news/malaysian-hotel-group-snaps-up-embattled-christines-bakery/
+- 2026-10-16 | Melitta Group dispara ganancias semestrales (fuera) | https://www.worldcoffeeportal.com/news/melitta-group-lands-on-winning-formula-as-half-year-profits-soar/
+- 2026-10-16 | El sobrino de Jerry Jones (Dallas Cowboys) abre una cafetería (fuera) | https://sprudge.com/the-nephew-of-dallas-cowboys-owner-jerry-jones-is-opening-a-coffee-shop-1453811.html
+- 2026-10-16 | PDG: tener una cafetería nunca fue tan difícil, cómo la están remando (fuera) | https://perfectdailygrind.com/2026/10/why-running-a-coffee-shop-is-harder/
