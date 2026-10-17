@@ -3,14 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-10-02 | La ONU estrenó el Día del Café y EE.UU. fue el único que votó en contra | https://dailycoffeenews.com/2026/10/01/today-is-the-first-official-un-international-coffee-day-guess-which-one-country-voted-against-it/
-- 2026-10-02 | Devoción destina 1% de cada bolsa a productores, pibes y bosques (Impact Fund) | https://sprudge.com/ny-based-colombian-coffee-roaster-devocion-launches-impact-fund-directing-1-of-every-retail-bag-to-coffee-farmers-youth-ecological-restoration-1396430.html
-- 2026-10-02 | Keurig Dr Pepper se juega a Russ Torres para su "Global Coffee Co." | https://worldcoffeeportal.com/news/keurig-dr-pepper-appoints-new-ceo-for-global-coffee-co-spinoff
-- 2026-10-02 | Carlos de la Torre (Café Avellaneda, CDMX) en la tapa de Barista Magazine (oct-nov 2026) | https://www.baristamagazine.com/out-now-the-october-november-2026-issue-of-barista-magazine/
-- 2026-10-02 | The Barista League Africa en Johannesburg (3 oct, Katy's Palace Bar) | https://www.thebaristaleague.com/2026-tbl-africa
-- 2026-10-02 | Roast Summit Portland 2026 (1-2 oct, Diedrich Roasters) | https://dailycoffeenews.com/2026/08/18/roast-summit-returns-to-portland-in-2026/
-- 2026-10-02 | Build-Outs of Coffee: Phil & Sebastian en Calgary (Seton) | https://sprudge.com/build-outs-of-coffee-phil-sebastian-in-calgary-alberta-1386731.html
-- 2026-10-02 | 7 Brew compra 63 locales ex-Salad and Go por US$ 123M | https://lasvegassun.com/news/2026/oct/01/fast-growing-coffee-chain-officially-acquires-63-b
 - 2026-10-03 | Brasil hace fuerza: 67,6 M de sacos y floración un mes antes (Conab) | https://perfectdailygrind.com/es/2026/10/02/noticias-de-cafe-postulaciones-conferencias-prf-mexico/
 - 2026-10-03 | La roya se cuela en los Caturra nicaragüenses (12,4% de incidencia) | https://www.laprensani.com/2026/09/19/economia/3785409-roya-en-nicaragua-el-nino-esta-propiciando-condiciones-para-que-enfermedad-se-desarolle
 - 2026-10-03 | Etiopía rompe su propio techo: un Guji a US$ 2.376/kg (Faysel Abdosh Signature) | https://perfectdailygrind.com/2026/10/coffee-news-recap-2-october-2026/
@@ -125,3 +117,13 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-10-16 | Melitta Group dispara ganancias semestrales (fuera) | https://www.worldcoffeeportal.com/news/melitta-group-lands-on-winning-formula-as-half-year-profits-soar/
 - 2026-10-16 | El sobrino de Jerry Jones (Dallas Cowboys) abre una cafetería (fuera) | https://sprudge.com/the-nephew-of-dallas-cowboys-owner-jerry-jones-is-opening-a-coffee-shop-1453811.html
 - 2026-10-16 | PDG: tener una cafetería nunca fue tan difícil, cómo la están remando (fuera) | https://perfectdailygrind.com/2026/10/why-running-a-coffee-shop-is-harder/
+- 2026-10-17 | Nestlé duplica su apuesta en México: US$ 2.000M y 70.000 cafetos para Veracruz | https://www.swissinfo.ch/eng/global-trade/nestl%C3%A9-doubles-its-investment-in-mexico-to-two-billion-dollars/92190729
+- 2026-10-17 | SEY paga US$ 6.325/kg por un Gesha de Finca Sophia (Panamá) y lo pone a US$ 200 la taza | https://www.timeout.com/usa/news/you-can-try-a-crazy-rare-200-cup-of-coffee-in-these-u-s-cities-this-week-101226
+- 2026-10-17 | Madagascar quiere resucitar su café: US$ 150M para 100.000 toneladas en 10 años | https://newsmada.com/?p=197169
+- 2026-10-17 | De'Longhi sube su stake en la unidad La Marzocco + Eversys, valuada en US$ 2.300M | https://www.worldcoffeeportal.com/news/delonghi-increases-stake-in-2-3bn-la-marzocco-and-eversys-division/
+- 2026-10-17 | Lavazza suma hub cultural en Turín con proyecto de Jean Nouvel | https://www.lastampa.it/torino/2026/10/13/news/lavazza_quartiere_aurora_progetto_jean_nouvel-15764690/
+- 2026-10-17 | Italia lanza estrategia internacional del café: ACT Coffee + Espresso Fund (fuera) | https://www.beverfood.com/espresso-fund-farnesina-banca-mondiale-caffe/
+- 2026-10-17 | Bialetti planea abrir sus primeros locales en China, UE y EE.UU. desde 2027 (fuera) | https://www.italiachiamaitalia.it/bialetti-il-caffe-italiano-conquista-il-mondo-dal-2027-arrivano-i-primi-store-allestero/
+- 2026-10-17 | Final del Spain AeroPress Championship 2026 en Madrid, 24 de octubre (fuera) | https://perfectdailygrind.com/events/spain-aeropress-championship-national-final-2026/
+- 2026-10-17 | ICO Composite Indicator cayó 8,7% en septiembre a 262,18 centavos/lb (fuera) | https://www.ico.org/documents/cy2025-26/cmr-0926-e.pdf
+- 2026-10-17 | Weber Workshops relanza el molino EG-1 80mm con ion generator (fuera) | https://weberworkshops.com/products/eg-1
