@@ -3,16 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-10-03 | Brasil hace fuerza: 67,6 M de sacos y floración un mes antes (Conab) | https://perfectdailygrind.com/es/2026/10/02/noticias-de-cafe-postulaciones-conferencias-prf-mexico/
-- 2026-10-03 | La roya se cuela en los Caturra nicaragüenses (12,4% de incidencia) | https://www.laprensani.com/2026/09/19/economia/3785409-roya-en-nicaragua-el-nino-esta-propiciando-condiciones-para-que-enfermedad-se-desarolle
-- 2026-10-03 | Etiopía rompe su propio techo: un Guji a US$ 2.376/kg (Faysel Abdosh Signature) | https://perfectdailygrind.com/2026/10/coffee-news-recap-2-october-2026/
-- 2026-10-03 | Nespresso baja la persiana a la cápsula de papel y vuelve al aluminio | https://www.worldcoffeeportal.com/news/nespresso-to-phase-out-home-compostable-paper-coffee-capsules/
-- 2026-10-03 | CoffeeFest Ecuador 2026 en Cotacachi (9-11 oct) | https://www.expectativa.ec/coffeefest-ecuador-2026-el-cafe-la-innovacion-y-el-talento-latinoamericano-se-encuentran-en-cotacachi/
-- 2026-10-03 | Luckin Coffee celebrates 100 stores in Singapore (Comunicaffe) | https://www.comunicaffe.com/luckin-coffee-celebrates-100-stores-in-singapore/
-- 2026-10-03 | Map It Forward lanza CoffeeListings.com (DCN Weekly) | https://dailycoffeenews.com/2026/10/02/weekly-coffee-news-marketplace-launches-dollys-new-coffee-commercial/
-- 2026-10-03 | Cartel Roasting se lleva dos platas en los Global Coffee Awards (Sprudge) | https://sprudge.com/cartel-roasting-co-takes-home-two-silver-medals-at-the-global-coffee-awards-1399540.html
-- 2026-10-03 | Dolly Parton Cup of Ambition sale a venta nacional (Barista Magazine Insider) | https://www.baristamagazine.com/the-insider-headlines-from-the-coffee-industry-45/
-- 2026-10-03 | Belfast Coffee Festival 3-4 de octubre | https://belfastcoffeefestival.com/
 - 2026-10-04 | DFI se queda con Starbucks en Asia: 1.100 locales y US$ 340 millones de cambio | https://www.worldcoffeeportal.com/news/hong-kong-retail-group-takes-control-of-seven-starbucks-markets-in-east-asia/
 - 2026-10-04 | Driftaway (Brooklyn) y Kafiex (Vancouver) se llevan el Roast Awards 2026 | https://qahwaworld.com/news/kafiex-driftaway-2026-roaster-awards/
 - 2026-10-04 | Chile se vuelve cafetero: 58% ya toma especialidad todas las semanas | https://www.lacuarta.com/tendencias/noticia/chile-celebra-el-dia-internacional-del-cafe-con-fuerte-alza-del-consumo-de-cafe-de-especialidad/
@@ -127,3 +117,13 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-10-17 | Final del Spain AeroPress Championship 2026 en Madrid, 24 de octubre (fuera) | https://perfectdailygrind.com/events/spain-aeropress-championship-national-final-2026/
 - 2026-10-17 | ICO Composite Indicator cayó 8,7% en septiembre a 262,18 centavos/lb (fuera) | https://www.ico.org/documents/cy2025-26/cmr-0926-e.pdf
 - 2026-10-17 | Weber Workshops relanza el molino EG-1 80mm con ion generator (fuera) | https://weberworkshops.com/products/eg-1
+- 2026-10-18 | ASIC 2027 en Poços de Caldas (31 may - 5 jun), celebra 300 años del café en Brasil | https://www.alphavisa.com/asic/2027/themes.php
+- 2026-10-18 | Brasil Cecafé septiembre 2026: 3,89M sacos (+3,1%), US$ 1.282M (-7,1%), EE.UU. +86,4% | https://revistacultivar.com.br/noticias/brasil-exporta-3-9-milhoes-de-sacas-de-cafe-em-setembro
+- 2026-10-18 | Grounds for Health cumple 30 años: 266.144 mujeres cribadas, 22.127 tratadas | https://groundsforhealth.org/
+- 2026-10-18 | SCA renueva directorio 2026-2028 sin votación: Bin Sulayem, Menon, Ranitzsch | https://sca.coffee/sca-news/announcement/presenting-the-slate-of-candidates-for-the-2026-2028-sca-board-of-directors-elections-and-appointment-of-the-2nd-vice-president
+- 2026-10-18 | Grecia: freddo espresso con mediana €2,50 vs. €0,52 en casa (relevamiento FREDDO) | https://freddokafes.gr/en/pages/freddo-preisindex
+- 2026-10-18 | IWCA presenta nuevo logo (fuera) | https://www.womenincoffee.org/
+- 2026-10-18 | Campeonato Chino de AeroPress 2026 en Guiyang 26-28 oct (fuera) | https://www.instagram.com/p/Dee_c-Sgt4p/
+- 2026-10-18 | BRITA Grounds for Innovation Awards 2026 UK (fuera) | https://www.brita.co.uk/grounds-of-innovation-2026
+- 2026-10-18 | Pact Coffee calendario de adviento 2026 (fuera) | http://pactcoffee.com/
+- 2026-10-18 | Beantropy relanza su podcast (fuera) | https://beantropy.com/podcasts/
