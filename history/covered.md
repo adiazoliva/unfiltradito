@@ -3,14 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-10-04 | DFI se queda con Starbucks en Asia: 1.100 locales y US$ 340 millones de cambio | https://www.worldcoffeeportal.com/news/hong-kong-retail-group-takes-control-of-seven-starbucks-markets-in-east-asia/
-- 2026-10-04 | Driftaway (Brooklyn) y Kafiex (Vancouver) se llevan el Roast Awards 2026 | https://qahwaworld.com/news/kafiex-driftaway-2026-roaster-awards/
-- 2026-10-04 | Chile se vuelve cafetero: 58% ya toma especialidad todas las semanas | https://www.lacuarta.com/tendencias/noticia/chile-celebra-el-dia-internacional-del-cafe-con-fuerte-alza-del-consumo-de-cafe-de-especialidad/
-- 2026-10-04 | Artusi se la juega: "El torrado fue el gran drama de Argentina" | https://www.infobae.com/tendencias/2026/10/01/del-cafe-torrado-al-boom-de-la-especialidad-nicolas-artusi-explica-como-cambio-el-consumo-en-argentina/
-- 2026-10-04 | África arma su primera gran mesa de café y cacao en Lagos | https://perfectdailygrind.com/events/africa-cocoa-and-coffee-conference-2026/
-- 2026-10-04 | Sprudge cierra su serie Build-Outs of Coffee 2026 | https://sprudge.substack.com/p/the-last-week-of-build-outs
-- 2026-10-04 | KapeCon 2026 en Makati, Filipinas | https://mb.com.ph/2026/10/04/kapecon-2026-brings-the-coffee-community-to-makati
-- 2026-10-04 | The Coffee Vine presenta su edición de octubre | https://thecoffeevine.com/blog/for-the-changing-seaons-heres-our-october-2026-edition
 - 2026-10-05 | Honduras cerró la cosecha 2025-2026 con US$ 2.285 millones y arranca el ciclo 2026-2027 | https://forbescentroamerica.com/2026/10/01/cafe-hondureno-genera-en-la-ultima-cosecha-2285-mdd
 - 2026-10-05 | Café Martínez proyecta 31 aperturas en 2026 con US$ 7 millones de inversión | https://mercado.com.ar/negocios/cafe-martinez-proyecta-31-aperturas-en-2026-e-inversion-anual-de-us-7-millones
 - 2026-10-05 | SAS firma con Lykke Coffee Farms para servir café de especialidad en vuelo (feb 2027) | https://www.sasgroup.net/newsroom/press-releases/2026/sas-and-lykke-coffee-farms-team-up-to-raise-the-bar-for-coffee-in-the-air/
@@ -127,3 +119,11 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-10-18 | BRITA Grounds for Innovation Awards 2026 UK (fuera) | https://www.brita.co.uk/grounds-of-innovation-2026
 - 2026-10-18 | Pact Coffee calendario de adviento 2026 (fuera) | http://pactcoffee.com/
 - 2026-10-18 | Beantropy relanza su podcast (fuera) | https://beantropy.com/podcasts/
+- 2026-10-19 | CupHouse plantó bandera en Costanera Sur y arranca su cadena (apertura 17 oct) | https://noticias.perfil.com/noticias/restaurante/celebridades-en-la-inauguracion-del-nuevo-cafe-de-especialidad-premium-de-costanera-sur.phtml
+- 2026-10-19 | Arranca el Cup of Excellence Brasil 2026: 150 cafés al banquillo (19-23 oct nacional) | https://www.agrolink.com.br/noticias/cafe-especial--brasil-define-amostras-da-fase-nacional-do-cup-of-excellence-2026_519422.html
+- 2026-10-19 | La cadena coreana A Twosome Place aterrizó en Estados Unidos (Alexandria, VA) | https://www.worldcoffeeportal.com/news/south-koreas-a-twosome-place-makes-long-awaited-us-debut/
+- 2026-10-19 | Black Sheep rompió una década larga de pérdidas en el Reino Unido ("grow or die") | https://www.worldcoffeeportal.com/news/black-sheep-coffee-breaks-losing-streak-as-co-founder-hails-grow-or-die-strategy/
+- 2026-10-19 | Workplaces: the next big opportunity for UK coffee businesses (WCP reporte) (fuera) | https://www.worldcoffeeportal.com/news/workplaces-the-next-big-opportunity-for-uk-coffee-businesses/
+- 2026-10-19 | The Week in Coffee, 12-18 October 2026 (WCP resumen semanal) (fuera) | https://www.worldcoffeeportal.com/news/the-week-in-coffee-12-18-october-2026/
+- 2026-10-19 | Trump coins para gastar en cafeterías "liberales" (Sprudge sátira) (fuera) | https://sprudge.com/the-government-wants-you-to-spend-trump-coins-at-a-liberal-coffee-shop-1465062.html
+- 2026-10-19 | Sprudge Roaster's Village semanal: "A Coat And A Nice Cup Of Coffee" (fuera) | https://sprudge.com/a-coat-and-a-nice-cup-of-coffee-is-that-really-too-much-to-ask-for-1465213.html
