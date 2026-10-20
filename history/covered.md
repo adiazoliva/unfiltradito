@@ -3,16 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-10-05 | Honduras cerró la cosecha 2025-2026 con US$ 2.285 millones y arranca el ciclo 2026-2027 | https://forbescentroamerica.com/2026/10/01/cafe-hondureno-genera-en-la-ultima-cosecha-2285-mdd
-- 2026-10-05 | Café Martínez proyecta 31 aperturas en 2026 con US$ 7 millones de inversión | https://mercado.com.ar/negocios/cafe-martinez-proyecta-31-aperturas-en-2026-e-inversion-anual-de-us-7-millones
-- 2026-10-05 | SAS firma con Lykke Coffee Farms para servir café de especialidad en vuelo (feb 2027) | https://www.sasgroup.net/newsroom/press-releases/2026/sas-and-lykke-coffee-farms-team-up-to-raise-the-bar-for-coffee-in-the-air/
-- 2026-10-05 | 5ª edición del Pasaporte del Café de Especialidad CDMX con 60 barras | https://newsreportmx.com/2026/09/30/presentan-la-quinta-edicion-del-pasaporte-de-cafe-de-especialidad-con-60-barras-de-cafe-en-cdmx/
-- 2026-10-05 | Hacea Coffee Source se muda a una base más grande en Brea (DCN) | https://dailycoffeenews.com/2026/10/05/green-coffee-trader-hacea-gets-bigger-in-brea/
-- 2026-10-05 | From Vietnam To Vienna: Exploring The Global World Of Coffee Museums (Sprudge) | https://sprudge.com/from-vietnam-to-vienna-exploring-the-global-world-of-coffee-museums-1255579.html
-- 2026-10-05 | Heidi Bakery abre kiosko grab-and-go en London Victoria con café de Mozzo (WCP) | https://www.worldcoffeeportal.com/news/the-uks-heidi-bakery-enters-to-go-travel-retail-with-london-victoria-launch/
-- 2026-10-05 | The Coffee abre flagship en Parque Arauco (Chile) | https://www.df.cl/senal-df/el-deal/the-coffee-la-cafeteria-de-estilo-japones-que-conquista-chile
-- 2026-10-05 | Modern Cowgirl Coffee: ex marketera de Mattel lanza su DTC con café colombiano (DCN) | https://dailycoffeenews.com/2026/10/02/weekly-coffee-news-marketplace-launches-dollys-new-coffee-commercial/
-- 2026-10-05 | CNN: El Niño podría subir el precio del café y el cacao | https://www.cnn.com/2026/10/02/climate/el-nino-coffee-chocolate-price-increase
 - 2026-10-06 | StoneX se queda con Integra Trading S.A.S. en Antioquia (Colombia) | https://www.comunicaffe.com/stonex-group-inc-acquires-integra-trading-s-a-s-establishing-a-colombian-coffee-origination-and-processing-platform/
 - 2026-10-06 | La ICO lanza el Coffee Market Intelligence Platform gratuito (data.ico.org) | https://dailycoffeenews.com/2026/09/30/ico-puts-global-coffee-market-data-in-one-interactive-place/
 - 2026-10-06 | Café Fest Manizales 2026: 21.000+ visitantes y 254 expositores en Expoferias | https://www.eje21.com.co/2026/10/cafe-fest-en-manizales-reunio-a-mas-de-21-000-visitantes-en-expoferias/
@@ -127,3 +117,11 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-10-19 | The Week in Coffee, 12-18 October 2026 (WCP resumen semanal) (fuera) | https://www.worldcoffeeportal.com/news/the-week-in-coffee-12-18-october-2026/
 - 2026-10-19 | Trump coins para gastar en cafeterías "liberales" (Sprudge sátira) (fuera) | https://sprudge.com/the-government-wants-you-to-spend-trump-coins-at-a-liberal-coffee-shop-1465062.html
 - 2026-10-19 | Sprudge Roaster's Village semanal: "A Coat And A Nice Cup Of Coffee" (fuera) | https://sprudge.com/a-coat-and-a-nice-cup-of-coffee-is-that-really-too-much-to-ask-for-1465213.html
+- 2026-10-20 | Ser barista en 2026: datos de la SCA, BLS y la mirada de Jack Simpson (PDG) | https://perfectdailygrind.com/2026/10/being-a-barista-in-2026/
+- 2026-10-20 | GoodNews, cadena catalana de especialidad, abre en Londres (tercer mercado europeo) | https://www.worldcoffeeportal.com/news/spains-goodnews-launches-in-third-european-market/
+- 2026-10-20 | Mill City Roasters despacha su primer M-Series 20 kg y arma línea completa 2026 | https://sprudge.com/mill-city-roasters-delivers-first-all-new-m-series-20kg-roasters-the-third-new-model-released-this-year-1485525.html
+- 2026-10-20 | Korea Meets LA: tres duplas Corea-LA (Momos+Loquat, Center+Be Bright, Naeja+Stereoscopic) 22-24 oct | https://sprudge.com/three-exciting-international-coffee-collaborations-at-korea-meets-la-1485475.html
+- 2026-10-20 | Taco Bell quiere ser marca de bebidas de US$ 5.000M a 2030 con Live Mas Café (39 locales) | https://www.worldcoffeeportal.com/news/taco-bell-wants-to-be-a-5bn-beverage-brand-by-2030/
+- 2026-10-20 | Chris Diskin (OXO Rapid Brewer) en los Sprudge Twenty 2026 (fuera) | https://sprudge.com/chris-diskin-the-sprudge-twenty-interview-1278658.html
+- 2026-10-20 | Micro lots, macro risk: packaging para proteger la calidad del café (PDG, fuera) | https://perfectdailygrind.com/2026/10/sample-packaging-protect-coffee-quality/
+- 2026-10-20 | Coffee News Recap 16 de octubre (PDG, fuera) | https://perfectdailygrind.com/2026/10/coffee-news-recap-16-october-2026/
