@@ -3,13 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-10-06 | StoneX se queda con Integra Trading S.A.S. en Antioquia (Colombia) | https://www.comunicaffe.com/stonex-group-inc-acquires-integra-trading-s-a-s-establishing-a-colombian-coffee-origination-and-processing-platform/
-- 2026-10-06 | La ICO lanza el Coffee Market Intelligence Platform gratuito (data.ico.org) | https://dailycoffeenews.com/2026/09/30/ico-puts-global-coffee-market-data-in-one-interactive-place/
-- 2026-10-06 | Café Fest Manizales 2026: 21.000+ visitantes y 254 expositores en Expoferias | https://www.eje21.com.co/2026/10/cafe-fest-en-manizales-reunio-a-mas-de-21-000-visitantes-en-expoferias/
-- 2026-10-06 | Cafeyna cierra su 8ª edición en Valparaíso con 9.000 asistentes | https://g5noticias.cl/2026/10/06/mas-de-nueve-mil-personas-vivieron-la-octava-edicion-de-cafeyna-en-valparaiso/
-- 2026-10-06 | Estudio UFSC: polifenoles del café y menor mortalidad por cáncer de mama (British Journal of Nutrition) | https://dailycoffeenews.com/2026/10/05/small-study-links-polyphenols-to-breast-cancer-survival/
-- 2026-10-06 | SCA National Coffee Data Trends 2026: 47% consumo past-day de especialidad en EE.UU. | https://sca.coffee/sca-news/2026-national-coffee-data-trends-report
-- 2026-10-06 | Borra de café como aislante térmico biodegradable (Jeonbuk National University, Biochar) | https://www.eurekalert.org/news-releases/1130612
 - 2026-10-07 | Sacarle la crema al espresso: la grieta que divide a la especialidad (PDG) | https://perfectdailygrind.com/2026/10/removing-crema-from-espresso/
 - 2026-10-07 | Reembolso de aranceles al café en EE.UU.: US$166 B y la cadena no se pone de acuerdo (PDG) | https://perfectdailygrind.com/2026/10/tariff-refunds-coffee/
 - 2026-10-07 | Drop Coffee abre su primer local internacional en Tokio (Nakano Marui) | https://www.worldcoffeeportal.com/news/swedens-drop-coffee-roasters-opens-first-international-cafe-in-japan/
@@ -125,3 +118,11 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-10-20 | Chris Diskin (OXO Rapid Brewer) en los Sprudge Twenty 2026 (fuera) | https://sprudge.com/chris-diskin-the-sprudge-twenty-interview-1278658.html
 - 2026-10-20 | Micro lots, macro risk: packaging para proteger la calidad del café (PDG, fuera) | https://perfectdailygrind.com/2026/10/sample-packaging-protect-coffee-quality/
 - 2026-10-20 | Coffee News Recap 16 de octubre (PDG, fuera) | https://perfectdailygrind.com/2026/10/coffee-news-recap-16-october-2026/
+- 2026-10-21 | Project Café North America 2027: EE.UU. crece 3,4% (ritmo más lento en 3 años), México +9%, Canadá -0,1% | https://www.worldcoffeeportal.com/news/slowest-growth-in-three-years-for-us-branded-coffee-chain-market-as-mexico-booms-and-canada-stalls/
+- 2026-10-21 | Blueprint Coffee (St. Louis) devuelve los reembolsos de aranceles a sus clientes mediante cupones | https://sprudge.com/blueprint-coffee-returns-green-coffee-tariff-refunds-to-wholesale-partners-customers-1492897.html
+- 2026-10-21 | El pour over de US$ 20: Stitch Coffee (Sídney) y la economía del filtrado premium (PDG) | https://perfectdailygrind.com/2026/10/20-dollar-pour-over-coffee/
+- 2026-10-21 | Rutaecarpina: biohackers usan el extracto para acelerar la eliminación de cafeína, con riesgo hepático (Sprudge) | https://sprudge.com/biohackers-found-a-way-to-fall-sleep-after-coffee-maybe-forever-1485380.html
+- 2026-10-21 | Build Outs of Coffee 2026 (Sprudge): 44 cafeterías, 78% tuesta en casa, retroceso del filtrado manual | https://sprudge.com/the-analytics-of-autumn-trends-and-surprises-from-the-2026-build-outs-of-coffee-1457338.html
+- 2026-10-21 | Recipe Unlimited (Canadá) compra las griegas Everest y Flocafe Espresso Room (fuera) | https://www.worldcoffeeportal.com/news/two-greek-coffee-chains-become-part-of-canadas-recipe-unlimited-corporation/
+- 2026-10-21 | Costa Coffee completó la actualización de 13.000 máquinas Costa Express en UK (fuera) | https://www.worldcoffeeportal.com/news/costa-upgrades-more-than-13-000-express-machines-as-uk-self-serve-market-heats-up/
+- 2026-10-21 | Phil & Sebastian anuncia segunda edición de Project III con Hartmann, Proud Mary y MAME (fuera) | https://sprudge.com/phil-sebastian-announces-second-edition-of-project-iii-featuring-ratibor-hartmann-proud-mary-and-mame-1486270.html
