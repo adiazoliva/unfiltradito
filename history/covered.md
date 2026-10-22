@@ -3,16 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-10-07 | Sacarle la crema al espresso: la grieta que divide a la especialidad (PDG) | https://perfectdailygrind.com/2026/10/removing-crema-from-espresso/
-- 2026-10-07 | Reembolso de aranceles al café en EE.UU.: US$166 B y la cadena no se pone de acuerdo (PDG) | https://perfectdailygrind.com/2026/10/tariff-refunds-coffee/
-- 2026-10-07 | Drop Coffee abre su primer local internacional en Tokio (Nakano Marui) | https://www.worldcoffeeportal.com/news/swedens-drop-coffee-roasters-opens-first-international-cafe-in-japan/
-- 2026-10-07 | La Marzocco presenta la Strada X con perfiles por peso y Smart Saturation (PDG) | https://perfectdailygrind.com/2026/10/control-creativity-balancing-espresso/
-- 2026-10-07 | Juan Valdez nombra nuevo CEO tras seis meses de interinato (WCP, paywall) | https://www.worldcoffeeportal.com/news/new-ceo-for-colombian-coffee-group-juan-valdez/
-- 2026-10-07 | Blank Street triplica ganancias en Reino Unido (WCP) | https://www.worldcoffeeportal.com/news/believe-the-hype-blank-street-triples-uk-profits/
-- 2026-10-07 | Rumor de fusión Starbucks-Chipotle sube acciones de ambas (WCP) | https://www.worldcoffeeportal.com/news/there-is-a-rumour-that-starbucks-and-chipotle-could-merge/
-- 2026-10-07 | Costa Coffee recupera impulso con refacciones, drive-thru y matcha (WCP) | https://www.worldcoffeeportal.com/news/refurbishments-drive-thru-and-matcha-how-costa-coffee-got-its-mojo-back/
-- 2026-10-07 | Sprudge satiriza la moda de la leche de cereal gasificada | https://sprudge.com/did-we-really-need-to-carbonate-cereal-milk-1396692.html
-- 2026-10-07 | Seis meses sin novedades sobre Amy Hillyard, cofundadora de Farley's Coffeehouse (Oakland) | https://sprudge.com/six-months-later-the-co-owner-of-farleys-coffeehouse-is-still-missing-1393476.html
 - 2026-10-08 | AmRest nombra a María Elena Pato-Castel como nueva CEO (desde 1 feb 2027) | https://www.worldcoffeeportal.com/news/major-european-starbucks-franchise-group-appoints-new-ceo/
 - 2026-10-08 | Mega Coffee abre flagship en Phnom Penh, Camboya (segundo mercado internacional) | https://www.worldcoffeeportal.com/news/mega-coffee-makes-big-bet-on-cambodia-flagship/
 - 2026-10-08 | M Stand (China) desembarca en Indonesia, tres meses después de Japón | https://www.worldcoffeeportal.com/news/chinas-m-stand-enters-second-international-market/
@@ -82,7 +72,7 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-10-16 | Melitta Group dispara ganancias semestrales (fuera) | https://www.worldcoffeeportal.com/news/melitta-group-lands-on-winning-formula-as-half-year-profits-soar/
 - 2026-10-16 | El sobrino de Jerry Jones (Dallas Cowboys) abre una cafetería (fuera) | https://sprudge.com/the-nephew-of-dallas-cowboys-owner-jerry-jones-is-opening-a-coffee-shop-1453811.html
 - 2026-10-16 | PDG: tener una cafetería nunca fue tan difícil, cómo la están remando (fuera) | https://perfectdailygrind.com/2026/10/why-running-a-coffee-shop-is-harder/
-- 2026-10-17 | Nestlé duplica su apuesta en México: US$ 2.000M y 70.000 cafetos para Veracruz | https://www.swissinfo.ch/eng/global-trade/nestl%C3%A9-doubles-its-investment-in-mexico-to-two-billion-dollars/92190729
+- 2026-10-17 | Nestlé duplica su apuesta en México: US$ 2.000M y 70.000 cafetos para Veracruz | https://www.swissinfo.ch/eng/global-trade/nestl%C3%A9-doubles-its-investment-in-mexico-to-two-billion-dollares/92190729
 - 2026-10-17 | SEY paga US$ 6.325/kg por un Gesha de Finca Sophia (Panamá) y lo pone a US$ 200 la taza | https://www.timeout.com/usa/news/you-can-try-a-crazy-rare-200-cup-of-coffee-in-these-u-s-cities-this-week-101226
 - 2026-10-17 | Madagascar quiere resucitar su café: US$ 150M para 100.000 toneladas en 10 años | https://newsmada.com/?p=197169
 - 2026-10-17 | De'Longhi sube su stake en la unidad La Marzocco + Eversys, valuada en US$ 2.300M | https://www.worldcoffeeportal.com/news/delonghi-increases-stake-in-2-3bn-la-marzocco-and-eversys-division/
@@ -126,3 +116,11 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-10-21 | Recipe Unlimited (Canadá) compra las griegas Everest y Flocafe Espresso Room (fuera) | https://www.worldcoffeeportal.com/news/two-greek-coffee-chains-become-part-of-canadas-recipe-unlimited-corporation/
 - 2026-10-21 | Costa Coffee completó la actualización de 13.000 máquinas Costa Express en UK (fuera) | https://www.worldcoffeeportal.com/news/costa-upgrades-more-than-13-000-express-machines-as-uk-self-serve-market-heats-up/
 - 2026-10-21 | Phil & Sebastian anuncia segunda edición de Project III con Hartmann, Proud Mary y MAME (fuera) | https://sprudge.com/phil-sebastian-announces-second-edition-of-project-iii-featuring-ratibor-hartmann-proud-mary-and-mame-1486270.html
+- 2026-10-22 | Arrancó el 2026 World Barista Championship en Panamá: 50 campeones nacionales, 12 de Latam | https://sprudge.com/the-2026-world-barista-championship-starts-today-heres-everyone-competing-1497734.html
+- 2026-10-22 | Nestlé reordena su café global: frío, listo para tomar y concentrados (1/3 del café fuera de casa ya es frío) | https://www.worldcoffeeportal.com/news/the-categories-that-could-transform-nestles-global-coffee-business/
+- 2026-10-22 | Slow feeding en molinos: evidencia de Apax Lab, ARO Espresso y Kaffeemacher (PDG) | https://perfectdailygrind.com/2026/10/slow-feeding-coffee-grinding/
+- 2026-10-22 | Ecommerce de café: Deloitte proyecta US$ 17.000M al 2029 y SCA registra 109% de salto en suscripciones (PDG) | https://perfectdailygrind.com/2026/10/buying-and-selling-coffee-online/
+- 2026-10-22 | PDG — Cómo hacer más eficiente tu tostaduría (Cropster + Scenery Coffee) (fuera) | https://perfectdailygrind.com/2026/10/improve-coffee-roastery-efficiency/
+- 2026-10-22 | WCP — Cómo entregar calidad consistente en varios locales (fuera) | https://www.worldcoffeeportal.com/news/how-to-deliver-consistent-coffee-quality-across-multiple-sites/
+- 2026-10-22 | WCP — Incapto ST1, máquina super-automática (promocionado) (fuera) | https://www.worldcoffeeportal.com/news/incapto-st1-bringing-traditional-espresso-quality-to-a-new-generation-of-super-automatic-machines/
+- 2026-10-22 | Sprudge — Guía de café en Fukuoka (fuera) | https://sprudge.com/the-sprudge-guide-to-coffee-in-fukuoka-city-japan-1314766.html
