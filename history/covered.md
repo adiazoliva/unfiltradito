@@ -3,14 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-10-08 | AmRest nombra a María Elena Pato-Castel como nueva CEO (desde 1 feb 2027) | https://www.worldcoffeeportal.com/news/major-european-starbucks-franchise-group-appoints-new-ceo/
-- 2026-10-08 | Mega Coffee abre flagship en Phnom Penh, Camboya (segundo mercado internacional) | https://www.worldcoffeeportal.com/news/mega-coffee-makes-big-bet-on-cambodia-flagship/
-- 2026-10-08 | M Stand (China) desembarca en Indonesia, tres meses después de Japón | https://www.worldcoffeeportal.com/news/chinas-m-stand-enters-second-international-market/
-- 2026-10-08 | Esteban Cristancho (Elevation Coffee Tampa) en los Sprudge Twenty 2026 | https://sprudge.com/esteban-cristancho-the-sprudge-twenty-interview-1278706.html
-- 2026-10-08 | Chronofuns lanza el Coffee in Motion Chronograph en Kickstarter (US$ 459) | https://sprudge.com/theres-a-new-coffee-watch-for-your-coffee-watch-collection-1406849.html
-- 2026-10-08 | Janette Watson (Gilly Brew Bar, Atlanta) en los Sprudge Twenty 2026 | https://sprudge.com/janette-watson-of-gilly-brew-bar-the-sprudge-twenty-interview-1278639.html
-- 2026-10-08 | Gong cha firma extensión de franquicia por 10 años en Filipinas | https://www.worldcoffeeportal.com/news/gong-cha-signs-10-year-franchise-extension-in-the-philippines/
-- 2026-10-08 | Evoca Group presenta su visión de valor sostenible (promocionado) | https://www.worldcoffeeportal.com/news/creating-sustainable-value-evoca-groups-vision/
 - 2026-10-09 | El arábica cruza los US$ 3 y Brasil firma su mejor septiembre en 20 meses (PDG recap 9 oct) | https://perfectdailygrind.com/2026/10/coffee-news-recap-9-october-2026/
 - 2026-10-09 | Costa vuelve a ganar plata y Coca-Cola vuelve a querer vender | https://www.worldcoffeeportal.com/news/back-to-profitability-back-on-the-market-coca-cola-reportedly-revisits-costa-coffee-sale/
 - 2026-10-09 | Nestlé firma con la NBA y mete a Nescau en 21 mercados (desde 1 ene 2027) | https://www.newswire.ca/news-releases/nestle-and-nba-announce-multi-year-international-marketing-partnership-826901743.html
@@ -124,3 +116,13 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-10-22 | WCP — Cómo entregar calidad consistente en varios locales (fuera) | https://www.worldcoffeeportal.com/news/how-to-deliver-consistent-coffee-quality-across-multiple-sites/
 - 2026-10-22 | WCP — Incapto ST1, máquina super-automática (promocionado) (fuera) | https://www.worldcoffeeportal.com/news/incapto-st1-bringing-traditional-espresso-quality-to-a-new-generation-of-super-automatic-machines/
 - 2026-10-22 | Sprudge — Guía de café en Fukuoka (fuera) | https://sprudge.com/the-sprudge-guide-to-coffee-in-fukuoka-city-japan-1314766.html
+- 2026-10-23 | Fazenda Santuário Sul (Carmo de Minas) rompe récord: US$ 200/lb en subasta ACE Lendas en SCAJ Tokio | https://comprerural.com/cafe-brasileiro-bate-recorde-em-leilao-das-lendas-mundiais-com-valor-equivalente-a-r-1346-mil-por-saca/
+- 2026-10-23 | Carlos Escobar gana el Brewers Cup colombiano 2027 usando Celestra, nueva variedad de Cenicafé | https://perfectdailygrind.com/2026/10/coffee-news-recap-23-october-2026/
+- 2026-10-23 | Clearpath Coffee y M-Cultivo confirman segunda subasta Colombia Legends (16 nov, 15 lotes) | https://perfectdailygrind.com/2026/10/coffee-news-recap-23-october-2026/
+- 2026-10-23 | Mariana Velloso Heitor (Expocacer) entra a la lista Forbes "100 Mulheres Poderosas do Agro" | https://comprerural.com/forbes-inclui-presidente-da-expocacer-na-lista-das-100-mulheres-poderosas-do-agro/
+- 2026-10-23 | Universidad de Ciencia y Tecnología de Adís Abeba: pergamino de café a celulosa 92% pura con ultrasonido | https://sprudge.com/researchers-created-a-way-to-turn-coffee-parchment-into-highly-sought-after-cellulose-1492471.html
+- 2026-10-23 | Blue Bottle Coffee cambia política de leche de avena por defecto en EE.UU. (fuera) | https://www.worldcoffeeportal.com/news/blue-bottle-coffee-makes-major-change-to-oatmilk-orders/
+- 2026-10-23 | Importaciones de café a la UE más que se duplicaron desde 2015 (€18.700M, Eurostat) (fuera) | https://perfectdailygrind.com/2026/10/coffee-news-recap-23-october-2026/
+- 2026-10-23 | Phuc Long supera expectativas de Masan Group tras octavo trimestre al alza (fuera) | https://www.worldcoffeeportal.com/news/surging-phuc-longs-profits-surpass-masan-groups-expectations/
+- 2026-10-23 | Mariya Manerkina (Codos Coffee) gana el primer Alpine Roasting Championship en Múnich (fuera) | https://perfectdailygrind.com/2026/10/coffee-news-recap-23-october-2026/
+- 2026-10-23 | Cecafé: Brasil exporta 11,2M sacas entre julio-septiembre (+15,5% y/y) (fuera) | https://perfectdailygrind.com/2026/10/coffee-news-recap-23-october-2026/
