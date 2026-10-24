@@ -3,16 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-10-09 | El arábica cruza los US$ 3 y Brasil firma su mejor septiembre en 20 meses (PDG recap 9 oct) | https://perfectdailygrind.com/2026/10/coffee-news-recap-9-october-2026/
-- 2026-10-09 | Costa vuelve a ganar plata y Coca-Cola vuelve a querer vender | https://www.worldcoffeeportal.com/news/back-to-profitability-back-on-the-market-coca-cola-reportedly-revisits-costa-coffee-sale/
-- 2026-10-09 | Nestlé firma con la NBA y mete a Nescau en 21 mercados (desde 1 ene 2027) | https://www.newswire.ca/news-releases/nestle-and-nba-announce-multi-year-international-marketing-partnership-826901743.html
-- 2026-10-09 | ¿Se puede patentar una fermentación? El caso TyOxidator en Finca Soledad, Ecuador (PDG) | https://perfectdailygrind.com/2026/10/can-coffee-producers-own-processing-methods/
-- 2026-10-09 | 400 mg de cafeína 12 horas antes de dormir recortan 21 minutos de sueño profundo (Nutrients, review) | https://perfectdailygrind.com/2026/10/coffee-news-recap-9-october-2026/
-- 2026-10-09 | La Marzocco y Rains sacan un delantal técnico para barista (Sprudge) | https://sprudge.com/la-marzocco-and-rains-collaborate-for-a-new-barista-apron-1409605.html
-- 2026-10-09 | IzyCoffee (Bélgica) cierra 9 de sus 20 locales (WCP) | https://www.worldcoffeeportal.com/news/belgiums-izycoffee-closes-11-stores-following-enormous-pressure/
-- 2026-10-09 | Rounton Coffee se muda y duplica producción en el Reino Unido (WCP) | https://www.worldcoffeeportal.com/news/the-uks-rounton-coffee-to-ramp-up-production-following-roastery-relocation/
-- 2026-10-09 | Pret A Manger ficha a una ex Elior para liderar marketing en el Reino Unido (WCP) | https://www.worldcoffeeportal.com/news/pret-a-manger-appoints-former-elior-exec-to-lead-uk-marketing-push/
-- 2026-10-09 | Un estudio valúa el sector cafetero alemán en €70.200 millones (PDG recap 9 oct) | https://perfectdailygrind.com/2026/10/coffee-news-recap-9-october-2026/
 - 2026-10-10 | Juan Valdez ya tiene nombre al mando: Luis Guillermo Quintero (Procafecol) | https://forbes.co/2026/10/06/negocios/procafecol-nombra-a-luis-guillermo-quintero-como-el-nuevo-gerente-general-de-juan-valdez/
 - 2026-10-10 | Panamá en la recta final para el World of Coffee: 13.000 asistentes y 320 expositores (22-25 oct) | https://www.laestrella.com.pa/economia/panama-en-la-recta-final-para-albergar-el-world-of-coffee-2026-KH24546936
 - 2026-10-10 | Honduras arranca el ciclo 2026/27 con meta de 7,5M de sacos y Día Nacional de la Caficultura | https://www.latribuna.hn/2026/10/01/dan-la-bienvenida-a-nueva-cosecha-de-cafe-entre-retos-por-el-cambio-climatico/
@@ -126,3 +116,10 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-10-23 | Phuc Long supera expectativas de Masan Group tras octavo trimestre al alza (fuera) | https://www.worldcoffeeportal.com/news/surging-phuc-longs-profits-surpass-masan-groups-expectations/
 - 2026-10-23 | Mariya Manerkina (Codos Coffee) gana el primer Alpine Roasting Championship en Múnich (fuera) | https://perfectdailygrind.com/2026/10/coffee-news-recap-23-october-2026/
 - 2026-10-23 | Cecafé: Brasil exporta 11,2M sacas entre julio-septiembre (+15,5% y/y) (fuera) | https://perfectdailygrind.com/2026/10/coffee-news-recap-23-october-2026/
+- 2026-10-24 | % Arabica desembarca en Bagdad y suma su décimo mercado en MENA | https://www.worldcoffeeportal.com/news/japans-arabica-enters-tenth-mena-market/
+- 2026-10-24 | Starbucks México rebota y Alsea cierra un trimestre fuerte (Q3 2026, +48,4% utilidad) | https://www.worldcoffeeportal.com/news/strong-third-quarter-for-alseas-starbucks-business-as-two-major-markets-rebound/
+- 2026-10-24 | Milk brew: la fría japonesa que empieza a ganar las barras (Jenn Chen, Sprudge) | https://sprudge.com/milk-brew-me-a-skeptics-journey-through-the-viral-coffee-drink-1308095.html
+- 2026-10-24 | Fore Coffee (Indonesia) superó todo 2025 en nueve meses, 18 meses al alza desde el IPO | https://www.worldcoffeeportal.com/news/disciplined-growth-makes-indonesias-fore-coffee-an-attractive-investment/
+- 2026-10-24 | Sprudgecast Milk Brew: podcast completo con cata de seis leches (fuera) | https://sprudge.com/milk-brew-hesitation-and-trepidation-on-the-coffee-sprudgecast-1508563.html
+- 2026-10-24 | TOUS les JOURS ficha a un ex McDonald's para revivir Norteamérica (fuera) | https://www.worldcoffeeportal.com/news/tous-les-jours-hires-mcdonalds-exec-to-revive-north-american-growth/
+- 2026-10-24 | Cómo las grandes marcas están reescribiendo las reglas del packaging (WCP feature, fuera) | https://www.worldcoffeeportal.com/feature/coffee-packaging-unpacked/
