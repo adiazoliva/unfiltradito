@@ -3,13 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-10-10 | Juan Valdez ya tiene nombre al mando: Luis Guillermo Quintero (Procafecol) | https://forbes.co/2026/10/06/negocios/procafecol-nombra-a-luis-guillermo-quintero-como-el-nuevo-gerente-general-de-juan-valdez/
-- 2026-10-10 | Panamá en la recta final para el World of Coffee: 13.000 asistentes y 320 expositores (22-25 oct) | https://www.laestrella.com.pa/economia/panama-en-la-recta-final-para-albergar-el-world-of-coffee-2026-KH24546936
-- 2026-10-10 | Honduras arranca el ciclo 2026/27 con meta de 7,5M de sacos y Día Nacional de la Caficultura | https://www.latribuna.hn/2026/10/01/dan-la-bienvenida-a-nueva-cosecha-de-cafe-entre-retos-por-el-cambio-climatico/
-- 2026-10-10 | Coffee Voyage Festival de Hong Kong (8-11 oct) con debut de Rikuto Tanaka (Philocoffea) | https://www.scmp.com/lifestyle/food-drink/article/3369273/5-new-hong-kong-cafes-and-coffee-shops-try-october-2026-plus-must-visit-events
-- 2026-10-10 | Cup of Excellence Guatemala 2026: Las Macadamias (90,77) y El Injerto I (US$ 449,10/lb) | https://allianceforcoffeeexcellence.org/guatemala-2026/
-- 2026-10-10 | Nicaragua 2026/27: USDA proyecta 2,3M sacos arábica con 62% de probabilidad de El Niño | https://cropgpt.ai/nicaragua-coffee-2026-27-production-decline-and-structural-constraints
-- 2026-10-10 | IMARC: mercado de café orgánico en Latam valuado en USD 640,1M en 2025 | https://www.imarcgroup.com/latin-america-organic-coffee-market
 - 2026-10-11 | Subway se mete en la pelea del café británico con un plan 100% arábica (Blueprint, Ámsterdam, 8 oct) | https://www.worldcoffeeportal.com/news/subway-to-take-on-uk-coffee-chains-with-major-investment-in-stores/
 - 2026-10-11 | Costa Rica le apunta a una cosecha 16,67% más grande, con un ojo en El Niño (Icafé 2026/27) | https://www.teletica.com/nacional/menos-cafe-fenomeno-del-nino-podria-afectar-cosecha_417167
 - 2026-10-11 | ve/la, el café-matcha tailandés, elige a Singapur como su segunda base internacional | https://www.worldcoffeeportal.com/news/thailands-ve-la-enters-second-international-market-of-2026/
@@ -123,3 +116,10 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-10-24 | Sprudgecast Milk Brew: podcast completo con cata de seis leches (fuera) | https://sprudge.com/milk-brew-hesitation-and-trepidation-on-the-coffee-sprudgecast-1508563.html
 - 2026-10-24 | TOUS les JOURS ficha a un ex McDonald's para revivir Norteamérica (fuera) | https://www.worldcoffeeportal.com/news/tous-les-jours-hires-mcdonalds-exec-to-revive-north-american-growth/
 - 2026-10-24 | Cómo las grandes marcas están reescribiendo las reglas del packaging (WCP feature, fuera) | https://www.worldcoffeeportal.com/feature/coffee-packaging-unpacked/
+- 2026-10-25 | 2026 WBC: final hoy en Panamá con 6 finalistas, 4 semifinalistas de Latam (Nicolini/Zapata/Vargas/Roque) | https://wcc.coffee/latest-news/announcing-the-2026-world-barista-championship-finalists
+- 2026-10-25 | Café Imports (Minneapolis) pasa a ser 100% employee-owned mediante ESOP | https://sprudge.com/learn-more-about-the-coffee-supply-chain-in-the-green-room-1508648.html
+- 2026-10-25 | Roast Magazine 2027: Dessert Oasis (Micro, Michigan) y Utopian Coffee (Macro) | https://www.roastmagazine.com/roasteroftheyear
+- 2026-10-25 | Arábica dic 315,70 c/lb (máximo desde fines de agosto), Smucker posterga baja de precios | https://perfectdailygrind.com/2026/10/coffee-news-recap-23-october-2026/
+- 2026-10-25 | Sprudge Roaster's Village semanal: 19 cafés recomendados (fuera) | https://sprudge.com/is-there-anything-scarier-than-running-out-of-coffee-1508643.html
+- 2026-10-25 | Lavazza llega a cinco locales en Hong Kong con buffalo milk latte (fuera) | https://www.webull.com/news/15756156046763008
+- 2026-10-25 | Haraz Coffee House demanda a su franquicia de Syracuse (fuera) | https://perfectdailygrind.com/2026/10/coffee-news-recap-23-october-2026/
