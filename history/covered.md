@@ -3,13 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-10-11 | Subway se mete en la pelea del café británico con un plan 100% arábica (Blueprint, Ámsterdam, 8 oct) | https://www.worldcoffeeportal.com/news/subway-to-take-on-uk-coffee-chains-with-major-investment-in-stores/
-- 2026-10-11 | Costa Rica le apunta a una cosecha 16,67% más grande, con un ojo en El Niño (Icafé 2026/27) | https://www.teletica.com/nacional/menos-cafe-fenomeno-del-nino-podria-afectar-cosecha_417167
-- 2026-10-11 | ve/la, el café-matcha tailandés, elige a Singapur como su segunda base internacional | https://www.worldcoffeeportal.com/news/thailands-ve-la-enters-second-international-market-of-2026/
-- 2026-10-11 | Sodexo compra Olive y suma otro tostador a su carta de café corporativo (UK) | https://www.worldcoffeeportal.com/news/frances-sodexo-strengthens-uk-workplace-division-with-acquisition/
-- 2026-10-11 | OldTown White Coffee cierra en Kallang Wave Mall tras 18 años en Singapur | https://www.worldcoffeeportal.com/news/another-international-coffee-chain-announces-singapore-exit/
-- 2026-10-11 | Joe & The Juice llega a los 500 locales y suma Grecia, Irlanda, Mónaco y España | https://www.worldcoffeeportal.com/news/joe-the-juices-global-rollout-gathers-pace-with-new-market-launch/
-- 2026-10-11 | Luciano Repetto, de Graffeo Coffee, en la Sprudge Twenty 2026 | https://sprudge.com/luciano-repetto-of-graffeo-coffee-the-sprudge-twenty-interview-1278697.html
 - 2026-10-12 | Colombia cierra el año cafetero 2025/26 con una caída del 15% (FNC, 12,65M sacos) | https://www.portafolio.co/economia/agro/produccion-de-cafe-en-colombia-cayo-15-en-el-ano-cafetero-y-cerro-en-12-65-millones-de-sacos-504163
 - 2026-10-12 | Purebread se queda con Caffè Artigiano por CA$ 7,7 millones y triplica tamaño | https://www.worldcoffeeportal.com/news/purebread-brands-to-triple-in-size-following-caffe-artigiano-acquisition/
 - 2026-10-12 | Espresso House arranca su desembarco en Francia desde Dijon (JAB Holding) | https://www.worldcoffeeportal.com/news/swedens-espresso-house-partners-with-travel-retail-giant-for-france-launch/
@@ -123,3 +116,8 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-10-25 | Sprudge Roaster's Village semanal: 19 cafés recomendados (fuera) | https://sprudge.com/is-there-anything-scarier-than-running-out-of-coffee-1508643.html
 - 2026-10-25 | Lavazza llega a cinco locales en Hong Kong con buffalo milk latte (fuera) | https://www.webull.com/news/15756156046763008
 - 2026-10-25 | Haraz Coffee House demanda a su franquicia de Syracuse (fuera) | https://perfectdailygrind.com/2026/10/coffee-news-recap-23-october-2026/
+- 2026-10-26 | Pan Wei (China) gana el WBC 2026 en Panamá con un Typica de Yunnan (Finca Zeoyuan, Parking Coffee) | https://wcc.coffee/latest-news/announcing-the-2026-world-barista-champion-pan-wei
+- 2026-10-26 | Costa Coffee repasa su estrategia de aeropuerto: 200 locales, 57M clientes, 1,5B pasajeros (Sam O'Brien) | https://moodiedavittreport.com/?p=485680
+- 2026-10-26 | PDG — La canasta del portafiltro IMS como variable del dialing-in (Spinelli, NT vs. Big Bang) | https://perfectdailygrind.com/2026/10/espresso-basket-design-extraction/
+- 2026-10-26 | World Coffee Portal — The Week in Coffee 19-25 oct 2026 (fuera) | https://www.worldcoffeeportal.com/news/the-week-in-coffee-19-25-october-2026/
+- 2026-10-26 | Colombia Farmers Collection 2026 (Qima + ACE), subasta online de pequeños productores (fuera) | https://allianceforcoffeeexcellence.org/colombia-farmers-collection-2026/
