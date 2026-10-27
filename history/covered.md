@@ -3,13 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-10-12 | Colombia cierra el año cafetero 2025/26 con una caída del 15% (FNC, 12,65M sacos) | https://www.portafolio.co/economia/agro/produccion-de-cafe-en-colombia-cayo-15-en-el-ano-cafetero-y-cerro-en-12-65-millones-de-sacos-504163
-- 2026-10-12 | Purebread se queda con Caffè Artigiano por CA$ 7,7 millones y triplica tamaño | https://www.worldcoffeeportal.com/news/purebread-brands-to-triple-in-size-following-caffe-artigiano-acquisition/
-- 2026-10-12 | Espresso House arranca su desembarco en Francia desde Dijon (JAB Holding) | https://www.worldcoffeeportal.com/news/swedens-espresso-house-partners-with-travel-retail-giant-for-france-launch/
-- 2026-10-12 | Cafés de Colombia Expo abre en Bogotá el jueves (15-18 oct, Corferias) | https://www.showsbee.com/fairs/82893-Cafes-de-Colombia-2023.html
-- 2026-10-12 | Sprudge: ocho productos nuevos para armar la barra (Bookoo, V60 Simply, Baracuda, Acaia Horizon) | https://sprudge.com/feast-your-eyes-on-this-cornucopia-of-coffee-gear-1417120.html
-- 2026-10-12 | Sprudge: selección semanal de "Roaster's Village" (20 cafés recomendados) | https://sprudge.com/look-at-all-these-coffees-dont-look-at-them-drink-them-1417089.html
-- 2026-10-12 | World Coffee Portal: The Week in Coffee, 5-11 October 2026 (resumen semanal) | https://www.worldcoffeeportal.com/news/the-week-in-coffee-5-11-october-2026/
 - 2026-10-13 | La Cabra planta bandera en Madrid y suma su quinto mercado (primera europea fuera de Dinamarca) | https://www.worldcoffeeportal.com/news/denmarks-la-cabra-launches-in-spain-with-boutique-bakery-cafe/
 - 2026-10-13 | Starbucks le baja el pulgar al rumor de comprar Chipotle (US$ 41.000M según FT) | https://www.worldcoffeeportal.com/news/starbucks-pours-cold-water-on-chipotle-acquisition-reports/
 - 2026-10-13 | Sprudge sobre el rumor Starbucks-Chipotle (análisis satírico, Zac Cadwalader) | https://sprudge.com/is-starbucks-going-to-buy-chipotle-1421282.html
@@ -121,3 +114,10 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-10-26 | PDG — La canasta del portafiltro IMS como variable del dialing-in (Spinelli, NT vs. Big Bang) | https://perfectdailygrind.com/2026/10/espresso-basket-design-extraction/
 - 2026-10-26 | World Coffee Portal — The Week in Coffee 19-25 oct 2026 (fuera) | https://www.worldcoffeeportal.com/news/the-week-in-coffee-19-25-october-2026/
 - 2026-10-26 | Colombia Farmers Collection 2026 (Qima + ACE), subasta online de pequeños productores (fuera) | https://allianceforcoffeeexcellence.org/colombia-farmers-collection-2026/
+- 2026-10-27 | Seidy Selivanow (Kafiex Roasters, Veracruz-origen) en los Sprudge Twenty 2026 | https://sprudge.com/seidy-selivanow-of-kafiex-roasters-the-sprudge-twenty-interview-1278632.html
+- 2026-10-27 | Mega Coffee (Corea del Sur, ~4.500 bocas) prepara desembarco en EE.UU. desde el Flatiron de Manhattan | https://www.worldcoffeeportal.com/news/large-cups-low-cost-mega-coffee-makes-its-play-for-the-us-market/
+- 2026-10-27 | Caravan (Londres) sella alianza mayorista con Sodexo Live para estadios y venues del Reino Unido | https://www.worldcoffeeportal.com/news/caravan-and-sodexo-strike-major-uk-partnership/
+- 2026-10-27 | Tata Starbucks tuvo "uno de sus trimestres más fuertes" y retoma crecimiento de locales en India | https://www.worldcoffeeportal.com/news/tata-starbucks-returns-to-outlet-growth-in-one-of-its-strongest-quarters-ever/
+- 2026-10-27 | Tchibo nombra a Zofia Korecka-Rejczak como MD en Polonia (53 cafeterías) (fuera) | https://www.worldcoffeeportal.com/news/new-leadership-for-tchibo-in-poland/
+- 2026-10-27 | SEB Professional Beverage lanza un corner combinado café + jugo exprimido (WMF/Schaerer + Zummo) (fuera) | https://www.worldcoffeeportal.com/news/seb-professional-beverage-putting-coffee-and-fresh-juice-on-one-counter/
+- 2026-10-27 | Couche-Tard oferta US$ 8.000M por Cumberland Farms (3.300 tiendas de conveniencia) (fuera) | https://www.worldcoffeeportal.com/news/cumberland-farms-could-be-the-next-piece-in-couche-tards-global-convenience-puzzle/
