@@ -3,15 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-10-13 | La Cabra planta bandera en Madrid y suma su quinto mercado (primera europea fuera de Dinamarca) | https://www.worldcoffeeportal.com/news/denmarks-la-cabra-launches-in-spain-with-boutique-bakery-cafe/
-- 2026-10-13 | Starbucks le baja el pulgar al rumor de comprar Chipotle (US$ 41.000M según FT) | https://www.worldcoffeeportal.com/news/starbucks-pours-cold-water-on-chipotle-acquisition-reports/
-- 2026-10-13 | Sprudge sobre el rumor Starbucks-Chipotle (análisis satírico, Zac Cadwalader) | https://sprudge.com/is-starbucks-going-to-buy-chipotle-1421282.html
-- 2026-10-13 | Union Hand Roasted entra a 130 cafeterías de Waitrose en UK | https://www.worldcoffeeportal.com/news/union-hand-roasted-coffee-secures-major-supermarket-cafe-contract/
-- 2026-10-13 | Espresso House aterriza en Francia desde la estación de Dijon (JAB, travel retail) | https://www.worldcoffeeportal.com/news/swedens-espresso-house-partners-with-travel-retail-giant-for-france-launch/
-- 2026-10-13 | Sprudge arma la guía definitiva del café en Fukuoka (Michael Joseph) | https://sprudge.com/the-sprudge-guide-to-coffee-in-fukuoka-city-japan-1314766.html
-- 2026-10-13 | World Coffee Portal — The Week in Coffee, 5-11 oct 2026 (fuera) | https://www.worldcoffeeportal.com/news/the-week-in-coffee-5-11-october-2026/
-- 2026-10-13 | Sprudge Roasters Village: 20 cafés para probar esta semana (fuera) | https://sprudge.com/look-at-all-these-coffees-dont-look-at-them-drink-them-1417089.html
-- 2026-10-13 | SCMP 5 cafeterías nuevas para probar en Hong Kong octubre (fuera) | https://www.scmp.com/lifestyle/food-drink/article/3369273/5-new-hong-kong-cafes-and-coffee-shops-try-october-2026-plus-must-visit-events
 - 2026-10-14 | SCAJ 2026 arranca hoy en Tokio con 560 marcas y Cup of Excellence (14-17 oct, Tokyo Big Sight) | https://scajconference.jp
 - 2026-10-14 | Oatly y Well Grounded firman alianza por £1M a 5 años para formar 10.000 baristas en UK | https://www.worldcoffeeportal.com/news/oatly-gives-uk-coffee-careers-a-1m-boost-with-well-grounded-partnership/
 - 2026-10-14 | Big Apple Donuts & Coffee celebra 100 locales en Malasia y le planta cara a Dunkin' | https://www.worldcoffeeportal.com/news/big-apple-donuts-coffee-is-taking-on-dunkin-to-become-malaysias-go-to-sweet-treat-chain/
@@ -121,3 +112,9 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-10-27 | Tchibo nombra a Zofia Korecka-Rejczak como MD en Polonia (53 cafeterías) (fuera) | https://www.worldcoffeeportal.com/news/new-leadership-for-tchibo-in-poland/
 - 2026-10-27 | SEB Professional Beverage lanza un corner combinado café + jugo exprimido (WMF/Schaerer + Zummo) (fuera) | https://www.worldcoffeeportal.com/news/seb-professional-beverage-putting-coffee-and-fresh-juice-on-one-counter/
 - 2026-10-27 | Couche-Tard oferta US$ 8.000M por Cumberland Farms (3.300 tiendas de conveniencia) (fuera) | https://www.worldcoffeeportal.com/news/cumberland-farms-could-be-the-next-piece-in-couche-tards-global-convenience-puzzle/
+- 2026-10-28 | Los blends de alta gama están cambiando la especialidad (PDG, Jordan Kwek / RLY Coffee, Super Species GCA Asia 2026) | https://perfectdailygrind.com/2026/10/high-end-blends-specialty-coffee/
+- 2026-10-28 | La leche se vuelve el foco de la automatización en café (PDG, Thermoplan Black&White4 CTS, espuma fría julio 2026) | https://perfectdailygrind.com/2026/10/milk-quality-fully-automatic-coffee-machines/
+- 2026-10-28 | New Balance y Todd Snyder lanzan el T500 "Coffee Pack" (Espresso + Milk, US$ 130, Zac Cadwalader en Sprudge) | https://sprudge.com/new-balance-and-todd-snyder-team-up-for-a-new-coffee-sneaker-1524009.html
+- 2026-10-28 | PDG — ¿Pueden los productores "ser dueños" de un método de procesamiento? (Pepe Jijón, TyOxidator, Finca Soledad Ecuador) (fuera) | https://perfectdailygrind.com/2026/10/can-coffee-producers-own-processing-methods/
+- 2026-10-28 | STiR Coffee — Tailandia apuesta por el fine robusta (fuera) | https://stir-tea-coffee.com/tea-coffee-news/thailand-invests-in-fine-robusta/
+- 2026-10-28 | Starbucks — Resultados Q4 y año fiscal 2026 (conference call 29 oct, pendiente) (fuera) | https://investor.starbucks.com/news/financial-releases/news-details/2026/Starbucks-Announces-Q4-and-Full-Fiscal-Year-2026-Results-Conference-Call/default.aspx
