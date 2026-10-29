@@ -3,11 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-10-14 | SCAJ 2026 arranca hoy en Tokio con 560 marcas y Cup of Excellence (14-17 oct, Tokyo Big Sight) | https://scajconference.jp
-- 2026-10-14 | Oatly y Well Grounded firman alianza por £1M a 5 años para formar 10.000 baristas en UK | https://www.worldcoffeeportal.com/news/oatly-gives-uk-coffee-careers-a-1m-boost-with-well-grounded-partnership/
-- 2026-10-14 | Big Apple Donuts & Coffee celebra 100 locales en Malasia y le planta cara a Dunkin' | https://www.worldcoffeeportal.com/news/big-apple-donuts-coffee-is-taking-on-dunkin-to-become-malaysias-go-to-sweet-treat-chain/
-- 2026-10-14 | China's Bingxue launches in the US (Davis, CA), 10.000 locales a 2030 (fuera) | https://www.worldcoffeeportal.com/news/chinas-bingxue-launches-in-the-us-eyes-10-000-stores-globally-by-2030/
-- 2026-10-14 | Franke New A Line de máquinas automáticas (promoted) (fuera) | https://www.worldcoffeeportal.com/news/franke-puts-the-design-of-its-new-a-line-in-focus/
 - 2026-10-15 | Sicilia debuta como productor: 100 kg de cerezas en la finca Morettino, Palermo | https://sprudge.com/southern-italy-is-now-suitable-for-growing-coffee-1449973.html
 - 2026-10-15 | Bogotá se queda con el World Cup Tasters Championship 2027 (30 sep - 2 oct) | https://sprudge.com/the-world-cup-tasters-championship-heads-to-bogota-in-2027-1449662.html
 - 2026-10-15 | Phil & Sebastian (Calgary) ganan Canadá en los Global Coffee Awards 2026 | https://sprudge.com/phil-sebastian-named-national-winner-canada-at-the-2026-global-coffee-awards-1450922.html
@@ -118,3 +113,13 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-10-28 | PDG — ¿Pueden los productores "ser dueños" de un método de procesamiento? (Pepe Jijón, TyOxidator, Finca Soledad Ecuador) (fuera) | https://perfectdailygrind.com/2026/10/can-coffee-producers-own-processing-methods/
 - 2026-10-28 | STiR Coffee — Tailandia apuesta por el fine robusta (fuera) | https://stir-tea-coffee.com/tea-coffee-news/thailand-invests-in-fine-robusta/
 - 2026-10-28 | Starbucks — Resultados Q4 y año fiscal 2026 (conference call 29 oct, pendiente) (fuera) | https://investor.starbucks.com/news/financial-releases/news-details/2026/Starbucks-Announces-Q4-and-Full-Fiscal-Year-2026-Results-Conference-Call/default.aspx
+- 2026-10-29 | FICAFÉ 2026 Perú + X Taza de Excelencia Perú en Cusco (1-6 nov), 50 exportadores, 25 compradores de 16 países, US$ 7,5M proyectados | https://www.cira.org.ar/?p=26436
+- 2026-10-29 | PDG — ¿Se puede reproducir un café de competencia a escala comercial? (Andrés Felipe Realpe, Colo Coffee, Nariño, GCA Latam 2026) | https://perfectdailygrind.com/es/2026/10/28/reproducir-cafe-competencia-escala-comercial/
+- 2026-10-29 | World of Coffee Panamá 2026 cerró con 20.000 visitantes, estadía promedio 6,5 días, donación US$ 25.000 a Cruz Roja | https://www.prensa.com/economia/world-of-coffee-panama-2026-reunio-a-20-mil-visitantes/
+- 2026-10-29 | PDG — Cómo influye el diseño de la taza en la experiencia del café (Fabiana Carvalho 2018, Monoware, Wendelboe, Daniele Ricci) | https://perfectdailygrind.com/es/2026/10/29/como-influye-diseno-taza-experiencia-cafe/
+- 2026-10-29 | Tio Fallen (Three Keys Coffee, Green Buyer) en los Sprudge Twenty 2026, nominado por Alisher Kamalov | https://sprudge.com/tio-fallen-of-three-keys-coffee-the-sprudge-twenty-interview-1278668.html
+- 2026-10-29 | Panera Bread ficha a ex Burger King para liderar expansión de franquicias en EE.UU. (fuera) | https://www.worldcoffeeportal.com/news/panera-bread-hires-former-burger-king-exec-to-lead-us-franchise-expansion/
+- 2026-10-29 | Gong cha debuta en Emiratos Árabes Unidos (fuera, bubble tea) | https://www.worldcoffeeportal.com/news/gong-cha-makes-long-awaited-uae-debut/
+- 2026-10-29 | Third Wave Water cumple 10 años con caja aniversario junto a Onyx Coffee Lab (fuera, gacetilla) | https://sprudge.com/third-wave-water-celebrates-a-decade-of-better-coffee-with-limited-edition-anniversary-box-featuring-onyx-coffee-lab-1530132.html
+- 2026-10-29 | Sprudge — Un cigarrillo con tu espresso martini en La Merna, Dupont Circle DC (fuera, nota de color) | https://sprudge.com/you-can-have-exactly-one-cigarette-with-your-espresso-martini-its-fine-1527696.html
+- 2026-10-29 | PDG — Temperature tracking para baristas (DiFluid Moment, sponsor del medio) (fuera) | https://perfectdailygrind.com/2026/10/coffee-temperature-tracking-baristas/
