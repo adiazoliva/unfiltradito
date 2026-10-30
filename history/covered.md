@@ -3,12 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-10-15 | Sicilia debuta como productor: 100 kg de cerezas en la finca Morettino, Palermo | https://sprudge.com/southern-italy-is-now-suitable-for-growing-coffee-1449973.html
-- 2026-10-15 | Bogotá se queda con el World Cup Tasters Championship 2027 (30 sep - 2 oct) | https://sprudge.com/the-world-cup-tasters-championship-heads-to-bogota-in-2027-1449662.html
-- 2026-10-15 | Phil & Sebastian (Calgary) ganan Canadá en los Global Coffee Awards 2026 | https://sprudge.com/phil-sebastian-named-national-winner-canada-at-the-2026-global-coffee-awards-1450922.html
-- 2026-10-15 | Caffè Nero firma su primera colaboración de bebidas funcionales con MyProtein | https://www.worldcoffeeportal.com/news/caffe-nero-muscles-into-protein-drinks-with-first-functional-collab/
-- 2026-10-15 | Smoking Tiger (K-bakery café) recibe inversión de The Ventures para expansión EE.UU. (fuera) | https://www.worldcoffeeportal.com/news/korean-inspired-bakery-cafe-gets-new-backing-for-us-expansion/
-- 2026-10-15 | The Welcome Conference no es sobre café, pero el café es protagonista (Sprudge, fuera) | https://sprudge.com/the-welcome-conference-is-not-a-coffee-conference-but-the-coffees-still-great-1416122.html
 - 2026-10-16 | Daniel Borrás (Flow Coffee, Atlanta) en los Sprudge Twenty 2026, arrancó barista en Buenos Aires | https://sprudge.com/daniel-borras-the-sprudge-twenty-interview-1278717.html
 - 2026-10-16 | Westrock y Kofola pujan por Massimo Zanetti Beverage Group (€1.200M) | https://www.worldcoffeeportal.com/news/westrock-and-kofolo-among-bidders-for-massimo-zanetti-beverage-group-sources-say/
 - 2026-10-16 | Simonelli le gana a fabricante chino por copiar Victoria Arduino Eagle One y Black Eagle Maverick | https://www.worldcoffeeportal.com/news/chinese-firm-ordered-to-cease-counterfeit-espresso-machine-production/
@@ -123,3 +117,11 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-10-29 | Third Wave Water cumple 10 años con caja aniversario junto a Onyx Coffee Lab (fuera, gacetilla) | https://sprudge.com/third-wave-water-celebrates-a-decade-of-better-coffee-with-limited-edition-anniversary-box-featuring-onyx-coffee-lab-1530132.html
 - 2026-10-29 | Sprudge — Un cigarrillo con tu espresso martini en La Merna, Dupont Circle DC (fuera, nota de color) | https://sprudge.com/you-can-have-exactly-one-cigarette-with-your-espresso-martini-its-fine-1527696.html
 - 2026-10-29 | PDG — Temperature tracking para baristas (DiFluid Moment, sponsor del medio) (fuera) | https://perfectdailygrind.com/2026/10/coffee-temperature-tracking-baristas/
+- 2026-10-30 | La Marzocco y Porsche lanzan la Linea Micra Carrera RS 2.7: 911 unidades por color, €5.790 | https://sprudge.com/la-marzocco-and-porsche-team-up-for-a-911-carrera-rs-2-7-espresso-machine-collection-1532478.html
+- 2026-10-30 | Starbucks FY2026: comparables globales +7,2 %, 41.607 locales, Niccol pasa de rescate a crecimiento | https://www.worldcoffeeportal.com/news/starbucks-turnaround-plan-is-now-our-growth-plan-niccol-says/
+- 2026-10-30 | Tim Hortons Q3 2026: matcha y Meltz empujan la tarde, 22° trimestre comparable positivo en Canadá | https://www.worldcoffeeportal.com/news/matcha-and-meltz-lift-afternoon-sales-in-key-quarter-for-tim-hortons/
+- 2026-10-30 | Pact Coffee (UK) suma su segundo año con crecimiento a dos dígitos y apunta a la góndola | https://www.worldcoffeeportal.com/news/exclusive-uks-pact-coffee-reports-another-year-of-double-digit-growth/
+- 2026-10-30 | Sprudge — Earnest Pursuit NYC apuesta al envasado en lata (fuera, nota de diseño) | https://sprudge.com/tin-is-in-with-earnest-pursuit-coffee-roasting-in-new-york-city-1528237.html
+- 2026-10-30 | Sprudge — Un cigarrillo con tu espresso martini (fuera, columna de humor) | https://sprudge.com/you-can-have-exactly-one-cigarette-with-your-espresso-martini-its-fine-1527696.html
+- 2026-10-30 | WCP — Drink drops octubre 2026: gochujang latte TOUS les JOURS, Ube Third Wave India (fuera) | https://www.worldcoffeeportal.com/news/drink-drops-of-the-month-october-2026/
+- 2026-10-30 | WCP — SUR Group suma 20 locales de Black Sheep en Escocia y norte de Inglaterra (fuera) | https://www.worldcoffeeportal.com/news/black-sheep-coffees-largest-franchisee-signs-on-for-20-more-stores/
