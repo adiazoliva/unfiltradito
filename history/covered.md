@@ -3,16 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-10-16 | Daniel Borrás (Flow Coffee, Atlanta) en los Sprudge Twenty 2026, arrancó barista en Buenos Aires | https://sprudge.com/daniel-borras-the-sprudge-twenty-interview-1278717.html
-- 2026-10-16 | Westrock y Kofola pujan por Massimo Zanetti Beverage Group (€1.200M) | https://www.worldcoffeeportal.com/news/westrock-and-kofolo-among-bidders-for-massimo-zanetti-beverage-group-sources-say/
-- 2026-10-16 | Simonelli le gana a fabricante chino por copiar Victoria Arduino Eagle One y Black Eagle Maverick | https://www.worldcoffeeportal.com/news/chinese-firm-ordered-to-cease-counterfeit-espresso-machine-production/
-- 2026-10-16 | Bellwether presenta nuevo Shop Roaster y datos: tostar in-house ahorra ~50% del costo mayorista | https://sprudge.com/bellwether-debuts-new-shop-roaster-as-data-shows-cafes-can-cut-coffee-costs-in-half-by-roasting-in-house-1457452.html
-- 2026-10-16 | Matcha y bebidas personalizadas al rescate de cafeterías (PDG, análisis con datos UK/AU/US) | https://perfectdailygrind.com/2026/10/matcha-customised-drinks-helping-specialty-coffee/
-- 2026-10-16 | Krispy Kreme reactiva expansión en EE.UU. con deal en Nueva York (fuera) | https://www.worldcoffeeportal.com/news/can-krispy-kreme-reignite-us-expansion-with-new-york-development-deal/
-- 2026-10-16 | Grupo hotelero malayo compra Christine's Bakery (fuera) | https://www.worldcoffeeportal.com/news/malaysian-hotel-group-snaps-up-embattled-christines-bakery/
-- 2026-10-16 | Melitta Group dispara ganancias semestrales (fuera) | https://www.worldcoffeeportal.com/news/melitta-group-lands-on-winning-formula-as-half-year-profits-soar/
-- 2026-10-16 | El sobrino de Jerry Jones (Dallas Cowboys) abre una cafetería (fuera) | https://sprudge.com/the-nephew-of-dallas-cowboys-owner-jerry-jones-is-opening-a-coffee-shop-1453811.html
-- 2026-10-16 | PDG: tener una cafetería nunca fue tan difícil, cómo la están remando (fuera) | https://perfectdailygrind.com/2026/10/why-running-a-coffee-shop-is-harder/
 - 2026-10-17 | Nestlé duplica su apuesta en México: US$ 2.000M y 70.000 cafetos para Veracruz | https://www.swissinfo.ch/eng/global-trade/nestl%C3%A9-doubles-its-investment-in-mexico-to-two-billion-dollares/92190729
 - 2026-10-17 | SEY paga US$ 6.325/kg por un Gesha de Finca Sophia (Panamá) y lo pone a US$ 200 la taza | https://www.timeout.com/usa/news/you-can-try-a-crazy-rare-200-cup-of-coffee-in-these-u-s-cities-this-week-101226
 - 2026-10-17 | Madagascar quiere resucitar su café: US$ 150M para 100.000 toneladas en 10 años | https://newsmada.com/?p=197169
@@ -125,3 +115,16 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-10-30 | Sprudge — Un cigarrillo con tu espresso martini (fuera, columna de humor) | https://sprudge.com/you-can-have-exactly-one-cigarette-with-your-espresso-martini-its-fine-1527696.html
 - 2026-10-30 | WCP — Drink drops octubre 2026: gochujang latte TOUS les JOURS, Ube Third Wave India (fuera) | https://www.worldcoffeeportal.com/news/drink-drops-of-the-month-october-2026/
 - 2026-10-30 | WCP — SUR Group suma 20 locales de Black Sheep en Escocia y norte de Inglaterra (fuera) | https://www.worldcoffeeportal.com/news/black-sheep-coffees-largest-franchisee-signs-on-for-20-more-stores/
+- 2026-10-31 | Expocacer certifica 99 fincas del Cerrado Mineiro como regenerativas (Rainforest Alliance SAS+RAS, 12.994 ha, mayor volumen regenerativo del mundo) | https://perfectdailygrind.com/2026/10/coffee-news-recap-30-october-2026/
+- 2026-10-31 | Primer descafeinado Regenerative Organic Certified del mundo: Groundwork + Swiss Water, Finca Churupampa (Cajamarca, Perú) | https://perfectdailygrind.com/2026/10/coffee-news-recap-30-october-2026/
+- 2026-10-31 | U. Copenhague + DesignWater: la alcalinidad define el sabor del café, calcio y magnesio no mueven la aguja (Journal of Food Science) | https://perfectdailygrind.com/2026/10/coffee-news-recap-30-october-2026/
+- 2026-10-31 | Rabobank: café = 20% ventas en Goodme, 15% en Mixue; mercado chino US$36,9B en 2025, US$72,8B al 2030 | https://perfectdailygrind.com/2026/10/coffee-news-recap-30-october-2026/
+- 2026-10-31 | Arábica NY cae a mínimo de 2 semanas (28 oct): real brasileño -9% tras reelección sorpresiva de Lula | https://perfectdailygrind.com/2026/10/coffee-news-recap-30-october-2026/
+- 2026-10-31 | Bodum retira French presses 8/12 oz EE.UU.: 48 reportes de quemaduras, orden CPSC (fuera) | https://perfectdailygrind.com/2026/10/coffee-news-recap-30-october-2026/
+- 2026-10-31 | Odeko compra Nantel McDiarmid (Montreal), primera adquisición cross-border (fuera) | https://perfectdailygrind.com/2026/10/coffee-news-recap-30-october-2026/
+- 2026-10-31 | Costa Coffee abre primer local dentro de Cineworld UK, plan 26 ubicaciones (fuera) | https://perfectdailygrind.com/2026/10/coffee-news-recap-30-october-2026/
+- 2026-10-31 | Simonelli Beyond the Cup paper 2: umami en café, química + sensorial + poscosecha (fuera) | https://perfectdailygrind.com/2026/10/coffee-news-recap-30-october-2026/
+- 2026-10-31 | Italia exporta café a Alemania: €350,5M en 7 meses (+28,4% YoY) (fuera) | https://perfectdailygrind.com/2026/10/coffee-news-recap-30-october-2026/
+- 2026-10-31 | Luna Gourmet (Denver) entra al Inc. 5000 con +57% en 3 años (fuera) | https://perfectdailygrind.com/2026/10/coffee-news-recap-30-october-2026/
+- 2026-10-31 | Singapore Coffee Week 5-8 nov y Brussels Coffee Show 6-8 nov (fuera, eventos) | https://perfectdailygrind.com/2026/10/coffee-news-recap-30-october-2026/
+- 2026-10-31 | Sprudge "Coffee Gear That's Scary Good": BOOKOO Themis, Acaia Horizon, Comandante Baracuda, La Marzocco Linea Micra (fuera, reviews) | https://sprudge.com/coffee-gear-thats-scary-good-1535418.html
