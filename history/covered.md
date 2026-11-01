@@ -3,16 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-10-17 | Nestlé duplica su apuesta en México: US$ 2.000M y 70.000 cafetos para Veracruz | https://www.swissinfo.ch/eng/global-trade/nestl%C3%A9-doubles-its-investment-in-mexico-to-two-billion-dollares/92190729
-- 2026-10-17 | SEY paga US$ 6.325/kg por un Gesha de Finca Sophia (Panamá) y lo pone a US$ 200 la taza | https://www.timeout.com/usa/news/you-can-try-a-crazy-rare-200-cup-of-coffee-in-these-u-s-cities-this-week-101226
-- 2026-10-17 | Madagascar quiere resucitar su café: US$ 150M para 100.000 toneladas en 10 años | https://newsmada.com/?p=197169
-- 2026-10-17 | De'Longhi sube su stake en la unidad La Marzocco + Eversys, valuada en US$ 2.300M | https://www.worldcoffeeportal.com/news/delonghi-increases-stake-in-2-3bn-la-marzocco-and-eversys-division/
-- 2026-10-17 | Lavazza suma hub cultural en Turín con proyecto de Jean Nouvel | https://www.lastampa.it/torino/2026/10/13/news/lavazza_quartiere_aurora_progetto_jean_nouvel-15764690/
-- 2026-10-17 | Italia lanza estrategia internacional del café: ACT Coffee + Espresso Fund (fuera) | https://www.beverfood.com/espresso-fund-farnesina-banca-mondiale-caffe/
-- 2026-10-17 | Bialetti planea abrir sus primeros locales en China, UE y EE.UU. desde 2027 (fuera) | https://www.italiachiamaitalia.it/bialetti-il-caffe-italiano-conquista-il-mondo-dal-2027-arrivano-i-primi-store-allestero/
-- 2026-10-17 | Final del Spain AeroPress Championship 2026 en Madrid, 24 de octubre (fuera) | https://perfectdailygrind.com/events/spain-aeropress-championship-national-final-2026/
-- 2026-10-17 | ICO Composite Indicator cayó 8,7% en septiembre a 262,18 centavos/lb (fuera) | https://www.ico.org/documents/cy2025-26/cmr-0926-e.pdf
-- 2026-10-17 | Weber Workshops relanza el molino EG-1 80mm con ion generator (fuera) | https://weberworkshops.com/products/eg-1
 - 2026-10-18 | ASIC 2027 en Poços de Caldas (31 may - 5 jun), celebra 300 años del café en Brasil | https://www.alphavisa.com/asic/2027/themes.php
 - 2026-10-18 | Brasil Cecafé septiembre 2026: 3,89M sacos (+3,1%), US$ 1.282M (-7,1%), EE.UU. +86,4% | https://revistacultivar.com.br/noticias/brasil-exporta-3-9-milhoes-de-sacas-de-cafe-em-setembro
 - 2026-10-18 | Grounds for Health cumple 30 años: 266.144 mujeres cribadas, 22.127 tratadas | https://groundsforhealth.org/
@@ -128,3 +118,13 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-10-31 | Luna Gourmet (Denver) entra al Inc. 5000 con +57% en 3 años (fuera) | https://perfectdailygrind.com/2026/10/coffee-news-recap-30-october-2026/
 - 2026-10-31 | Singapore Coffee Week 5-8 nov y Brussels Coffee Show 6-8 nov (fuera, eventos) | https://perfectdailygrind.com/2026/10/coffee-news-recap-30-october-2026/
 - 2026-10-31 | Sprudge "Coffee Gear That's Scary Good": BOOKOO Themis, Acaia Horizon, Comandante Baracuda, La Marzocco Linea Micra (fuera, reviews) | https://sprudge.com/coffee-gear-thats-scary-good-1535418.html
+- 2026-11-01 | CAFETO en el Palacio Libertad (CABA): café de especialidad tostado en Argentina, programa GustAr, 1-3 nov | https://www.argentina.gob.ar/node/448050
+- 2026-11-01 | Colombia estrena Celestra, Castalia y Cocundry: Cenicafé libera tres variedades nuevas para 2027 | https://perfectdailygrind.com/es/2026/10/30/noticias-de-cafe-abren-convocatoria-voluntarios-prf-mexico/
+- 2026-11-01 | Banco Mundial prevé 2027 más barato: Arábica -13% (US$7,35/kg) y Robusta -21% (US$3,85/kg), producción +6% a 190M sacos | https://perfectdailygrind.com/es/2026/10/30/noticias-de-cafe-abren-convocatoria-voluntarios-prf-mexico/
+- 2026-11-01 | Cauca envía récord de 50 contenedores a Europa, 700+ familias cafeteras beneficiadas | https://perfectdailygrind.com/es/2026/10/30/noticias-de-cafe-abren-convocatoria-voluntarios-prf-mexico/
+- 2026-11-01 | PDG — ¿Por qué el auge del café con proteína no perdurará? (Bhavi Patel, GLP-1, Starbucks 36g, mercado US$6.670M→US$11.530M 2034) | https://perfectdailygrind.com/es/2026/10/31/auge-cafe-con-proteina-no-perdurara/
+- 2026-11-01 | Sprudge Roaster's Village: "What Coffee Pairs Well With Leftover Halloween Candy?" 19 cafés (fuera, publinota) | https://sprudge.com/what-coffee-pairs-well-with-leftover-halloween-candy-1535407.html
+- 2026-11-01 | PRF México 2027 abre convocatoria de voluntarios (18-19 mar, Chiapas) (fuera) | https://perfectdailygrind.com/es/2026/10/30/noticias-de-cafe-abren-convocatoria-voluntarios-prf-mexico/
+- 2026-11-01 | Honduras proyecta 7M quintales exportados en 2026/27 (vs. 7,3M ciclo anterior) (fuera) | https://perfectdailygrind.com/es/2026/10/30/noticias-de-cafe-abren-convocatoria-voluntarios-prf-mexico/
+- 2026-11-01 | MY Coffee Awards Barcelona 6-8 nov 2026 (fuera, evento) | https://perfectdailygrind.com/es/2026/10/30/noticias-de-cafe-abren-convocatoria-voluntarios-prf-mexico/
+- 2026-11-01 | Ecuador abre convocatoria de jueces Nacional de Baristas 2027 (fuera) | https://perfectdailygrind.com/es/2026/10/30/noticias-de-cafe-abren-convocatoria-voluntarios-prf-mexico/
