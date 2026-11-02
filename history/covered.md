@@ -3,16 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-10-18 | ASIC 2027 en Poços de Caldas (31 may - 5 jun), celebra 300 años del café en Brasil | https://www.alphavisa.com/asic/2027/themes.php
-- 2026-10-18 | Brasil Cecafé septiembre 2026: 3,89M sacos (+3,1%), US$ 1.282M (-7,1%), EE.UU. +86,4% | https://revistacultivar.com.br/noticias/brasil-exporta-3-9-milhoes-de-sacas-de-cafe-em-setembro
-- 2026-10-18 | Grounds for Health cumple 30 años: 266.144 mujeres cribadas, 22.127 tratadas | https://groundsforhealth.org/
-- 2026-10-18 | SCA renueva directorio 2026-2028 sin votación: Bin Sulayem, Menon, Ranitzsch | https://sca.coffee/sca-news/announcement/presenting-the-slate-of-candidates-for-the-2026-2028-sca-board-of-directors-elections-and-appointment-of-the-2nd-vice-president
-- 2026-10-18 | Grecia: freddo espresso con mediana €2,50 vs. €0,52 en casa (relevamiento FREDDO) | https://freddokafes.gr/en/pages/freddo-preisindex
-- 2026-10-18 | IWCA presenta nuevo logo (fuera) | https://www.womenincoffee.org/
-- 2026-10-18 | Campeonato Chino de AeroPress 2026 en Guiyang 26-28 oct (fuera) | https://www.instagram.com/p/Dee_c-Sgt4p/
-- 2026-10-18 | BRITA Grounds for Innovation Awards 2026 UK (fuera) | https://www.brita.co.uk/grounds-of-innovation-2026
-- 2026-10-18 | Pact Coffee calendario de adviento 2026 (fuera) | http://pactcoffee.com/
-- 2026-10-18 | Beantropy relanza su podcast (fuera) | https://beantropy.com/podcasts/
 - 2026-10-19 | CupHouse plantó bandera en Costanera Sur y arranca su cadena (apertura 17 oct) | https://noticias.perfil.com/noticias/restaurante/celebridades-en-la-inauguracion-del-nuevo-cafe-de-especialidad-premium-de-costanera-sur.phtml
 - 2026-10-19 | Arranca el Cup of Excellence Brasil 2026: 150 cafés al banquillo (19-23 oct nacional) | https://www.agrolink.com.br/noticias/cafe-especial--brasil-define-amostras-da-fase-nacional-do-cup-of-excellence-2026_519422.html
 - 2026-10-19 | La cadena coreana A Twosome Place aterrizó en Estados Unidos (Alexandria, VA) | https://www.worldcoffeeportal.com/news/south-koreas-a-twosome-place-makes-long-awaited-us-debut/
@@ -128,3 +118,11 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-11-01 | Honduras proyecta 7M quintales exportados en 2026/27 (vs. 7,3M ciclo anterior) (fuera) | https://perfectdailygrind.com/es/2026/10/30/noticias-de-cafe-abren-convocatoria-voluntarios-prf-mexico/
 - 2026-11-01 | MY Coffee Awards Barcelona 6-8 nov 2026 (fuera, evento) | https://perfectdailygrind.com/es/2026/10/30/noticias-de-cafe-abren-convocatoria-voluntarios-prf-mexico/
 - 2026-11-01 | Ecuador abre convocatoria de jueces Nacional de Baristas 2027 (fuera) | https://perfectdailygrind.com/es/2026/10/30/noticias-de-cafe-abren-convocatoria-voluntarios-prf-mexico/
+- 2026-11-02 | Caffè Nero desembarca en India junto a Trent Limited (grupo Tata): mercado 12, primera gran expansión internacional en casi una década | https://www.worldcoffeeportal.com/news/caffe-nero-to-launch-in-india-via-trent-limited-partnership/
+- 2026-11-02 | USBC 2027 primer clasificatorio en Houston (Roastronix HQ): 9 de 24 pasan, Black & White y Onyx repiten | https://sprudge.com/here-is-everyone-moving-on-from-the-first-2027-us-barista-championship-qualifier-1541721.html
+- 2026-11-02 | PDG — ¿Hace falta una categoría de "ultra-especialidad" (90+)? (Christophe Servell, Terres de Café) | https://perfectdailygrind.com/2026/11/drive-for-ultra-specialty-coffee/
+- 2026-11-02 | PDG español — Cómo pelearle los márgenes sin perder al barrio (Melina Devoney, Iconik Coffee Roasters Santa Fe) | https://perfectdailygrind.com/es/2026/11/01/tostadores-rentables-relevancia-comunidad/
+- 2026-11-02 | WCP M&A octubre 2026: DFI toma Starbucks Asia (1.100 tiendas), De'Longhi 88% La Marzocco/Eversys, Westrock+Kofola ofertan por Massimo Zanetti | https://www.worldcoffeeportal.com/news/coffee-industry-investments-mergers-and-acquisitions-october-2026/
+- 2026-11-02 | PDG español — ¿Qué hace que una cafetería sea realmente excelente? (Truby/Deferio) (fuera) | https://perfectdailygrind.com/es/2026/11/02/que-hace-una-cafeteria-sea-excelente/
+- 2026-11-02 | WCP — The Week in Coffee, 26 oct-1 nov 2026 (fuera) | https://www.worldcoffeeportal.com/news/the-week-in-coffee-26-october-1-november-2026/
+- 2026-11-02 | WCP — Movimientos de ejecutivos octubre 2026 (fuera) | https://www.worldcoffeeportal.com/news/coffee-industry-senior-appointments-october-2026/
