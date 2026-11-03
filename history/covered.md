@@ -3,14 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-10-19 | CupHouse plantó bandera en Costanera Sur y arranca su cadena (apertura 17 oct) | https://noticias.perfil.com/noticias/restaurante/celebridades-en-la-inauguracion-del-nuevo-cafe-de-especialidad-premium-de-costanera-sur.phtml
-- 2026-10-19 | Arranca el Cup of Excellence Brasil 2026: 150 cafés al banquillo (19-23 oct nacional) | https://www.agrolink.com.br/noticias/cafe-especial--brasil-define-amostras-da-fase-nacional-do-cup-of-excellence-2026_519422.html
-- 2026-10-19 | La cadena coreana A Twosome Place aterrizó en Estados Unidos (Alexandria, VA) | https://www.worldcoffeeportal.com/news/south-koreas-a-twosome-place-makes-long-awaited-us-debut/
-- 2026-10-19 | Black Sheep rompió una década larga de pérdidas en el Reino Unido ("grow or die") | https://www.worldcoffeeportal.com/news/black-sheep-coffee-breaks-losing-streak-as-co-founder-hails-grow-or-die-strategy/
-- 2026-10-19 | Workplaces: the next big opportunity for UK coffee businesses (WCP reporte) (fuera) | https://www.worldcoffeeportal.com/news/workplaces-the-next-big-opportunity-for-uk-coffee-businesses/
-- 2026-10-19 | The Week in Coffee, 12-18 October 2026 (WCP resumen semanal) (fuera) | https://www.worldcoffeeportal.com/news/the-week-in-coffee-12-18-october-2026/
-- 2026-10-19 | Trump coins para gastar en cafeterías "liberales" (Sprudge sátira) (fuera) | https://sprudge.com/the-government-wants-you-to-spend-trump-coins-at-a-liberal-coffee-shop-1465062.html
-- 2026-10-19 | Sprudge Roaster's Village semanal: "A Coat And A Nice Cup Of Coffee" (fuera) | https://sprudge.com/a-coat-and-a-nice-cup-of-coffee-is-that-really-too-much-to-ask-for-1465213.html
 - 2026-10-20 | Ser barista en 2026: datos de la SCA, BLS y la mirada de Jack Simpson (PDG) | https://perfectdailygrind.com/2026/10/being-a-barista-in-2026/
 - 2026-10-20 | GoodNews, cadena catalana de especialidad, abre en Londres (tercer mercado europeo) | https://www.worldcoffeeportal.com/news/spains-goodnews-launches-in-third-european-market/
 - 2026-10-20 | Mill City Roasters despacha su primer M-Series 20 kg y arma línea completa 2026 | https://sprudge.com/mill-city-roasters-delivers-first-all-new-m-series-20kg-roasters-the-third-new-model-released-this-year-1485525.html
@@ -126,3 +118,12 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-11-02 | PDG español — ¿Qué hace que una cafetería sea realmente excelente? (Truby/Deferio) (fuera) | https://perfectdailygrind.com/es/2026/11/02/que-hace-una-cafeteria-sea-excelente/
 - 2026-11-02 | WCP — The Week in Coffee, 26 oct-1 nov 2026 (fuera) | https://www.worldcoffeeportal.com/news/the-week-in-coffee-26-october-1-november-2026/
 - 2026-11-02 | WCP — Movimientos de ejecutivos octubre 2026 (fuera) | https://www.worldcoffeeportal.com/news/coffee-industry-senior-appointments-october-2026/
+- 2026-11-03 | Arrancó la Semana del Jurado Internacional de la X Taza de Excelencia Perú en Cusco (3-6 nov), subasta online 8 dic | https://allianceforcoffeeexcellence.org/peru-2026/
+- 2026-11-03 | PDG Español — Apoyar lo local como estrategia: B Corp "nuevo apoyá lo local", Caravan (Jamie Strachan), diversidad de proveedores (Sarah Charles / Coffee Intelligence) | https://perfectdailygrind.com/es/2026/11/03/apoyar-negocios-locales-es-oportunista/
+- 2026-11-03 | Sprudge — Pivotte, dripper híbrido inmersión/pour-over con 24 niveles de flujo (Kickstarter, US$59 early bird, Zac Cadwalader) | https://sprudge.com/meet-the-pivotte-a-cool-new-hybrid-immersion-coffee-brewer-1530432.html
+- 2026-11-03 | PDG — Refractómetros y extracción: TDS filtrado 1,15-1,45%, espresso 8-12%, extracción 18-22% (Shaun Liew Curate, Ben Barnard DiFluid, Bhavi Patel) | https://perfectdailygrind.com/2026/11/refractometers-improve-coffee-extraction/
+- 2026-11-03 | Paris Baguette (SPC Group) cerca de 1.000 bocas en EEUU: +50 locales 2026, +100 franquicias firmadas, meta 2030 | https://www.worldcoffeeportal.com/news/paris-baguette-edges-closer-to-1-000-us-cafes-with-robust-third-quarter-growth/
+- 2026-11-03 | WCP — Cooks Coffee ficha ex Starbucks como Head of Operations de Esquires Coffee UK (110 locales UK+Irlanda) (fuera) | https://www.worldcoffeeportal.com/news/cooks-coffee-hires-former-starbucks-exec-for-key-esquires-coffee-operations-role/
+- 2026-11-03 | WCP — Nordic Capital reorganiza directorio de Lagkagehuset / Ole & Steen entre rumores de venta (fuera) | https://www.worldcoffeeportal.com/news/nordic-capital-reshuffles-lagkagehuset-board-of-directors-amid-sale-rumours/
+- 2026-11-03 | Sprudge Twenty 2026 — Elliott Lau (Nice Coffee, LA) nominado por Diana Bianchini (fuera, perfil) | https://sprudge.com/elliott-lau-of-nice-coffee-the-sprudge-twenty-interview-1278651.html
+- 2026-11-03 | WCP — Bridging research and business (Simonelli Science Driven Coffee Cup 19-20 nov, promoted) (fuera) | https://www.worldcoffeeportal.com/news/bridging-research-and-business-to-navigate-coffees-next-challenges/
