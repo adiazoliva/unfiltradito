@@ -3,14 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-10-20 | Ser barista en 2026: datos de la SCA, BLS y la mirada de Jack Simpson (PDG) | https://perfectdailygrind.com/2026/10/being-a-barista-in-2026/
-- 2026-10-20 | GoodNews, cadena catalana de especialidad, abre en Londres (tercer mercado europeo) | https://www.worldcoffeeportal.com/news/spains-goodnews-launches-in-third-european-market/
-- 2026-10-20 | Mill City Roasters despacha su primer M-Series 20 kg y arma línea completa 2026 | https://sprudge.com/mill-city-roasters-delivers-first-all-new-m-series-20kg-roasters-the-third-new-model-released-this-year-1485525.html
-- 2026-10-20 | Korea Meets LA: tres duplas Corea-LA (Momos+Loquat, Center+Be Bright, Naeja+Stereoscopic) 22-24 oct | https://sprudge.com/three-exciting-international-coffee-collaborations-at-korea-meets-la-1485475.html
-- 2026-10-20 | Taco Bell quiere ser marca de bebidas de US$ 5.000M a 2030 con Live Mas Café (39 locales) | https://www.worldcoffeeportal.com/news/taco-bell-wants-to-be-a-5bn-beverage-brand-by-2030/
-- 2026-10-20 | Chris Diskin (OXO Rapid Brewer) en los Sprudge Twenty 2026 (fuera) | https://sprudge.com/chris-diskin-the-sprudge-twenty-interview-1278658.html
-- 2026-10-20 | Micro lots, macro risk: packaging para proteger la calidad del café (PDG, fuera) | https://perfectdailygrind.com/2026/10/sample-packaging-protect-coffee-quality/
-- 2026-10-20 | Coffee News Recap 16 de octubre (PDG, fuera) | https://perfectdailygrind.com/2026/10/coffee-news-recap-16-october-2026/
 - 2026-10-21 | Project Café North America 2027: EE.UU. crece 3,4% (ritmo más lento en 3 años), México +9%, Canadá -0,1% | https://www.worldcoffeeportal.com/news/slowest-growth-in-three-years-for-us-branded-coffee-chain-market-as-mexico-booms-and-canada-stalls/
 - 2026-10-21 | Blueprint Coffee (St. Louis) devuelve los reembolsos de aranceles a sus clientes mediante cupones | https://sprudge.com/blueprint-coffee-returns-green-coffee-tariff-refunds-to-wholesale-partners-customers-1492897.html
 - 2026-10-21 | El pour over de US$ 20: Stitch Coffee (Sídney) y la economía del filtrado premium (PDG) | https://perfectdailygrind.com/2026/10/20-dollar-pour-over-coffee/
@@ -127,3 +119,12 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-11-03 | WCP — Nordic Capital reorganiza directorio de Lagkagehuset / Ole & Steen entre rumores de venta (fuera) | https://www.worldcoffeeportal.com/news/nordic-capital-reshuffles-lagkagehuset-board-of-directors-amid-sale-rumours/
 - 2026-11-03 | Sprudge Twenty 2026 — Elliott Lau (Nice Coffee, LA) nominado por Diana Bianchini (fuera, perfil) | https://sprudge.com/elliott-lau-of-nice-coffee-the-sprudge-twenty-interview-1278651.html
 - 2026-11-03 | WCP — Bridging research and business (Simonelli Science Driven Coffee Cup 19-20 nov, promoted) (fuera) | https://www.worldcoffeeportal.com/news/bridging-research-and-business-to-navigate-coffees-next-challenges/
+- 2026-11-04 | PDG Español — Flujo de caja de marcas de café en origen (Chica Bean Guatemala + Majestic Coffees Huila, volatilidad arábica) | https://perfectdailygrind.com/es/2026/11/04/flujo-de-caja-marcas-cafe-en-origen/
+- 2026-11-04 | PDG — Procesados naturales: evolución (Haile Coffee Etiopía, honey +US$2,2-4,4/kg, 68% roasters anaeróbicos, Langdon) | https://perfectdailygrind.com/2026/11/how-natural-coffee-processing-is-evolving/
+- 2026-11-04 | Yum China acelera a 5.000 locales KCOFFEE: duplicó tiendas en 9 meses, supera a KFC en crecimiento | https://www.worldcoffeeportal.com/news/yum-china-accelerates-towards-5-000-kcoffee-stores/
+- 2026-11-04 | KDP Q3 2026 con JDE Peet's, alianzas premium de pods, Keurig Alta sin plástico y Global Coffee Co. en 2027 | https://www.worldcoffeeportal.com/news/new-earnings-show-the-shape-of-things-to-come-for-kdps-global-coffee-champion/
+- 2026-11-04 | Sprudge — Podium Coffee Club lanza The Podium Index, ranking de tostadores US por competencias (fuera, publinota) | https://sprudge.com/podium-coffee-club-launches-the-podium-index-the-first-leaderboard-to-rank-americas-coffee-roasters-by-competition-results-alone-1527933.html
+- 2026-11-04 | WCP — Análisis: ¿es sustentable el crecimiento de Luckin Coffee? (38.909 locales, SSS en caída) (fuera, paywall) | https://www.worldcoffeeportal.com/news/analysis-is-luckin-coffees-growth-strategy-sustainable/
+- 2026-11-04 | Sprudge — Agenda noviembre 2026: Ecuador Coffee Masters 14 nov Guayaquil, Singapore Coffee Week (fuera, evento) | https://sprudge.com/a-very-festive-november-on-the-sprudge-coffee-events-calendar-1546661.html
+- 2026-11-04 | Agraria.pe — Expocafé Perú 26-29 nov en Casa Prado Miraflores, 170 expositores, 18.000 visitantes (fuera, evento) | https://agraria.pe/noticias/consumidores-buscan-mas-tipos-y-origenes-de-cafe-nuevos-sabo-43357
+- 2026-11-04 | PDG Español — Apoyar lo local como estrategia (Caravan, B Corp, Coffee Intelligence) (fuera, cubierto el 03/11) | https://perfectdailygrind.com/es/2026/11/03/apoyar-negocios-locales-es-oportunista/
