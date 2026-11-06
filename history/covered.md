@@ -3,14 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-10-22 | Arrancó el 2026 World Barista Championship en Panamá: 50 campeones nacionales, 12 de Latam | https://sprudge.com/the-2026-world-barista-championship-starts-today-heres-everyone-competing-1497734.html
-- 2026-10-22 | Nestlé reordena su café global: frío, listo para tomar y concentrados (1/3 del café fuera de casa ya es frío) | https://www.worldcoffeeportal.com/news/the-categories-that-could-transform-nestles-global-coffee-business/
-- 2026-10-22 | Slow feeding en molinos: evidencia de Apax Lab, ARO Espresso y Kaffeemacher (PDG) | https://perfectdailygrind.com/2026/10/slow-feeding-coffee-grinding/
-- 2026-10-22 | Ecommerce de café: Deloitte proyecta US$ 17.000M al 2029 y SCA registra 109% de salto en suscripciones (PDG) | https://perfectdailygrind.com/2026/10/buying-and-selling-coffee-online/
-- 2026-10-22 | PDG — Cómo hacer más eficiente tu tostaduría (Cropster + Scenery Coffee) (fuera) | https://perfectdailygrind.com/2026/10/improve-coffee-roastery-efficiency/
-- 2026-10-22 | WCP — Cómo entregar calidad consistente en varios locales (fuera) | https://www.worldcoffeeportal.com/news/how-to-deliver-consistent-coffee-quality-across-multiple-sites/
-- 2026-10-22 | WCP — Incapto ST1, máquina super-automática (promocionado) (fuera) | https://www.worldcoffeeportal.com/news/incapto-st1-bringing-traditional-espresso-quality-to-a-new-generation-of-super-automatic-machines/
-- 2026-10-22 | Sprudge — Guía de café en Fukuoka (fuera) | https://sprudge.com/the-sprudge-guide-to-coffee-in-fukuoka-city-japan-1314766.html
 - 2026-10-23 | Fazenda Santuário Sul (Carmo de Minas) rompe récord: US$ 200/lb en subasta ACE Lendas en SCAJ Tokio | https://comprerural.com/cafe-brasileiro-bate-recorde-em-leilao-das-lendas-mundiais-com-valor-equivalente-a-r-1346-mil-por-saca/
 - 2026-10-23 | Carlos Escobar gana el Brewers Cup colombiano 2027 usando Celestra, nueva variedad de Cenicafé | https://perfectdailygrind.com/2026/10/coffee-news-recap-23-october-2026/
 - 2026-10-23 | Clearpath Coffee y M-Cultivo confirman segunda subasta Colombia Legends (16 nov, 15 lotes) | https://perfectdailygrind.com/2026/10/coffee-news-recap-23-october-2026/
@@ -125,3 +117,13 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-11-05 | Dutch Bros 21° trimestre al alza, va por aperturas récord pero detrás de la meta 2.029 locales para 2029 | https://www.worldcoffeeportal.com/news/dutch-bros-is-on-track-for-record-annual-outlet-growth-it-needs-to-go-faster/
 - 2026-11-05 | Foodtastic (1.200 locales / Second Cup / Dunkin') puja por MTY Food Group para pelearle a Tim Hortons, McCafé y Starbucks en Canadá | https://www.worldcoffeeportal.com/news/foodtastic-moves-to-challenge-the-dominance-of-tim-hortons-mccafe-and-starbucks-in-canada/
 - 2026-11-05 | PDG — Nueva era del espresso en casa, Meraki Gen 2 + CoffeeSense, 83% consumen café en casa (fuera, sponsor declarado) | https://perfectdailygrind.com/2026/11/a-new-era-home-espresso/
+- 2026-11-06 | Libertario Coffee (Bogotá) se expande en India con tostaduría en Gurugram, meta ₹100 crore (US$12M) FY28 | https://www.worldcoffeeportal.com/news/colombias-libertario-coffee-bets-big-on-indias-specialty-coffee-boom/
+- 2026-11-06 | Icafé proyecta superávit de 9,7M sacos en 2026/27 (producción récord 187,72M, +6%) tras 4 años de déficit | https://perfectdailygrind.com/2026/11/coffee-news-recap-6-november-2026/
+- 2026-11-06 | Alexandre Nunes (Garagem do Café) gana el campeonato brasileño de torra 2027 en Varginha, va al mundial New Orleans | https://perfectdailygrind.com/2026/11/coffee-news-recap-6-november-2026/
+- 2026-11-06 | PDG Español — Alternancia productiva en café (Cenicafé 2024, >75 frutos/rama, Finca Santa Ana, Tres Pozos El Salvador) | https://perfectdailygrind.com/es/2026/11/06/como-enfrentar-alternancia-productiva-en-cafe/
+- 2026-11-06 | Harvard JAMA: café cafeinado se asocia con menor incidencia de demencia (131.821 personas, hasta 43 años) | https://perfectdailygrind.com/2026/11/coffee-news-recap-6-november-2026/
+- 2026-11-06 | Sprudge — Harry Styles dice que el cappuccino en NYC cuesta demasiado (MSG residency, Zac Cadwalader) (fuera) | https://sprudge.com/harry-styles-thinks-your-cappuccino-costs-too-much-1557656.html
+- 2026-11-06 | Bodum amplía recall a 5,9M French presses EE.UU. (70 roturas, 48 quemaduras, CPSC, actualización 31/10) (fuera) | https://sprudge.com/bodum-recalls-nearly-six-million-french-presses-1550177.html
+- 2026-11-06 | India recorta producción 2026/27 a 380.000 t (-5%) por monzón débil, Coffee Board (fuera) | https://perfectdailygrind.com/2026/11/coffee-news-recap-6-november-2026/
+- 2026-11-06 | Keurig antitrust: Rogers Family Company (San Francisco Bay Coffee) reclama US$400M, potencial US$1,2B (fuera) | https://perfectdailygrind.com/2026/11/coffee-news-recap-6-november-2026/
+- 2026-11-06 | Mahlkönig EK Omnia debuta en EE.UU. en Dallas Coffee Fest 2026 (fresas 98mm, modos Classic/Time/Library) (fuera) | https://perfectdailygrind.com/2026/11/coffee-news-recap-6-november-2026/
