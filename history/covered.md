@@ -3,16 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-10-23 | Fazenda Santuário Sul (Carmo de Minas) rompe récord: US$ 200/lb en subasta ACE Lendas en SCAJ Tokio | https://comprerural.com/cafe-brasileiro-bate-recorde-em-leilao-das-lendas-mundiais-com-valor-equivalente-a-r-1346-mil-por-saca/
-- 2026-10-23 | Carlos Escobar gana el Brewers Cup colombiano 2027 usando Celestra, nueva variedad de Cenicafé | https://perfectdailygrind.com/2026/10/coffee-news-recap-23-october-2026/
-- 2026-10-23 | Clearpath Coffee y M-Cultivo confirman segunda subasta Colombia Legends (16 nov, 15 lotes) | https://perfectdailygrind.com/2026/10/coffee-news-recap-23-october-2026/
-- 2026-10-23 | Mariana Velloso Heitor (Expocacer) entra a la lista Forbes "100 Mulheres Poderosas do Agro" | https://comprerural.com/forbes-inclui-presidente-da-expocacer-na-lista-das-100-mulheres-poderosas-do-agro/
-- 2026-10-23 | Universidad de Ciencia y Tecnología de Adís Abeba: pergamino de café a celulosa 92% pura con ultrasonido | https://sprudge.com/researchers-created-a-way-to-turn-coffee-parchment-into-highly-sought-after-cellulose-1492471.html
-- 2026-10-23 | Blue Bottle Coffee cambia política de leche de avena por defecto en EE.UU. (fuera) | https://www.worldcoffeeportal.com/news/blue-bottle-coffee-makes-major-change-to-oatmilk-orders/
-- 2026-10-23 | Importaciones de café a la UE más que se duplicaron desde 2015 (€18.700M, Eurostat) (fuera) | https://perfectdailygrind.com/2026/10/coffee-news-recap-23-october-2026/
-- 2026-10-23 | Phuc Long supera expectativas de Masan Group tras octavo trimestre al alza (fuera) | https://www.worldcoffeeportal.com/news/surging-phuc-longs-profits-surpass-masan-groups-expectations/
-- 2026-10-23 | Mariya Manerkina (Codos Coffee) gana el primer Alpine Roasting Championship en Múnich (fuera) | https://perfectdailygrind.com/2026/10/coffee-news-recap-23-october-2026/
-- 2026-10-23 | Cecafé: Brasil exporta 11,2M sacas entre julio-septiembre (+15,5% y/y) (fuera) | https://perfectdailygrind.com/2026/10/coffee-news-recap-23-october-2026/
 - 2026-10-24 | % Arabica desembarca en Bagdad y suma su décimo mercado en MENA | https://www.worldcoffeeportal.com/news/japans-arabica-enters-tenth-mena-market/
 - 2026-10-24 | Starbucks México rebota y Alsea cierra un trimestre fuerte (Q3 2026, +48,4% utilidad) | https://www.worldcoffeeportal.com/news/strong-third-quarter-for-alseas-starbucks-business-as-two-major-markets-rebound/
 - 2026-10-24 | Milk brew: la fría japonesa que empieza a ganar las barras (Jenn Chen, Sprudge) | https://sprudge.com/milk-brew-me-a-skeptics-journey-through-the-viral-coffee-drink-1308095.html
@@ -127,3 +117,11 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-11-06 | India recorta producción 2026/27 a 380.000 t (-5%) por monzón débil, Coffee Board (fuera) | https://perfectdailygrind.com/2026/11/coffee-news-recap-6-november-2026/
 - 2026-11-06 | Keurig antitrust: Rogers Family Company (San Francisco Bay Coffee) reclama US$400M, potencial US$1,2B (fuera) | https://perfectdailygrind.com/2026/11/coffee-news-recap-6-november-2026/
 - 2026-11-06 | Mahlkönig EK Omnia debuta en EE.UU. en Dallas Coffee Fest 2026 (fresas 98mm, modos Classic/Time/Library) (fuera) | https://perfectdailygrind.com/2026/11/coffee-news-recap-6-november-2026/
+- 2026-11-07 | Kenya Coffee Flavor Map: 300 catadores en Nairobi 14-16 nov, atlas público en 2027, socio técnico Torch Coffee (ex Yunnan 2021-24) | https://dailycoffeenews.com/2026/11/04/hundreds-of-cuppers-to-help-build-a-kenya-coffee-flavor-atlas/
+- 2026-11-07 | Estrecho de Hormuz: octubre 2026 fue el peor mes de carga (28 incidentes), fertilizante +30-40% del costo arábica (Rubinstein/StoneX, Lario/IFAD, Barkha/Sucafina) | https://stir-tea-coffee.com/tea-coffee-news/turmoil-continues-in-the-strait-of-hormuz/
+- 2026-11-07 | India exporta +27% café ene-abr 2026 (174.000 t); robusta +36%, instantáneo +16%, arábica -58% (Coffee Board of India) | https://stir-tea-coffee.com/tea-coffee-news/india%E2%80%99s-coffee-exports-surge/
+- 2026-11-07 | Café Amazon se acerca a 5.000 bocas en Tailandia mientras PTT OR achica en Camboya por disputa fronteriza y boicots | https://www.worldcoffeeportal.com/news/cafe-amazon-approaches-5-000-stores-in-thailand-as-future-in-cambodia-hangs-in-the-balance/
+- 2026-11-07 | Ole & Steen/Lagkagehuset cumple 10 años en UK con Modern Standard specialty + pastelería (Hollinshead MD, 113 DK / 26 UK / 5 US) | https://www.worldcoffeeportal.com/interview/a-really-good-coffee-and-pastry-remains-an-affordable-moment-of-pleasure/
+- 2026-11-07 | Westrock Q3 2026: US$ 360M invertidos en RTD y single serve, 6° trimestre al alza (fuera) | https://www.worldcoffeeportal.com/news/westrock-builds-momentum-as-investments-yield-strong-third-quarter-returns/
+- 2026-11-07 | 7 Brew (drive-thru US) lanza su primer menú de comida, +20.000 combinaciones de bebidas (fuera) | https://www.worldcoffeeportal.com/news/fast-growing-7-brew-launches-first-food-menu/
+- 2026-11-07 | Sprudgecast con Comandante sobre molinillos manuales (fuera, podcast) | https://sprudge.com/give-it-some-wrist-brewing-with-the-comandante-hand-grinders-on-the-coffee-sprudgecast-1574318.html
