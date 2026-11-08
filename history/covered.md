@@ -3,13 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-10-24 | % Arabica desembarca en Bagdad y suma su décimo mercado en MENA | https://www.worldcoffeeportal.com/news/japans-arabica-enters-tenth-mena-market/
-- 2026-10-24 | Starbucks México rebota y Alsea cierra un trimestre fuerte (Q3 2026, +48,4% utilidad) | https://www.worldcoffeeportal.com/news/strong-third-quarter-for-alseas-starbucks-business-as-two-major-markets-rebound/
-- 2026-10-24 | Milk brew: la fría japonesa que empieza a ganar las barras (Jenn Chen, Sprudge) | https://sprudge.com/milk-brew-me-a-skeptics-journey-through-the-viral-coffee-drink-1308095.html
-- 2026-10-24 | Fore Coffee (Indonesia) superó todo 2025 en nueve meses, 18 meses al alza desde el IPO | https://www.worldcoffeeportal.com/news/disciplined-growth-makes-indonesias-fore-coffee-an-attractive-investment/
-- 2026-10-24 | Sprudgecast Milk Brew: podcast completo con cata de seis leches (fuera) | https://sprudge.com/milk-brew-hesitation-and-trepidation-on-the-coffee-sprudgecast-1508563.html
-- 2026-10-24 | TOUS les JOURS ficha a un ex McDonald's para revivir Norteamérica (fuera) | https://www.worldcoffeeportal.com/news/tous-les-jours-hires-mcdonalds-exec-to-revive-north-american-growth/
-- 2026-10-24 | Cómo las grandes marcas están reescribiendo las reglas del packaging (WCP feature, fuera) | https://www.worldcoffeeportal.com/feature/coffee-packaging-unpacked/
 - 2026-10-25 | 2026 WBC: final hoy en Panamá con 6 finalistas, 4 semifinalistas de Latam (Nicolini/Zapata/Vargas/Roque) | https://wcc.coffee/latest-news/announcing-the-2026-world-barista-championship-finalists
 - 2026-10-25 | Café Imports (Minneapolis) pasa a ser 100% employee-owned mediante ESOP | https://sprudge.com/learn-more-about-the-coffee-supply-chain-in-the-green-room-1508648.html
 - 2026-10-25 | Roast Magazine 2027: Dessert Oasis (Micro, Michigan) y Utopian Coffee (Macro) | https://www.roastmagazine.com/roasteroftheyear
@@ -125,3 +118,16 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-11-07 | Westrock Q3 2026: US$ 360M invertidos en RTD y single serve, 6° trimestre al alza (fuera) | https://www.worldcoffeeportal.com/news/westrock-builds-momentum-as-investments-yield-strong-third-quarter-returns/
 - 2026-11-07 | 7 Brew (drive-thru US) lanza su primer menú de comida, +20.000 combinaciones de bebidas (fuera) | https://www.worldcoffeeportal.com/news/fast-growing-7-brew-launches-first-food-menu/
 - 2026-11-07 | Sprudgecast con Comandante sobre molinillos manuales (fuera, podcast) | https://sprudge.com/give-it-some-wrist-brewing-with-the-comandante-hand-grinders-on-the-coffee-sprudgecast-1574318.html
+- 2026-11-08 | Luckin ya tiene 38.909 locales y le pisa los talones a Starbucks (Q3 2026: Starbucks 41.607, +17% ventas US$ 2.670M, op. +55,1%, comparables -11,1%) | https://perfectdailygrind.com/2026/11/coffee-news-recap-6-november-2026/
+- 2026-11-08 | Outset Coffee baja la persiana en sus dos locales de San Francisco (Valencia default US$ 200.196, New Montgomery eviction US$ 121.775) | https://dailycoffeenews.com/2026/10/30/popular-san-francisco-coffee-company-closes-both-cafes-after-landlord-disputes/
+- 2026-11-08 | Robusta toca piso desde marzo 2024 y Vietnam embarca 61% más café en octubre (riesgo El Niño 2H 2026) | https://perfectdailygrind.com/2026/11/coffee-news-recap-6-november-2026/
+- 2026-11-08 | Fair Trade USA + Patrick J. McGovern Foundation: US$ 600.000 para herramienta IA de planificación para productores | https://perfectdailygrind.com/2026/11/coffee-news-recap-6-november-2026/
+- 2026-11-08 | PDG Español — Tueste interno para gestionar precios (MOK Coffee Bruselas, Cafés MUDA Lille, patrocinado Stronghold) (fuera) | https://perfectdailygrind.com/es/2026/11/07/tueste-interno-gestionar-aumento-precios-cafe/
+- 2026-11-08 | Manchester Coffee Festival 20-22 nov 2026, UK & Ireland Filter Championship Northern Heat (fuera, evento) | https://perfectdailygrind.com/2026/11/coffee-news-recap-6-november-2026/
+- 2026-11-08 | Kearney: hasta 96% de usuarios satisfechos con cafetera de cápsulas abiertos a cambiar de marca (fuera, estudio) | https://perfectdailygrind.com/2026/11/coffee-news-recap-6-november-2026/
+- 2026-11-08 | Amcor: la reciclabilidad pesa en ~2/3 de compradores de cápsulas (FR/IT/ES/UK) (fuera, encuesta) | https://perfectdailygrind.com/2026/11/coffee-news-recap-6-november-2026/
+- 2026-11-08 | Xerfi: 40% de cafés franceses deficitarios, aviso de saturación en 2 años (fuera) | https://perfectdailygrind.com/2026/11/coffee-news-recap-6-november-2026/
+- 2026-11-08 | kWh Coffee Roasters + Renault UK tour: tostaduría + espresso con batería Renault 5 (fuera, marketing) | https://perfectdailygrind.com/2026/11/coffee-news-recap-6-november-2026/
+- 2026-11-08 | Italia estrecha cooperación con productores y apoya el programa ACT Coffee de UNIDO (fuera) | https://perfectdailygrind.com/2026/11/coffee-news-recap-6-november-2026/
+- 2026-11-08 | Paulig: Thomas Panteli deja la empresa, Khalil El-Achkar nuevo SVP Supply Chain & Sourcing (fuera, ejecutivo) | https://perfectdailygrind.com/2026/11/coffee-news-recap-6-november-2026/
+- 2026-11-08 | Wilfa vuelve a EE.UU. como Wilfa USA con drip y molino (fuera, lanzamiento) | https://perfectdailygrind.com/2026/11/coffee-news-recap-6-november-2026/
