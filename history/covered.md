@@ -3,13 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-10-25 | 2026 WBC: final hoy en Panamá con 6 finalistas, 4 semifinalistas de Latam (Nicolini/Zapata/Vargas/Roque) | https://wcc.coffee/latest-news/announcing-the-2026-world-barista-championship-finalists
-- 2026-10-25 | Café Imports (Minneapolis) pasa a ser 100% employee-owned mediante ESOP | https://sprudge.com/learn-more-about-the-coffee-supply-chain-in-the-green-room-1508648.html
-- 2026-10-25 | Roast Magazine 2027: Dessert Oasis (Micro, Michigan) y Utopian Coffee (Macro) | https://www.roastmagazine.com/roasteroftheyear
-- 2026-10-25 | Arábica dic 315,70 c/lb (máximo desde fines de agosto), Smucker posterga baja de precios | https://perfectdailygrind.com/2026/10/coffee-news-recap-23-october-2026/
-- 2026-10-25 | Sprudge Roaster's Village semanal: 19 cafés recomendados (fuera) | https://sprudge.com/is-there-anything-scarier-than-running-out-of-coffee-1508643.html
-- 2026-10-25 | Lavazza llega a cinco locales en Hong Kong con buffalo milk latte (fuera) | https://www.webull.com/news/15756156046763008
-- 2026-10-25 | Haraz Coffee House demanda a su franquicia de Syracuse (fuera) | https://perfectdailygrind.com/2026/10/coffee-news-recap-23-october-2026/
 - 2026-10-26 | Pan Wei (China) gana el WBC 2026 en Panamá con un Typica de Yunnan (Finca Zeoyuan, Parking Coffee) | https://wcc.coffee/latest-news/announcing-the-2026-world-barista-champion-pan-wei
 - 2026-10-26 | Costa Coffee repasa su estrategia de aeropuerto: 200 locales, 57M clientes, 1,5B pasajeros (Sam O'Brien) | https://moodiedavittreport.com/?p=485680
 - 2026-10-26 | PDG — La canasta del portafiltro IMS como variable del dialing-in (Spinelli, NT vs. Big Bang) | https://perfectdailygrind.com/2026/10/espresso-basket-design-extraction/
@@ -131,3 +124,11 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-11-08 | Italia estrecha cooperación con productores y apoya el programa ACT Coffee de UNIDO (fuera) | https://perfectdailygrind.com/2026/11/coffee-news-recap-6-november-2026/
 - 2026-11-08 | Paulig: Thomas Panteli deja la empresa, Khalil El-Achkar nuevo SVP Supply Chain & Sourcing (fuera, ejecutivo) | https://perfectdailygrind.com/2026/11/coffee-news-recap-6-november-2026/
 - 2026-11-08 | Wilfa vuelve a EE.UU. como Wilfa USA con drip y molino (fuera, lanzamiento) | https://perfectdailygrind.com/2026/11/coffee-news-recap-6-november-2026/
+- 2026-11-09 | PDG — España, uno de los mercados de especialidad más innovadores de Europa (Dalston/Toma/Syra/East Crema, Devoney, Project Café Spain 2025) | https://perfectdailygrind.com/2026/11/spain-innovative-specialty-coffee-market/
+- 2026-11-09 | PDG Español — ¿Cuántos microtostadores aguanta el mercado? (Erik Busch/LongStory Coffee, paralelo cerveza artesanal US, Allegra 2024) | https://perfectdailygrind.com/es/2026/11/08/cuantos-microtostadores-albergar-mercado-cafe/
+- 2026-11-09 | PDG Español — WLAC estrena superautomática: Thermoplan Black&White4 Competizione, espresso ya no se puntúa, Grammel | https://perfectdailygrind.com/es/2026/11/09/cafeteras-superautomaticas-revolucionar-competencias/
+- 2026-11-09 | WCP — Starbucks detalla su gran plan UK (mercado £6,8B, 500 nuevos locales, Niccol plan de crecimiento) | https://www.worldcoffeeportal.com/news/starbucks-reveals-key-details-of-major-uk-expansion-strategy/
+- 2026-11-09 | WCP — Dutch Bros ficha a Kira Druyan (ex-Starbucks) como Chief Legal Officer desde 1 ene 2027 (fuera, ejecutivo) | https://www.worldcoffeeportal.com/news/dutch-bros-taps-former-starbucks-exec-for-key-leadership-role/
+- 2026-11-09 | WCP — Lagardère Travel Retail compra Aichinger Gastro (Múnich, +200 locales aeropuertos DE) (fuera, corporativo) | https://www.worldcoffeeportal.com/news/lagardere-travel-retail-strengthens-german-coffee-portfolio-with-new-acquisition/
+- 2026-11-09 | WCP — Griolladh (Irlanda) desembarca en Reino Unido en 2027 (estación ferroviaria europea) (fuera, gacetilla) | https://www.worldcoffeeportal.com/news/irelands-griolladh-to-make-uk-debut/
+- 2026-11-09 | Sprudge — Coffees So Good Even Harry Styles Doesn't Mind Paying (fuera, nota de color) | https://sprudge.com/coffees-so-good-even-harry-styles-doesnt-mind-paying-1574465.html
