@@ -3,11 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-10-26 | Pan Wei (China) gana el WBC 2026 en Panamá con un Typica de Yunnan (Finca Zeoyuan, Parking Coffee) | https://wcc.coffee/latest-news/announcing-the-2026-world-barista-champion-pan-wei
-- 2026-10-26 | Costa Coffee repasa su estrategia de aeropuerto: 200 locales, 57M clientes, 1,5B pasajeros (Sam O'Brien) | https://moodiedavittreport.com/?p=485680
-- 2026-10-26 | PDG — La canasta del portafiltro IMS como variable del dialing-in (Spinelli, NT vs. Big Bang) | https://perfectdailygrind.com/2026/10/espresso-basket-design-extraction/
-- 2026-10-26 | World Coffee Portal — The Week in Coffee 19-25 oct 2026 (fuera) | https://www.worldcoffeeportal.com/news/the-week-in-coffee-19-25-october-2026/
-- 2026-10-26 | Colombia Farmers Collection 2026 (Qima + ACE), subasta online de pequeños productores (fuera) | https://allianceforcoffeeexcellence.org/colombia-farmers-collection-2026/
 - 2026-10-27 | Seidy Selivanow (Kafiex Roasters, Veracruz-origen) en los Sprudge Twenty 2026 | https://sprudge.com/seidy-selivanow-of-kafiex-roasters-the-sprudge-twenty-interview-1278632.html
 - 2026-10-27 | Mega Coffee (Corea del Sur, ~4.500 bocas) prepara desembarco en EE.UU. desde el Flatiron de Manhattan | https://www.worldcoffeeportal.com/news/large-cups-low-cost-mega-coffee-makes-its-play-for-the-us-market/
 - 2026-10-27 | Caravan (Londres) sella alianza mayorista con Sodexo Live para estadios y venues del Reino Unido | https://www.worldcoffeeportal.com/news/caravan-and-sodexo-strike-major-uk-partnership/
@@ -132,3 +127,12 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-11-09 | WCP — Lagardère Travel Retail compra Aichinger Gastro (Múnich, +200 locales aeropuertos DE) (fuera, corporativo) | https://www.worldcoffeeportal.com/news/lagardere-travel-retail-strengthens-german-coffee-portfolio-with-new-acquisition/
 - 2026-11-09 | WCP — Griolladh (Irlanda) desembarca en Reino Unido en 2027 (estación ferroviaria europea) (fuera, gacetilla) | https://www.worldcoffeeportal.com/news/irelands-griolladh-to-make-uk-debut/
 - 2026-11-09 | Sprudge — Coffees So Good Even Harry Styles Doesn't Mind Paying (fuera, nota de color) | https://sprudge.com/coffees-so-good-even-harry-styles-doesnt-mind-paying-1574465.html
+- 2026-11-10 | Taza de Excelencia Perú 2026 — Top 30 anunciado: Fidel Huancas Huancas (Finca La Esperanza, Cajamarca) gana con Geisha lavado 91,71, subasta COE 8 dic | https://allianceforcoffeeexcellence.org/peru-2026/
+- 2026-11-10 | PDG Español — ¿Pueden sobrevivir las cafeterías sin portátiles en la era digital? (Jordan Montgomery, The Barn Berlin 25% ingresos perdidos, McKinsey 58%) | https://perfectdailygrind.com/es/2026/11/10/sobrevivir-cafeterias-sin-portatiles-en-era-digital/
+- 2026-11-10 | Sprudge — Nexra NM1 convierte el Comandante C40 manual en eléctrico (Kickstarter US$159, 60 rpm, USB-C, Zac Cadwalader) | https://sprudge.com/turn-your-comandante-c40-electric-with-the-nexra-nm1-1585573.html
+- 2026-11-10 | PDG — Tendencias de packaging 2027: texturas, latas y maximalismo (Bhavi Patel, Coaltown Gales, Variety Coffee NYC, MTPak Mark Zhou) | https://perfectdailygrind.com/2026/11/coffee-packaging-trends-2027/
+- 2026-11-10 | WCP — Second Cup Coffee Company arma equipo con dos nuevos fichajes bajo Joe Walker (fuera, ejecutivos, paywall) | https://www.worldcoffeeportal.com/news/new-second-cup-coffee-company-ceo-begins-rebuild-with-two-senior-hires/
+- 2026-11-10 | WCP — Esquires Coffee crece dos dígitos en UK e Irlanda, meta 300 locales al 2034 (fuera, paywall) | https://www.worldcoffeeportal.com/news/esquires-coffees-uk-and-ireland-strategy-is-delivering-results/
+- 2026-11-10 | WCP — Chaiiwala firma acuerdo de licencias para expandirse en UK (fuera, chai) | https://www.worldcoffeeportal.com/news/chaiiwala-signs-licensing-agreement-for-uk-expansion-drive/
+- 2026-11-10 | El Peruano — Mincetur: exportaciones de café peruano US$ 705M en 8 meses de 2026 (fuera, nota del 14/10) | https://elperuano.pe/noticia/306824-mincetur-exportaciones-de-cafe-ascendieron-a-us-705-millones-en-primeros-ocho-meses-del-2026
+- 2026-11-10 | Sprudge — Cáphê Roasters (Filadelfia, tostaduría vietnamita) anuncia expansión grande (fuera, sin fechas ni cifras abiertas) | https://sprudge.com/caphe-roasters-in-philadelphia-looking-towards-huge-expansion-1586084.html
