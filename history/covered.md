@@ -3,12 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-10-28 | Los blends de alta gama están cambiando la especialidad (PDG, Jordan Kwek / RLY Coffee, Super Species GCA Asia 2026) | https://perfectdailygrind.com/2026/10/high-end-blends-specialty-coffee/
-- 2026-10-28 | La leche se vuelve el foco de la automatización en café (PDG, Thermoplan Black&White4 CTS, espuma fría julio 2026) | https://perfectdailygrind.com/2026/10/milk-quality-fully-automatic-coffee-machines/
-- 2026-10-28 | New Balance y Todd Snyder lanzan el T500 "Coffee Pack" (Espresso + Milk, US$ 130, Zac Cadwalader en Sprudge) | https://sprudge.com/new-balance-and-todd-snyder-team-up-for-a-new-coffee-sneaker-1524009.html
-- 2026-10-28 | PDG — ¿Pueden los productores "ser dueños" de un método de procesamiento? (Pepe Jijón, TyOxidator, Finca Soledad Ecuador) (fuera) | https://perfectdailygrind.com/2026/10/can-coffee-producers-own-processing-methods/
-- 2026-10-28 | STiR Coffee — Tailandia apuesta por el fine robusta (fuera) | https://stir-tea-coffee.com/tea-coffee-news/thailand-invests-in-fine-robusta/
-- 2026-10-28 | Starbucks — Resultados Q4 y año fiscal 2026 (conference call 29 oct, pendiente) (fuera) | https://investor.starbucks.com/news/financial-releases/news-details/2026/Starbucks-Announces-Q4-and-Full-Fiscal-Year-2026-Results-Conference-Call/default.aspx
 - 2026-10-29 | FICAFÉ 2026 Perú + X Taza de Excelencia Perú en Cusco (1-6 nov), 50 exportadores, 25 compradores de 16 países, US$ 7,5M proyectados | https://www.cira.org.ar/?p=26436
 - 2026-10-29 | PDG — ¿Se puede reproducir un café de competencia a escala comercial? (Andrés Felipe Realpe, Colo Coffee, Nariño, GCA Latam 2026) | https://perfectdailygrind.com/es/2026/10/28/reproducir-cafe-competencia-escala-comercial/
 - 2026-10-29 | World of Coffee Panamá 2026 cerró con 20.000 visitantes, estadía promedio 6,5 días, donación US$ 25.000 a Cruz Roja | https://www.prensa.com/economia/world-of-coffee-panama-2026-reunio-a-20-mil-visitantes/
@@ -136,3 +130,12 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-11-11 | WCP — Jollibee califica a Highlands como "undisputed coffee champion" de Vietnam (fuera, paywall) | https://www.worldcoffeeportal.com/news/jollibee-hails-highlands-as-vietnams-undisputed-coffee-champion/
 - 2026-11-11 | WCP — Blue Tokai India: ventas suben, pérdidas también (fuera, paywall sin cifras) | https://www.worldcoffeeportal.com/news/sales-surge-but-blue-tokai-falls-further-into-the-red-as-expansion-costs-spiral/
 - 2026-11-11 | WCP — 5 to go apunta a plataforma europea de "buen precio" (fuera, cadena rumana) | https://www.worldcoffeeportal.com/news/5-to-go-wants-to-become-a-european-value-for-money-platform-says-co-founder/
+- 2026-11-12 | Cheirin Bão (cadena brasileña Minas Gerais, 600+ locales, R$550M/2026, CEO Wilton Bezerra) abre primera tienda internacional en Boston, nov 2026 | https://www.worldcoffeeportal.com/news/brazils-largest-coffee-chain-gearing-up-for-international-debut/
+- 2026-11-12 | PDG Español — Abrir una cafetería en 2026 (64% cierre en 5 años, Allegra UK 13.211 cafeterías, Billie Collins Brock Street Bodega Lancaster, matcha supera café caliente) | https://perfectdailygrind.com/es/2026/11/12/abrir-una-cafeteria-en-2026/
+- 2026-11-12 | Sprudge — Ohio State University + Dep. de Estado US: química para predecir sabor del café verde antes de tostarlo (reducir 5 años de fitomejora) | https://sprudge.com/researchers-are-turning-to-chemistry-to-predict-flavor-in-green-coffee-1567039.html
+- 2026-11-12 | Black Rifle Coffee cierra 12 Outposts (~1/3 de su red), vende planta Manchester, apuesta al mayorista (Q3 2026: +7,3% ingresos, pérdida US$8,7M, EBITDA aj. US$9,5M) | https://www.worldcoffeeportal.com/news/black-rifle-coffee-to-close-a-dozen-outlets-as-part-of-new-turnaround-strategy/
+- 2026-11-12 | Dunkin' Suiza cambia de manos: la toma el licenciatario local de Subway (300 locales DNK en 11 mercados europeos desde 2016) | https://www.worldcoffeeportal.com/news/swiss-subway-licensee-acquires-dunkin-in-switzerland/
+- 2026-11-12 | WCP — Compose Coffee pierde terreno frente a un competidor clave (fuera, cadena surcoreana) | https://www.worldcoffeeportal.com/news/compose-coffee-loses-ground-to-key-competitor-as-outlet-growth-slows/
+- 2026-11-12 | WCP — Costa Coffee amplía alianza de concesiones en UK (fuera, operativa UK) | https://www.worldcoffeeportal.com/news/costa-coffee-expands-key-cafe-concession-partnership-in-the-uk/
+- 2026-11-12 | WCP — Pret A Manger ficha a ex RBI como CFO (fuera, movimiento ejecutivo) | https://www.worldcoffeeportal.com/news/pret-a-manger-taps-former-rbi-executive-for-chief-financial-officer/
+- 2026-11-12 | WCP — Cornish Bakery cierra financiamiento de ocho cifras (fuera, panadería UK) | https://www.worldcoffeeportal.com/news/uks-cornish-bakery-secures-eight-figure-funding-package-to-support-growth/
