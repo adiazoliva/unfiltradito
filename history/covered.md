@@ -3,14 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-10-30 | La Marzocco y Porsche lanzan la Linea Micra Carrera RS 2.7: 911 unidades por color, €5.790 | https://sprudge.com/la-marzocco-and-porsche-team-up-for-a-911-carrera-rs-2-7-espresso-machine-collection-1532478.html
-- 2026-10-30 | Starbucks FY2026: comparables globales +7,2 %, 41.607 locales, Niccol pasa de rescate a crecimiento | https://www.worldcoffeeportal.com/news/starbucks-turnaround-plan-is-now-our-growth-plan-niccol-says/
-- 2026-10-30 | Tim Hortons Q3 2026: matcha y Meltz empujan la tarde, 22° trimestre comparable positivo en Canadá | https://www.worldcoffeeportal.com/news/matcha-and-meltz-lift-afternoon-sales-in-key-quarter-for-tim-hortons/
-- 2026-10-30 | Pact Coffee (UK) suma su segundo año con crecimiento a dos dígitos y apunta a la góndola | https://www.worldcoffeeportal.com/news/exclusive-uks-pact-coffee-reports-another-year-of-double-digit-growth/
-- 2026-10-30 | Sprudge — Earnest Pursuit NYC apuesta al envasado en lata (fuera, nota de diseño) | https://sprudge.com/tin-is-in-with-earnest-pursuit-coffee-roasting-in-new-york-city-1528237.html
-- 2026-10-30 | Sprudge — Un cigarrillo con tu espresso martini (fuera, columna de humor) | https://sprudge.com/you-can-have-exactly-one-cigarette-with-your-espresso-martini-its-fine-1527696.html
-- 2026-10-30 | WCP — Drink drops octubre 2026: gochujang latte TOUS les JOURS, Ube Third Wave India (fuera) | https://www.worldcoffeeportal.com/news/drink-drops-of-the-month-october-2026/
-- 2026-10-30 | WCP — SUR Group suma 20 locales de Black Sheep en Escocia y norte de Inglaterra (fuera) | https://www.worldcoffeeportal.com/news/black-sheep-coffees-largest-franchisee-signs-on-for-20-more-stores/
 - 2026-10-31 | Expocacer certifica 99 fincas del Cerrado Mineiro como regenerativas (Rainforest Alliance SAS+RAS, 12.994 ha, mayor volumen regenerativo del mundo) | https://perfectdailygrind.com/2026/10/coffee-news-recap-30-october-2026/
 - 2026-10-31 | Primer descafeinado Regenerative Organic Certified del mundo: Groundwork + Swiss Water, Finca Churupampa (Cajamarca, Perú) | https://perfectdailygrind.com/2026/10/coffee-news-recap-30-october-2026/
 - 2026-10-31 | U. Copenhague + DesignWater: la alcalinidad define el sabor del café, calcio y magnesio no mueven la aguja (Journal of Food Science) | https://perfectdailygrind.com/2026/10/coffee-news-recap-30-october-2026/
@@ -144,3 +136,13 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-11-13 | Beantropy + Comyu: París sumó 165 cafeterías en 18 meses, matcha en 92% aperturas, bebidas de moda 96% (fuera) | https://perfectdailygrind.com/2026/11/coffee-news-recap-13-november-2026/
 - 2026-11-13 | Indonesia Barista Championship 2026: Kelvin Deviro (CATUR) ganó con herramienta IA ProfilePrint para Gesha Finca Deborah (fuera) | https://perfectdailygrind.com/2026/11/coffee-news-recap-13-november-2026/
 - 2026-11-13 | Grounds for Health cumple 30 años, trabaja Latam/Etiopía/Kenia, planea Guatemala (fuera) | https://perfectdailygrind.com/2026/11/coffee-news-recap-13-november-2026/
+- 2026-11-14 | Chile doble campeón mundial en WLAGS 2026 (Gijón): Sony Guineo (Verde) y Paz Benevente (Roja); Salvatore Riunno Italia (Oro); 24 baristas, 11 países | https://lavozdeibiza.com/?p=217684
+- 2026-11-14 | NKG + MinAgricultura Colombia: acuerdo para desarrollar specialty en Sierra Nevada de Santa Marta y Perijá (Castillo/Caturra, fincas ≥5 ha, SKN Caribecafé) | https://perfectdailygrind.com/es/2026/11/13/noticias-de-cafe-futuros-arabica-caen/
+- 2026-11-14 | Milania Huamanguillas, primera mujer campeona del Campeonato Nacional de Cata del Perú 2026 | https://perfectdailygrind.com/es/2026/11/13/noticias-de-cafe-futuros-arabica-caen/
+- 2026-11-14 | Devoción (Brooklyn) lanza Holiday Blend 2026: 100% Colombia (natural + lavado), USD 31,50/340 g, lanzamiento 11 nov, 1% al Impact Fund (mujeres productoras Colombia) | https://sprudge.com/ny-based-colombian-coffee-roaster-devocion-releases-limited-edition-2026-holiday-blend-unveils-its-holiday-gift-guide-1600759.html
+- 2026-11-14 | Sprudgie Awards 2026 abren nominaciones (18ª ed.): abre 12 nov, cierra 4 dic, finalistas 10 dic, 13 categorías, sponsor Pacific Barista Series | https://sprudge.com/nominations-are-now-open-for-the-18th-annual-sprudgie-awards-1600761.html
+- 2026-11-14 | Joe & The Juice desembarca en Omán: 6to mercado nuevo del año, 9 en MENA, meta 1.000 locales 2028 (fuera) | https://www.worldcoffeeportal.com/news/joe-the-juice-continues-international-rollout-with-oman-launch/
+- 2026-11-14 | Black Rock Coffee Bar supera ruido inversor post-IPO: 15° trimestre al alza, 18 law firms investigaron tras IPO US$ 294,1M (fuera) | https://www.worldcoffeeportal.com/news/has-black-rock-coffee-bar-appeased-investor-unrest/
+- 2026-11-14 | Taza Dorada 2026 Ecuador: Finca Nostrum (Zaruma) gana con honey 90,17 (fuera, sin confirmación oficial) | https://lavozdeibiza.com/?p=217684
+- 2026-11-14 | Ecuador Coffee Masters hoy en Guayaquil (UCSG, HUMA Coffee Lab + Toni) (fuera, evento) | https://sprudge.com/event/ecuador-coffee-masters
+- 2026-11-14 | PDG — Máquinas prosumer de espresso vs. commercial performance (fuera, técnica) | https://perfectdailygrind.com/2026/11/prosumer-home-espresso-machines-commercial-performance/
