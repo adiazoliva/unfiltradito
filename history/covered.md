@@ -3,19 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-10-31 | Expocacer certifica 99 fincas del Cerrado Mineiro como regenerativas (Rainforest Alliance SAS+RAS, 12.994 ha, mayor volumen regenerativo del mundo) | https://perfectdailygrind.com/2026/10/coffee-news-recap-30-october-2026/
-- 2026-10-31 | Primer descafeinado Regenerative Organic Certified del mundo: Groundwork + Swiss Water, Finca Churupampa (Cajamarca, Perú) | https://perfectdailygrind.com/2026/10/coffee-news-recap-30-october-2026/
-- 2026-10-31 | U. Copenhague + DesignWater: la alcalinidad define el sabor del café, calcio y magnesio no mueven la aguja (Journal of Food Science) | https://perfectdailygrind.com/2026/10/coffee-news-recap-30-october-2026/
-- 2026-10-31 | Rabobank: café = 20% ventas en Goodme, 15% en Mixue; mercado chino US$36,9B en 2025, US$72,8B al 2030 | https://perfectdailygrind.com/2026/10/coffee-news-recap-30-october-2026/
-- 2026-10-31 | Arábica NY cae a mínimo de 2 semanas (28 oct): real brasileño -9% tras reelección sorpresiva de Lula | https://perfectdailygrind.com/2026/10/coffee-news-recap-30-october-2026/
-- 2026-10-31 | Bodum retira French presses 8/12 oz EE.UU.: 48 reportes de quemaduras, orden CPSC (fuera) | https://perfectdailygrind.com/2026/10/coffee-news-recap-30-october-2026/
-- 2026-10-31 | Odeko compra Nantel McDiarmid (Montreal), primera adquisición cross-border (fuera) | https://perfectdailygrind.com/2026/10/coffee-news-recap-30-october-2026/
-- 2026-10-31 | Costa Coffee abre primer local dentro de Cineworld UK, plan 26 ubicaciones (fuera) | https://perfectdailygrind.com/2026/10/coffee-news-recap-30-october-2026/
-- 2026-10-31 | Simonelli Beyond the Cup paper 2: umami en café, química + sensorial + poscosecha (fuera) | https://perfectdailygrind.com/2026/10/coffee-news-recap-30-october-2026/
-- 2026-10-31 | Italia exporta café a Alemania: €350,5M en 7 meses (+28,4% YoY) (fuera) | https://perfectdailygrind.com/2026/10/coffee-news-recap-30-october-2026/
-- 2026-10-31 | Luna Gourmet (Denver) entra al Inc. 5000 con +57% en 3 años (fuera) | https://perfectdailygrind.com/2026/10/coffee-news-recap-30-october-2026/
-- 2026-10-31 | Singapore Coffee Week 5-8 nov y Brussels Coffee Show 6-8 nov (fuera, eventos) | https://perfectdailygrind.com/2026/10/coffee-news-recap-30-october-2026/
-- 2026-10-31 | Sprudge "Coffee Gear That's Scary Good": BOOKOO Themis, Acaia Horizon, Comandante Baracuda, La Marzocco Linea Micra (fuera, reviews) | https://sprudge.com/coffee-gear-thats-scary-good-1535418.html
 - 2026-11-01 | CAFETO en el Palacio Libertad (CABA): café de especialidad tostado en Argentina, programa GustAr, 1-3 nov | https://www.argentina.gob.ar/node/448050
 - 2026-11-01 | Colombia estrena Celestra, Castalia y Cocundry: Cenicafé libera tres variedades nuevas para 2027 | https://perfectdailygrind.com/es/2026/10/30/noticias-de-cafe-abren-convocatoria-voluntarios-prf-mexico/
 - 2026-11-01 | Banco Mundial prevé 2027 más barato: Arábica -13% (US$7,35/kg) y Robusta -21% (US$3,85/kg), producción +6% a 190M sacos | https://perfectdailygrind.com/es/2026/10/30/noticias-de-cafe-abren-convocatoria-voluntarios-prf-mexico/
@@ -146,3 +133,13 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-11-14 | Taza Dorada 2026 Ecuador: Finca Nostrum (Zaruma) gana con honey 90,17 (fuera, sin confirmación oficial) | https://lavozdeibiza.com/?p=217684
 - 2026-11-14 | Ecuador Coffee Masters hoy en Guayaquil (UCSG, HUMA Coffee Lab + Toni) (fuera, evento) | https://sprudge.com/event/ecuador-coffee-masters
 - 2026-11-14 | PDG — Máquinas prosumer de espresso vs. commercial performance (fuera, técnica) | https://perfectdailygrind.com/2026/11/prosumer-home-espresso-machines-commercial-performance/
+- 2026-11-15 | Sucafina: cosecha Centroamérica + México 2026/27 cae 9,3% a 17,7M sacos (año bajo bienal + sequía jul-ago), Honduras/México/Guatemala más golpeados | https://perfectdailygrind.com/es/2026/11/13/noticias-de-cafe-futuros-arabica-caen/
+- 2026-11-15 | Colombia: ministro Dangond Baquero (Cumbre Cafetera 6 nov) ordena café 100% nacional para entidades estatales; evalúa PAE; base en Leyes 2550 y 2504 de 2025 | https://www.eluniversal.com.co/economica/2026/11/06/sacos-llenos-de-medidas-para-el-sector-cafetero-llevo-minagricultura-a-cumbre-cafetera/
+- 2026-11-15 | PDG Español — Automatización y baristas: Michael Phillips (ex Blue Bottle), Misun Lim (LabCNC), Octane Coffee, cierre Estocolmo IA, Starbucks inventario IA | https://perfectdailygrind.com/es/2026/11/14/automatizacion-se-acelera-sector-invertir-en-baristas/
+- 2026-11-15 | Perú: Nicolle Flores gana III Nacional de Cafés Filtrados, se clasifica a mundial de Bogotá 2027 (World of Coffee 30 sep-2 oct) | https://perfectdailygrind.com/es/2026/11/13/noticias-de-cafe-futuros-arabica-caen/
+- 2026-11-15 | Asoexport (Colombia) propone llevar producción a 20M sacos con robusta en tierras bajas y mayor consumo interno (tras caída 11% exportaciones 12 meses, producción oct 1,114M vs 1,208M) | https://perfectdailygrind.com/es/2026/11/13/noticias-de-cafe-futuros-arabica-caen/
+- 2026-11-15 | Sprudge — Guía de regalos: BOOKOO Themis Ultra, Baracuda Stone Washed, Acaia Horizon, Linea Micra, Dwell Dripper Verve, Hario V60 Simply (fuera, publinota) | https://sprudge.com/some-coffee-gear-ideas-to-pique-your-holiday-shopping-interest-1605703.html
+- 2026-11-15 | FAO — Primera Conferencia Mundial sobre Polinizadores en Roma 5-7 nov, 200+ presenciales, Plataforma Mundial de Polinizadores (fuera) | https://www.fao.org/cgrfa/meetings/global-pollinator-conference-2026/es
+- 2026-11-15 | Soconusco (Chiapas, México): productores reportan caída del 45% en el precio del robusta (fuera) | https://perfectdailygrind.com/es/2026/11/13/noticias-de-cafe-futuros-arabica-caen/
+- 2026-11-15 | Bolivia: convocatoria de jueces para primer campeonato regional de arte latte (fuera, procesal) | https://perfectdailygrind.com/es/2026/11/13/noticias-de-cafe-futuros-arabica-caen/
+- 2026-11-15 | Cundinamarca (Colombia): lote a US$ 38,5/lb en II Feria Departamental de Cafés Especiales (fuera, sin productor identificado) | https://perfectdailygrind.com/es/2026/11/13/noticias-de-cafe-futuros-arabica-caen/
