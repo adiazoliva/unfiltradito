@@ -3,16 +3,6 @@
 Este archivo lo actualiza automáticamente la routine cada día. Lista las noticias que ya salieron en el boletín (incluidas las "que quedaron afuera") para no repetirlas en días siguientes. Se conservan los últimos 14 días.
 
 <!-- Formato de cada línea: - YYYY-MM-DD | [Título original o traducido] | URL -->
-- 2026-11-01 | CAFETO en el Palacio Libertad (CABA): café de especialidad tostado en Argentina, programa GustAr, 1-3 nov | https://www.argentina.gob.ar/node/448050
-- 2026-11-01 | Colombia estrena Celestra, Castalia y Cocundry: Cenicafé libera tres variedades nuevas para 2027 | https://perfectdailygrind.com/es/2026/10/30/noticias-de-cafe-abren-convocatoria-voluntarios-prf-mexico/
-- 2026-11-01 | Banco Mundial prevé 2027 más barato: Arábica -13% (US$7,35/kg) y Robusta -21% (US$3,85/kg), producción +6% a 190M sacos | https://perfectdailygrind.com/es/2026/10/30/noticias-de-cafe-abren-convocatoria-voluntarios-prf-mexico/
-- 2026-11-01 | Cauca envía récord de 50 contenedores a Europa, 700+ familias cafeteras beneficiadas | https://perfectdailygrind.com/es/2026/10/30/noticias-de-cafe-abren-convocatoria-voluntarios-prf-mexico/
-- 2026-11-01 | PDG — ¿Por qué el auge del café con proteína no perdurará? (Bhavi Patel, GLP-1, Starbucks 36g, mercado US$6.670M→US$11.530M 2034) | https://perfectdailygrind.com/es/2026/10/31/auge-cafe-con-proteina-no-perdurara/
-- 2026-11-01 | Sprudge Roaster's Village: "What Coffee Pairs Well With Leftover Halloween Candy?" 19 cafés (fuera, publinota) | https://sprudge.com/what-coffee-pairs-well-with-leftover-halloween-candy-1535407.html
-- 2026-11-01 | PRF México 2027 abre convocatoria de voluntarios (18-19 mar, Chiapas) (fuera) | https://perfectdailygrind.com/es/2026/10/30/noticias-de-cafe-abren-convocatoria-voluntarios-prf-mexico/
-- 2026-11-01 | Honduras proyecta 7M quintales exportados en 2026/27 (vs. 7,3M ciclo anterior) (fuera) | https://perfectdailygrind.com/es/2026/10/30/noticias-de-cafe-abren-convocatoria-voluntarios-prf-mexico/
-- 2026-11-01 | MY Coffee Awards Barcelona 6-8 nov 2026 (fuera, evento) | https://perfectdailygrind.com/es/2026/10/30/noticias-de-cafe-abren-convocatoria-voluntarios-prf-mexico/
-- 2026-11-01 | Ecuador abre convocatoria de jueces Nacional de Baristas 2027 (fuera) | https://perfectdailygrind.com/es/2026/10/30/noticias-de-cafe-abren-convocatoria-voluntarios-prf-mexico/
 - 2026-11-02 | Caffè Nero desembarca en India junto a Trent Limited (grupo Tata): mercado 12, primera gran expansión internacional en casi una década | https://www.worldcoffeeportal.com/news/caffe-nero-to-launch-in-india-via-trent-limited-partnership/
 - 2026-11-02 | USBC 2027 primer clasificatorio en Houston (Roastronix HQ): 9 de 24 pasan, Black & White y Onyx repiten | https://sprudge.com/here-is-everyone-moving-on-from-the-first-2027-us-barista-championship-qualifier-1541721.html
 - 2026-11-02 | PDG — ¿Hace falta una categoría de "ultra-especialidad" (90+)? (Christophe Servell, Terres de Café) | https://perfectdailygrind.com/2026/11/drive-for-ultra-specialty-coffee/
@@ -143,3 +133,12 @@ Este archivo lo actualiza automáticamente la routine cada día. Lista las notic
 - 2026-11-15 | Soconusco (Chiapas, México): productores reportan caída del 45% en el precio del robusta (fuera) | https://perfectdailygrind.com/es/2026/11/13/noticias-de-cafe-futuros-arabica-caen/
 - 2026-11-15 | Bolivia: convocatoria de jueces para primer campeonato regional de arte latte (fuera, procesal) | https://perfectdailygrind.com/es/2026/11/13/noticias-de-cafe-futuros-arabica-caen/
 - 2026-11-15 | Cundinamarca (Colombia): lote a US$ 38,5/lb en II Feria Departamental de Cafés Especiales (fuera, sin productor identificado) | https://perfectdailygrind.com/es/2026/11/13/noticias-de-cafe-futuros-arabica-caen/
+- 2026-11-16 | PDG Español — ¿Está llegando la fatiga de la propina a las cafeterías? (Tasmin Grant; USA Today 78%, Pew 72%, Aaron Prager, Michael Lynn Cornell, Starbucks bonos US$1.200) | https://perfectdailygrind.com/es/2026/11/16/esta-llegando-fatiga-propina-a-cafeterias/
+- 2026-11-16 | Sprudge — Cherry Love x Archetype Honduras Blind Cupping Challenge: 4 cafés hondureños (Isaiah Sheese/Jason Burkum), San Vicente (Benjamin Paz), 150 cajas US$ 65, lanzamiento 16 nov | https://sprudge.com/cherry-love-makes-its-us-debut-with-archetype-a-limited-edition-honduras-blind-cupping-box-1602430.html
+- 2026-11-16 | WCP — 7 Brew firma su primer acuerdo internacional: +1.000 locales US (oct 2026), debut antes de fin de 2026 | https://www.worldcoffeeportal.com/news/us-drive-thru-coffee-chain-7-brew-to-make-international-debut/
+- 2026-11-16 | WCP — Espressolab (Turquía) valuada en US$ 150M: Mair Group (EAU) toma participación mayoritaria, meta duplicar presencia global | https://www.worldcoffeeportal.com/news/pending-stake-sale-values-turkeys-espressolab-at-150m/
+- 2026-11-16 | WCP — Dunkin' debut en Asia Central con apertura en Almaty, Kazajistán (Inspire Brands, acuerdo franquicia sept 2026) | https://www.worldcoffeeportal.com/news/dunkin-makes-central-asia-debut-with-kazakhstan-launch/
+- 2026-11-16 | Sprudge — Drinking Coffee May Actually Change Your Gut Physiology (fuera, mismo estudio U. Copenhague 61 adultos ya cubierto 13/11) | https://sprudge.com/drinking-coffee-may-actually-change-your-gut-physiology-1601728.html
+- 2026-11-16 | WCP — Blackbird Coffee (Dinamarca) acumula US$ 25M en inversión, 3.000 oficinas clientes (fuera, paywall sin inversores) | https://www.worldcoffeeportal.com/news/investment-in-denmarks-blackbird-coffee-hits-25m-following-latest-fundraise/
+- 2026-11-16 | WCP — The Week in Coffee 9-15 nov 2026 (fuera, resumen) | https://www.worldcoffeeportal.com/news/the-week-in-coffee-9-15-november-2026/
+- 2026-11-16 | Sprudge — Your Coffee Is The Prettiest Coffee Of All The Coffee (fuera, columna de color) | https://sprudge.com/your-coffee-is-the-prettiest-coffee-of-all-the-coffee-1605714.html
